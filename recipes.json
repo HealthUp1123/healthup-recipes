@@ -422,5 +422,1330 @@
       "Banane in Scheiben schneiden und darauf verteilen.",
       "Mandeln grob hacken und darüberstreuen."
     ]
+  },
+  {
+    "id": "rec_011",
+    "title": "Overnight Oats mit Erdbeeren",
+    "calories": 410,
+    "protein": 29,
+    "carbs": 47,
+    "fat": 9,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_011_overnight_oats_erdbeeren.jpg",
+    "ingredients": [
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "50g"
+      },
+      {
+        "name": "Skyr",
+        "amount": "150g"
+      },
+      {
+        "name": "Fettarme Milch (1,5 %)",
+        "amount": "100ml"
+      },
+      {
+        "name": "Chiasamen",
+        "amount": "10g"
+      },
+      {
+        "name": "Erdbeeren",
+        "amount": "100g"
+      }
+    ],
+    "instructions": [
+      "Haferflocken, Skyr, Milch und Chiasamen in einem Glas verrühren.",
+      "Über Nacht im Kühlschrank quellen lassen.",
+      "Erdbeeren in Stücke schneiden und vor dem Servieren daraufgeben."
+    ]
+  },
+  {
+    "id": "rec_012",
+    "title": "Spinat-Feta-Omelett",
+    "calories": 330,
+    "protein": 30,
+    "carbs": 2,
+    "fat": 21,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_012_spinat_feta_omelett.jpg",
+    "ingredients": [
+      {
+        "name": "Eier (Größe M)",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Eiklar",
+        "amount": "100g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "80g"
+      },
+      {
+        "name": "Feta",
+        "amount": "30g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      }
+    ],
+    "instructions": [
+      "Eier und Eiklar verquirlen, mit Salz und Pfeffer würzen.",
+      "Spinat in Olivenöl in einer Pfanne zusammenfallen lassen.",
+      "Eiermasse darübergeben und bei mittlerer Hitze stocken lassen.",
+      "Feta darüberkrümeln, das Omelett zusammenklappen und servieren."
+    ]
+  },
+  {
+    "id": "rec_013",
+    "title": "Joghurt mit Mango und Walnüssen",
+    "calories": 330,
+    "protein": 28,
+    "carbs": 33,
+    "fat": 11,
+    "prepTimeMinutes": 3,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_013_joghurt_mango_walnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "250g"
+      },
+      {
+        "name": "Mango",
+        "amount": "100g"
+      },
+      {
+        "name": "Walnüsse",
+        "amount": "15g"
+      },
+      {
+        "name": "Honig",
+        "amount": "1 TL (10g)"
+      }
+    ],
+    "instructions": [
+      "Joghurt in eine Schale geben.",
+      "Mango würfeln und daraufgeben.",
+      "Walnüsse grob hacken, darüberstreuen und mit Honig beträufeln."
+    ]
+  },
+  {
+    "id": "rec_014",
+    "title": "Vollkorn-Wrap mit Rührei und Paprika",
+    "calories": 415,
+    "protein": 24,
+    "carbs": 35,
+    "fat": 19,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_014_wrap_ruehrei_paprika.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkorn-Wrap",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Eier (Größe M)",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Eiklar",
+        "amount": "50g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "80g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (5ml)"
+      }
+    ],
+    "instructions": [
+      "Paprika in feine Streifen schneiden und in Rapsöl 3 Minuten anbraten.",
+      "Eier und Eiklar verquirlen, dazugeben und unter Rühren stocken lassen.",
+      "Wrap kurz in der Pfanne erwärmen, mit dem Rührei füllen und einrollen."
+    ]
+  },
+  {
+    "id": "rec_015",
+    "title": "Protein-Pfannkuchen mit Heidelbeeren",
+    "calories": 490,
+    "protein": 31,
+    "carbs": 55,
+    "fat": 15,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_015_protein_pfannkuchen.jpg",
+    "ingredients": [
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "50g"
+      },
+      {
+        "name": "Banane",
+        "amount": "100g (ca. 1 kleine)"
+      },
+      {
+        "name": "Ei (Größe M)",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Whey Protein Pulver (Vanille)",
+        "amount": "20g"
+      },
+      {
+        "name": "Heidelbeeren",
+        "amount": "50g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (5ml)"
+      }
+    ],
+    "instructions": [
+      "Haferflocken, Banane, Ei und Proteinpulver mit dem Stabmixer zu einem glatten Teig pürieren.",
+      "Etwas Rapsöl in einer beschichteten Pfanne erhitzen.",
+      "Den Teig in kleinen Portionen von beiden Seiten je 2 Minuten goldbraun backen.",
+      "Mit Heidelbeeren servieren."
+    ]
+  },
+  {
+    "id": "rec_016",
+    "title": "Avocado-Hüttenkäse-Brot",
+    "calories": 325,
+    "protein": 20,
+    "carbs": 36,
+    "fat": 10,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_016_avocado_huettenkaese_brot.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornbrot",
+        "amount": "2 Scheiben (80g)"
+      },
+      {
+        "name": "Hüttenkäse (fettarm)",
+        "amount": "100g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "50g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "60g"
+      }
+    ],
+    "instructions": [
+      "Brotscheiben nach Belieben toasten.",
+      "Hüttenkäse daraufstreichen.",
+      "Avocado und Tomate in Scheiben schneiden, darauflegen und mit Pfeffer und Salz würzen."
+    ]
+  },
+  {
+    "id": "rec_017",
+    "title": "Veganer Chia-Pudding mit Beeren",
+    "calories": 345,
+    "protein": 16,
+    "carbs": 15,
+    "fat": 19,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_017_chia_pudding_beeren.jpg",
+    "ingredients": [
+      {
+        "name": "Chiasamen",
+        "amount": "30g"
+      },
+      {
+        "name": "Sojamilch (ungesüßt)",
+        "amount": "250ml"
+      },
+      {
+        "name": "Beerenmix",
+        "amount": "100g"
+      },
+      {
+        "name": "Mandeln",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Chiasamen mit Sojamilch verrühren und nach 5 Minuten noch einmal umrühren.",
+      "Mindestens 2 Stunden oder über Nacht im Kühlschrank quellen lassen.",
+      "Mit Beeren und gehackten Mandeln toppen."
+    ]
+  },
+  {
+    "id": "rec_018",
+    "title": "Tofu-Rührei mit Vollkornbrot",
+    "calories": 415,
+    "protein": 26,
+    "carbs": 38,
+    "fat": 17,
+    "prepTimeMinutes": 12,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_018_tofu_ruehrei.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu natur",
+        "amount": "150g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "2 Scheiben (80g)"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Kurkuma",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Paprika fein würfeln und in Rapsöl 3 Minuten anbraten.",
+      "Tofu mit einer Gabel zerbröseln, dazugeben und 4 Minuten braten.",
+      "Mit Kurkuma, Salz und Pfeffer würzen.",
+      "Mit dem Vollkornbrot servieren."
+    ]
+  },
+  {
+    "id": "rec_019",
+    "title": "Kichererbsen-Bowl mit Hummus",
+    "calories": 490,
+    "protein": 21,
+    "carbs": 73,
+    "fat": 12,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_019_kichererbsen_bowl.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (Dose, abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Bulgur (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "50g"
+      },
+      {
+        "name": "Hummus",
+        "amount": "40g"
+      }
+    ],
+    "instructions": [
+      "Bulgur nach Packungsanleitung in Salzwasser quellen lassen.",
+      "Gurke, Tomate und Paprika würfeln.",
+      "Alles mit den Kichererbsen in einer Bowl anrichten und einen Klecks Hummus daraufgeben."
+    ]
+  },
+  {
+    "id": "rec_020",
+    "title": "Puten-Wrap mit Quark-Dip",
+    "calories": 355,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 6,
+    "prepTimeMinutes": 8,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_020_puten_wrap.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkorn-Wrap",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Putenbrust (Aufschnitt)",
+        "amount": "120g"
+      },
+      {
+        "name": "Magerquark",
+        "amount": "40g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "50g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "50g"
+      },
+      {
+        "name": "Blattsalat",
+        "amount": "30g"
+      }
+    ],
+    "instructions": [
+      "Magerquark mit Salz, Pfeffer und etwas Zitronensaft zu einem Dip verrühren.",
+      "Wrap damit bestreichen.",
+      "Putenbrust, Gurke, Tomate und Salat darauf verteilen und fest einrollen.",
+      "Halbieren und servieren."
+    ]
+  },
+  {
+    "id": "rec_021",
+    "title": "Garnelen-Vollkornnudeln mit Zucchini",
+    "calories": 385,
+    "protein": 37,
+    "carbs": 38,
+    "fat": 8,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_021_garnelen_nudeln_zucchini.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornnudeln (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Garnelen (geschält)",
+        "amount": "150g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "200g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "150g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      }
+    ],
+    "instructions": [
+      "Nudeln in Salzwasser bissfest kochen.",
+      "Zucchini in Scheiben schneiden und mit Knoblauch in Olivenöl anbraten.",
+      "Garnelen dazugeben und 3 Minuten braten.",
+      "Passierte Tomaten zugeben, kurz köcheln lassen und die Nudeln untermischen."
+    ]
+  },
+  {
+    "id": "rec_022",
+    "title": "Hähnchen-Salat mit Avocado",
+    "calories": 350,
+    "protein": 38,
+    "carbs": 9,
+    "fat": 17,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_022_haehnchen_salat_avocado.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "150g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "60g"
+      },
+      {
+        "name": "Blattsalat",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrust salzen, pfeffern und in einer Pfanne 6–7 Minuten pro Seite braten.",
+      "Salat, Tomate und Gurke in einer Schüssel mischen.",
+      "Hähnchen in Streifen schneiden, Avocado in Scheiben schneiden und alles anrichten.",
+      "Mit Olivenöl, Salz, Pfeffer und etwas Zitronensaft beträufeln."
+    ]
+  },
+  {
+    "id": "rec_023",
+    "title": "Thunfisch-Bohnen-Salat",
+    "calories": 350,
+    "protein": 36,
+    "carbs": 32,
+    "fat": 8,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_023_thunfisch_bohnen_salat.jpg",
+    "ingredients": [
+      {
+        "name": "Thunfisch im eigenen Saft (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Kidneybohnen (Dose, abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Mais (Dose)",
+        "amount": "50g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "80g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      }
+    ],
+    "instructions": [
+      "Bohnen und Mais abspülen und abtropfen lassen.",
+      "Paprika und Zwiebel fein würfeln.",
+      "Alles mit dem zerzupften Thunfisch vermengen und mit Olivenöl, Zitronensaft, Salz und Pfeffer abschmecken."
+    ]
+  },
+  {
+    "id": "rec_024",
+    "title": "Kürbis-Linsen-Suppe",
+    "calories": 345,
+    "protein": 18,
+    "carbs": 50,
+    "fat": 4,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_024_kuerbis_linsen_suppe.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Linsen (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Kürbis (Hokkaido)",
+        "amount": "200g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "80g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Kokosmilch light",
+        "amount": "50ml"
+      }
+    ],
+    "instructions": [
+      "Zwiebel, Kürbis und Karotte würfeln und in einem Topf kurz anschwitzen.",
+      "Linsen und 500ml Wasser zugeben und 15–20 Minuten köcheln lassen.",
+      "Kokosmilch zugeben und alles cremig pürieren.",
+      "Mit Salz, Pfeffer und Currypulver abschmecken."
+    ]
+  },
+  {
+    "id": "rec_025",
+    "title": "Vollkornnudeln mit Putenhack-Sauce",
+    "calories": 625,
+    "protein": 50,
+    "carbs": 67,
+    "fat": 16,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_025_nudeln_putenhack.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornnudeln (ungekocht)",
+        "amount": "80g"
+      },
+      {
+        "name": "Putenhackfleisch",
+        "amount": "150g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "200g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "40g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Parmesan",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Nudeln in Salzwasser bissfest kochen.",
+      "Zwiebel und Karotte fein würfeln und in Olivenöl anbraten.",
+      "Putenhack zugeben und krümelig braten.",
+      "Passierte Tomaten zugeben und 10 Minuten köcheln lassen.",
+      "Mit den Nudeln mischen und mit Parmesan bestreuen."
+    ]
+  },
+  {
+    "id": "rec_026",
+    "title": "Kabeljau mit Kartoffeln und grünen Bohnen",
+    "calories": 425,
+    "protein": 44,
+    "carbs": 44,
+    "fat": 7,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_026_kabeljau_kartoffeln_bohnen.jpg",
+    "ingredients": [
+      {
+        "name": "Kabeljaufilet",
+        "amount": "200g"
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": "250g"
+      },
+      {
+        "name": "Grüne Bohnen",
+        "amount": "150g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Zitrone",
+        "amount": "1 Spalte"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln schälen, in Stücke schneiden und 15 Minuten kochen.",
+      "Bohnen in den letzten 6 Minuten mitgaren.",
+      "Kabeljau in Olivenöl 3–4 Minuten pro Seite braten und mit Salz, Pfeffer und Zitrone würzen.",
+      "Alles zusammen anrichten."
+    ]
+  },
+  {
+    "id": "rec_027",
+    "title": "Tofu-Gemüse-Pfanne mit Reis",
+    "calories": 520,
+    "protein": 30,
+    "carbs": 61,
+    "fat": 17,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_027_tofu_gemuese_reis.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu natur",
+        "amount": "150g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "100g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "80g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "50g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 EL (15ml)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (5ml)"
+      }
+    ],
+    "instructions": [
+      "Reis in Salzwasser kochen.",
+      "Tofu würfeln und in Rapsöl knusprig anbraten.",
+      "Gemüse in Stücke schneiden, dazugeben und 5 Minuten braten.",
+      "Mit Sojasauce ablöschen und mit dem Reis servieren."
+    ]
+  },
+  {
+    "id": "rec_028",
+    "title": "Gefüllte Paprika mit Rinderhack",
+    "calories": 475,
+    "protein": 40,
+    "carbs": 52,
+    "fat": 11,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_028_gefuellte_paprika.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Paprika",
+        "amount": "2 Stück (300g)"
+      },
+      {
+        "name": "Mageres Rinderhackfleisch (<5% Fett)",
+        "amount": "120g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Mozzarella light",
+        "amount": "30g"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200°C Ober-/Unterhitze vorheizen und den Reis kochen.",
+      "Paprika halbieren und entkernen.",
+      "Hack mit Zwiebel anbraten, mit Reis und Passierten Tomaten mischen und würzen.",
+      "Paprikahälften füllen, mit Mozzarella belegen und 25 Minuten backen."
+    ]
+  },
+  {
+    "id": "rec_029",
+    "title": "Hähnchen-Gemüse-Curry",
+    "calories": 525,
+    "protein": 49,
+    "carbs": 55,
+    "fat": 10,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_029_haehnchen_curry.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "180g"
+      },
+      {
+        "name": "Kokosmilch light",
+        "amount": "100ml"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "100g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "100g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "2 TL"
+      }
+    ],
+    "instructions": [
+      "Reis nach Packungsanleitung kochen.",
+      "Hähnchen würfeln und mit Currypulver in einer Pfanne anbraten.",
+      "Paprika und Zucchini zugeben und 4 Minuten mitbraten.",
+      "Kokosmilch zugießen und 8 Minuten köcheln lassen.",
+      "Mit Reis servieren."
+    ]
+  },
+  {
+    "id": "rec_030",
+    "title": "Putenbrust mit Süßkartoffelpüree",
+    "calories": 515,
+    "protein": 52,
+    "carbs": 57,
+    "fat": 8,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_030_pute_suesskartoffelpueree.jpg",
+    "ingredients": [
+      {
+        "name": "Putenbrustfilet",
+        "amount": "180g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": "250g"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "150g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Fettarme Milch (1,5 %)",
+        "amount": "30ml"
+      }
+    ],
+    "instructions": [
+      "Süßkartoffel schälen, würfeln und 15 Minuten weich kochen.",
+      "Brokkoli in den letzten 6 Minuten mitgaren oder dämpfen.",
+      "Putenbrust in Rapsöl 5–6 Minuten pro Seite braten.",
+      "Süßkartoffeln mit Milch zerstampfen, salzen und alles anrichten."
+    ]
+  },
+  {
+    "id": "rec_031",
+    "title": "Linsen-Bolognese mit Vollkornnudeln",
+    "calories": 590,
+    "protein": 29,
+    "carbs": 87,
+    "fat": 11,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_031_linsen_bolognese.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Linsen (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Vollkornnudeln (ungekocht)",
+        "amount": "70g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "200g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Parmesan",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Karotte fein würfeln und in Olivenöl anbraten.",
+      "Linsen, Passierte Tomaten und 150ml Wasser zugeben und 15 Minuten köcheln lassen.",
+      "Nudeln kochen und mit der Sauce mischen.",
+      "Mit Parmesan bestreuen."
+    ]
+  },
+  {
+    "id": "rec_032",
+    "title": "Lachs-Quinoa-Bowl mit Edamame",
+    "calories": 635,
+    "protein": 49,
+    "carbs": 46,
+    "fat": 28,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_032_lachs_quinoa_edamame.jpg",
+    "ingredients": [
+      {
+        "name": "Lachsfilet",
+        "amount": "150g"
+      },
+      {
+        "name": "Quinoa (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Edamame (TK, ohne Schote)",
+        "amount": "80g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "2 TL (10ml)"
+      }
+    ],
+    "instructions": [
+      "Quinoa heiß abspülen und in doppelt so viel Wasser 12 Minuten garen.",
+      "Edamame in Salzwasser 4 Minuten kochen.",
+      "Lachs in einer Pfanne 4 Minuten pro Seite braten.",
+      "Alles mit Gurkenscheiben in einer Bowl anrichten und mit Sojasauce beträufeln."
+    ]
+  },
+  {
+    "id": "rec_033",
+    "title": "Auberginen-Hack-Auflauf",
+    "calories": 440,
+    "protein": 47,
+    "carbs": 17,
+    "fat": 18,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_033_auberginen_hack_auflauf.jpg",
+    "ingredients": [
+      {
+        "name": "Aubergine",
+        "amount": "250g"
+      },
+      {
+        "name": "Mageres Rinderhackfleisch (<5% Fett)",
+        "amount": "150g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "150g"
+      },
+      {
+        "name": "Mozzarella light",
+        "amount": "50g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200°C Ober-/Unterhitze vorheizen.",
+      "Aubergine in Scheiben schneiden und kurz in Olivenöl anbraten.",
+      "Hack mit Zwiebel anbraten und mit Passierten Tomaten würzen.",
+      "Abwechselnd in eine Form schichten, mit Mozzarella belegen und 20 Minuten backen."
+    ]
+  },
+  {
+    "id": "rec_034",
+    "title": "Hummus mit Gemüsesticks",
+    "calories": 210,
+    "protein": 7,
+    "carbs": 21,
+    "fat": 11,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_034_hummus_gemuesesticks.jpg",
+    "ingredients": [
+      {
+        "name": "Hummus",
+        "amount": "60g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "100g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "80g"
+      }
+    ],
+    "instructions": [
+      "Karotte, Gurke und Paprika in Sticks schneiden.",
+      "Hummus in ein Schälchen geben und mit dem Gemüse servieren."
+    ]
+  },
+  {
+    "id": "rec_035",
+    "title": "Protein-Bananen-Shake",
+    "calories": 380,
+    "protein": 36,
+    "carbs": 35,
+    "fat": 11,
+    "prepTimeMinutes": 3,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_035_protein_bananen_shake.jpg",
+    "ingredients": [
+      {
+        "name": "Whey Protein Pulver (Vanille)",
+        "amount": "30g"
+      },
+      {
+        "name": "Banane",
+        "amount": "100g (ca. 1 kleine)"
+      },
+      {
+        "name": "Fettarme Milch (1,5 %)",
+        "amount": "250ml"
+      },
+      {
+        "name": "Erdnussbutter (100% Erdnuss)",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Alle Zutaten in einen Mixer geben.",
+      "30 Sekunden cremig mixen und sofort servieren."
+    ]
+  },
+  {
+    "id": "rec_036",
+    "title": "Hüttenkäse mit Ananas",
+    "calories": 225,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 5,
+    "prepTimeMinutes": 3,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_036_huettenkaese_ananas.jpg",
+    "ingredients": [
+      {
+        "name": "Hüttenkäse (fettarm)",
+        "amount": "200g"
+      },
+      {
+        "name": "Ananas",
+        "amount": "100g"
+      },
+      {
+        "name": "Leinsamen",
+        "amount": "5g"
+      }
+    ],
+    "instructions": [
+      "Hüttenkäse in eine Schale geben.",
+      "Ananas würfeln, darauf verteilen und mit Leinsamen bestreuen."
+    ]
+  },
+  {
+    "id": "rec_037",
+    "title": "Edamame mit Meersalz",
+    "calories": 180,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 8,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_037_edamame_meersalz.jpg",
+    "ingredients": [
+      {
+        "name": "Edamame (TK, ohne Schote)",
+        "amount": "150g"
+      },
+      {
+        "name": "Meersalz",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Edamame in Salzwasser 4–5 Minuten kochen.",
+      "Abgießen, mit Meersalz bestreuen und warm servieren."
+    ]
+  },
+  {
+    "id": "rec_038",
+    "title": "Reiswaffeln mit Quark und Gurke",
+    "calories": 150,
+    "protein": 14,
+    "carbs": 21,
+    "fat": 1,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_038_reiswaffeln_quark.jpg",
+    "ingredients": [
+      {
+        "name": "Reiswaffeln",
+        "amount": "2 Stück (20g)"
+      },
+      {
+        "name": "Magerquark",
+        "amount": "100g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "50g"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": "1 EL"
+      }
+    ],
+    "instructions": [
+      "Magerquark mit Salz und Pfeffer abschmecken.",
+      "Auf die Reiswaffeln streichen.",
+      "Mit Gurkenscheiben und Schnittlauch belegen."
+    ]
+  },
+  {
+    "id": "rec_039",
+    "title": "Skyr mit Beeren und dunkler Schokolade",
+    "calories": 220,
+    "protein": 24,
+    "carbs": 18,
+    "fat": 5,
+    "prepTimeMinutes": 3,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_039_skyr_beeren_schoko.jpg",
+    "ingredients": [
+      {
+        "name": "Skyr natur",
+        "amount": "200g"
+      },
+      {
+        "name": "Beerenmix",
+        "amount": "80g"
+      },
+      {
+        "name": "Dunkle Schokolade (70 %)",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Skyr in eine Schale geben.",
+      "Beeren darauf verteilen.",
+      "Schokolade fein hacken und darüberstreuen."
+    ]
+  },
+  {
+    "id": "rec_040",
+    "title": "Hartgekochte Eier mit Paprika und Hummus",
+    "calories": 220,
+    "protein": 15,
+    "carbs": 8,
+    "fat": 13,
+    "prepTimeMinutes": 12,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_040_eier_paprika_hummus.jpg",
+    "ingredients": [
+      {
+        "name": "Eier (Größe M)",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "100g"
+      },
+      {
+        "name": "Hummus",
+        "amount": "20g"
+      }
+    ],
+    "instructions": [
+      "Eier 9–10 Minuten hart kochen, abschrecken und pellen.",
+      "Paprika in Streifen schneiden.",
+      "Eier halbieren und mit Paprika und Hummus servieren."
+    ]
   }
 ]
