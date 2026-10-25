@@ -2,7 +2,7 @@
 
 Remote-Datenspeicher für die Rezeptvorschläge der iOS-App **HealthUp+**. Das Repository dient als Content Delivery Network (CDN): Die App lädt `recipes.json` und die Rezeptbilder zur Laufzeit per HTTPS.
 
-Aktueller Stand: **150 Rezepte** (siehe `meta.json`, Schema-Version 2).
+Aktueller Stand: **200 Rezepte** (siehe `meta.json`, Schema-Version 2).
 
 ## Struktur
 
@@ -70,3 +70,4 @@ Die Nährwerte und das Portionsgewicht sind Richtwerte, berechnet aus Standard-N
 ## Changelog
 
 - 2026-10-25: Schema 2 (`servingSizeGrams`, `dietTags`, `allergens`), 150 Rezepte (rec_001–150), Regeln ergänzt.
+- 2026-10-26: 50 neue Rezepte (rec_151–200), Fokus Frühstück und Mittag, viele büro- und meal-prep-tauglich.
