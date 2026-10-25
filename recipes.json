@@ -6,6 +6,7 @@
     "protein": 38,
     "carbs": 26,
     "fat": 5,
+    "servingSizeGrams": 360,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "breakfast",
@@ -38,6 +39,15 @@
       "Magerquark mit einem Schluck Wasser oder Sprudelwasser cremig rühren.",
       "Beeren kurz antauen lassen und zusammen mit den Chiasamen untermengen.",
       "Nach Belieben süßen und frisch servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -47,6 +57,7 @@
     "protein": 52,
     "carbs": 64,
     "fat": 12,
+    "servingSizeGrams": 555,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch",
@@ -84,6 +95,14 @@
       "Brokkoli in kleine Röschen teilen und 6–8 Minuten dämpfen.",
       "Hähnchenbrust würfeln, in Olivenöl scharf anbraten und mit Sojasauce ablöschen.",
       "Alles zusammen in einer Bowl anrichten."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
     ]
   },
   {
@@ -93,6 +112,7 @@
     "protein": 42,
     "carbs": 18,
     "fat": 28,
+    "servingSizeGrams": 490,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "dinner"
@@ -128,6 +148,14 @@
       "Gemüse mundgerecht schneiden, auf dem Blech verteilen und mit Olivenöl beträufeln.",
       "Lachsfilet mit Pfeffer, Meersalz und Zitrone würzen und zum Gemüse legen.",
       "18–20 Minuten im Ofen backen, bis der Lachs saftig gegart ist."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "fisch"
     ]
   },
   {
@@ -137,6 +165,7 @@
     "protein": 7,
     "carbs": 24,
     "fat": 9,
+    "servingSizeGrams": 195,
     "prepTimeMinutes": 3,
     "suitableMealTypes": [
       "snack"
@@ -164,6 +193,16 @@
       "Den Apfel entkernen und in ca. 1 cm dicke Scheiben schneiden.",
       "Gleichmäßig mit Erdnussbutter bestreichen.",
       "Mit etwas Zimt bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "erdnuss"
     ]
   },
   {
@@ -173,6 +212,7 @@
     "protein": 34,
     "carbs": 52,
     "fat": 7,
+    "servingSizeGrams": 390,
     "prepTimeMinutes": 8,
     "suitableMealTypes": [
       "breakfast"
@@ -204,6 +244,14 @@
       "Topf von der Herdplatte nehmen und 2 Minuten abkühlen lassen.",
       "Proteinpulver mit einem Schneebesen einrühren, bis eine cremige Konsistenz entsteht.",
       "In eine Schale füllen und mit Heidelbeeren toppen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -213,6 +261,7 @@
     "protein": 46,
     "carbs": 55,
     "fat": 14,
+    "servingSizeGrams": 450,
     "prepTimeMinutes": 22,
     "suitableMealTypes": [
       "lunch",
@@ -246,7 +295,13 @@
       "Hackfleisch dazugeben und scharf anbraten.",
       "Blattspinat hinzugeben und zusammenfallen lassen.",
       "Mit Paprikapulver, Salz und Pfeffer abschmecken."
-    ]
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_007",
@@ -255,6 +310,7 @@
     "protein": 40,
     "carbs": 44,
     "fat": 10,
+    "servingSizeGrams": 495,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "lunch"
@@ -294,6 +350,14 @@
       "Gurke würfeln und Kirschtomaten halbieren.",
       "Thunfisch abtropfen lassen und mit einer Gabel zerzupfen.",
       "Alles mit Olivenöl und Zitronensaft vermengen und mit Salz und Pfeffer abschmecken."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "fisch"
     ]
   },
   {
@@ -303,6 +367,7 @@
     "protein": 30,
     "carbs": 34,
     "fat": 18,
+    "servingSizeGrams": 330,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast"
@@ -334,6 +399,15 @@
       "In einer beschichteten Pfanne bei mittlerer Hitze unter Rühren stocken lassen.",
       "Vollkornbrot toasten und die Avocado in Scheiben schneiden.",
       "Rührei auf dem Brot anrichten und mit Avocado belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
     ]
   },
   {
@@ -343,6 +417,7 @@
     "protein": 22,
     "carbs": 51,
     "fat": 8,
+    "servingSizeGrams": 525,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -384,7 +459,14 @@
       "Linsen, Tomaten und 200ml Wasser zugeben und ca. 12 Minuten köcheln lassen.",
       "Kokosmilch und Spinat unterrühren und 2–3 Minuten ziehen lassen.",
       "Mit Salz und Pfeffer abschmecken."
-    ]
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_010",
@@ -393,6 +475,7 @@
     "protein": 25,
     "carbs": 29,
     "fat": 6,
+    "servingSizeGrams": 310,
     "prepTimeMinutes": 3,
     "suitableMealTypes": [
       "snack",
@@ -421,6 +504,15 @@
       "Skyr in eine Schale geben.",
       "Banane in Scheiben schneiden und darauf verteilen.",
       "Mandeln grob hacken und darüberstreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "schalenfruechte"
     ]
   },
   {
@@ -430,6 +522,7 @@
     "protein": 29,
     "carbs": 47,
     "fat": 9,
+    "servingSizeGrams": 410,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "breakfast"
@@ -464,6 +557,13 @@
       "Haferflocken, Skyr, Milch und Chiasamen in einem Glas verrühren.",
       "Über Nacht im Kühlschrank quellen lassen.",
       "Erdbeeren in Stücke schneiden und vor dem Servieren daraufgeben."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -473,6 +573,7 @@
     "protein": 30,
     "carbs": 2,
     "fat": 21,
+    "servingSizeGrams": 315,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast"
@@ -508,6 +609,16 @@
       "Spinat in Olivenöl in einer Pfanne zusammenfallen lassen.",
       "Eiermasse darübergeben und bei mittlerer Hitze stocken lassen.",
       "Feta darüberkrümeln, das Omelett zusammenklappen und servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
     ]
   },
   {
@@ -517,6 +628,7 @@
     "protein": 28,
     "carbs": 33,
     "fat": 11,
+    "servingSizeGrams": 375,
     "prepTimeMinutes": 3,
     "suitableMealTypes": [
       "breakfast",
@@ -549,6 +661,15 @@
       "Joghurt in eine Schale geben.",
       "Mango würfeln und daraufgeben.",
       "Walnüsse grob hacken, darüberstreuen und mit Honig beträufeln."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "schalenfruechte"
     ]
   },
   {
@@ -558,6 +679,7 @@
     "protein": 24,
     "carbs": 35,
     "fat": 19,
+    "servingSizeGrams": 295,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast"
@@ -592,6 +714,14 @@
       "Paprika in feine Streifen schneiden und in Rapsöl 3 Minuten anbraten.",
       "Eier und Eiklar verquirlen, dazugeben und unter Rühren stocken lassen.",
       "Wrap kurz in der Pfanne erwärmen, mit dem Rührei füllen und einrollen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
     ]
   },
   {
@@ -601,6 +731,7 @@
     "protein": 31,
     "carbs": 55,
     "fat": 15,
+    "servingSizeGrams": 275,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast"
@@ -640,6 +771,15 @@
       "Etwas Rapsöl in einer beschichteten Pfanne erhitzen.",
       "Den Teig in kleinen Portionen von beiden Seiten je 2 Minuten goldbraun backen.",
       "Mit Heidelbeeren servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -649,6 +789,7 @@
     "protein": 20,
     "carbs": 36,
     "fat": 10,
+    "servingSizeGrams": 290,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "breakfast"
@@ -679,6 +820,14 @@
       "Brotscheiben nach Belieben toasten.",
       "Hüttenkäse daraufstreichen.",
       "Avocado und Tomate in Scheiben schneiden, darauflegen und mit Pfeffer und Salz würzen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -688,6 +837,7 @@
     "protein": 16,
     "carbs": 15,
     "fat": 19,
+    "servingSizeGrams": 390,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "breakfast",
@@ -720,6 +870,17 @@
       "Chiasamen mit Sojamilch verrühren und nach 5 Minuten noch einmal umrühren.",
       "Mindestens 2 Stunden oder über Nacht im Kühlschrank quellen lassen.",
       "Mit Beeren und gehackten Mandeln toppen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
     ]
   },
   {
@@ -729,6 +890,7 @@
     "protein": 26,
     "carbs": 38,
     "fat": 17,
+    "servingSizeGrams": 325,
     "prepTimeMinutes": 12,
     "suitableMealTypes": [
       "breakfast"
@@ -768,6 +930,15 @@
       "Tofu mit einer Gabel zerbröseln, dazugeben und 4 Minuten braten.",
       "Mit Kurkuma, Salz und Pfeffer würzen.",
       "Mit dem Vollkornbrot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
     ]
   },
   {
@@ -777,6 +948,7 @@
     "protein": 21,
     "carbs": 73,
     "fat": 12,
+    "servingSizeGrams": 565,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "lunch"
@@ -815,6 +987,14 @@
       "Bulgur nach Packungsanleitung in Salzwasser quellen lassen.",
       "Gurke, Tomate und Paprika würfeln.",
       "Alles mit den Kichererbsen in einer Bowl anrichten und einen Klecks Hummus daraufgeben."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "gluten"
     ]
   },
   {
@@ -824,6 +1004,7 @@
     "protein": 40,
     "carbs": 35,
     "fat": 6,
+    "servingSizeGrams": 325,
     "prepTimeMinutes": 8,
     "suitableMealTypes": [
       "lunch"
@@ -863,6 +1044,13 @@
       "Wrap damit bestreichen.",
       "Putenbrust, Gurke, Tomate und Salat darauf verteilen und fest einrollen.",
       "Halbieren und servieren."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -872,6 +1060,7 @@
     "protein": 37,
     "carbs": 38,
     "fat": 8,
+    "servingSizeGrams": 565,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch",
@@ -913,6 +1102,14 @@
       "Zucchini in Scheiben schneiden und mit Knoblauch in Olivenöl anbraten.",
       "Garnelen dazugeben und 3 Minuten braten.",
       "Passierte Tomaten zugeben, kurz köcheln lassen und die Nudeln untermischen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "krebstiere"
     ]
   },
   {
@@ -922,6 +1119,7 @@
     "protein": 38,
     "carbs": 9,
     "fat": 17,
+    "servingSizeGrams": 465,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "lunch"
@@ -961,7 +1159,14 @@
       "Salat, Tomate und Gurke in einer Schüssel mischen.",
       "Hähnchen in Streifen schneiden, Avocado in Scheiben schneiden und alles anrichten.",
       "Mit Olivenöl, Salz, Pfeffer und etwas Zitronensaft beträufeln."
-    ]
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_023",
@@ -970,6 +1175,7 @@
     "protein": 36,
     "carbs": 32,
     "fat": 8,
+    "servingSizeGrams": 385,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "lunch"
@@ -1008,6 +1214,15 @@
       "Bohnen und Mais abspülen und abtropfen lassen.",
       "Paprika und Zwiebel fein würfeln.",
       "Alles mit dem zerzupften Thunfisch vermengen und mit Olivenöl, Zitronensaft, Salz und Pfeffer abschmecken."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "fisch"
     ]
   },
   {
@@ -1017,6 +1232,7 @@
     "protein": 18,
     "carbs": 50,
     "fat": 4,
+    "servingSizeGrams": 520,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -1054,7 +1270,15 @@
       "Linsen und 500ml Wasser zugeben und 15–20 Minuten köcheln lassen.",
       "Kokosmilch zugeben und alles cremig pürieren.",
       "Mit Salz, Pfeffer und Currypulver abschmecken."
-    ]
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_025",
@@ -1063,6 +1287,7 @@
     "protein": 50,
     "carbs": 67,
     "fat": 16,
+    "servingSizeGrams": 590,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -1109,6 +1334,13 @@
       "Putenhack zugeben und krümelig braten.",
       "Passierte Tomaten zugeben und 10 Minuten köcheln lassen.",
       "Mit den Nudeln mischen und mit Parmesan bestreuen."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -1118,6 +1350,7 @@
     "protein": 44,
     "carbs": 44,
     "fat": 7,
+    "servingSizeGrams": 565,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "dinner"
@@ -1153,6 +1386,14 @@
       "Bohnen in den letzten 6 Minuten mitgaren.",
       "Kabeljau in Olivenöl 3–4 Minuten pro Seite braten und mit Salz, Pfeffer und Zitrone würzen.",
       "Alles zusammen anrichten."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "fisch"
     ]
   },
   {
@@ -1162,6 +1403,7 @@
     "protein": 30,
     "carbs": 61,
     "fat": 17,
+    "servingSizeGrams": 580,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "dinner"
@@ -1205,6 +1447,16 @@
       "Tofu würfeln und in Rapsöl knusprig anbraten.",
       "Gemüse in Stücke schneiden, dazugeben und 5 Minuten braten.",
       "Mit Sojasauce ablöschen und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
     ]
   },
   {
@@ -1214,6 +1466,7 @@
     "protein": 40,
     "carbs": 52,
     "fat": 11,
+    "servingSizeGrams": 675,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "dinner"
@@ -1253,6 +1506,13 @@
       "Paprika halbieren und entkernen.",
       "Hack mit Zwiebel anbraten, mit Reis und Passierten Tomaten mischen und würzen.",
       "Paprikahälften füllen, mit Mozzarella belegen und 25 Minuten backen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -1262,6 +1522,7 @@
     "protein": 49,
     "carbs": 55,
     "fat": 10,
+    "servingSizeGrams": 625,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "dinner"
@@ -1302,7 +1563,13 @@
       "Paprika und Zucchini zugeben und 4 Minuten mitbraten.",
       "Kokosmilch zugießen und 8 Minuten köcheln lassen.",
       "Mit Reis servieren."
-    ]
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_030",
@@ -1311,6 +1578,7 @@
     "protein": 52,
     "carbs": 57,
     "fat": 8,
+    "servingSizeGrams": 580,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "dinner"
@@ -1346,6 +1614,13 @@
       "Brokkoli in den letzten 6 Minuten mitgaren oder dämpfen.",
       "Putenbrust in Rapsöl 5–6 Minuten pro Seite braten.",
       "Süßkartoffeln mit Milch zerstampfen, salzen und alles anrichten."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -1355,6 +1630,7 @@
     "protein": 29,
     "carbs": 87,
     "fat": 11,
+    "servingSizeGrams": 595,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -1400,6 +1676,13 @@
       "Linsen, Passierte Tomaten und 150ml Wasser zugeben und 15 Minuten köcheln lassen.",
       "Nudeln kochen und mit der Sauce mischen.",
       "Mit Parmesan bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -1409,6 +1692,7 @@
     "protein": 49,
     "carbs": 46,
     "fat": 28,
+    "servingSizeGrams": 460,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -1446,6 +1730,15 @@
       "Edamame in Salzwasser 4 Minuten kochen.",
       "Lachs in einer Pfanne 4 Minuten pro Seite braten.",
       "Alles mit Gurkenscheiben in einer Bowl anrichten und mit Sojasauce beträufeln."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "fisch",
+      "soja"
     ]
   },
   {
@@ -1455,6 +1748,7 @@
     "protein": 47,
     "carbs": 17,
     "fat": 18,
+    "servingSizeGrams": 615,
     "prepTimeMinutes": 40,
     "suitableMealTypes": [
       "dinner"
@@ -1494,6 +1788,13 @@
       "Aubergine in Scheiben schneiden und kurz in Olivenöl anbraten.",
       "Hack mit Zwiebel anbraten und mit Passierten Tomaten würzen.",
       "Abwechselnd in eine Form schichten, mit Mozzarella belegen und 20 Minuten backen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -1503,6 +1804,7 @@
     "protein": 7,
     "carbs": 21,
     "fat": 11,
+    "servingSizeGrams": 340,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "snack"
@@ -1532,7 +1834,15 @@
     "instructions": [
       "Karotte, Gurke und Paprika in Sticks schneiden.",
       "Hummus in ein Schälchen geben und mit dem Gemüse servieren."
-    ]
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_035",
@@ -1541,6 +1851,7 @@
     "protein": 36,
     "carbs": 35,
     "fat": 11,
+    "servingSizeGrams": 390,
     "prepTimeMinutes": 3,
     "suitableMealTypes": [
       "snack"
@@ -1571,6 +1882,15 @@
     "instructions": [
       "Alle Zutaten in einen Mixer geben.",
       "30 Sekunden cremig mixen und sofort servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch",
+      "erdnuss"
     ]
   },
   {
@@ -1580,6 +1900,7 @@
     "protein": 26,
     "carbs": 18,
     "fat": 5,
+    "servingSizeGrams": 305,
     "prepTimeMinutes": 3,
     "suitableMealTypes": [
       "snack"
@@ -1605,6 +1926,14 @@
     "instructions": [
       "Hüttenkäse in eine Schale geben.",
       "Ananas würfeln, darauf verteilen und mit Leinsamen bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -1614,6 +1943,7 @@
     "protein": 18,
     "carbs": 9,
     "fat": 8,
+    "servingSizeGrams": 150,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "snack"
@@ -1636,6 +1966,16 @@
     "instructions": [
       "Edamame in Salzwasser 4–5 Minuten kochen.",
       "Abgießen, mit Meersalz bestreuen und warm servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
     ]
   },
   {
@@ -1645,6 +1985,7 @@
     "protein": 14,
     "carbs": 21,
     "fat": 1,
+    "servingSizeGrams": 170,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "snack"
@@ -1675,6 +2016,14 @@
       "Magerquark mit Salz und Pfeffer abschmecken.",
       "Auf die Reiswaffeln streichen.",
       "Mit Gurkenscheiben und Schnittlauch belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -1684,6 +2033,7 @@
     "protein": 24,
     "carbs": 18,
     "fat": 5,
+    "servingSizeGrams": 290,
     "prepTimeMinutes": 3,
     "suitableMealTypes": [
       "snack"
@@ -1711,6 +2061,14 @@
       "Skyr in eine Schale geben.",
       "Beeren darauf verteilen.",
       "Schokolade fein hacken und darüberstreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -1720,6 +2078,7 @@
     "protein": 15,
     "carbs": 8,
     "fat": 13,
+    "servingSizeGrams": 220,
     "prepTimeMinutes": 12,
     "suitableMealTypes": [
       "snack"
@@ -1746,6 +2105,15 @@
       "Eier 9–10 Minuten hart kochen, abschrecken und pellen.",
       "Paprika in Streifen schneiden.",
       "Eier halbieren und mit Paprika und Hummus servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "ei"
     ]
   },
   {
@@ -1755,6 +2123,7 @@
     "protein": 36,
     "carbs": 28,
     "fat": 8,
+    "servingSizeGrams": 445,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "breakfast",
@@ -1791,6 +2160,16 @@
       "Alle Zutaten in einen Hochleistungsmixer geben.",
       "1 Minute fein pürieren.",
       "Sofort servieren oder mit Eiswürfeln aufgießen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "soja"
     ]
   },
   {
@@ -1800,6 +2179,7 @@
     "protein": 26,
     "carbs": 37,
     "fat": 5,
+    "servingSizeGrams": 470,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "breakfast",
@@ -1831,6 +2211,14 @@
     "instructions": [
       "Beeren, Skyr, Milch und Haferflocken in den Mixer geben.",
       "Cremig pürieren und sofort trinken."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -1840,6 +2228,7 @@
     "protein": 37,
     "carbs": 35,
     "fat": 11,
+    "servingSizeGrams": 395,
     "prepTimeMinutes": 3,
     "suitableMealTypes": [
       "snack"
@@ -1874,6 +2263,15 @@
     "instructions": [
       "Alle Zutaten in einen Mixer geben.",
       "30 Sekunden cremig mixen und sofort servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch",
+      "erdnuss"
     ]
   },
   {
@@ -1883,6 +2281,7 @@
     "protein": 17,
     "carbs": 36,
     "fat": 1,
+    "servingSizeGrams": 400,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "breakfast",
@@ -1915,6 +2314,14 @@
       "Mango in Stücke schneiden, Orange schälen.",
       "Alles mit Joghurt und Wasser fein pürieren.",
       "Sofort servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -1924,6 +2331,7 @@
     "protein": 18,
     "carbs": 48,
     "fat": 8,
+    "servingSizeGrams": 380,
     "prepTimeMinutes": 8,
     "suitableMealTypes": [
       "breakfast"
@@ -1958,6 +2366,14 @@
       "Beeren, Banane und Skyr in einem Mixer sehr dick pürieren (nur wenig Flüssigkeit).",
       "In eine Schale füllen.",
       "Mit Haferflocken und gehackten Mandeln toppen."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "schalenfruechte"
     ]
   },
   {
@@ -1967,6 +2383,7 @@
     "protein": 27,
     "carbs": 34,
     "fat": 3,
+    "servingSizeGrams": 230,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "snack"
@@ -1994,6 +2411,14 @@
       "Banane in Scheiben schneiden und mindestens 4 Stunden einfrieren.",
       "Mit Proteinpulver und Milch im Mixer cremig pürieren.",
       "Direkt als Softeis essen oder 30 Minuten einfrieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -2003,6 +2428,7 @@
     "protein": 16,
     "carbs": 23,
     "fat": 1,
+    "servingSizeGrams": 310,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "snack"
@@ -2030,6 +2456,14 @@
       "Gefrorene Erdbeeren mit Joghurt und Honig fein pürieren.",
       "Sofort als Softeis servieren oder 1 Stunde einfrieren.",
       "Vor dem Servieren kurz antauen lassen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -2039,6 +2473,7 @@
     "protein": 39,
     "carbs": 13,
     "fat": 4,
+    "servingSizeGrams": 280,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "snack"
@@ -2070,6 +2505,15 @@
       "Alle Zutaten glatt verrühren und in einen Becher füllen.",
       "Mindestens 6 Stunden einfrieren.",
       "Vor dem Servieren 10 Minuten antauen lassen und zu Kugeln formen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -2079,6 +2523,7 @@
     "protein": 12,
     "carbs": 36,
     "fat": 1,
+    "servingSizeGrams": 305,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "snack"
@@ -2105,6 +2550,14 @@
     "instructions": [
       "Gefrorene Mango mit Joghurt und Honig im Mixer cremig pürieren.",
       "Sofort servieren oder kurz einfrieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -2114,6 +2567,7 @@
     "protein": 51,
     "carbs": 52,
     "fat": 8,
+    "servingSizeGrams": 450,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -2151,6 +2605,13 @@
       "Im Airfryer bei 200°C 20 Minuten garen, zwischendurch wenden.",
       "Hähnchen würzen und die letzten 12 Minuten mitgaren.",
       "Quark mit Salz und Kräutern zu einem Dip rühren und dazu servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -2160,6 +2621,7 @@
     "protein": 41,
     "carbs": 30,
     "fat": 27,
+    "servingSizeGrams": 485,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "dinner"
@@ -2195,6 +2657,14 @@
       "Brokkoli mit Olivenöl mischen und zu den Kartoffeln geben.",
       "Lachs würzen, daraufsetzen und weitere 8–10 Minuten garen.",
       "Mit Zitrone beträufeln."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "fisch"
     ]
   },
   {
@@ -2204,6 +2674,7 @@
     "protein": 10,
     "carbs": 27,
     "fat": 9,
+    "servingSizeGrams": 155,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "snack"
@@ -2234,7 +2705,15 @@
       "Kichererbsen abspülen und gründlich trocken tupfen.",
       "Mit Olivenöl und Gewürzen mischen.",
       "Im Airfryer bei 200°C 12–15 Minuten knusprig garen, zwischendurch schütteln."
-    ]
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_053",
@@ -2243,6 +2722,7 @@
     "protein": 14,
     "carbs": 17,
     "fat": 6,
+    "servingSizeGrams": 315,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "snack",
@@ -2275,6 +2755,15 @@
       "Zucchini in Pommes-Streifen schneiden.",
       "Erst durch das Eiklar, dann durch die Mischung aus gemahlenen Haferflocken und Parmesan ziehen.",
       "Im Airfryer bei 190°C 12 Minuten knusprig garen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -2284,6 +2773,7 @@
     "protein": 55,
     "carbs": 19,
     "fat": 5,
+    "servingSizeGrams": 350,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -2321,6 +2811,14 @@
       "Erst im Eiklar, dann in gemahlenen Haferflocken wenden.",
       "Im Airfryer bei 190°C 12 Minuten garen, nach der Hälfte wenden.",
       "Mit Salat und Quark-Dip servieren."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -2330,6 +2828,7 @@
     "protein": 19,
     "carbs": 45,
     "fat": 5,
+    "servingSizeGrams": 435,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -2371,6 +2870,14 @@
       "Kleine Bällchen formen.",
       "Im Airfryer bei 190°C 12 Minuten garen.",
       "Mit Gurke, Tomate und Joghurt-Dip in einer Bowl anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -2380,6 +2887,7 @@
     "protein": 34,
     "carbs": 49,
     "fat": 8,
+    "servingSizeGrams": 575,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "dinner"
@@ -2415,6 +2923,14 @@
       "Garnelen, Zucchini und Paprika abwechselnd auf Spieße stecken und mit Olivenöl und Gewürzen bestreichen.",
       "Im Airfryer bei 200°C 8–10 Minuten garen.",
       "Mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "krebstiere"
     ]
   },
   {
@@ -2424,6 +2940,7 @@
     "protein": 29,
     "carbs": 55,
     "fat": 17,
+    "servingSizeGrams": 495,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "dinner"
@@ -2459,6 +2976,15 @@
       "Im Airfryer bei 200°C 15 Minuten knusprig garen, zwischendurch schütteln.",
       "Reis kochen, Brokkoli dämpfen.",
       "Alles in einer Schale anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
     ]
   },
   {
@@ -2468,6 +2994,7 @@
     "protein": 23,
     "carbs": 44,
     "fat": 6,
+    "servingSizeGrams": 405,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "snack",
@@ -2500,6 +3027,14 @@
       "Kartoffeln in Spalten schneiden und mit Olivenöl und Salz mischen.",
       "Im Airfryer bei 200°C 20 Minuten knusprig garen.",
       "Magerquark mit Schnittlauch, Salz und Pfeffer verrühren und dazu servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -2509,6 +3044,7 @@
     "protein": 35,
     "carbs": 55,
     "fat": 9,
+    "servingSizeGrams": 315,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "breakfast"
@@ -2547,6 +3083,14 @@
       "Haferflocken, Proteinpulver, Kakao, Chiasamen und Milch in einem Glas verrühren.",
       "Über Nacht im Kühlschrank quellen lassen.",
       "Mit Bananenscheiben toppen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -2556,6 +3100,7 @@
     "protein": 33,
     "carbs": 34,
     "fat": 13,
+    "servingSizeGrams": 175,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "snack",
@@ -2597,6 +3142,15 @@
       "Schokolade grob hacken und unterheben.",
       "In der Mikrowelle 90 Sekunden bei 800 Watt garen.",
       "Kurz abkühlen lassen und aus der Tasse essen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -2606,6 +3160,7 @@
     "protein": 40,
     "carbs": 48,
     "fat": 6,
+    "servingSizeGrams": 340,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -2647,6 +3202,13 @@
       "Quark, Mehl und eine Prise Salz zu einem Teig kneten und dünn ausrollen.",
       "Mit Passierten Tomaten bestreichen und mit Pute, Paprika und Mozzarella belegen.",
       "15 Minuten goldbraun backen."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -2656,6 +3218,7 @@
     "protein": 32,
     "carbs": 8,
     "fat": 16,
+    "servingSizeGrams": 330,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast",
@@ -2689,6 +3252,16 @@
       "Hüttenkäse und Eier mit Salz und Pfeffer im Mixer glatt pürieren.",
       "Auf einem mit Backpapier belegten Blech dünn verstreichen und 25 Minuten backen.",
       "Mit Tomate und Avocado belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
     ]
   },
   {
@@ -2698,6 +3271,7 @@
     "protein": 38,
     "carbs": 34,
     "fat": 2,
+    "servingSizeGrams": 405,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack"
@@ -2734,6 +3308,15 @@
       "Haferflocken als Boden in ein Glas geben.",
       "Creme darauf verteilen und mit Beeren toppen.",
       "Vor dem Servieren 30 Minuten kühlen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -2743,6 +3326,7 @@
     "protein": 44,
     "carbs": 34,
     "fat": 9,
+    "servingSizeGrams": 530,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -2784,7 +3368,13 @@
       "Hack zugeben und krümelig braten.",
       "Bohnen, Mais, Passierte Tomaten und Gewürze (Chili, Kreuzkümmel, Paprikapulver) zugeben.",
       "20 Minuten köcheln lassen."
-    ]
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_065",
@@ -2793,6 +3383,7 @@
     "protein": 47,
     "carbs": 60,
     "fat": 10,
+    "servingSizeGrams": 510,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -2833,7 +3424,13 @@
       "Reis kochen.",
       "Hähnchen würzen (Paprika, Kreuzkümmel) und in der Pfanne braten, dann in Streifen schneiden.",
       "Alle Zutaten in einer Bowl anrichten und mit Limettensaft beträufeln."
-    ]
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_066",
@@ -2842,6 +3439,7 @@
     "protein": 31,
     "carbs": 7,
     "fat": 6,
+    "servingSizeGrams": 370,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "snack",
@@ -2874,6 +3472,15 @@
       "Gurke halbieren und mit einem Löffel aushöhlen.",
       "Thunfisch mit Joghurt und zerdrückter Avocado verrühren und würzen.",
       "Die Mischung in die Gurkenhälften füllen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "fisch"
     ]
   },
   {
@@ -2883,6 +3490,7 @@
     "protein": 34,
     "carbs": 53,
     "fat": 8,
+    "servingSizeGrams": 375,
     "prepTimeMinutes": 8,
     "suitableMealTypes": [
       "breakfast"
@@ -2918,6 +3526,14 @@
       "Topf vom Herd nehmen und kurz abkühlen lassen.",
       "Proteinpulver einrühren.",
       "Mit gewürfeltem Apfel und Zimt toppen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -2927,6 +3543,7 @@
     "protein": 48,
     "carbs": 37,
     "fat": 8,
+    "servingSizeGrams": 550,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "dinner"
@@ -2962,7 +3579,13 @@
       "Kartoffeln würfeln, Gemüse in Stücke schneiden und auf einem Blech mit Olivenöl mischen.",
       "Hähnchen würzen und dazulegen.",
       "25–30 Minuten backen."
-    ]
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_069",
@@ -2971,6 +3594,7 @@
     "protein": 29,
     "carbs": 5,
     "fat": 19,
+    "servingSizeGrams": 320,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast",
@@ -3008,6 +3632,15 @@
       "Eier und Eiklar verquirlen und würzen.",
       "Paprika, Spinat und Feta in eine Muffinform verteilen und die Eiermasse darübergießen.",
       "20 Minuten backen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
     ]
   },
   {
@@ -3017,6 +3650,7 @@
     "protein": 21,
     "carbs": 27,
     "fat": 11,
+    "servingSizeGrams": 85,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "snack"
@@ -3056,6 +3690,15 @@
       "Alle Zutaten zu einer formbaren Masse verkneten.",
       "Daraus 4 kleine Kugeln formen.",
       "Mindestens 30 Minuten kalt stellen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "erdnuss"
     ]
   },
   {
@@ -3065,6 +3708,7 @@
     "protein": 35,
     "carbs": 31,
     "fat": 21,
+    "servingSizeGrams": 285,
     "prepTimeMinutes": 12,
     "suitableMealTypes": [
       "breakfast"
@@ -3104,6 +3748,15 @@
       "Rapsöl in einer Pfanne erhitzen und die Eier bei niedriger Hitze unter Rühren cremig stocken lassen.",
       "Brot toasten und mit dem Rührei belegen.",
       "Räucherlachs darauflegen und mit Schnittlauch bestreuen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "ei",
+      "fisch"
     ]
   },
   {
@@ -3113,6 +3766,7 @@
     "protein": 42,
     "carbs": 39,
     "fat": 11,
+    "servingSizeGrams": 305,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast",
@@ -3158,6 +3812,15 @@
       "Quark, Haferflocken, Mehl, Proteinpulver, Ei, Backpulver und eine Prise Salz zu einem Teig verkneten.",
       "Zwei Brötchen formen und 20–25 Minuten goldbraun backen.",
       "Abkühlen lassen, aufschneiden und mit Frischkäse und Gurkenscheiben belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -3167,6 +3830,7 @@
     "protein": 55,
     "carbs": 46,
     "fat": 9,
+    "servingSizeGrams": 515,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -3208,6 +3872,13 @@
       "Hähnchen mit Paprika- und Zucchinistücken auf Spieße stecken.",
       "Spieße in Olivenöl in einer Grillpfanne rundum 10–12 Minuten braten.",
       "Couscous mit kochendem Wasser übergießen, 5 Minuten quellen lassen und dazu servieren."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -3217,6 +3888,7 @@
     "protein": 48,
     "carbs": 40,
     "fat": 13,
+    "servingSizeGrams": 635,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "dinner"
@@ -3257,6 +3929,13 @@
       "Steak trocken tupfen, salzen und pro Seite 2–3 Minuten scharf anbraten, dann 3 Minuten ruhen lassen.",
       "Quark mit Salz, Pfeffer und frischen Kräutern verrühren.",
       "Steak in Scheiben schneiden und mit Gemüse und Kräuterquark servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -3266,6 +3945,7 @@
     "protein": 63,
     "carbs": 54,
     "fat": 8,
+    "servingSizeGrams": 620,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "dinner"
@@ -3306,6 +3986,13 @@
       "Zwiebel und Champignons anbraten, bis sie Farbe nehmen.",
       "Pute zurück in die Pfanne geben, den Joghurt unterrühren und bei niedriger Hitze 3 Minuten erwärmen (nicht kochen).",
       "Mit Salz, Pfeffer und Petersilie abschmecken und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -3315,6 +4002,7 @@
     "protein": 47,
     "carbs": 43,
     "fat": 14,
+    "servingSizeGrams": 460,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "dinner"
@@ -3355,6 +4043,16 @@
       "In Rapsöl pro Seite 1 Minute scharf anbraten, das Innere soll rosa bleiben.",
       "Pak Choi halbieren und 3 Minuten in der Pfanne mit etwas Sojasauce garen.",
       "Thunfisch in Scheiben schneiden und mit Reis und Pak Choi anrichten."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "fisch",
+      "soja",
+      "sesam"
     ]
   },
   {
@@ -3364,6 +4062,7 @@
     "protein": 47,
     "carbs": 38,
     "fat": 9,
+    "servingSizeGrams": 405,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch",
@@ -3409,6 +4108,13 @@
       "In Olivenöl in einer heißen Pfanne 6–7 Minuten kräftig braten.",
       "Gurke raspeln, mit Joghurt und etwas Knoblauch zu Tzatziki verrühren.",
       "Pita erwärmen, aufschneiden und mit Hähnchen, Tomate, Zwiebelringen und Tzatziki füllen."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -3418,6 +4124,7 @@
     "protein": 52,
     "carbs": 37,
     "fat": 9,
+    "servingSizeGrams": 390,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast"
@@ -3456,6 +4163,15 @@
       "Haferflocken, Ei, Quark, Proteinpulver und Backpulver zu einem dicken Teig verrühren.",
       "Im heißen Waffeleisen portionsweise goldbraun backen.",
       "Waffeln mit Skyr und frischen Himbeeren servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -3465,6 +4181,7 @@
     "protein": 47,
     "carbs": 54,
     "fat": 21,
+    "servingSizeGrams": 515,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -3515,6 +4232,16 @@
       "Gurke in Scheiben, Karotte in feine Streifen schneiden.",
       "Ei als Spiegelei braten.",
       "Reis, Hack, Gemüse und Ei in einer Bowl anrichten und mit Sesam bestreuen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "ei",
+      "soja",
+      "sesam"
     ]
   },
   {
@@ -3524,6 +4251,7 @@
     "protein": 36,
     "carbs": 33,
     "fat": 16,
+    "servingSizeGrams": 320,
     "prepTimeMinutes": 12,
     "suitableMealTypes": [
       "breakfast",
@@ -3565,6 +4293,14 @@
       "Wrap kurz erwärmen und mit Frischkäse bestreichen.",
       "Omelett, Putenschinken und Spinat daraufgeben.",
       "Fest einrollen und diagonal halbieren."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -3574,6 +4310,7 @@
     "protein": 43,
     "carbs": 16,
     "fat": 7,
+    "servingSizeGrams": 290,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "snack"
@@ -3609,6 +4346,15 @@
       "Quark, Proteinpulver und Kakao mit dem Handrührgerät 2 Minuten sehr glatt und luftig aufschlagen.",
       "In ein Glas füllen und mindestens 1 Stunde kühlen.",
       "Mit Himbeeren und geraspelter Schokolade garnieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -3618,6 +4364,7 @@
     "protein": 50,
     "carbs": 19,
     "fat": 13,
+    "servingSizeGrams": 350,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch"
@@ -3657,6 +4404,13 @@
       "Toastbrot würfeln und in einer trockenen Pfanne zu Croutons rösten.",
       "Joghurt mit Zitronensaft, Senf, etwas Parmesan und Pfeffer zum Dressing rühren.",
       "Salat mit Dressing mischen, mit Hähnchenstreifen, Croutons und Parmesanspänen belegen."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -3666,6 +4420,7 @@
     "protein": 50,
     "carbs": 40,
     "fat": 10,
+    "servingSizeGrams": 575,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "dinner"
@@ -3706,6 +4461,14 @@
       "Seelachs würzen, mit der Kruste belegen und 15 Minuten backen.",
       "Spinat in einer Pfanne zusammenfallen lassen und mit Frischkäse, Salz und Muskat cremig rühren.",
       "Alles mit den Kartoffeln anrichten."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "fisch"
     ]
   },
   {
@@ -3715,6 +4478,7 @@
     "protein": 34,
     "carbs": 63,
     "fat": 26,
+    "servingSizeGrams": 440,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -3761,6 +4525,16 @@
       "Tempeh in Scheiben schneiden und in Rapsöl knusprig braten, mit Sojasauce ablöschen.",
       "Edamame 4 Minuten kochen.",
       "Alles mit Avocadoscheiben in einer Bowl anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
     ]
   },
   {
@@ -3770,6 +4544,7 @@
     "protein": 43,
     "carbs": 64,
     "fat": 11,
+    "servingSizeGrams": 545,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch",
@@ -3811,6 +4586,14 @@
       "Zwiebel in Olivenöl glasig anbraten und die Passierten Tomaten zugeben.",
       "Sauce 8 Minuten köcheln lassen, Thunfisch und Oliven unterrühren.",
       "Mit den Spaghetti mischen und mit Petersilie servieren."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "fisch"
     ]
   },
   {
@@ -3820,6 +4603,7 @@
     "protein": 29,
     "carbs": 14,
     "fat": 15,
+    "servingSizeGrams": 320,
     "prepTimeMinutes": 12,
     "suitableMealTypes": [
       "breakfast"
@@ -3858,6 +4642,15 @@
       "Eier und Eiklar verquirlen und in Rapsöl in einer Pfanne zu einem Omelett braten.",
       "Quark glatt rühren und auf einer Hälfte verteilen.",
       "Heidelbeeren darübergeben, das Omelett zusammenklappen und mit Honig beträufeln."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
     ]
   },
   {
@@ -3867,6 +4660,7 @@
     "protein": 57,
     "carbs": 41,
     "fat": 18,
+    "servingSizeGrams": 540,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "dinner"
@@ -3915,6 +4709,14 @@
       "In Rapsöl pro Seite 5–6 Minuten braten.",
       "Gurke hobeln und mit Joghurt, Dill, Salz und Pfeffer anmachen.",
       "Mit Kartoffeln servieren."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -3924,6 +4726,7 @@
     "protein": 32,
     "carbs": 64,
     "fat": 6,
+    "servingSizeGrams": 425,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast",
@@ -3961,6 +4764,14 @@
       "Apfel würfeln und mit etwas Wasser und Zimt 5 Minuten weich dünsten.",
       "Milchreis etwas abkühlen lassen und das Proteinpulver glatt einrühren.",
       "Mit den Apfelstückchen und Zimt servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -3970,6 +4781,7 @@
     "protein": 58,
     "carbs": 26,
     "fat": 17,
+    "servingSizeGrams": 515,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "dinner"
@@ -4009,6 +4821,13 @@
       "Hähnchenbrust seitlich zu einer Tasche einschneiden.",
       "Spinat kurz anbraten, mit zerbröseltem Feta mischen und in die Tasche füllen, mit Zahnstochern fixieren.",
       "Mit Olivenöl in einer Form zusammen mit den Kartoffelspalten und Kirschtomaten 25 Minuten backen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -4018,6 +4837,7 @@
     "protein": 43,
     "carbs": 36,
     "fat": 13,
+    "servingSizeGrams": 440,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "dinner"
@@ -4057,6 +4877,14 @@
       "Knoblauch in Olivenöl kurz anschwitzen, Tomatenstücke zugeben und 4 Minuten köcheln lassen.",
       "Garnelen dazugeben und 3–4 Minuten garen, bis sie rosa sind.",
       "Mit Petersilie bestreuen und mit dem Brot servieren."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "krebstiere"
     ]
   },
   {
@@ -4066,6 +4894,7 @@
     "protein": 46,
     "carbs": 34,
     "fat": 7,
+    "servingSizeGrams": 310,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "lunch",
@@ -4103,6 +4932,14 @@
       "Thunfisch mit Joghurt, Salz, Pfeffer und etwas Zitronensaft vermengen.",
       "Brotscheiben mit Tomatenscheiben und Thunfischmasse belegen.",
       "Mit Käse bestreuen und 5–7 Minuten überbacken, bis der Käse goldbraun ist."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "fisch"
     ]
   },
   {
@@ -4112,6 +4949,7 @@
     "protein": 42,
     "carbs": 10,
     "fat": 17,
+    "servingSizeGrams": 430,
     "prepTimeMinutes": 12,
     "suitableMealTypes": [
       "breakfast",
@@ -4153,6 +4991,15 @@
       "Hüttenkäse in eine Schale geben.",
       "Radieschen und Gurke in Scheiben schneiden und mit den halbierten Eiern anrichten.",
       "Mit Kürbiskernen, Schnittlauch und Pfeffer bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
     ]
   },
   {
@@ -4162,6 +5009,7 @@
     "protein": 44,
     "carbs": 21,
     "fat": 21,
+    "servingSizeGrams": 365,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch",
@@ -4203,6 +5051,13 @@
       "Rucola und halbierte Tomaten auf einem Teller anrichten.",
       "Steak in dünne Scheiben schneiden und darauflegen.",
       "Mit Parmesanspänen, Olivenöl, Balsamico und Pfeffer beträufeln, dazu das geröstete Brot reichen."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -4212,6 +5067,7 @@
     "protein": 39,
     "carbs": 26,
     "fat": 3,
+    "servingSizeGrams": 425,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "snack"
@@ -4252,6 +5108,15 @@
       "Milch erwärmen, Gelatine darin auflösen und mit Honig, Skyr und Proteinpulver glatt verrühren.",
       "In ein Glas oder Förmchen füllen und 3 Stunden kalt stellen.",
       "Himbeeren mit einer Gabel zerdrücken und als Sauce darübergeben."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -4261,6 +5126,7 @@
     "protein": 51,
     "carbs": 44,
     "fat": 16,
+    "servingSizeGrams": 565,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "lunch",
@@ -4302,6 +5168,13 @@
       "Kartoffeln und Paprika in Stücke schneiden und mit Rapsöl mischen.",
       "Schenkel im Airfryer bei 190°C 12 Minuten garen, dann Kartoffeln und Paprika dazugeben und weitere 18 Minuten garen.",
       "Mit Joghurt und Kräutern servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -4311,6 +5184,7 @@
     "protein": 65,
     "carbs": 20,
     "fat": 9,
+    "servingSizeGrams": 440,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -4356,6 +5230,14 @@
       "Erst im Eiklar, dann in den gemahlenen Haferflocken wenden.",
       "Im Airfryer bei 180°C 16–18 Minuten garen, zwischendurch wenden.",
       "Mit Salat und Tomate servieren."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -4365,6 +5247,7 @@
     "protein": 56,
     "carbs": 61,
     "fat": 3,
+    "servingSizeGrams": 520,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -4406,6 +5289,15 @@
       "Im Airfryer bei 190°C 10–12 Minuten goldbraun garen, einmal wenden.",
       "Kartoffeln und Erbsen kochen und zu einem groben Püree stampfen.",
       "Joghurt mit Zitronensaft, Dill und Salz zur Remoulade verrühren und dazu servieren."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei",
+      "fisch"
     ]
   },
   {
@@ -4415,6 +5307,7 @@
     "protein": 19,
     "carbs": 11,
     "fat": 20,
+    "servingSizeGrams": 265,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack",
@@ -4452,6 +5345,14 @@
       "Im Airfryer bei 200°C 6–8 Minuten goldbraun garen.",
       "Tomate und Gurke würfeln, mit Minze, Salz und Pfeffer mischen.",
       "Halloumi mit Honig beträufeln und mit dem Salat servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -4461,6 +5362,7 @@
     "protein": 15,
     "carbs": 35,
     "fat": 14,
+    "servingSizeGrams": 440,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "lunch",
@@ -4506,6 +5408,16 @@
       "Mehl, Sojamilch, Tomatenmark und Gewürze zu einem dicken Teig rühren und die Röschen darin wenden.",
       "Im Airfryer bei 200°C 15–18 Minuten knusprig garen, einmal schütteln.",
       "Mit Hummus als Dip servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
     ]
   },
   {
@@ -4515,6 +5427,7 @@
     "protein": 35,
     "carbs": 31,
     "fat": 13,
+    "servingSizeGrams": 430,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "snack",
@@ -4552,6 +5465,15 @@
       "Mit Ei, geriebenem Käse, Haferflocken, Salz und Pfeffer verkneten und zu Bällchen formen.",
       "Im Airfryer bei 190°C 12 Minuten goldbraun garen, einmal wenden.",
       "Mit Joghurt-Dip servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -4561,6 +5483,7 @@
     "protein": 11,
     "carbs": 63,
     "fat": 13,
+    "servingSizeGrams": 405,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -4598,6 +5521,13 @@
       "Im Airfryer bei 200°C 18–20 Minuten knusprig garen, zwischendurch schütteln.",
       "Avocado mit Joghurt, Limettensaft und Salz zu einem cremigen Dip zerdrücken.",
       "Pommes mit Dip servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -4607,6 +5537,7 @@
     "protein": 18,
     "carbs": 14,
     "fat": 16,
+    "servingSizeGrams": 285,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "snack",
@@ -4643,6 +5574,15 @@
       "Rosenkohl putzen, halbieren und mit Olivenöl, Salz und Pfeffer mischen.",
       "Im Airfryer bei 190°C 12–14 Minuten garen, bis die Blätter knusprig sind.",
       "Mit Honig, Parmesanspänen und gehackten Walnüssen anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "schalenfruechte"
     ]
   },
   {
@@ -4652,6 +5592,7 @@
     "protein": 38,
     "carbs": 50,
     "fat": 22,
+    "servingSizeGrams": 450,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "dinner"
@@ -4692,6 +5633,16 @@
       "Lachs im Airfryer bei 180°C 8–10 Minuten garen.",
       "Pak Choi in den letzten 4 Minuten dazugeben.",
       "Mit Reis anrichten und mit Sesam bestreuen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "fisch",
+      "soja",
+      "sesam"
     ]
   },
   {
@@ -4701,6 +5652,7 @@
     "protein": 38,
     "carbs": 29,
     "fat": 11,
+    "servingSizeGrams": 320,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "snack",
@@ -4742,6 +5694,15 @@
       "Erst im Eiklar, dann in der Mischung aus Kokosflocken und Panko wenden.",
       "Im Airfryer bei 190°C 7–8 Minuten goldbraun garen, einmal wenden.",
       "Mango fein pürieren, mit Joghurt und etwas Limettensaft zum Dip verrühren."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei",
+      "krebstiere"
     ]
   },
   {
@@ -4751,6 +5712,7 @@
     "protein": 29,
     "carbs": 35,
     "fat": 10,
+    "servingSizeGrams": 305,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "lunch",
@@ -4796,6 +5758,11 @@
       "Mit Mozzarella, Pute, Paprikastreifen und Champignonscheiben belegen.",
       "Im Airfryer bei 190°C 5–6 Minuten backen, bis der Käse geschmolzen und der Rand knusprig ist.",
       "Mit Rucola belegen und in Stücke schneiden."
+    ],
+    "dietTags": [],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -4805,6 +5772,7 @@
     "protein": 31,
     "carbs": 8,
     "fat": 21,
+    "servingSizeGrams": 380,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast",
@@ -4846,6 +5814,15 @@
       "Paprika, Zwiebel und Spinat klein schneiden und unterrühren.",
       "In eine kleine, ofenfeste Form füllen und mit Feta bestreuen.",
       "Im Airfryer bei 160°C 15–18 Minuten stocken lassen, bis die Oberfläche goldgelb ist."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
     ]
   },
   {
@@ -4855,6 +5832,7 @@
     "protein": 54,
     "carbs": 53,
     "fat": 16,
+    "servingSizeGrams": 535,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -4900,6 +5878,14 @@
       "Im Airfryer bei 190°C 10–12 Minuten garen.",
       "Passierte Tomaten mit Oregano 8 Minuten köcheln lassen, Nudeln kochen.",
       "Alles mischen und mit Parmesan bestreuen."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -4909,6 +5895,7 @@
     "protein": 14,
     "carbs": 43,
     "fat": 10,
+    "servingSizeGrams": 375,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "snack"
@@ -4944,6 +5931,15 @@
       "Apfel entkernen und mit gehackten Walnüssen, Honig und Zimt füllen.",
       "Im Airfryer bei 180°C 15–18 Minuten weich garen.",
       "Skyr mit etwas Vanille verrühren und zum warmen Apfel servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "schalenfruechte"
     ]
   },
   {
@@ -4953,6 +5949,7 @@
     "protein": 9,
     "carbs": 44,
     "fat": 12,
+    "servingSizeGrams": 140,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "snack"
@@ -4988,15 +5985,25 @@
       "Vier kleine Cookies auf Backpapier formen.",
       "Im Airfryer bei 170°C 10–12 Minuten backen.",
       "Auf einem Gitter abkühlen lassen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "schalenfruechte"
     ]
   },
   {
     "id": "rec_110",
-    "title": "Airfryer-Protein-Brownies",
-    "calories": 435,
-    "protein": 34,
-    "carbs": 39,
-    "fat": 14,
+    "title": "Airfryer-Bohnen-Brownies mit Protein",
+    "calories": 430,
+    "protein": 38,
+    "carbs": 35,
+    "fat": 13,
+    "servingSizeGrams": 235,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "snack"
@@ -5007,6 +6014,10 @@
     "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_110_airfryer_protein_brownies.jpg",
     "ingredients": [
       {
+        "name": "Kidneybohnen (Dose, abgetropft)",
+        "amount": "120g"
+      },
+      {
         "name": "Kakaopulver (ungesüßt)",
         "amount": "15g"
       },
@@ -5015,16 +6026,12 @@
         "amount": "25g"
       },
       {
-        "name": "Banane (reif)",
-        "amount": "100g"
-      },
-      {
         "name": "Ei (Größe M)",
         "amount": "1 Stück"
       },
       {
-        "name": "Zarte Haferflocken (gemahlen)",
-        "amount": "20g"
+        "name": "Ahornsirup",
+        "amount": "15g"
       },
       {
         "name": "Dunkle Schokolade (70 %)",
@@ -5032,10 +6039,19 @@
       }
     ],
     "instructions": [
-      "Banane zerdrücken und mit Ei, Kakao, Proteinpulver und Haferflocken glatt verrühren.",
+      "Kidneybohnen gut abspülen und mit Ei, Ahornsirup, Kakao und Proteinpulver in einem Mixer zu einem glatten Teig pürieren.",
       "Gehackte Schokolade unterheben.",
       "In eine kleine Form füllen und im Airfryer bei 170°C 15–18 Minuten backen.",
       "Abkühlen lassen und in Stücke schneiden."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
     ]
   },
   {
@@ -5045,6 +6061,7 @@
     "protein": 35,
     "carbs": 50,
     "fat": 21,
+    "servingSizeGrams": 460,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -5086,6 +6103,17 @@
       "In der Mischung aus Sesam und gemahlenen Haferflocken wenden.",
       "Im Airfryer bei 200°C 15 Minuten knusprig garen, zwischendurch schütteln.",
       "Reis kochen und mit Gurkenscheiben und den Tofu-Nuggets servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sesam"
     ]
   },
   {
@@ -5095,6 +6123,7 @@
     "protein": 32,
     "carbs": 50,
     "fat": 7,
+    "servingSizeGrams": 510,
     "prepTimeMinutes": 40,
     "suitableMealTypes": [
       "lunch",
@@ -5132,6 +6161,14 @@
       "Quark mit Salz, Pfeffer und Schnittlauch verrühren.",
       "Kartoffeln aufschneiden, mit Quark füllen und mit Räucherlachs belegen.",
       "Mit Gurkenscheiben servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch",
+      "fisch"
     ]
   },
   {
@@ -5141,6 +6178,7 @@
     "protein": 47,
     "carbs": 42,
     "fat": 12,
+    "servingSizeGrams": 590,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "dinner"
@@ -5177,6 +6215,14 @@
       "Kartoffeln kochen und Spargel im Airfryer bei 190°C 5 Minuten vorgaren.",
       "Fisch dazugeben und weitere 8–10 Minuten garen.",
       "Mit Zitronenspalten servieren."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "fisch"
     ]
   },
   {
@@ -5186,6 +6232,7 @@
     "protein": 4,
     "carbs": 31,
     "fat": 5,
+    "servingSizeGrams": 285,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "snack"
@@ -5220,7 +6267,15 @@
       "Gemüse mit dem Hobel in hauchdünne Scheiben schneiden.",
       "Mit Olivenöl und Salz vermengen.",
       "Im Airfryer bei 160°C 10–12 Minuten knusprig garen, öfter schütteln und fertige Chips herausnehmen."
-    ]
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_115",
@@ -5229,6 +6284,7 @@
     "protein": 49,
     "carbs": 44,
     "fat": 12,
+    "servingSizeGrams": 460,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -5270,6 +6326,13 @@
       "Im Airfryer bei 190°C 12–14 Minuten garen, zwischendurch schütteln.",
       "Wrap erwärmen und mit der Mischung füllen.",
       "Mit Joghurt und Avocadoscheiben servieren."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -5279,6 +6342,7 @@
     "protein": 25,
     "carbs": 53,
     "fat": 10,
+    "servingSizeGrams": 320,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "lunch",
@@ -5320,6 +6384,13 @@
       "Auf eine Wrap-Hälfte geben, mit Käse bestreuen und zusammenklappen.",
       "Im Airfryer bei 190°C 6–8 Minuten goldbraun backen, einmal wenden.",
       "Mit Tomatensalsa servieren."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -5329,6 +6400,7 @@
     "protein": 33,
     "carbs": 14,
     "fat": 10,
+    "servingSizeGrams": 620,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch",
@@ -5370,6 +6442,15 @@
       "Knoblauch in Olivenöl anbraten, Garnelen 3 Minuten braten und herausnehmen.",
       "Passierte Tomaten 5 Minuten köcheln lassen, Zucchini-Nudeln 2 Minuten darin erwärmen.",
       "Garnelen zurückgeben und mit Parmesan und Basilikum servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "krebstiere"
     ]
   },
   {
@@ -5379,6 +6460,7 @@
     "protein": 24,
     "carbs": 18,
     "fat": 16,
+    "servingSizeGrams": 535,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch",
@@ -5420,6 +6502,16 @@
       "Karotte würfeln und mit den Erbsen in Rapsöl 4 Minuten anbraten.",
       "Blumenkohlreis zugeben und 5 Minuten braten.",
       "Eier an den Rand verquirlen und stocken lassen, alles vermengen und mit Sojasauce würzen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "ei",
+      "soja"
     ]
   },
   {
@@ -5429,6 +6521,7 @@
     "protein": 17,
     "carbs": 41,
     "fat": 10,
+    "servingSizeGrams": 570,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -5482,6 +6575,15 @@
       "Passierte Tomaten und 400ml Wasser zugeben, 15 Minuten köcheln lassen.",
       "Bohnen und Nudeln zugeben und weitere 8 Minuten garen.",
       "Mit Parmesan und Basilikum servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "sellerie"
     ]
   },
   {
@@ -5491,6 +6593,7 @@
     "protein": 11,
     "carbs": 16,
     "fat": 19,
+    "servingSizeGrams": 475,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "lunch"
@@ -5534,6 +6637,14 @@
       "Zwiebel in feine Ringe schneiden.",
       "Alles in einer Schale mit Oliven mischen, Feta darübergeben.",
       "Mit Olivenöl, Oregano, Salz und Pfeffer anmachen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -5543,6 +6654,7 @@
     "protein": 12,
     "carbs": 39,
     "fat": 7,
+    "servingSizeGrams": 595,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -5584,6 +6696,14 @@
       "Tomaten und 200ml Wasser zugeben und 15 Minuten köcheln lassen.",
       "Fein pürieren und mit Salz, Pfeffer und etwas Basilikum abschmecken.",
       "Mit einem Klecks Joghurt und dem gerösteten Brot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -5593,6 +6713,7 @@
     "protein": 41,
     "carbs": 30,
     "fat": 3,
+    "servingSizeGrams": 375,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "lunch",
@@ -5634,6 +6755,15 @@
       "Gemüse klein schneiden und 10 Minuten mitgaren.",
       "Hähnchen herausnehmen und zerpflücken.",
       "Nudeln in der Suppe garen, Hähnchen zurückgeben und mit Petersilie servieren."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "sellerie"
     ]
   },
   {
@@ -5643,6 +6773,7 @@
     "protein": 40,
     "carbs": 14,
     "fat": 10,
+    "servingSizeGrams": 645,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "dinner"
@@ -5678,6 +6809,14 @@
       "Zucchini halbieren und das Fruchtfleisch mit einem Löffel aushöhlen, klein hacken.",
       "Hack mit Zwiebel und Zucchinifleisch anbraten, mit Passierten Tomaten und Gewürzen abschmecken.",
       "In die Zucchinihälften füllen, mit Mozzarella belegen und 20 Minuten backen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -5687,6 +6826,7 @@
     "protein": 31,
     "carbs": 16,
     "fat": 12,
+    "servingSizeGrams": 455,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -5724,7 +6864,14 @@
       "Hack in Olivenöl krümelig braten, Zwiebel zugeben.",
       "Tomatenmark einrühren, Kohl zugeben und 12 Minuten bei mittlerer Hitze schmoren.",
       "Mit Salz, Pfeffer, Paprikapulver und Kümmel abschmecken."
-    ]
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_125",
@@ -5733,6 +6880,7 @@
     "protein": 18,
     "carbs": 39,
     "fat": 11,
+    "servingSizeGrams": 425,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "lunch",
@@ -5778,6 +6926,14 @@
       "Linsen, Passierte Tomaten und 500ml Wasser zugeben und 20 Minuten köcheln lassen.",
       "Mit Salz, Kreuzkümmel und Zitronensaft abschmecken.",
       "Mit einem Klecks Joghurt servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei"
+    ],
+    "allergens": [
+      "milch",
+      "sellerie"
     ]
   },
   {
@@ -5787,6 +6943,7 @@
     "protein": 23,
     "carbs": 19,
     "fat": 8,
+    "servingSizeGrams": 605,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "lunch",
@@ -5828,6 +6985,14 @@
       "Gemüse in Stücke schneiden, mit Olivenöl, Salz und Kräutern mischen.",
       "Auf einem Blech 25 Minuten rösten.",
       "Hüttenkäse mit Schnittlauch und Pfeffer verrühren und zum Gemüse servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -5837,6 +7002,7 @@
     "protein": 28,
     "carbs": 24,
     "fat": 8,
+    "servingSizeGrams": 485,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -5878,6 +7044,14 @@
       "Pilze, Paprika und Pak Choi 5 Minuten darin garen.",
       "Garnelen zugeben und 3 Minuten ziehen lassen.",
       "Reisnudeln separat kochen und in die Suppe geben, mit Koriander servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "krebstiere"
     ]
   },
   {
@@ -5887,6 +7061,7 @@
     "protein": 38,
     "carbs": 9,
     "fat": 7,
+    "servingSizeGrams": 360,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch"
@@ -5926,6 +7101,16 @@
       "Gurke und Karotte in feine Streifen schneiden.",
       "Erdnussbutter mit Sojasauce, Limettensaft und etwas Wasser zu einer Sauce verrühren.",
       "Hähnchen und Gemüse in die Salatblätter füllen und mit Sauce beträufeln."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "erdnuss",
+      "soja"
     ]
   },
   {
@@ -5935,6 +7120,7 @@
     "protein": 29,
     "carbs": 9,
     "fat": 14,
+    "servingSizeGrams": 420,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch",
@@ -5972,6 +7158,14 @@
       "Gurke und Radieschen in dünne Scheiben schneiden und mit Rucola mischen.",
       "Joghurt mit Dill, Zitronensaft, Salz und Pfeffer verrühren.",
       "Lachs zerteilen, auf dem Salat anrichten und mit dem Dressing beträufeln."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "fisch"
     ]
   },
   {
@@ -5981,6 +7175,7 @@
     "protein": 25,
     "carbs": 17,
     "fat": 16,
+    "servingSizeGrams": 495,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast",
@@ -6022,6 +7217,15 @@
       "Zwiebel zugeben, dann den Spinat zusammenfallen lassen.",
       "Mit Salz, Pfeffer und Thymian würzen.",
       "Spiegeleier braten und mit dem Brot zur Pilzpfanne servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
     ]
   },
   {
@@ -6031,6 +7235,7 @@
     "protein": 11,
     "carbs": 24,
     "fat": 14,
+    "servingSizeGrams": 430,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "snack",
@@ -6067,6 +7272,14 @@
       "Wassermelone und Gurke in Würfel schneiden.",
       "Feta darüberbröseln.",
       "Mit Kürbiskernen, frischer Minze und etwas Limettensaft servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -6076,6 +7289,7 @@
     "protein": 5,
     "carbs": 41,
     "fat": 9,
+    "servingSizeGrams": 525,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -6117,7 +7331,15 @@
       "Ingwer und 500ml Wasser zugeben, 20 Minuten köcheln lassen.",
       "Kokosmilch zugeben und fein pürieren.",
       "Mit Salz, Pfeffer und Zitronensaft abschmecken."
-    ]
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": []
   },
   {
     "id": "rec_133",
@@ -6126,6 +7348,7 @@
     "protein": 29,
     "carbs": 16,
     "fat": 8,
+    "servingSizeGrams": 425,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "lunch"
@@ -6165,6 +7388,14 @@
       "Orange schälen und filetieren, den Saft auffangen.",
       "Fenchel, Orange, Rucola und Oliven anrichten, Thunfisch darauf verteilen.",
       "Mit Orangensaft, Olivenöl, Salz und Pfeffer beträufeln."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "fisch"
     ]
   },
   {
@@ -6174,6 +7405,7 @@
     "protein": 22,
     "carbs": 7,
     "fat": 10,
+    "servingSizeGrams": 320,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack"
@@ -6209,6 +7441,14 @@
       "Frischkäse mit Dill, Zitronensaft und Pfeffer verrühren.",
       "Streifen mit Frischkäse bestreichen, mit Räucherlachs belegen und aufrollen.",
       "Mit Zahnstochern fixieren und kalt servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "fisch"
     ]
   },
   {
@@ -6218,6 +7458,7 @@
     "protein": 25,
     "carbs": 38,
     "fat": 6,
+    "servingSizeGrams": 225,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "snack"
@@ -6258,6 +7499,15 @@
       "Löffelbiskuit grob brechen und kurz in kalten Espresso tauchen.",
       "Abwechselnd Biskuit und Creme in ein Glas schichten.",
       "Mindestens 2 Stunden kühlen und vor dem Servieren mit Kakao bestäuben."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -6267,6 +7517,7 @@
     "protein": 20,
     "carbs": 34,
     "fat": 23,
+    "servingSizeGrams": 310,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast"
@@ -6302,6 +7553,14 @@
       "Brot toasten und mit zerdrückter Avocado bestreichen.",
       "Mit Tomatenhälften und den pochierten Eiern belegen.",
       "Mit Chiliflocken, Salz und Pfeffer würzen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
     ]
   },
   {
@@ -6311,6 +7570,7 @@
     "protein": 12,
     "carbs": 39,
     "fat": 18,
+    "servingSizeGrams": 265,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast",
@@ -6347,6 +7607,13 @@
       "Brot toasten und mit zerdrückter Avocado bestreichen.",
       "Tomate in Scheiben schneiden und darauflegen.",
       "Feta darüberbröseln, mit Honig beträufeln und mit Pfeffer und Thymian bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -6356,6 +7623,7 @@
     "protein": 31,
     "carbs": 36,
     "fat": 27,
+    "servingSizeGrams": 625,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast",
@@ -6403,6 +7671,15 @@
       "Mit Kreuzkümmel, Paprikapulver und Passierten Tomaten 10 Minuten köcheln lassen.",
       "Mulden in die Sauce drücken, Eier hineinschlagen und zugedeckt 6–8 Minuten stocken lassen.",
       "Feta und Petersilie darübergeben und mit dem Brot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -6412,6 +7689,7 @@
     "protein": 37,
     "carbs": 55,
     "fat": 26,
+    "servingSizeGrams": 470,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -6461,6 +7739,16 @@
       "Lachs in Würfel schneiden und mit Sojasauce und Sesam marinieren.",
       "Gurke, Karotte und Avocado in Scheiben oder Streifen schneiden, Edamame kochen.",
       "Alle Zutaten in Reihen auf dem Reis anrichten."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "fisch",
+      "soja",
+      "sesam"
     ]
   },
   {
@@ -6470,6 +7758,7 @@
     "protein": 25,
     "carbs": 65,
     "fat": 17,
+    "servingSizeGrams": 780,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "dinner"
@@ -6513,6 +7802,14 @@
       "Trocken tupfen, durch verquirltes Ei und Panko ziehen.",
       "In Rapsöl pro Seite 4 Minuten goldbraun braten.",
       "Kartoffeln kochen, in Scheiben schneiden und mit Gurke, Joghurt, Dill und Salz zum Salat mischen."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -6522,6 +7819,7 @@
     "protein": 13,
     "carbs": 36,
     "fat": 13,
+    "servingSizeGrams": 575,
     "prepTimeMinutes": 40,
     "suitableMealTypes": [
       "lunch",
@@ -6567,6 +7865,14 @@
       "Mit Kartoffel und 400ml Wasser 10 Minuten köcheln lassen.",
       "Kokosmilch zugeben und fein pürieren.",
       "Mit Joghurt, gerösteten Kürbiskernen und Pfeffer servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
     ]
   },
   {
@@ -6576,6 +7882,7 @@
     "protein": 22,
     "carbs": 63,
     "fat": 20,
+    "servingSizeGrams": 530,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "lunch",
@@ -6613,6 +7920,13 @@
       "Tomaten und Feta mit Olivenöl in eine Auflaufform geben, würzen und 20 Minuten backen.",
       "Nudeln kochen.",
       "Feta und Tomaten zu einer cremigen Sauce verrühren, Spinat und Nudeln untermischen."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -6622,6 +7936,7 @@
     "protein": 21,
     "carbs": 71,
     "fat": 16,
+    "servingSizeGrams": 515,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch",
@@ -6663,6 +7978,14 @@
       "Tomaten halbieren und 3 Minuten mitbraten.",
       "Spinat unterheben und zusammenfallen lassen.",
       "Mozzarella in Stücken und Pesto zugeben, kurz schmelzen lassen."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "schalenfruechte"
     ]
   },
   {
@@ -6672,6 +7995,7 @@
     "protein": 28,
     "carbs": 61,
     "fat": 15,
+    "servingSizeGrams": 395,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -6709,6 +8033,13 @@
       "Spätzle in einer Pfanne erwärmen.",
       "Käse unterrühren und schmelzen lassen.",
       "Mit Röstzwiebeln bestreuen und mit Salat servieren."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -6718,6 +8049,7 @@
     "protein": 46,
     "carbs": 40,
     "fat": 17,
+    "servingSizeGrams": 405,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast",
@@ -6763,6 +8095,15 @@
       "Eigelbe mit Quark, Mehl, Proteinpulver und Milch zu einem glatten Teig verrühren und das Eiweiß unterheben.",
       "Teig in Rapsöl in einer Pfanne bei mittlerer Hitze von beiden Seiten backen und mit zwei Gabeln in Stücke reißen.",
       "Mit etwas Puderzucker bestäuben und mit Apfelmus servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -6772,6 +8113,7 @@
     "protein": 26,
     "carbs": 28,
     "fat": 23,
+    "servingSizeGrams": 220,
     "prepTimeMinutes": 12,
     "suitableMealTypes": [
       "breakfast"
@@ -6803,6 +8145,14 @@
       "In einer beschichteten Pfanne bei niedriger Hitze unter ständigem Rühren sehr langsam cremig stocken lassen.",
       "Frischkäse unterrühren.",
       "Brioche toasten, das Rührei darauf anrichten und mit Schnittlauch bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
     ]
   },
   {
@@ -6812,6 +8162,7 @@
     "protein": 44,
     "carbs": 37,
     "fat": 11,
+    "servingSizeGrams": 345,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "lunch",
@@ -6861,6 +8212,13 @@
       "In einer heißen Pfanne pro Seite 3–4 Minuten braten, Käse zum Schluss darauf schmelzen lassen.",
       "Brötchen aufschneiden und kurz anrösten.",
       "Mit Joghurt-Sauce, Salat, Tomate, Zwiebel und Gurke belegen."
+    ],
+    "dietTags": [
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -6870,6 +8228,7 @@
     "protein": 22,
     "carbs": 67,
     "fat": 15,
+    "servingSizeGrams": 270,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "lunch",
@@ -6907,6 +8266,11 @@
       "Wraps auf ein Blech legen und mit Schmand bestreichen.",
       "Mit Zwiebelringen und Schinkenstreifen belegen und 8–10 Minuten knusprig backen.",
       "Mit Schnittlauch und Pfeffer bestreuen."
+    ],
+    "dietTags": [],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -6916,6 +8280,7 @@
     "protein": 21,
     "carbs": 38,
     "fat": 10,
+    "servingSizeGrams": 325,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack",
@@ -6957,6 +8322,14 @@
       "Tomaten fein würfeln und mit Olivenöl, Basilikum, Salz und Pfeffer mischen.",
       "Brot mit Hüttenkäse bestreichen und die Tomaten darauf verteilen.",
       "Mit Parmesanspänen servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
     ]
   },
   {
@@ -6966,6 +8339,7 @@
     "protein": 19,
     "carbs": 54,
     "fat": 8,
+    "servingSizeGrams": 350,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "snack"
@@ -7006,6 +8380,14 @@
       "Haferflocken, Mandeln und Honig in einer Pfanne goldbraun rösten (Crumble).",
       "Quark mit Vanille glatt rühren.",
       "Apfel, Quark und Crumble abwechselnd in ein Glas schichten."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "schalenfruechte"
     ]
   }
 ]
