@@ -1,0 +1,426 @@
+[
+  {
+    "id": "rec_001",
+    "title": "Beeren-Protein-Quark",
+    "calories": 320,
+    "protein": 38,
+    "carbs": 26,
+    "fat": 5,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_001_protein_quark.jpg",
+    "ingredients": [
+      {
+        "name": "Magerquark",
+        "amount": "250g"
+      },
+      {
+        "name": "Tiefkühl-Beerenmix",
+        "amount": "100g"
+      },
+      {
+        "name": "Chiasamen",
+        "amount": "10g"
+      },
+      {
+        "name": "Flavdrops / Süße",
+        "amount": "3 Tropfen"
+      }
+    ],
+    "instructions": [
+      "Magerquark mit einem Schluck Wasser oder Sprudelwasser cremig rühren.",
+      "Beeren kurz antauen lassen und zusammen mit den Chiasamen untermengen.",
+      "Nach Belieben süßen und frisch servieren."
+    ]
+  },
+  {
+    "id": "rec_002",
+    "title": "Hähnchen-Reis-Bowl",
+    "calories": 580,
+    "protein": 52,
+    "carbs": 64,
+    "fat": 12,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_002_haehnchen_reis.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "200g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "75g"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "150g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 EL"
+      }
+    ],
+    "instructions": [
+      "Reis in leicht gesalzenem Wasser kochen.",
+      "Brokkoli in kleine Röschen teilen und 6–8 Minuten dämpfen.",
+      "Hähnchenbrust würfeln, in Olivenöl scharf anbraten und mit Sojasauce ablöschen.",
+      "Alles zusammen in einer Bowl anrichten."
+    ]
+  },
+  {
+    "id": "rec_003",
+    "title": "Lachs mit buntem Ofengemüse",
+    "calories": 490,
+    "protein": 42,
+    "carbs": 18,
+    "fat": 28,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_003_lachs_gemuese.jpg",
+    "ingredients": [
+      {
+        "name": "Lachsfilet",
+        "amount": "180g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200°C Ober-/Unterhitze vorheizen.",
+      "Gemüse mundgerecht schneiden, auf dem Blech verteilen und mit Olivenöl beträufeln.",
+      "Lachsfilet mit Pfeffer, Meersalz und Zitrone würzen und zum Gemüse legen.",
+      "18–20 Minuten im Ofen backen, bis der Lachs saftig gegart ist."
+    ]
+  },
+  {
+    "id": "rec_004",
+    "title": "Apfelringe mit Erdnussbutter",
+    "calories": 210,
+    "protein": 7,
+    "carbs": 24,
+    "fat": 9,
+    "prepTimeMinutes": 3,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_004_apfel_erdnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Apfel",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Erdnussbutter (100% Erdnuss)",
+        "amount": "15g (ca. 1 TL)"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Den Apfel entkernen und in ca. 1 cm dicke Scheiben schneiden.",
+      "Gleichmäßig mit Erdnussbutter bestreichen.",
+      "Mit etwas Zimt bestreuen."
+    ]
+  },
+  {
+    "id": "rec_005",
+    "title": "Cremiger Protein-Porridge",
+    "calories": 410,
+    "protein": 34,
+    "carbs": 52,
+    "fat": 7,
+    "prepTimeMinutes": 8,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_005_haferflocken_beeren.jpg",
+    "ingredients": [
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "60g"
+      },
+      {
+        "name": "Whey Protein Pulver (Vanille)",
+        "amount": "30g"
+      },
+      {
+        "name": "Wasser oder fettarme Milch",
+        "amount": "250ml"
+      },
+      {
+        "name": "Heidelbeeren",
+        "amount": "50g"
+      }
+    ],
+    "instructions": [
+      "Haferflocken mit Wasser/Milch in einem Topf unter Rühren kurz aufkochen lassen.",
+      "Topf von der Herdplatte nehmen und 2 Minuten abkühlen lassen.",
+      "Proteinpulver mit einem Schneebesen einrühren, bis eine cremige Konsistenz entsteht.",
+      "In eine Schale füllen und mit Heidelbeeren toppen."
+    ]
+  },
+  {
+    "id": "rec_006",
+    "title": "Rinderhack mit Süßkartoffel",
+    "calories": 540,
+    "protein": 46,
+    "carbs": 55,
+    "fat": 14,
+    "prepTimeMinutes": 22,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_006_rinderhack_suesskartoffel.jpg",
+    "ingredients": [
+      {
+        "name": "Mageres Rinderhackfleisch (<5% Fett)",
+        "amount": "180g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": "200g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "100g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Süßkartoffel schälen, in kleine Würfel schneiden und in der Pfanne mit Deckel ca. 10 Minuten weich dünsten.",
+      "Hackfleisch dazugeben und scharf anbraten.",
+      "Blattspinat hinzugeben und zusammenfallen lassen.",
+      "Mit Paprikapulver, Salz und Pfeffer abschmecken."
+    ]
+  },
+  {
+    "id": "rec_007",
+    "title": "Thunfisch-Quinoa-Salat",
+    "calories": 430,
+    "protein": 40,
+    "carbs": 44,
+    "fat": 10,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_007_thunfisch_quinoa.jpg",
+    "ingredients": [
+      {
+        "name": "Thunfisch im eigenen Saft (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Quinoa (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Salatgurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "1 EL"
+      }
+    ],
+    "instructions": [
+      "Quinoa heiß abspülen und in doppelt so viel Wasser ca. 12 Minuten garen, dann abkühlen lassen.",
+      "Gurke würfeln und Kirschtomaten halbieren.",
+      "Thunfisch abtropfen lassen und mit einer Gabel zerzupfen.",
+      "Alles mit Olivenöl und Zitronensaft vermengen und mit Salz und Pfeffer abschmecken."
+    ]
+  },
+  {
+    "id": "rec_008",
+    "title": "Rührei-Toast mit Avocado",
+    "calories": 430,
+    "protein": 30,
+    "carbs": 34,
+    "fat": 18,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_008_ruehrei_avocado_toast.jpg",
+    "ingredients": [
+      {
+        "name": "Eier (Größe M)",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Eiklar",
+        "amount": "100g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "2 Scheiben (80g)"
+      },
+      {
+        "name": "Avocado",
+        "amount": "50g"
+      }
+    ],
+    "instructions": [
+      "Eier und Eiklar verquirlen, salzen und pfeffern.",
+      "In einer beschichteten Pfanne bei mittlerer Hitze unter Rühren stocken lassen.",
+      "Vollkornbrot toasten und die Avocado in Scheiben schneiden.",
+      "Rührei auf dem Brot anrichten und mit Avocado belegen."
+    ]
+  },
+  {
+    "id": "rec_009",
+    "title": "Rotes Linsen-Curry",
+    "calories": 380,
+    "protein": 22,
+    "carbs": 51,
+    "fat": 8,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_009_linsen_curry.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Linsen (ungekocht)",
+        "amount": "70g"
+      },
+      {
+        "name": "Kokosmilch light",
+        "amount": "100ml"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "100g"
+      },
+      {
+        "name": "Gehackte Tomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Zwiebel fein würfeln und mit dem Currypulver in einem Topf kurz anrösten.",
+      "Linsen, Tomaten und 200ml Wasser zugeben und ca. 12 Minuten köcheln lassen.",
+      "Kokosmilch und Spinat unterrühren und 2–3 Minuten ziehen lassen.",
+      "Mit Salz und Pfeffer abschmecken."
+    ]
+  },
+  {
+    "id": "rec_010",
+    "title": "Skyr mit Banane und Mandeln",
+    "calories": 270,
+    "protein": 25,
+    "carbs": 29,
+    "fat": 6,
+    "prepTimeMinutes": 3,
+    "suitableMealTypes": [
+      "snack",
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_010_skyr_banane_mandeln.jpg",
+    "ingredients": [
+      {
+        "name": "Skyr natur",
+        "amount": "200g"
+      },
+      {
+        "name": "Banane",
+        "amount": "100g (ca. 1 kleine)"
+      },
+      {
+        "name": "Mandeln",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Skyr in eine Schale geben.",
+      "Banane in Scheiben schneiden und darauf verteilen.",
+      "Mandeln grob hacken und darüberstreuen."
+    ]
+  }
+]
