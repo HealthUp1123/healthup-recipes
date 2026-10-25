@@ -1747,5 +1747,1315 @@
       "Paprika in Streifen schneiden.",
       "Eier halbieren und mit Paprika und Hummus servieren."
     ]
+  },
+  {
+    "id": "rec_041",
+    "title": "Grüner Protein-Smoothie",
+    "calories": 340,
+    "protein": 36,
+    "carbs": 28,
+    "fat": 8,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_041_gruener_protein_smoothie.jpg",
+    "ingredients": [
+      {
+        "name": "Babyspinat",
+        "amount": "60g"
+      },
+      {
+        "name": "Banane",
+        "amount": "100g (ca. 1 kleine)"
+      },
+      {
+        "name": "Whey Protein Pulver (Vanille)",
+        "amount": "30g"
+      },
+      {
+        "name": "Sojamilch (ungesüßt)",
+        "amount": "250ml"
+      },
+      {
+        "name": "Chiasamen",
+        "amount": "5g"
+      }
+    ],
+    "instructions": [
+      "Alle Zutaten in einen Hochleistungsmixer geben.",
+      "1 Minute fein pürieren.",
+      "Sofort servieren oder mit Eiswürfeln aufgießen."
+    ]
+  },
+  {
+    "id": "rec_042",
+    "title": "Beeren-Skyr-Smoothie",
+    "calories": 305,
+    "protein": 26,
+    "carbs": 37,
+    "fat": 5,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_042_beeren_skyr_smoothie.jpg",
+    "ingredients": [
+      {
+        "name": "Tiefkühl-Beerenmix",
+        "amount": "150g"
+      },
+      {
+        "name": "Skyr natur",
+        "amount": "150g"
+      },
+      {
+        "name": "Fettarme Milch (1,5 %)",
+        "amount": "150ml"
+      },
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "20g"
+      }
+    ],
+    "instructions": [
+      "Beeren, Skyr, Milch und Haferflocken in den Mixer geben.",
+      "Cremig pürieren und sofort trinken."
+    ]
+  },
+  {
+    "id": "rec_043",
+    "title": "Schoko-Erdnuss-Protein-Shake",
+    "calories": 400,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 11,
+    "prepTimeMinutes": 3,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_043_schoko_erdnuss_shake.jpg",
+    "ingredients": [
+      {
+        "name": "Whey Protein Pulver",
+        "amount": "30g"
+      },
+      {
+        "name": "Banane",
+        "amount": "100g (ca. 1 kleine)"
+      },
+      {
+        "name": "Fettarme Milch (1,5 %)",
+        "amount": "250ml"
+      },
+      {
+        "name": "Erdnussbutter (100% Erdnuss)",
+        "amount": "10g"
+      },
+      {
+        "name": "Kakaopulver (ungesüßt)",
+        "amount": "5g"
+      }
+    ],
+    "instructions": [
+      "Alle Zutaten in einen Mixer geben.",
+      "30 Sekunden cremig mixen und sofort servieren."
+    ]
+  },
+  {
+    "id": "rec_044",
+    "title": "Mango-Joghurt-Smoothie",
+    "calories": 220,
+    "protein": 17,
+    "carbs": 36,
+    "fat": 1,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_044_mango_joghurt_smoothie.jpg",
+    "ingredients": [
+      {
+        "name": "Mango (frisch oder TK)",
+        "amount": "150g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "150g"
+      },
+      {
+        "name": "Orange",
+        "amount": "100g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "50ml"
+      }
+    ],
+    "instructions": [
+      "Mango in Stücke schneiden, Orange schälen.",
+      "Alles mit Joghurt und Wasser fein pürieren.",
+      "Sofort servieren."
+    ]
+  },
+  {
+    "id": "rec_045",
+    "title": "Beeren-Smoothie-Bowl",
+    "calories": 355,
+    "protein": 18,
+    "carbs": 48,
+    "fat": 8,
+    "prepTimeMinutes": 8,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_045_beeren_smoothie_bowl.jpg",
+    "ingredients": [
+      {
+        "name": "Tiefkühl-Beerenmix",
+        "amount": "150g"
+      },
+      {
+        "name": "Banane (gefroren)",
+        "amount": "100g"
+      },
+      {
+        "name": "Skyr natur",
+        "amount": "100g"
+      },
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "20g"
+      },
+      {
+        "name": "Mandeln",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Beeren, Banane und Skyr in einem Mixer sehr dick pürieren (nur wenig Flüssigkeit).",
+      "In eine Schale füllen.",
+      "Mit Haferflocken und gehackten Mandeln toppen."
+    ]
+  },
+  {
+    "id": "rec_046",
+    "title": "Protein-Bananen-Eis",
+    "calories": 270,
+    "protein": 27,
+    "carbs": 34,
+    "fat": 3,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_046_protein_bananen_eis.jpg",
+    "ingredients": [
+      {
+        "name": "Banane (gefroren)",
+        "amount": "150g"
+      },
+      {
+        "name": "Whey Protein Pulver (Vanille)",
+        "amount": "30g"
+      },
+      {
+        "name": "Fettarme Milch (1,5 %)",
+        "amount": "50ml"
+      }
+    ],
+    "instructions": [
+      "Banane in Scheiben schneiden und mindestens 4 Stunden einfrieren.",
+      "Mit Proteinpulver und Milch im Mixer cremig pürieren.",
+      "Direkt als Softeis essen oder 30 Minuten einfrieren."
+    ]
+  },
+  {
+    "id": "rec_047",
+    "title": "Erdbeer-Joghurt-Eis",
+    "calories": 165,
+    "protein": 16,
+    "carbs": 23,
+    "fat": 1,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_047_erdbeer_joghurt_eis.jpg",
+    "ingredients": [
+      {
+        "name": "Erdbeeren (gefroren)",
+        "amount": "150g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "150g"
+      },
+      {
+        "name": "Honig",
+        "amount": "1 TL (10g)"
+      }
+    ],
+    "instructions": [
+      "Gefrorene Erdbeeren mit Joghurt und Honig fein pürieren.",
+      "Sofort als Softeis servieren oder 1 Stunde einfrieren.",
+      "Vor dem Servieren kurz antauen lassen."
+    ]
+  },
+  {
+    "id": "rec_048",
+    "title": "Schoko-Protein-Eis",
+    "calories": 255,
+    "protein": 39,
+    "carbs": 13,
+    "fat": 4,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_048_schoko_protein_eis.jpg",
+    "ingredients": [
+      {
+        "name": "Magerquark",
+        "amount": "150g"
+      },
+      {
+        "name": "Whey Protein Pulver (Schoko)",
+        "amount": "20g"
+      },
+      {
+        "name": "Kakaopulver (ungesüßt)",
+        "amount": "10g"
+      },
+      {
+        "name": "Fettarme Milch (1,5 %)",
+        "amount": "100ml"
+      }
+    ],
+    "instructions": [
+      "Alle Zutaten glatt verrühren und in einen Becher füllen.",
+      "Mindestens 6 Stunden einfrieren.",
+      "Vor dem Servieren 10 Minuten antauen lassen und zu Kugeln formen."
+    ]
+  },
+  {
+    "id": "rec_049",
+    "title": "Mango-Lassi-Eis",
+    "calories": 190,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 1,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_049_mango_lassi_eis.jpg",
+    "ingredients": [
+      {
+        "name": "Mango (gefroren)",
+        "amount": "200g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "100g"
+      },
+      {
+        "name": "Honig",
+        "amount": "1 TL (5g)"
+      }
+    ],
+    "instructions": [
+      "Gefrorene Mango mit Joghurt und Honig im Mixer cremig pürieren.",
+      "Sofort servieren oder kurz einfrieren."
+    ]
+  },
+  {
+    "id": "rec_050",
+    "title": "Airfryer-Hähnchen mit Süßkartoffel-Wedges",
+    "calories": 490,
+    "protein": 51,
+    "carbs": 52,
+    "fat": 8,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_050_airfryer_haehnchen_wedges.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "180g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": "250g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Magerquark (für den Dip)",
+        "amount": "50g"
+      },
+      {
+        "name": "Paprikapulver",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Süßkartoffel in Spalten schneiden, mit Rapsöl und Paprikapulver mischen.",
+      "Im Airfryer bei 200°C 20 Minuten garen, zwischendurch wenden.",
+      "Hähnchen würzen und die letzten 12 Minuten mitgaren.",
+      "Quark mit Salz und Kräutern zu einem Dip rühren und dazu servieren."
+    ]
+  },
+  {
+    "id": "rec_051",
+    "title": "Airfryer-Lachs mit Brokkoli und Kartoffeln",
+    "calories": 535,
+    "protein": 41,
+    "carbs": 30,
+    "fat": 27,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_051_airfryer_lachs_brokkoli.jpg",
+    "ingredients": [
+      {
+        "name": "Lachsfilet",
+        "amount": "160g"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "200g"
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": "150g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Zitrone",
+        "amount": "1 Spalte"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln würfeln und im Airfryer bei 200°C 10 Minuten vorgaren.",
+      "Brokkoli mit Olivenöl mischen und zu den Kartoffeln geben.",
+      "Lachs würzen, daraufsetzen und weitere 8–10 Minuten garen.",
+      "Mit Zitrone beträufeln."
+    ]
+  },
+  {
+    "id": "rec_052",
+    "title": "Airfryer-Kichererbsen-Crunch",
+    "calories": 225,
+    "protein": 10,
+    "carbs": 27,
+    "fat": 9,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_052_airfryer_kichererbsen.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (Dose, abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Paprikapulver (geräuchert)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Kichererbsen abspülen und gründlich trocken tupfen.",
+      "Mit Olivenöl und Gewürzen mischen.",
+      "Im Airfryer bei 200°C 12–15 Minuten knusprig garen, zwischendurch schütteln."
+    ]
+  },
+  {
+    "id": "rec_053",
+    "title": "Airfryer-Zucchini-Pommes mit Parmesan",
+    "calories": 190,
+    "protein": 14,
+    "carbs": 17,
+    "fat": 6,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "snack",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_053_airfryer_zucchini_pommes.jpg",
+    "ingredients": [
+      {
+        "name": "Zucchini",
+        "amount": "250g"
+      },
+      {
+        "name": "Parmesan",
+        "amount": "15g"
+      },
+      {
+        "name": "Eiklar",
+        "amount": "30g"
+      },
+      {
+        "name": "Zarte Haferflocken (gemahlen)",
+        "amount": "20g"
+      }
+    ],
+    "instructions": [
+      "Zucchini in Pommes-Streifen schneiden.",
+      "Erst durch das Eiklar, dann durch die Mischung aus gemahlenen Haferflocken und Parmesan ziehen.",
+      "Im Airfryer bei 190°C 12 Minuten knusprig garen."
+    ]
+  },
+  {
+    "id": "rec_054",
+    "title": "Airfryer-Protein-Nuggets",
+    "calories": 355,
+    "protein": 55,
+    "carbs": 19,
+    "fat": 5,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_054_airfryer_nuggets.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "180g"
+      },
+      {
+        "name": "Eiklar",
+        "amount": "30g"
+      },
+      {
+        "name": "Zarte Haferflocken (gemahlen)",
+        "amount": "25g"
+      },
+      {
+        "name": "Gemischter Blattsalat",
+        "amount": "100g"
+      },
+      {
+        "name": "Magerquark (für den Dip)",
+        "amount": "50g"
+      }
+    ],
+    "instructions": [
+      "Hähnchen in mundgerechte Stücke schneiden und würzen.",
+      "Erst im Eiklar, dann in gemahlenen Haferflocken wenden.",
+      "Im Airfryer bei 190°C 12 Minuten garen, nach der Hälfte wenden.",
+      "Mit Salat und Quark-Dip servieren."
+    ]
+  },
+  {
+    "id": "rec_055",
+    "title": "Airfryer-Falafel-Bowl",
+    "calories": 305,
+    "protein": 19,
+    "carbs": 45,
+    "fat": 5,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_055_airfryer_falafel_bowl.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (Dose, abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "15g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "50g"
+      }
+    ],
+    "instructions": [
+      "Kichererbsen, Zwiebel, Haferflocken und Gewürze (Kreuzkümmel, Petersilie) grob pürieren.",
+      "Kleine Bällchen formen.",
+      "Im Airfryer bei 190°C 12 Minuten garen.",
+      "Mit Gurke, Tomate und Joghurt-Dip in einer Bowl anrichten."
+    ]
+  },
+  {
+    "id": "rec_056",
+    "title": "Airfryer-Garnelen-Spieße mit Reis",
+    "calories": 410,
+    "protein": 34,
+    "carbs": 49,
+    "fat": 8,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_056_airfryer_garnelen_spiesse.jpg",
+    "ingredients": [
+      {
+        "name": "Garnelen (geschält)",
+        "amount": "150g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "200g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "100g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "50g"
+      }
+    ],
+    "instructions": [
+      "Reis in Salzwasser kochen.",
+      "Garnelen, Zucchini und Paprika abwechselnd auf Spieße stecken und mit Olivenöl und Gewürzen bestreichen.",
+      "Im Airfryer bei 200°C 8–10 Minuten garen.",
+      "Mit dem Reis servieren."
+    ]
+  },
+  {
+    "id": "rec_057",
+    "title": "Airfryer-Tofu mit Reis und Brokkoli",
+    "calories": 490,
+    "protein": 29,
+    "carbs": 55,
+    "fat": 17,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_057_airfryer_tofu_reis.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu natur",
+        "amount": "150g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "150g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "2 TL (10ml)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (5ml)"
+      }
+    ],
+    "instructions": [
+      "Tofu abtupfen, würfeln und mit Sojasauce und Rapsöl mischen.",
+      "Im Airfryer bei 200°C 15 Minuten knusprig garen, zwischendurch schütteln.",
+      "Reis kochen, Brokkoli dämpfen.",
+      "Alles in einer Schale anrichten."
+    ]
+  },
+  {
+    "id": "rec_058",
+    "title": "Airfryer-Kartoffelspalten mit Kräuterquark",
+    "calories": 320,
+    "protein": 23,
+    "carbs": 44,
+    "fat": 6,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "snack",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_058_airfryer_kartoffelspalten.jpg",
+    "ingredients": [
+      {
+        "name": "Kartoffeln",
+        "amount": "250g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Magerquark",
+        "amount": "150g"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": "1 EL"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln in Spalten schneiden und mit Olivenöl und Salz mischen.",
+      "Im Airfryer bei 200°C 20 Minuten knusprig garen.",
+      "Magerquark mit Schnittlauch, Salz und Pfeffer verrühren und dazu servieren."
+    ]
+  },
+  {
+    "id": "rec_059",
+    "title": "Protein-Overnight-Oats Schoko-Banane",
+    "calories": 465,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 9,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_059_protein_overnight_oats_schoko.jpg",
+    "ingredients": [
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "50g"
+      },
+      {
+        "name": "Whey Protein Pulver (Schoko)",
+        "amount": "25g"
+      },
+      {
+        "name": "Fettarme Milch (1,5 %)",
+        "amount": "150ml"
+      },
+      {
+        "name": "Banane",
+        "amount": "80g"
+      },
+      {
+        "name": "Kakaopulver (ungesüßt)",
+        "amount": "5g"
+      },
+      {
+        "name": "Chiasamen",
+        "amount": "5g"
+      }
+    ],
+    "instructions": [
+      "Haferflocken, Proteinpulver, Kakao, Chiasamen und Milch in einem Glas verrühren.",
+      "Über Nacht im Kühlschrank quellen lassen.",
+      "Mit Bananenscheiben toppen."
+    ]
+  },
+  {
+    "id": "rec_060",
+    "title": "Protein-Tassenkuchen Schoko",
+    "calories": 405,
+    "protein": 33,
+    "carbs": 34,
+    "fat": 13,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "snack",
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_060_protein_tassenkuchen.jpg",
+    "ingredients": [
+      {
+        "name": "Zarte Haferflocken (gemahlen)",
+        "amount": "30g"
+      },
+      {
+        "name": "Whey Protein Pulver (Schoko)",
+        "amount": "25g"
+      },
+      {
+        "name": "Kakaopulver (ungesüßt)",
+        "amount": "8g"
+      },
+      {
+        "name": "Ei (Größe M)",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Banane (zerdrückt)",
+        "amount": "50g"
+      },
+      {
+        "name": "Dunkle Schokolade (70 %)",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Alle Zutaten außer der Schokolade in einer großen Tasse zu einem glatten Teig verrühren.",
+      "Schokolade grob hacken und unterheben.",
+      "In der Mikrowelle 90 Sekunden bei 800 Watt garen.",
+      "Kurz abkühlen lassen und aus der Tasse essen."
+    ]
+  },
+  {
+    "id": "rec_061",
+    "title": "Protein-Pizza mit Quarkteig",
+    "calories": 420,
+    "protein": 40,
+    "carbs": 48,
+    "fat": 6,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_061_protein_pizza.jpg",
+    "ingredients": [
+      {
+        "name": "Magerquark",
+        "amount": "100g"
+      },
+      {
+        "name": "Vollkornmehl",
+        "amount": "60g"
+      },
+      {
+        "name": "Mozzarella light",
+        "amount": "40g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "60g"
+      },
+      {
+        "name": "Putenbrust (Aufschnitt)",
+        "amount": "50g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "40g"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200°C Ober-/Unterhitze vorheizen.",
+      "Quark, Mehl und eine Prise Salz zu einem Teig kneten und dünn ausrollen.",
+      "Mit Passierten Tomaten bestreichen und mit Pute, Paprika und Mozzarella belegen.",
+      "15 Minuten goldbraun backen."
+    ]
+  },
+  {
+    "id": "rec_062",
+    "title": "Hüttenkäse-Fladenbrot",
+    "calories": 310,
+    "protein": 32,
+    "carbs": 8,
+    "fat": 16,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "morning",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_062_huettenkaese_fladenbrot.jpg",
+    "ingredients": [
+      {
+        "name": "Hüttenkäse (fettarm)",
+        "amount": "150g"
+      },
+      {
+        "name": "Eier (Größe M)",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Tomate",
+        "amount": "50g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "30g"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200°C Ober-/Unterhitze vorheizen.",
+      "Hüttenkäse und Eier mit Salz und Pfeffer im Mixer glatt pürieren.",
+      "Auf einem mit Backpapier belegten Blech dünn verstreichen und 25 Minuten backen.",
+      "Mit Tomate und Avocado belegen."
+    ]
+  },
+  {
+    "id": "rec_063",
+    "title": "Protein-Cheesecake im Glas",
+    "calories": 320,
+    "protein": 38,
+    "carbs": 34,
+    "fat": 2,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_063_protein_cheesecake_glas.jpg",
+    "ingredients": [
+      {
+        "name": "Skyr natur",
+        "amount": "200g"
+      },
+      {
+        "name": "Magerquark",
+        "amount": "100g"
+      },
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "20g"
+      },
+      {
+        "name": "Beerenmix",
+        "amount": "80g"
+      },
+      {
+        "name": "Honig",
+        "amount": "1 TL (5g)"
+      }
+    ],
+    "instructions": [
+      "Skyr, Quark und Honig glatt verrühren.",
+      "Haferflocken als Boden in ein Glas geben.",
+      "Creme darauf verteilen und mit Beeren toppen.",
+      "Vor dem Servieren 30 Minuten kühlen."
+    ]
+  },
+  {
+    "id": "rec_064",
+    "title": "High-Protein-Chili con Carne",
+    "calories": 405,
+    "protein": 44,
+    "carbs": 34,
+    "fat": 9,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_064_protein_chili.jpg",
+    "ingredients": [
+      {
+        "name": "Mageres Rinderhackfleisch (<5% Fett)",
+        "amount": "150g"
+      },
+      {
+        "name": "Kidneybohnen (Dose, abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Mais (Dose)",
+        "amount": "40g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "80g"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Paprika würfeln und in einem Topf anbraten.",
+      "Hack zugeben und krümelig braten.",
+      "Bohnen, Mais, Passierte Tomaten und Gewürze (Chili, Kreuzkümmel, Paprikapulver) zugeben.",
+      "20 Minuten köcheln lassen."
+    ]
+  },
+  {
+    "id": "rec_065",
+    "title": "Hähnchen-Burrito-Bowl",
+    "calories": 530,
+    "protein": 47,
+    "carbs": 60,
+    "fat": 10,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_065_haehnchen_burrito_bowl.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "150g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Kidneybohnen (Dose, abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Mais (Dose)",
+        "amount": "40g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "40g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "80g"
+      }
+    ],
+    "instructions": [
+      "Reis kochen.",
+      "Hähnchen würzen (Paprika, Kreuzkümmel) und in der Pfanne braten, dann in Streifen schneiden.",
+      "Alle Zutaten in einer Bowl anrichten und mit Limettensaft beträufeln."
+    ]
+  },
+  {
+    "id": "rec_066",
+    "title": "Thunfisch-Gurken-Boote",
+    "calories": 210,
+    "protein": 31,
+    "carbs": 7,
+    "fat": 6,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "snack",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_066_thunfisch_gurken_boote.jpg",
+    "ingredients": [
+      {
+        "name": "Thunfisch im eigenen Saft (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Salatgurke",
+        "amount": "200g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "40g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "30g"
+      }
+    ],
+    "instructions": [
+      "Gurke halbieren und mit einem Löffel aushöhlen.",
+      "Thunfisch mit Joghurt und zerdrückter Avocado verrühren und würzen.",
+      "Die Mischung in die Gurkenhälften füllen."
+    ]
+  },
+  {
+    "id": "rec_067",
+    "title": "Protein-Porridge Apfel-Zimt",
+    "calories": 425,
+    "protein": 34,
+    "carbs": 53,
+    "fat": 8,
+    "prepTimeMinutes": 8,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_067_protein_porridge_apfel_zimt.jpg",
+    "ingredients": [
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "50g"
+      },
+      {
+        "name": "Whey Protein Pulver (Vanille)",
+        "amount": "25g"
+      },
+      {
+        "name": "Fettarme Milch (1,5 %)",
+        "amount": "200ml"
+      },
+      {
+        "name": "Apfel",
+        "amount": "100g"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Haferflocken mit Milch unter Rühren aufkochen.",
+      "Topf vom Herd nehmen und kurz abkühlen lassen.",
+      "Proteinpulver einrühren.",
+      "Mit gewürfeltem Apfel und Zimt toppen."
+    ]
+  },
+  {
+    "id": "rec_068",
+    "title": "Ofen-Hähnchen mit Gemüse (Blechgericht)",
+    "calories": 430,
+    "protein": 48,
+    "carbs": 37,
+    "fat": 8,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_068_ofen_haehnchen_blech.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "180g"
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": "200g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "100g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "100g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (5ml)"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200°C Ober-/Unterhitze vorheizen.",
+      "Kartoffeln würfeln, Gemüse in Stücke schneiden und auf einem Blech mit Olivenöl mischen.",
+      "Hähnchen würzen und dazulegen.",
+      "25–30 Minuten backen."
+    ]
+  },
+  {
+    "id": "rec_069",
+    "title": "Rührei-Muffins mit Spinat und Feta",
+    "calories": 315,
+    "protein": 29,
+    "carbs": 5,
+    "fat": 19,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_069_ruehrei_muffins.jpg",
+    "ingredients": [
+      {
+        "name": "Eier (Größe M)",
+        "amount": "3 Stück"
+      },
+      {
+        "name": "Eiklar",
+        "amount": "50g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "60g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "40g"
+      },
+      {
+        "name": "Feta",
+        "amount": "20g"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 180°C Ober-/Unterhitze vorheizen.",
+      "Eier und Eiklar verquirlen und würzen.",
+      "Paprika, Spinat und Feta in eine Muffinform verteilen und die Eiermasse darübergießen.",
+      "20 Minuten backen."
+    ]
+  },
+  {
+    "id": "rec_070",
+    "title": "Protein-Energy-Balls",
+    "calories": 305,
+    "protein": 21,
+    "carbs": 27,
+    "fat": 11,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_070_protein_energy_balls.jpg",
+    "ingredients": [
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "30g"
+      },
+      {
+        "name": "Erdnussbutter (100% Erdnuss)",
+        "amount": "15g"
+      },
+      {
+        "name": "Whey Protein Pulver (Schoko)",
+        "amount": "15g"
+      },
+      {
+        "name": "Honig",
+        "amount": "1 TL (8g)"
+      },
+      {
+        "name": "Kakaopulver (ungesüßt)",
+        "amount": "5g"
+      },
+      {
+        "name": "Fettarme Milch (1,5 %)",
+        "amount": "10ml"
+      }
+    ],
+    "instructions": [
+      "Alle Zutaten zu einer formbaren Masse verkneten.",
+      "Daraus 4 kleine Kugeln formen.",
+      "Mindestens 30 Minuten kalt stellen."
+    ]
   }
 ]
