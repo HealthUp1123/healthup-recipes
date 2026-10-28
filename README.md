@@ -2,7 +2,7 @@
 
 Remote-Datenspeicher für die Rezeptvorschläge der iOS-App **HealthUp+**. Das Repository dient als Content Delivery Network (CDN): Die App lädt `recipes.json` und die Rezeptbilder zur Laufzeit per HTTPS.
 
-Aktueller Stand: **200 Rezepte** (siehe `meta.json`, Schema-Version 2).
+Aktueller Stand: **400 Rezepte** (siehe `meta.json`, Schema-Version 3).
 
 ## Struktur
 
@@ -19,8 +19,8 @@ healthup-recipes/
 
 1. **Keine Doppeleinträge.** Weder gleiche oder ähnliche Titel noch gleiche Rezepte unter anderem Namen, noch doppelte IDs oder Bilder.
 2. **Immer fotorealistische Bilder.** Jedes Bild ist KI-generiert, fotorealistisch, appetitlich und wird einzeln geprüft, ob es zum Gericht passt. Keine Texte, Logos, Personen oder Hände. Ein Bild, das nicht perfekt ist, wird neu erzeugt.
-3. **Alle Nährwerte gelten pro Portion.** `calories`, `protein`, `carbs` und `fat` beziehen sich auf genau eine Portion. `servingSizeGrams` gibt das ungefähre Gewicht der fertig zubereiteten Portion in Gramm an, damit man weder zu viel noch zu wenig isst.
-4. **Nährwerte nachvollziehbar berechnen.** Aus den Zutatengrammen mit Standard-Nährwerttabellen, mit Plausibilitätsprüfung (Kalorien ≈ Eiweiß×4 + Kohlenhydrate×4 + Fett×9).
+3. **Alle Nährwerte gelten pro Portion.** `calories`, `protein`, `carbs`, `fiber` und `fat` beziehen sich auf genau eine Portion. `servingSizeGrams` gibt das ungefähre Gewicht der fertig zubereiteten Portion in Gramm an, damit man weder zu viel noch zu wenig isst.
+4. **Nährwerte nachvollziehbar berechnen.** Aus den Zutatengrammen mit Standard-Nährwerttabellen, mit Plausibilitätsprüfung (Kalorien ≈ Eiweiß×4 + Kohlenhydrate×4 + Fett×9). Ballaststoffe (`fiber`) werden separat aus den Zutatengrammen berechnet und auf ganze Gramm gerundet; sie sind nicht von `carbs` abgezogen.
 5. **Schema nur erweitern.** Felder werden hinzugefügt, aber nie umbenannt oder entfernt. IDs werden nie wiederverwendet.
 6. **Ernährungsform und Allergene** werden pro Rezept aus den Zutaten abgeleitet (`dietTags`, `allergens`).
 7. **Qualitätscheck vor jedem Upload:** JSON gültig, alle Bild-URLs erreichbar, keine Doppelten, Nährwerte plausibel.
@@ -39,13 +39,14 @@ healthup-recipes/
 | `id` | String | Eindeutige Kennung, z. B. `rec_001` |
 | `title` | String | Name des Gerichts |
 | `calories`, `protein`, `carbs`, `fat` | Int | Pro Portion (kcal bzw. Gramm) |
+| `fiber` | Int | Ballaststoffe pro Portion in Gramm |
 | `servingSizeGrams` | Int | Ungefähres Gewicht einer fertig zubereiteten Portion in Gramm |
 | `prepTimeMinutes` | Int | Zubereitungsdauer |
 | `suitableMealTypes` | [String] | `breakfast`, `lunch`, `dinner`, `snack` |
 | `timeOfDay` | [String] | `morning` (06:00–10:30), `noon` (11:30–14:30), `afternoon` (15:00–17:30), `evening` (18:00–22:00) |
 | `imageUrl` | String | Raw-URL zum Bild |
 | `dietTags` | [String] | z. B. `vegetarisch`, `vegan`, `glutenfrei`, `laktosefrei`, `high-protein`, `kalorienarm` |
-| `allergens` | [String] | z. B. `gluten`, `milch`, `ei`, `fisch`, `krebstiere`, `schalenfruechte`, `erdnuss`, `soja`, `sesam`, `sellerie` |
+| `allergens` | [String] | z. B. `gluten`, `milch`, `ei`, `fisch`, `krebstiere`, `schalenfruechte`, `erdnuss`, `soja`, `sesam`, `sellerie`, `senf`, `weichtiere` |
 | `ingredients` | [{`name`, `amount`}] | Zutaten mit Mengenangabe |
 | `instructions` | [String] | Geordnete Zubereitungsschritte |
 
@@ -71,3 +72,5 @@ Die Nährwerte und das Portionsgewicht sind Richtwerte, berechnet aus Standard-N
 
 - 2026-10-25: Schema 2 (`servingSizeGrams`, `dietTags`, `allergens`), 150 Rezepte (rec_001–150), Regeln ergänzt.
 - 2026-10-26: 50 neue Rezepte (rec_151–200), Fokus Frühstück und Mittag, viele büro- und meal-prep-tauglich.
+- 2026-10-28: 200 neue Rezepte (rec_201–400) mit deutlich mehr Vielfalt: Mittelmeer und Orient, Asien, Amerika und Europa, Hausmannskost und saisonale Gerichte; insgesamt 400 Rezepte.
+- 2026-10-28: Schema 3: neues Feld `fiber` (Ballaststoffe pro Portion) für alle 400 Rezepte.
