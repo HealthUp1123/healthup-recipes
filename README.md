@@ -2,7 +2,7 @@
 
 Remote-Datenspeicher für die Rezeptvorschläge der iOS-App **HealthUp+**. Das Repository dient als Content Delivery Network (CDN): Die App lädt `recipes.json` und die Rezeptbilder zur Laufzeit per HTTPS.
 
-Aktueller Stand: **400 Rezepte** (siehe `meta.json`, Schema-Version 3).
+Aktueller Stand: **450 Rezepte** (siehe `meta.json`, Schema-Version 3).
 
 ## Struktur
 
@@ -45,8 +45,8 @@ healthup-recipes/
 | `suitableMealTypes` | [String] | `breakfast`, `lunch`, `dinner`, `snack` |
 | `timeOfDay` | [String] | `morning` (06:00–10:30), `noon` (11:30–14:30), `afternoon` (15:00–17:30), `evening` (18:00–22:00) |
 | `imageUrl` | String | Raw-URL zum Bild |
-| `dietTags` | [String] | z. B. `vegetarisch`, `vegan`, `glutenfrei`, `laktosefrei`, `high-protein`, `kalorienarm` |
-| `allergens` | [String] | z. B. `gluten`, `milch`, `ei`, `fisch`, `krebstiere`, `schalenfruechte`, `erdnuss`, `soja`, `sesam`, `sellerie`, `senf`, `weichtiere` |
+| `dietTags` | [String] | z. B. `vegetarisch`, `vegan`, `glutenfrei`, `laktosefrei`, `high-protein`, `kalorienarm`, `ballaststoffreich` (≥ 10 g Ballaststoffe pro Portion) |
+| `allergens` | [String] | z. B. `gluten`, `milch`, `ei`, `fisch`, `krebstiere`, `schalenfruechte`, `erdnuss`, `soja`, `sesam`, `sellerie`, `senf`, `weichtiere`, `lupinen` |
 | `ingredients` | [{`name`, `amount`}] | Zutaten mit Mengenangabe |
 | `instructions` | [String] | Geordnete Zubereitungsschritte |
 
@@ -74,3 +74,4 @@ Die Nährwerte und das Portionsgewicht sind Richtwerte, berechnet aus Standard-N
 - 2026-10-26: 50 neue Rezepte (rec_151–200), Fokus Frühstück und Mittag, viele büro- und meal-prep-tauglich.
 - 2026-10-28: 200 neue Rezepte (rec_201–400) mit deutlich mehr Vielfalt: Mittelmeer und Orient, Asien, Amerika und Europa, Hausmannskost und saisonale Gerichte; insgesamt 400 Rezepte.
 - 2026-10-28: Schema 3: neues Feld `fiber` (Ballaststoffe pro Portion) für alle 400 Rezepte.
+- 2026-10-29: 50 neue ballaststoffreiche Rezepte (rec_401–450, je ≥ 10 g Ballaststoffe pro Portion, Tag `ballaststoffreich`); neues Allergen `lupinen`; Tag `ballaststoffreich` zusätzlich bei allen bestehenden Rezepten mit ≥ 10 g Ballaststoffen (insgesamt 164); insgesamt 450 Rezepte.
