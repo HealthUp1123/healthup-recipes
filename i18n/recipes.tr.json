@@ -1351,6 +1351,8 @@
       "Parmesan",
       "Tost ekmeği (kıtır ekmek için)",
       "Süzme yoğurt (%0,2 yağ)",
+      "Hardal",
+      "Limon suyu",
       "Zeytinyağı"
     ],
     "instructions": [
@@ -1552,6 +1554,7 @@
       "Çeri domates",
       "Parmesan",
       "Zeytinyağı",
+      "Balzamik sirke",
       "Tam tahıllı ekmek"
     ],
     "instructions": [
@@ -2317,6 +2320,7 @@
       "Tam tahıllı ekmek",
       "Avokado",
       "Yumurta (orta boy)",
+      "Sirke (haşlama suyu için)",
       "Çeri domates",
       "Pul biber"
     ],
@@ -4923,7 +4927,7 @@
       "Patlıcan",
       "Bambu filizi",
       "Kırmızı biber",
-      "Yeşil köri ezmesi",
+      "Yeşil köri ezmesi (vegan, karides ezmesi içermez)",
       "Light hindistan cevizi sütü",
       "Su",
       "Soya sosu",
@@ -5798,6 +5802,7 @@
       "Soğan (mor)",
       "Sarı acı biber",
       "Soya sosu",
+      "Sirke",
       "Basmati pirinci (çiğ)",
       "Kanola yağı",
       "Kişniş"
@@ -8589,6 +8594,7 @@
     "ingredients": [
       "Yumurta (orta boy)",
       "Süzme yoğurt (%0,2 yağ)",
+      "Sirke (haşlama suyu için)",
       "Sarımsak",
       "Bulgur (pilavlık, çiğ)",
       "Ispanak",

@@ -1351,6 +1351,8 @@
       "Parmesan",
       "Sandwich bread (for croutons)",
       "Greek yoghurt (0.2% fat)",
+      "Mustard",
+      "Lemon juice",
       "Olive oil"
     ],
     "instructions": [
@@ -1552,6 +1554,7 @@
       "Cherry tomatoes",
       "Parmesan",
       "Olive oil",
+      "Balsamic vinegar",
       "Wholegrain bread"
     ],
     "instructions": [
@@ -2317,6 +2320,7 @@
       "Wholegrain bread",
       "Avocado",
       "Eggs (medium)",
+      "Vinegar (for the poaching water)",
       "Cherry tomatoes",
       "Chilli flakes"
     ],
@@ -4923,7 +4927,7 @@
       "Aubergine",
       "Bamboo shoots",
       "Red pepper",
-      "Green curry paste",
+      "Green curry paste (vegan, without shrimp paste)",
       "Light coconut milk",
       "Water",
       "Soy sauce",
@@ -5798,6 +5802,7 @@
       "Onion (red)",
       "Yellow chilli",
       "Soy sauce",
+      "Vinegar",
       "Basmati rice (uncooked)",
       "Rapeseed oil",
       "Coriander"
@@ -8589,6 +8594,7 @@
     "ingredients": [
       "Eggs (medium)",
       "Greek yoghurt (0.2% fat)",
+      "Vinegar (for the poaching water)",
       "Garlic",
       "Bulgur (coarse, uncooked)",
       "Spinach",
