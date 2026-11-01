@@ -1136,7 +1136,8 @@
     ],
     "allergens": [
       "gluten",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -3003,7 +3004,8 @@
       "high-protein"
     ],
     "allergens": [
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -4997,7 +4999,8 @@
     ],
     "allergens": [
       "gluten",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -5834,7 +5837,8 @@
       "gluten",
       "milch",
       "ei",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -6596,7 +6600,8 @@
     ],
     "allergens": [
       "milch",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -7211,7 +7216,8 @@
       "kalorienarm"
     ],
     "allergens": [
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -8167,7 +8173,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -8693,7 +8700,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -9001,7 +9009,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -9421,7 +9430,8 @@
     ],
     "allergens": [
       "gluten",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -9983,7 +9993,8 @@
     ],
     "allergens": [
       "milch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -10234,7 +10245,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -10465,7 +10477,8 @@
       "gluten",
       "milch",
       "fisch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -10579,7 +10592,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -10765,7 +10779,8 @@
     ],
     "allergens": [
       "gluten",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -11674,7 +11689,8 @@
       "gluten",
       "krebstiere",
       "erdnuss",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -12364,7 +12380,8 @@
     "allergens": [
       "gluten",
       "fisch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -12625,7 +12642,8 @@
     "allergens": [
       "gluten",
       "schalenfruechte",
-      "sellerie"
+      "sellerie",
+      "sulfite"
     ]
   },
   {
@@ -12810,7 +12828,8 @@
       "laktosefrei"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -13195,7 +13214,8 @@
       "laktosefrei"
     ],
     "allergens": [
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -13999,7 +14019,8 @@
     ],
     "allergens": [
       "milch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -14071,7 +14092,8 @@
     ],
     "allergens": [
       "gluten",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -14202,7 +14224,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -14333,7 +14356,8 @@
     "allergens": [
       "gluten",
       "ei",
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -14402,7 +14426,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -14540,7 +14565,8 @@
     ],
     "allergens": [
       "krebstiere",
-      "weichtiere"
+      "weichtiere",
+      "sulfite"
     ]
   },
   {
@@ -14605,7 +14631,8 @@
     ],
     "allergens": [
       "gluten",
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -14716,7 +14743,8 @@
     ],
     "allergens": [
       "gluten",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -15351,7 +15379,8 @@
     "allergens": [
       "gluten",
       "ei",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -15800,7 +15829,8 @@
       "high-protein"
     ],
     "allergens": [
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -15881,7 +15911,8 @@
     "allergens": [
       "gluten",
       "krebstiere",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -16129,7 +16160,8 @@
     "allergens": [
       "fisch",
       "krebstiere",
-      "erdnuss"
+      "erdnuss",
+      "sulfite"
     ]
   },
   {
@@ -16436,7 +16468,8 @@
     ],
     "allergens": [
       "krebstiere",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -16514,7 +16547,8 @@
     ],
     "allergens": [
       "gluten",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -16677,7 +16711,8 @@
     "allergens": [
       "gluten",
       "erdnuss",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -16835,7 +16870,8 @@
     ],
     "allergens": [
       "gluten",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -16917,7 +16953,8 @@
     ],
     "allergens": [
       "fisch",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -16998,7 +17035,8 @@
     "allergens": [
       "gluten",
       "krebstiere",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -17072,7 +17110,9 @@
       "laktosefrei",
       "high-protein"
     ],
-    "allergens": []
+    "allergens": [
+      "sulfite"
+    ]
   },
   {
     "id": "rec_279",
@@ -17411,7 +17451,8 @@
       "gluten",
       "krebstiere",
       "erdnuss",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -17489,7 +17530,8 @@
       "gluten",
       "krebstiere",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -17567,7 +17609,8 @@
     "allergens": [
       "gluten",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -17715,7 +17758,8 @@
       "gluten",
       "krebstiere",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -17792,7 +17836,8 @@
     "allergens": [
       "gluten",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -17874,7 +17919,8 @@
     ],
     "allergens": [
       "gluten",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -18023,7 +18069,8 @@
       "gluten",
       "fisch",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -18100,7 +18147,8 @@
     "allergens": [
       "gluten",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -18708,7 +18756,8 @@
     ],
     "allergens": [
       "milch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -18793,7 +18842,8 @@
     ],
     "allergens": [
       "gluten",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -19005,7 +19055,8 @@
       "high-protein"
     ],
     "allergens": [
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -19076,7 +19127,8 @@
       "high-protein"
     ],
     "allergens": [
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -19349,7 +19401,8 @@
       "high-protein"
     ],
     "allergens": [
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -19539,7 +19592,8 @@
       "high-protein"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -19722,7 +19776,8 @@
       "glutenfrei"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -19792,7 +19847,8 @@
     ],
     "allergens": [
       "milch",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -19863,7 +19919,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -19939,7 +19996,8 @@
       "gluten",
       "milch",
       "ei",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20136,7 +20194,8 @@
       "fisch",
       "schalenfruechte",
       "sellerie",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20275,7 +20334,8 @@
       "gluten",
       "fisch",
       "soja",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20354,7 +20414,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
@@ -20419,7 +20480,8 @@
       "gluten",
       "milch",
       "fisch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20484,7 +20546,8 @@
     ],
     "allergens": [
       "ei",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20608,7 +20671,8 @@
       "gluten",
       "milch",
       "fisch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20745,7 +20809,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -20817,7 +20882,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
@@ -20949,7 +21015,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -21016,7 +21083,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -21144,7 +21212,8 @@
       "high-protein"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -21350,7 +21419,8 @@
       "high-protein"
     ],
     "allergens": [
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -21748,7 +21818,8 @@
       "high-protein"
     ],
     "allergens": [
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -22021,7 +22092,8 @@
       "gluten",
       "milch",
       "ei",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -22552,7 +22624,8 @@
     ],
     "allergens": [
       "milch",
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -22610,7 +22683,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -22675,7 +22749,8 @@
       "gluten",
       "fisch",
       "sellerie",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -22962,7 +23037,8 @@
     ],
     "allergens": [
       "gluten",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -23237,7 +23313,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -23363,7 +23440,8 @@
       "high-protein"
     ],
     "allergens": [
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
@@ -23569,7 +23647,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
@@ -23707,7 +23786,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -23903,7 +23983,9 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -23959,7 +24041,8 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -24092,7 +24175,8 @@
       "laktosefrei"
     ],
     "allergens": [
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -24158,7 +24242,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -24883,7 +24968,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -25079,7 +25165,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -25366,7 +25453,8 @@
       "gluten",
       "milch",
       "ei",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -26223,7 +26311,9 @@
       "kalorienarm",
       "ballaststoffreich"
     ],
-    "allergens": []
+    "allergens": [
+      "sulfite"
+    ]
   },
   {
     "id": "rec_413",
@@ -27042,7 +27132,8 @@
     ],
     "allergens": [
       "gluten",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -27115,7 +27206,8 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -27190,7 +27282,8 @@
     ],
     "allergens": [
       "fisch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -27267,7 +27360,9 @@
       "high-protein",
       "ballaststoffreich"
     ],
-    "allergens": []
+    "allergens": [
+      "sulfite"
+    ]
   },
   {
     "id": "rec_429",
@@ -27796,7 +27891,8 @@
       "gluten",
       "fisch",
       "schalenfruechte",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -27879,7 +27975,8 @@
     "allergens": [
       "gluten",
       "krebstiere",
-      "sellerie"
+      "sellerie",
+      "sulfite"
     ]
   },
   {
@@ -28101,7 +28198,8 @@
     "allergens": [
       "gluten",
       "senf",
-      "lupinen"
+      "lupinen",
+      "sulfite"
     ]
   },
   {
@@ -28703,7 +28801,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "weichtiere"
+      "weichtiere",
+      "sulfite"
     ]
   },
   {
@@ -28929,6 +29028,3705 @@
     "allergens": [
       "gluten",
       "soja"
+    ]
+  },
+  {
+    "id": "rec_451",
+    "title": "Tofu-Bánh-mì mit eingelegtem Gemüse und Koriander",
+    "calories": 510,
+    "protein": 29,
+    "carbs": 58,
+    "fiber": 7,
+    "fat": 18,
+    "servingSizeGrams": 420,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_451_tofu_banh_mi_eingelegt.jpg",
+    "ingredients": [
+      {
+        "name": "Baguette",
+        "amount": "1/3 Stange (80g)"
+      },
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "150g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "50g"
+      },
+      {
+        "name": "Rettich (Daikon)",
+        "amount": "50g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "40g"
+      },
+      {
+        "name": "Reisessig",
+        "amount": "1 EL (15ml)"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "2 TL (10ml)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Frischer Koriander",
+        "amount": "10g"
+      },
+      {
+        "name": "Rote Chili",
+        "amount": "1 kleine (5g)"
+      },
+      {
+        "name": "Sriracha, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Karotte und Rettich in feine Stifte schneiden und mit Reisessig, Ahornsirup und einer Prise Salz mindestens 15 Minuten einlegen.",
+      "Tofu in 1 cm dicke Scheiben schneiden, gut trocken tupfen und 10 Minuten in der Sojasauce marinieren.",
+      "Tofu im Rapsöl pro Seite 3–4 Minuten knusprig goldbraun braten.",
+      "Baguette längs aufschneiden und kurz im Ofen aufknuspern lassen.",
+      "Mit Tofu, abgetropftem Gemüse, Gurkenstreifen, Chiliringen und Koriander füllen und mit Sriracha beträufeln."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_452",
+    "title": "Tempeh Balado – Tempeh in Chili-Tomaten-Sambal mit Reis und grünen Bohnen",
+    "calories": 575,
+    "protein": 30,
+    "carbs": 71,
+    "fiber": 11,
+    "fat": 21,
+    "servingSizeGrams": 605,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_452_tempeh_balado_reis_bohnen.jpg",
+    "ingredients": [
+      {
+        "name": "Tempeh",
+        "amount": "110g"
+      },
+      {
+        "name": "Tomaten",
+        "amount": "120g"
+      },
+      {
+        "name": "Rote Chilis",
+        "amount": "15g"
+      },
+      {
+        "name": "Schalotten",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Kokosblütenzucker",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Jasminreis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Grüne Bohnen",
+        "amount": "150g"
+      },
+      {
+        "name": "Limette, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Jasminreis nach Packungsanweisung garen. Grüne Bohnen putzen und 6 Minuten in Salzwasser bissfest garen.",
+      "Tempeh in dünne Scheiben schneiden und in der Hälfte des Öls pro Seite 3 Minuten goldbraun braten.",
+      "Chilis, Schalotten, Knoblauch und Tomaten grob im Mixer zu einer Paste zerkleinern.",
+      "Paste im restlichen Öl 8 Minuten einkochen, bis sie dunkelrot glänzt. Mit Zucker, Salz und Limettensaft abschmecken.",
+      "Tempeh in den Sambal geben, kurz schwenken und mit Reis und Bohnen servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_453",
+    "title": "Seitan-Stroganoff mit Champignons und Vollkorn-Bandnudeln",
+    "calories": 530,
+    "protein": 45,
+    "carbs": 51,
+    "fiber": 11,
+    "fat": 15,
+    "servingSizeGrams": 545,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "evening",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_453_seitan_stroganoff_bandnudeln.jpg",
+    "ingredients": [
+      {
+        "name": "Seitan (natur)",
+        "amount": "120g"
+      },
+      {
+        "name": "Champignons",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Vollkorn-Bandnudeln (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "80g"
+      },
+      {
+        "name": "Mittelscharfer Senf",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "100ml"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Edelsüßes Paprikapulver, Petersilie, Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Bandnudeln in Salzwasser nach Packungsanweisung garen.",
+      "Seitan in dünne Streifen schneiden und in der Hälfte des Öls 4 Minuten kräftig anbraten, herausnehmen.",
+      "Zwiebel in Streifen und Champignons in Scheiben schneiden und im restlichen Öl 6 Minuten braten. Paprikapulver kurz mitrösten.",
+      "Mit Brühe ablöschen, Senf einrühren und 3 Minuten einkochen. Hitze reduzieren, Sojajoghurt und Seitan unterrühren und nur noch erwärmen, nicht kochen.",
+      "Mit Salz und Pfeffer abschmecken und mit den Nudeln und Petersilie servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "senf",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_454",
+    "title": "Hong-Shao-Tofu – rot geschmorter Tofu mit Shiitake, Pak Choi und Reis",
+    "calories": 600,
+    "protein": 34,
+    "carbs": 68,
+    "fiber": 7,
+    "fat": 22,
+    "servingSizeGrams": 645,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "evening",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_454_hong_shao_tofu_shiitake.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "180g"
+      },
+      {
+        "name": "Shiitake (frisch)",
+        "amount": "80g"
+      },
+      {
+        "name": "Pak Choi",
+        "amount": "150g"
+      },
+      {
+        "name": "Sojasauce (hell und dunkel)",
+        "amount": "20ml"
+      },
+      {
+        "name": "Frischer Ingwer",
+        "amount": "10g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Frühlingszwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Brauner Zucker",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Jasminreis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Sternanis",
+        "amount": "1 Stück"
+      }
+    ],
+    "instructions": [
+      "Reis garen. Tofu in 2 cm große Würfel schneiden, trocken tupfen und im Öl rundum goldbraun braten, herausnehmen.",
+      "Ingwer, Knoblauch und das Weiße der Frühlingszwiebel im verbliebenen Öl anschwitzen, Zucker darin leicht karamellisieren lassen.",
+      "Shiitake in Scheiben zugeben, mit Sojasauce, Sternanis und 120 ml Wasser ablöschen und den Tofu zurück in die Pfanne geben.",
+      "Zugedeckt 10 Minuten schmoren, dann offen einkochen, bis die Sauce glänzend am Tofu haftet.",
+      "Pak Choi halbieren, 2 Minuten dämpfen und mit Tofu, Reis und Frühlingszwiebelgrün anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_455",
+    "title": "Tofu-Tikka-Masala mit Basmatireis",
+    "calories": 615,
+    "protein": 30,
+    "carbs": 67,
+    "fiber": 7,
+    "fat": 24,
+    "servingSizeGrams": 720,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_455_tofu_tikka_masala_basmati.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "150g"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "50g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "200g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "60g"
+      },
+      {
+        "name": "Frischer Ingwer",
+        "amount": "8g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (6g)"
+      },
+      {
+        "name": "Kokosmilch (light)",
+        "amount": "60ml"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Garam Masala, Kurkuma, Paprika, Bockshornkleeblätter, Koriander",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Tofu würfeln, mit Sojajoghurt, Garam Masala, Paprika und Salz mischen und 15 Minuten marinieren.",
+      "Tofu auf einem Backblech mit Backpapier bei 220°C 15 Minuten rösten, bis die Ränder dunkel werden. Basmatireis garen.",
+      "Zwiebel, Ingwer und Knoblauch fein hacken und im Öl 6 Minuten goldbraun braten. Kurkuma und Garam Masala kurz mitrösten.",
+      "Passierte Tomaten zugeben und 10 Minuten einkochen, dann Kokosmilch und zerriebene Bockshornkleeblätter einrühren.",
+      "Tofu in die Sauce geben, 2 Minuten ziehen lassen und mit Reis und Koriander servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_456",
+    "title": "Kubanischer Picadillo mit Sojagranulat, Oliven, Rosinen und Reis",
+    "calories": 525,
+    "protein": 30,
+    "carbs": 68,
+    "fiber": 14,
+    "fat": 13,
+    "servingSizeGrams": 620,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_456_picadillo_sojagranulat_oliven.jpg",
+    "ingredients": [
+      {
+        "name": "Sojagranulat (trocken)",
+        "amount": "45g"
+      },
+      {
+        "name": "Gemüsebrühe (heiß, zum Einweichen)",
+        "amount": "100ml"
+      },
+      {
+        "name": "Tomaten (stückig)",
+        "amount": "150g"
+      },
+      {
+        "name": "Grüne Paprika",
+        "amount": "80g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Grüne Oliven",
+        "amount": "20g"
+      },
+      {
+        "name": "Rosinen",
+        "amount": "10g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Langkornreis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Kreuzkümmel, Oregano, Lorbeer, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Sojagranulat mit der heißen Brühe übergießen und 10 Minuten quellen lassen. Reis garen.",
+      "Zwiebel, Paprika und Knoblauch fein würfeln und im Olivenöl 6 Minuten weich dünsten.",
+      "Eingeweichtes Granulat samt Flüssigkeit zugeben und 4 Minuten krümelig braten. Kreuzkümmel und Oregano einrühren.",
+      "Tomaten, Lorbeer, halbierte Oliven und Rosinen zugeben und 10 Minuten offen köcheln, bis die Sauce dick ist.",
+      "Mit Salz abschmecken und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "soja",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_457",
+    "title": "Linsen-Sloppy-Joes auf Vollkornbrötchen mit Krautsalat",
+    "calories": 560,
+    "protein": 26,
+    "carbs": 84,
+    "fiber": 19,
+    "fat": 9,
+    "servingSizeGrams": 585,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_457_linsen_sloppy_joes_krautsalat.jpg",
+    "ingredients": [
+      {
+        "name": "Braune Linsen (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Vollkornbrötchen",
+        "amount": "1 Stück (70g)"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "60g"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "20g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Mittelscharfer Senf",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Weißkohl",
+        "amount": "80g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "40g"
+      },
+      {
+        "name": "Apfelessig",
+        "amount": "2 TL (10ml)"
+      },
+      {
+        "name": "Geräuchertes Paprikapulver, Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Linsen in reichlich Wasser 20–25 Minuten weich kochen und abgießen.",
+      "Weißkohl fein hobeln, Karotte raspeln und mit Apfelessig, Salz und einer Prise Zucker kräftig durchkneten.",
+      "Zwiebel und Paprika fein würfeln und im Öl 5 Minuten braten. Tomatenmark und Rauchpaprika kurz mitrösten.",
+      "Linsen, passierte Tomaten, Senf und Ahornsirup zugeben und 8 Minuten zu einer dicken, saftigen Masse einkochen.",
+      "Brötchen aufschneiden, rösten, mit der Linsenmasse füllen und mit Krautsalat servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "senf",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_458",
+    "title": "Pasta e Ceci – Römische Nudeln mit Kichererbsen und Rosmarin",
+    "calories": 550,
+    "protein": 21,
+    "carbs": 81,
+    "fiber": 14,
+    "fat": 15,
+    "servingSizeGrams": 620,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_458_pasta_e_ceci_rosmarin.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (Dose, abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Kurze Nudeln (Ditalini, ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "15g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "40g"
+      },
+      {
+        "name": "Staudensellerie",
+        "amount": "30g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "10g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "400ml"
+      },
+      {
+        "name": "Rosmarin, Chili, Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel, Karotte und Sellerie fein würfeln und mit Knoblauch und Rosmarin in der Hälfte des Olivenöls 6 Minuten dünsten.",
+      "Tomatenmark kurz mitrösten, Kichererbsen und Brühe zugeben und 10 Minuten köcheln.",
+      "Ein Drittel der Kichererbsen mit etwas Flüssigkeit pürieren und zurück in den Topf geben.",
+      "Nudeln direkt in der Suppe 10 Minuten unter Rühren garen, bis sie al dente und cremig gebunden sind.",
+      "Mit Salz, Pfeffer und Chili abschmecken und mit dem restlichen Olivenöl beträufelt servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "sellerie"
+    ]
+  },
+  {
+    "id": "rec_459",
+    "title": "Veganes Cassoulet mit weißen Bohnen, Räuchertofu und Kräuterbröseln",
+    "calories": 515,
+    "protein": 32,
+    "carbs": 53,
+    "fiber": 17,
+    "fat": 18,
+    "servingSizeGrams": 610,
+    "prepTimeMinutes": 55,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_459_cassoulet_bohnen_raeuchertofu.jpg",
+    "ingredients": [
+      {
+        "name": "Weiße Bohnen (Dose, abgetropft)",
+        "amount": "200g"
+      },
+      {
+        "name": "Räuchertofu",
+        "amount": "80g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Staudensellerie",
+        "amount": "30g"
+      },
+      {
+        "name": "Tomaten (stückig)",
+        "amount": "100g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Panko-Brösel",
+        "amount": "15g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "150ml"
+      },
+      {
+        "name": "Thymian, Lorbeer, Petersilie, Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 190°C vorheizen. Räuchertofu würfeln und in der Hälfte des Öls 4 Minuten knusprig braten.",
+      "Zwiebel, Karotte, Sellerie und Knoblauch würfeln und kurz mitdünsten.",
+      "Bohnen, Tomaten, Brühe, Thymian und Lorbeer zugeben, salzen, pfeffern und alles in eine kleine Auflaufform füllen.",
+      "Panko mit gehackter Petersilie und dem restlichen Öl mischen und darüberstreuen.",
+      "Im Ofen 30 Minuten backen, bis die Sauce sämig ist und die Brösel goldbraun sind."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sellerie"
+    ]
+  },
+  {
+    "id": "rec_460",
+    "title": "Seitan mit Mojo verde und Papas arrugadas",
+    "calories": 535,
+    "protein": 39,
+    "carbs": 54,
+    "fiber": 10,
+    "fat": 19,
+    "servingSizeGrams": 680,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "evening",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_460_seitan_mojo_verde_papas.jpg",
+    "ingredients": [
+      {
+        "name": "Seitan (natur)",
+        "amount": "130g"
+      },
+      {
+        "name": "Kleine Kartoffeln (mit Schale)",
+        "amount": "250g"
+      },
+      {
+        "name": "Koriander und Petersilie",
+        "amount": "30g"
+      },
+      {
+        "name": "Grüne Paprika",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "15g"
+      },
+      {
+        "name": "Weißweinessig",
+        "amount": "2 TL (10ml)"
+      },
+      {
+        "name": "Tomate",
+        "amount": "120g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Grobes Meersalz, Kreuzkümmel",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln mit Schale in stark gesalzenem Wasser 20 Minuten garen, abgießen und im Topf trocknen lassen, bis sich eine Salzkruste bildet.",
+      "Für den Mojo verde Kräuter, Paprika, Knoblauch, Kreuzkümmel, Essig und 10 g Olivenöl mit 2 EL Wasser fein pürieren.",
+      "Seitan in Scheiben schneiden und im restlichen Öl in einer Grillpfanne pro Seite 3 Minuten kräftig braten.",
+      "Tomate und Gurke würfeln und salzen.",
+      "Seitan mit Kartoffeln, Salat und reichlich Mojo verde anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_461",
+    "title": "Kongguksu – Koreanische kalte Sojamilch-Nudeln mit Gurke und Tomate",
+    "calories": 545,
+    "protein": 33,
+    "carbs": 62,
+    "fiber": 7,
+    "fat": 18,
+    "servingSizeGrams": 655,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_461_kongguksu_sojamilch_nudeln.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur)",
+        "amount": "100g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "250ml"
+      },
+      {
+        "name": "Sesam (geröstet)",
+        "amount": "10g"
+      },
+      {
+        "name": "Weizennudeln (Somyeon, ungekocht)",
+        "amount": "70g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "60g"
+      },
+      {
+        "name": "Salz, Eiswürfel",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Tofu, Sojadrink und 8 g Sesam im Mixer sehr fein pürieren, salzen und mindestens 20 Minuten kalt stellen.",
+      "Nudeln nach Packungsanweisung kochen, abgießen und unter kaltem Wasser gründlich abspülen.",
+      "Gurke in feine Streifen schneiden, Tomate in Spalten.",
+      "Nudeln in eine tiefe Schale geben, mit der eiskalten Sojasuppe übergießen und ein paar Eiswürfel dazugeben.",
+      "Mit Gurke, Tomate und dem restlichen Sesam toppen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_462",
+    "title": "Tofu-Katsu-Curry mit Reis",
+    "calories": 665,
+    "protein": 30,
+    "carbs": 89,
+    "fiber": 8,
+    "fat": 20,
+    "servingSizeGrams": 680,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_462_tofu_katsu_curry_reis.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "140g"
+      },
+      {
+        "name": "Weizenmehl",
+        "amount": "16g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "30ml"
+      },
+      {
+        "name": "Panko",
+        "amount": "20g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "60g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Kartoffel",
+        "amount": "60g"
+      },
+      {
+        "name": "Apfel (gerieben)",
+        "amount": "30g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "200ml"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Rundkornreis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Currypulver, Garam Masala",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Reis garen. Zwiebel in Streifen, Karotte und Kartoffel in Würfel schneiden und in 3 g Öl 5 Minuten anschwitzen.",
+      "8 g Mehl und Currypulver darüberstäuben, kurz anrösten, mit Brühe ablöschen, Apfel und Sojasauce zugeben und 15 Minuten sämig köcheln.",
+      "Backofen auf 220°C vorheizen. Tofu in zwei flache Scheiben schneiden, trocken tupfen, im restlichen Mehl, dann im Sojadrink und im Panko wenden.",
+      "Tofu-Katsu mit dem restlichen Öl beträufeln und auf Backpapier 18 Minuten goldbraun und knusprig backen, dabei einmal wenden.",
+      "Katsu in Streifen schneiden und mit Reis und Currysauce anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_463",
+    "title": "Larb Tofu mit Klebreis und knackiger Rohkost",
+    "calories": 575,
+    "protein": 36,
+    "carbs": 64,
+    "fiber": 8,
+    "fat": 20,
+    "servingSizeGrams": 650,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_463_larb_tofu_klebreis_rohkost.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "200g"
+      },
+      {
+        "name": "Klebreis (ungekocht, inkl. 10 g für Röstreispulver)",
+        "amount": "60g"
+      },
+      {
+        "name": "Schalotten",
+        "amount": "30g"
+      },
+      {
+        "name": "Frühlingszwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Minze und Koriander",
+        "amount": "20g"
+      },
+      {
+        "name": "Limette (Saft)",
+        "amount": "1 Stück (30g)"
+      },
+      {
+        "name": "Sojasauce (statt Fischsauce)",
+        "amount": "1 EL (15ml)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Grüne Bohnen (roh)",
+        "amount": "60g"
+      },
+      {
+        "name": "Romanasalat",
+        "amount": "60g"
+      },
+      {
+        "name": "Chiliflocken",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "50 g Klebreis mindestens 4 Stunden einweichen und 25 Minuten über Dampf garen.",
+      "10 g Klebreis in einer trockenen Pfanne goldbraun rösten und im Mörser zu grobem Pulver zerstoßen.",
+      "Tofu fein zerbröseln und im Öl 8 Minuten braten, bis er trocken und leicht knusprig ist.",
+      "Pfanne vom Herd nehmen, Tofu mit Limettensaft, Sojasauce, Chili, Schalottenringen, Frühlingszwiebel, Kräutern und Röstreispulver mischen.",
+      "Mit Klebreis, Gurke, Bohnen und Salatblättern zum Einwickeln servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_464",
+    "title": "Mercimek Köftesi – Rote-Linsen-Bulgur-Bällchen mit Salat und Granatapfel",
+    "calories": 525,
+    "protein": 24,
+    "carbs": 73,
+    "fiber": 17,
+    "fat": 12,
+    "servingSizeGrams": 475,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_464_mercimek_koeftesi_granatapfel.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Linsen (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Feiner Bulgur (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Tomaten- und Paprikamark",
+        "amount": "25g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "10g"
+      },
+      {
+        "name": "Frühlingszwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Glatte Petersilie",
+        "amount": "20g"
+      },
+      {
+        "name": "Romanasalat",
+        "amount": "60g"
+      },
+      {
+        "name": "Granatapfelkerne",
+        "amount": "40g"
+      },
+      {
+        "name": "Pul Biber, Kreuzkümmel, Zitrone, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Linsen mit 180 ml Wasser 15 Minuten weich kochen, bis das Wasser fast aufgesogen ist. Vom Herd nehmen, Bulgur einrühren und zugedeckt 20 Minuten quellen lassen.",
+      "Zwiebel fein würfeln und im Olivenöl 5 Minuten weich dünsten. Tomaten- und Paprikamark, Pul Biber und Kreuzkümmel kurz mitrösten.",
+      "Zwiebelmischung, gehackte Frühlingszwiebel, Petersilie, Zitronensaft und Salz unter die Linsen-Bulgur-Masse kneten.",
+      "Mit feuchten Händen längliche Bällchen formen und dabei mit den Fingern andrücken.",
+      "Auf Salatblättern anrichten, mit Granatapfelkernen bestreuen und mit Zitronenspalten servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_465",
+    "title": "Githeri – Kenianischer Mais-Bohnen-Eintopf mit Kartoffeln und Grünkohl",
+    "calories": 525,
+    "protein": 24,
+    "carbs": 79,
+    "fiber": 21,
+    "fat": 12,
+    "servingSizeGrams": 835,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_465_githeri_mais_bohnen_gruenkohl.jpg",
+    "ingredients": [
+      {
+        "name": "Maiskörner (TK oder Dose)",
+        "amount": "120g"
+      },
+      {
+        "name": "Kidneybohnen (Dose, abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": "150g"
+      },
+      {
+        "name": "Tomaten",
+        "amount": "120g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Grünkohl (Sukuma)",
+        "amount": "80g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "50g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "200ml"
+      },
+      {
+        "name": "Currypulver, Koriander, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch würfeln und im Öl 5 Minuten goldgelb braten. Currypulver kurz mitrösten.",
+      "Tomaten würfeln, zugeben und 5 Minuten zu einer Sauce zerfallen lassen.",
+      "Kartoffeln und Karotte würfeln, mit Mais, Bohnen und Brühe zugeben und zugedeckt 20 Minuten köcheln.",
+      "Grünkohl in feine Streifen schneiden, unterheben und 5 Minuten mitgaren.",
+      "Mit Salz abschmecken und mit Koriander bestreut servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_466",
+    "title": "Grünkern-Bratlinge mit Rahmwirsing und Kartoffeln",
+    "calories": 660,
+    "protein": 24,
+    "carbs": 92,
+    "fiber": 20,
+    "fat": 20,
+    "servingSizeGrams": 675,
+    "prepTimeMinutes": 50,
+    "suitableMealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "evening",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_466_gruenkern_bratlinge_rahmwirsing.jpg",
+    "ingredients": [
+      {
+        "name": "Grünkern (geschrotet)",
+        "amount": "70g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "150ml"
+      },
+      {
+        "name": "Kichererbsenmehl (zum Binden)",
+        "amount": "25g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Karotte (fein geraspelt)",
+        "amount": "40g"
+      },
+      {
+        "name": "Mittelscharfer Senf",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "10g"
+      },
+      {
+        "name": "Wirsing",
+        "amount": "200g"
+      },
+      {
+        "name": "Haferbasierte Kochcreme",
+        "amount": "40ml"
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": "150g"
+      },
+      {
+        "name": "Majoran, Muskat, Petersilie, Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Grünkernschrot in der Brühe aufkochen und zugedeckt 15 Minuten quellen lassen, dann abkühlen lassen. Kartoffeln in Salzwasser 20 Minuten garen.",
+      "Zwiebel fein würfeln und mit Karotte, Kichererbsenmehl, Senf, Majoran, Salz und Pfeffer unter den Grünkern kneten. Masse 10 Minuten ruhen lassen und 3 Bratlinge formen.",
+      "Bratlinge in 7 g Öl pro Seite 4 Minuten knusprig braten.",
+      "Wirsing in feine Streifen schneiden, im restlichen Öl 4 Minuten dünsten, Kochcreme zugeben, mit Muskat würzen und 3 Minuten einkochen.",
+      "Bratlinge mit Rahmwirsing und Petersilienkartoffeln servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "senf",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_467",
+    "title": "Harira – Marokkanische Tomatensuppe mit Linsen, Kichererbsen und Datteln",
+    "calories": 570,
+    "protein": 26,
+    "carbs": 84,
+    "fiber": 18,
+    "fat": 13,
+    "servingSizeGrams": 960,
+    "prepTimeMinutes": 50,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_467_harira_linsen_kichererbsen.jpg",
+    "ingredients": [
+      {
+        "name": "Braune Linsen (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Kichererbsen (Dose, abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomaten (stückig)",
+        "amount": "200g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Staudensellerie",
+        "amount": "40g"
+      },
+      {
+        "name": "Koriander und Petersilie",
+        "amount": "20g"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "15g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Weizenmehl",
+        "amount": "8g"
+      },
+      {
+        "name": "Fadennudeln (ungekocht)",
+        "amount": "20g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "400ml"
+      },
+      {
+        "name": "Datteln (zum Servieren)",
+        "amount": "15g"
+      },
+      {
+        "name": "Ras el-Hanout, Ingwer, Kurkuma, Zimt, Zitrone",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Sellerie fein würfeln und im Olivenöl 5 Minuten dünsten. Gewürze und Tomatenmark kurz mitrösten.",
+      "Tomaten, Linsen und Brühe zugeben und 25 Minuten köcheln.",
+      "Kichererbsen und Fadennudeln zugeben und 6 Minuten weitergaren.",
+      "Mehl mit 4 EL Wasser glatt rühren, unter Rühren einlaufen lassen und die Suppe 3 Minuten sämig binden. Gehackte Kräuter einrühren.",
+      "Mit Zitronenspalten und Datteln servieren, wie im Ramadan üblich."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "sellerie"
+    ]
+  },
+  {
+    "id": "rec_468",
+    "title": "Tempeh-Tacos al Pastor mit Ananas und Rotkohl",
+    "calories": 530,
+    "protein": 29,
+    "carbs": 59,
+    "fiber": 11,
+    "fat": 22,
+    "servingSizeGrams": 380,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "evening",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_468_tempeh_tacos_al_pastor.jpg",
+    "ingredients": [
+      {
+        "name": "Tempeh",
+        "amount": "120g"
+      },
+      {
+        "name": "Maistortillas",
+        "amount": "3 kleine (75g)"
+      },
+      {
+        "name": "Ananas (frisch)",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Frischer Koriander",
+        "amount": "10g"
+      },
+      {
+        "name": "Getrocknete Chilis (Guajillo)",
+        "amount": "10g"
+      },
+      {
+        "name": "Orange (Saft)",
+        "amount": "30g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Rotkohl (fein gehobelt)",
+        "amount": "40g"
+      },
+      {
+        "name": "Kreuzkümmel, Oregano, Achiote, Limette, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Chilis 10 Minuten in heißem Wasser einweichen und mit Orangensaft, Kreuzkümmel, Oregano, Achiote und Salz fein pürieren.",
+      "Tempeh in dünne Streifen schneiden, mit der Marinade mischen und 15 Minuten ziehen lassen.",
+      "Tempeh im Öl 6 Minuten braten, bis die Marinade karamellisiert. Ananas in kleine Würfel schneiden und die letzten 2 Minuten mitbraten.",
+      "Tortillas in einer trockenen Pfanne erhitzen.",
+      "Mit Tempeh, Ananas, Zwiebelwürfeln, Rotkohl und Koriander belegen und mit Limette servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_469",
+    "title": "Rajma Chawal – Punjabi-Kidneybohnen-Curry mit Reis und Gurken-Raita",
+    "calories": 560,
+    "protein": 23,
+    "carbs": 87,
+    "fiber": 17,
+    "fat": 11,
+    "servingSizeGrams": 695,
+    "prepTimeMinutes": 45,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_469_rajma_chawal_raita.jpg",
+    "ingredients": [
+      {
+        "name": "Kidneybohnen (Dose, abgetropft)",
+        "amount": "200g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "55g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "60g"
+      },
+      {
+        "name": "Tomaten",
+        "amount": "150g"
+      },
+      {
+        "name": "Frischer Ingwer",
+        "amount": "8g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "50g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "50g"
+      },
+      {
+        "name": "Kreuzkümmel, Garam Masala, Kurkuma, Chili, Koriander",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Basmatireis garen. Kreuzkümmel im Öl anrösten, Zwiebel fein würfeln und 8 Minuten goldbraun braten.",
+      "Ingwer und Knoblauch reiben, mit Kurkuma, Chili und Garam Masala zugeben und 1 Minute mitrösten.",
+      "Tomaten pürieren, zugeben und 8 Minuten einkochen, bis sich das Öl absetzt.",
+      "Bohnen und 150 ml Wasser zugeben, ein paar Bohnen zerdrücken und 15 Minuten sämig köcheln.",
+      "Gurke raspeln, mit Sojajoghurt, Kreuzkümmel und Salz verrühren und mit Rajma, Reis und Koriander servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_470",
+    "title": "Thukpa – Tibetische Nudelsuppe mit Tofu und Gemüse",
+    "calories": 530,
+    "protein": 30,
+    "carbs": 63,
+    "fiber": 10,
+    "fat": 17,
+    "servingSizeGrams": 1040,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_470_thukpa_nudelsuppe_tofu.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "120g"
+      },
+      {
+        "name": "Weizennudeln (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "450ml"
+      },
+      {
+        "name": "Spinat",
+        "amount": "60g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "50g"
+      },
+      {
+        "name": "Weißkohl",
+        "amount": "80g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Frischer Ingwer",
+        "amount": "8g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 EL (15ml)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Frühlingszwiebel",
+        "amount": "15g"
+      },
+      {
+        "name": "Chili, Kreuzkümmel, Timut-Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Tofu würfeln und im Öl rundum anbraten, herausnehmen.",
+      "Zwiebel, Ingwer und Knoblauch hacken und 3 Minuten anschwitzen. Tomate würfeln und 2 Minuten mitgaren, bis sie zerfällt.",
+      "Brühe und Sojasauce zugeben, Karotte in Scheiben und Kohl in Streifen zugeben und 8 Minuten köcheln.",
+      "Nudeln separat garen, abgießen und in eine große Schale geben. Spinat und Tofu in der Suppe 1 Minute ziehen lassen.",
+      "Suppe über die Nudeln schöpfen und mit Frühlingszwiebel und Chili bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_471",
+    "title": "Tofu-Bhurji mit Tomaten, Erbsen, Spinat und Vollkorn-Pav",
+    "calories": 480,
+    "protein": 31,
+    "carbs": 46,
+    "fiber": 12,
+    "fat": 19,
+    "servingSizeGrams": 440,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "morning",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_471_tofu_bhurji_pav.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur)",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "80g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "50g"
+      },
+      {
+        "name": "Frischer Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "40g"
+      },
+      {
+        "name": "Vollkornbrötchen (Pav)",
+        "amount": "1 Stück (70g)"
+      },
+      {
+        "name": "Grüne Chili, Kurkuma, Kreuzkümmel, Kala Namak, Koriander",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kreuzkümmel im Öl anrösten, Zwiebel, Ingwer und Chili fein gehackt 3 Minuten braten. Tomate würfeln und 2 Minuten mitgaren.",
+      "Tofu mit den Fingern grob zerbröseln, mit Kurkuma und Erbsen zugeben und 5 Minuten braten.",
+      "Spinat unterheben und zusammenfallen lassen. Mit Kala Namak und Koriander abschmecken.",
+      "Brötchen aufschneiden und in einer trockenen Pfanne von beiden Seiten 1 Minute rösten.",
+      "Bhurji mit dem warmen Pav servieren, nach Mumbai-Art zum Füllen oder Dippen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_472",
+    "title": "Kichererbsen-Omelett mit Champignons, Spinat und Schnittlauch",
+    "calories": 390,
+    "protein": 21,
+    "carbs": 46,
+    "fiber": 11,
+    "fat": 12,
+    "servingSizeGrams": 355,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "morning",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_472_kichererbsen_omelett_champignons.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsenmehl",
+        "amount": "50g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "100ml"
+      },
+      {
+        "name": "Hefeflocken",
+        "amount": "1 EL (5g)"
+      },
+      {
+        "name": "Champignons",
+        "amount": "100g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "50g"
+      },
+      {
+        "name": "Schalotte",
+        "amount": "20g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Sauerteigbrot",
+        "amount": "1 Scheibe (40g)"
+      },
+      {
+        "name": "Kala Namak, Kurkuma, Backpulver, Schnittlauch, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kichererbsenmehl mit Wasser, Hefeflocken, Kurkuma, einer Messerspitze Backpulver und Kala Namak glatt rühren und 10 Minuten quellen lassen.",
+      "Schalotte würfeln, Champignons in Scheiben schneiden und in der Hälfte des Öls 5 Minuten braten. Spinat kurz zusammenfallen lassen, herausnehmen.",
+      "Restliches Öl in einer beschichteten Pfanne erhitzen, den Teig hineingießen und bei mittlerer Hitze 4 Minuten stocken lassen.",
+      "Pilz-Spinat-Füllung auf eine Hälfte geben, Omelett zusammenklappen und 1 Minute weiterbraten.",
+      "Mit Schnittlauch bestreuen und mit geröstetem Sauerteigbrot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_473",
+    "title": "Natto-Gohan mit Miso-Suppe und Gurken-Tsukemono",
+    "calories": 425,
+    "protein": 22,
+    "carbs": 61,
+    "fiber": 6,
+    "fat": 9,
+    "servingSizeGrams": 420,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_473_natto_gohan_misosuppe.jpg",
+    "ingredients": [
+      {
+        "name": "Natto",
+        "amount": "1 Päckchen (50g)"
+      },
+      {
+        "name": "Rundkornreis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Helle Misopaste",
+        "amount": "15g"
+      },
+      {
+        "name": "Seidentofu",
+        "amount": "80g"
+      },
+      {
+        "name": "Wakame (eingeweicht)",
+        "amount": "20g"
+      },
+      {
+        "name": "Frühlingszwiebel",
+        "amount": "10g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "60g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Nori",
+        "amount": "1/2 Blatt (2g)"
+      },
+      {
+        "name": "Kombu-Dashi (vegan), Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Reis waschen und mit 90 ml Wasser 15 Minuten garen, dann 10 Minuten ruhen lassen.",
+      "Gurke in dünne Scheiben schneiden, mit etwas Salz verkneten und 10 Minuten ziehen lassen, dann ausdrücken.",
+      "300 ml Kombu-Dashi erhitzen, Seidentofu würfeln und mit Wakame darin erwärmen. Topf vom Herd nehmen und Miso einrühren, nicht mehr kochen.",
+      "Natto mit Sojasauce kräftig verrühren, bis es Fäden zieht, und auf den Reis geben.",
+      "Mit Frühlingszwiebel, Nori-Streifen, Miso-Suppe und Gurken servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_474",
+    "title": "Fatteh – Libanesische Kichererbsen mit Pita-Chips und Tahini-Sojajoghurt",
+    "calories": 565,
+    "protein": 23,
+    "carbs": 59,
+    "fiber": 16,
+    "fat": 26,
+    "servingSizeGrams": 350,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "morning",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_474_fatteh_kichererbsen_tahini.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (Dose, abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Vollkorn-Pita",
+        "amount": "50g"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "100g"
+      },
+      {
+        "name": "Tahini",
+        "amount": "15g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1/2 Zehe (3g)"
+      },
+      {
+        "name": "Pinienkerne",
+        "amount": "8g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Granatapfelkerne",
+        "amount": "20g"
+      },
+      {
+        "name": "Kreuzkümmel, Paprika, Zitrone, Petersilie, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Pita in Stücke reißen und im Backofen bei 200°C 8 Minuten knusprig rösten.",
+      "Kichererbsen mit 50 ml Wasser, Kreuzkümmel und Salz 5 Minuten erhitzen.",
+      "Sojajoghurt mit Tahini, geriebenem Knoblauch, Zitronensaft und Salz glatt rühren.",
+      "Pinienkerne im Olivenöl goldbraun rösten.",
+      "Pita-Chips in eine Schale geben, warme Kichererbsen samt etwas Sud darauf, mit Tahini-Joghurt übergießen und mit Pinienkernen, Paprika, Petersilie und Granatapfel toppen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte",
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_475",
+    "title": "Beans on Toast mit Pilzen und Spinat",
+    "calories": 470,
+    "protein": 26,
+    "carbs": 62,
+    "fiber": 20,
+    "fat": 10,
+    "servingSizeGrams": 530,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "morning",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_475_beans_on_toast_pilze_spinat.jpg",
+    "ingredients": [
+      {
+        "name": "Weiße Bohnen (Dose, abgetropft)",
+        "amount": "200g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "10g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Champignons",
+        "amount": "100g"
+      },
+      {
+        "name": "Spinat",
+        "amount": "50g"
+      },
+      {
+        "name": "Vollkorntoast",
+        "amount": "2 Scheiben (60g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Geräuchertes Paprikapulver, Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel fein würfeln und in 2 g Öl glasig dünsten. Tomatenmark kurz mitrösten.",
+      "Passierte Tomaten, Ahornsirup, Rauchpaprika und Bohnen zugeben und 8 Minuten sämig köcheln. Abschmecken.",
+      "Champignons vierteln und im restlichen Öl 5 Minuten braun braten, Spinat zugeben und zusammenfallen lassen.",
+      "Toast goldbraun rösten.",
+      "Bohnen auf den Toast geben und mit Pilzen und Spinat servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_476",
+    "title": "Buchweizen-Blini mit Sojajoghurt und Heidelbeeren",
+    "calories": 380,
+    "protein": 15,
+    "carbs": 48,
+    "fiber": 10,
+    "fat": 13,
+    "servingSizeGrams": 350,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_476_buchweizen_blini_heidelbeeren.jpg",
+    "ingredients": [
+      {
+        "name": "Buchweizenmehl",
+        "amount": "50g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "100ml"
+      },
+      {
+        "name": "Leinsamen (geschrotet)",
+        "amount": "5g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "100g"
+      },
+      {
+        "name": "Heidelbeeren",
+        "amount": "80g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "8g"
+      },
+      {
+        "name": "Backpulver, Salz",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Leinsamen mit 2 EL Wasser verrühren und 5 Minuten quellen lassen.",
+      "Buchweizenmehl, Backpulver und Salz mischen, Sojadrink und Leinsamen unterrühren und den Teig 10 Minuten ruhen lassen.",
+      "Pfanne mit wenig Öl auspinseln und pro Blini einen Esslöffel Teig hineingeben. Bei mittlerer Hitze pro Seite 1–2 Minuten backen.",
+      "Auf diese Weise 8 kleine Blini backen.",
+      "Mit Sojajoghurt, Heidelbeeren und Ahornsirup servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_477",
+    "title": "Tapioca – Brasilianischer Maniok-Crêpe mit Banane, Erdnussmus und Zimt",
+    "calories": 435,
+    "protein": 10,
+    "carbs": 68,
+    "fiber": 5,
+    "fat": 13,
+    "servingSizeGrams": 270,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_477_tapioca_crepe_banane_erdnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Tapiokamehl (Goma de tapioca)",
+        "amount": "50g"
+      },
+      {
+        "name": "Banane",
+        "amount": "1 Stück (100g)"
+      },
+      {
+        "name": "Erdnussmus",
+        "amount": "20g"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "100g"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Tapiokamehl durch ein Sieb gleichmäßig in eine trockene, beschichtete Pfanne streuen.",
+      "Bei mittlerer Hitze 2 Minuten backen, bis die Stärke zu einem Fladen zusammenklebt, dann wenden und 1 Minute weiterbacken.",
+      "Banane in Scheiben schneiden, auf eine Hälfte legen, mit Erdnussmus beträufeln und mit Zimt bestäuben.",
+      "Fladen zusammenklappen und mit dem Sojajoghurt servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "soja",
+      "erdnuss"
+    ]
+  },
+  {
+    "id": "rec_478",
+    "title": "Akara – Nigerianische Bohnenküchlein mit Tomaten-Pfeffer-Sauce und Vollkornbrot",
+    "calories": 480,
+    "protein": 20,
+    "carbs": 58,
+    "fiber": 13,
+    "fat": 17,
+    "servingSizeGrams": 410,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_478_akara_bohnen_brot.jpg",
+    "ingredients": [
+      {
+        "name": "Augenbohnen (getrocknet)",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Scotch-Bonnet-Chili",
+        "amount": "1/2 Schote (5g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "15g"
+      },
+      {
+        "name": "Tomaten",
+        "amount": "120g"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "60g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "1 Scheibe (50g)"
+      },
+      {
+        "name": "Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Augenbohnen über Nacht einweichen, die Häute abreiben und mit der Hälfte der Zwiebel, Chili, Salz und 3 EL Wasser zu einem luftigen Teig pürieren. 3 Minuten kräftig aufschlagen.",
+      "Teig esslöffelweise in 10 g heißem Öl in einer Pfanne pro Seite 3 Minuten goldbraun backen.",
+      "Tomaten, Paprika und restliche Zwiebel pürieren und im restlichen Öl 10 Minuten zu einer dicken Sauce einkochen.",
+      "Akara heiß mit der Sauce und dem Vollkornbrot servieren – nach nigerianischer Art gern als Sandwich."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_479",
+    "title": "Molletes mit schwarzen Bohnen, Avocado und Pico de Gallo",
+    "calories": 440,
+    "protein": 22,
+    "carbs": 63,
+    "fiber": 22,
+    "fat": 9,
+    "servingSizeGrams": 410,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "morning",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_479_molletes_bohnen_pico.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornbrötchen",
+        "amount": "1 großes (80g)"
+      },
+      {
+        "name": "Schwarze Bohnen (Dose, abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Hefeflocken",
+        "amount": "8g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "40g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Weiße Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Jalapeño",
+        "amount": "5g"
+      },
+      {
+        "name": "Frischer Koriander",
+        "amount": "5g"
+      },
+      {
+        "name": "Kreuzkümmel, Limette, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Schwarze Bohnen mit Kreuzkümmel, Salz und 3 EL Wasser erhitzen und zu einem groben Mus zerdrücken.",
+      "Brötchen halbieren, mit dem Bohnenmus bestreichen, mit Hefeflocken bestreuen und im Ofen bei 220°C 6 Minuten überbacken.",
+      "Tomate, Zwiebel, Jalapeño und Koriander fein würfeln und mit Limettensaft und Salz zu Pico de Gallo mischen.",
+      "Molletes mit Pico de Gallo und Avocadoscheiben belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_480",
+    "title": "Amaranth-Porridge mit Mango, Kokos und Hanfsamen",
+    "calories": 420,
+    "protein": 18,
+    "carbs": 52,
+    "fiber": 7,
+    "fat": 15,
+    "servingSizeGrams": 445,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_480_amaranth_porridge_mango_kokos.jpg",
+    "ingredients": [
+      {
+        "name": "Amaranth (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "200ml"
+      },
+      {
+        "name": "Mango",
+        "amount": "100g"
+      },
+      {
+        "name": "Kokosflocken",
+        "amount": "5g"
+      },
+      {
+        "name": "Hanfsamen (geschält)",
+        "amount": "10g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Limettenabrieb, Vanille",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Amaranth in einem feinen Sieb abspülen und mit 100 ml Wasser und der Hälfte des Sojadrinks aufkochen.",
+      "Zugedeckt bei niedriger Hitze 20 Minuten köcheln, bis die Körner weich sind, dabei gelegentlich rühren.",
+      "Restlichen Sojadrink, Vanille und Ahornsirup einrühren und 2 Minuten cremig rühren.",
+      "Mango würfeln. Porridge in eine Schale füllen und mit Mango, Kokosflocken, Hanfsamen und Limettenabrieb toppen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "soja",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_481",
+    "title": "Dinkel-Bananenbrot-Muffins mit Walnüssen und Sojajoghurt",
+    "calories": 515,
+    "protein": 16,
+    "carbs": 64,
+    "fiber": 11,
+    "fat": 21,
+    "servingSizeGrams": 350,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_481_bananenbrot_muffins_walnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Dinkelvollkornmehl",
+        "amount": "50g"
+      },
+      {
+        "name": "Banane (sehr reif)",
+        "amount": "1 Stück (100g)"
+      },
+      {
+        "name": "Walnüsse",
+        "amount": "12g"
+      },
+      {
+        "name": "Leinsamen (geschrotet)",
+        "amount": "8g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "10g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "40ml"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "100g"
+      },
+      {
+        "name": "Backpulver, Zimt, Salz",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 180°C vorheizen. Leinsamen mit 2 EL Wasser verrühren und quellen lassen.",
+      "Banane zerdrücken und mit Leinsamen, Ahornsirup, Sojadrink und Öl verrühren.",
+      "Mehl, Backpulver, Zimt und Salz unterheben, zwei Drittel der gehackten Walnüsse einrühren.",
+      "Teig in 2 Muffinförmchen füllen, mit den restlichen Walnüssen bestreuen und 22 Minuten backen.",
+      "Etwas abkühlen lassen und mit Sojajoghurt servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_482",
+    "title": "Tempeh-TLT-Sandwich mit Tomate, Salat und Avocado",
+    "calories": 485,
+    "protein": 28,
+    "carbs": 42,
+    "fiber": 10,
+    "fat": 24,
+    "servingSizeGrams": 320,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "morning",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_482_tempeh_tlt_sandwich.jpg",
+    "ingredients": [
+      {
+        "name": "Tempeh",
+        "amount": "100g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "2 TL (10ml)"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Vollkorntoast",
+        "amount": "2 Scheiben (60g)"
+      },
+      {
+        "name": "Tomate",
+        "amount": "80g"
+      },
+      {
+        "name": "Kopfsalat",
+        "amount": "30g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "30g"
+      },
+      {
+        "name": "Geräuchertes Paprikapulver, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Tempeh in sehr dünne Scheiben schneiden. Sojasauce, Ahornsirup und Rauchpaprika verrühren.",
+      "Tempeh im Öl pro Seite 2 Minuten knusprig braten, mit der Marinade ablöschen und glasieren, bis sie verdampft ist.",
+      "Toast rösten und eine Scheibe mit zerdrückter Avocado bestreichen.",
+      "Mit Salat, Tomatenscheiben und Tempeh belegen, mit der zweiten Scheibe abdecken und diagonal halbieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_483",
+    "title": "Xian Doujiang – Taiwanesische herzhafte Sojamilch-Suppe mit Fladenbrot",
+    "calories": 430,
+    "protein": 27,
+    "carbs": 40,
+    "fiber": 5,
+    "fat": 17,
+    "servingSizeGrams": 500,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_483_xian_doujiang_fladenbrot.jpg",
+    "ingredients": [
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "350ml"
+      },
+      {
+        "name": "Reisessig",
+        "amount": "2 TL (10ml)"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "2 TL (10ml)"
+      },
+      {
+        "name": "Räuchertofu",
+        "amount": "50g"
+      },
+      {
+        "name": "Frühlingszwiebel",
+        "amount": "15g"
+      },
+      {
+        "name": "Sesamöl mit Chili",
+        "amount": "4g"
+      },
+      {
+        "name": "Fladenbrot (Shaobing-Art)",
+        "amount": "60g"
+      },
+      {
+        "name": "Weißer Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Räuchertofu fein würfeln und Frühlingszwiebel in Ringe schneiden.",
+      "Reisessig, Sojasauce, Tofu und die Hälfte der Frühlingszwiebel in eine Suppenschale geben.",
+      "Sojadrink fast bis zum Kochen erhitzen und schwungvoll in die Schale gießen. Kurz warten, bis die Sojamilch leicht stockt und Flocken bildet.",
+      "Mit Chili-Sesamöl, weißem Pfeffer und restlicher Frühlingszwiebel toppen.",
+      "Fladenbrot kurz rösten und zum Eintunken dazu servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sesam",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_484",
+    "title": "Tofu Benedict mit Spinat und Cashew-Hollandaise",
+    "calories": 515,
+    "protein": 31,
+    "carbs": 39,
+    "fiber": 10,
+    "fat": 25,
+    "servingSizeGrams": 395,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_484_tofu_benedict_cashew_hollandaise.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "120g"
+      },
+      {
+        "name": "Vollkornbrötchen",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Spinat",
+        "amount": "80g"
+      },
+      {
+        "name": "Cashewkerne (eingeweicht)",
+        "amount": "20g"
+      },
+      {
+        "name": "Hefeflocken",
+        "amount": "5g"
+      },
+      {
+        "name": "Mittelscharfer Senf",
+        "amount": "1/2 TL (3g)"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "40ml"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "60g"
+      },
+      {
+        "name": "Kurkuma, Kala Namak, Zitronensaft, Schnittlauch",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Cashews mindestens 2 Stunden einweichen, abgießen und mit Sojadrink, Hefeflocken, Senf, Kurkuma, Zitronensaft und Kala Namak zu einer glatten Hollandaise mixen. Leicht erwärmen.",
+      "Tofu in zwei runde, 1,5 cm dicke Scheiben schneiden, mit Kurkuma und Kala Namak würzen und im Öl pro Seite 3 Minuten goldgelb braten.",
+      "Spinat in der Pfanne zusammenfallen lassen. Brötchen halbieren und rösten, Tomate in Scheiben schneiden.",
+      "Brötchenhälften mit Tomate, Spinat und Tofu belegen und mit Hollandaise überziehen. Mit Schnittlauch bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte",
+      "soja",
+      "senf",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_485",
+    "title": "Bubur Kacang Hijau – Indonesischer Mungbohnen-Kokos-Brei mit Banane",
+    "calories": 360,
+    "protein": 14,
+    "carbs": 49,
+    "fiber": 10,
+    "fat": 9,
+    "servingSizeGrams": 330,
+    "prepTimeMinutes": 45,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_485_bubur_kacang_hijau_banane.jpg",
+    "ingredients": [
+      {
+        "name": "Mungbohnen (getrocknet)",
+        "amount": "50g"
+      },
+      {
+        "name": "Kokosmilch (light)",
+        "amount": "100ml"
+      },
+      {
+        "name": "Frischer Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Kokosblütenzucker",
+        "amount": "10g"
+      },
+      {
+        "name": "Banane",
+        "amount": "60g"
+      },
+      {
+        "name": "Sesam (geröstet)",
+        "amount": "5g"
+      },
+      {
+        "name": "Pandanblatt oder Vanille, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Mungbohnen 2 Stunden einweichen und abgießen.",
+      "Mit 400 ml Wasser, Ingwerscheiben und Pandan aufkochen und 30 Minuten köcheln, bis die Bohnen aufplatzen und sämig werden.",
+      "Zucker und eine Prise Salz einrühren und 5 Minuten weiterköcheln.",
+      "Kokosmilch mit einer Prise Salz kurz erwärmen.",
+      "Brei in Schalen füllen, mit Kokosmilch übergießen und mit Bananenscheiben und Sesam toppen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_486",
+    "title": "Muhammara – Syrischer Paprika-Walnuss-Dip mit Gemüsesticks und Pita",
+    "calories": 390,
+    "protein": 10,
+    "carbs": 43,
+    "fiber": 10,
+    "fat": 20,
+    "servingSizeGrams": 385,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "snack",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_486_muhammara_dip_gemuesesticks.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Paprika (im Ofen geröstet)",
+        "amount": "150g"
+      },
+      {
+        "name": "Walnüsse",
+        "amount": "20g"
+      },
+      {
+        "name": "Semmelbrösel (Panko)",
+        "amount": "10g"
+      },
+      {
+        "name": "Granatapfelsirup",
+        "amount": "8g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "80g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Vollkorn-Pita",
+        "amount": "30g"
+      },
+      {
+        "name": "Kreuzkümmel, Aleppo-Pfeffer, Zitrone, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Paprika bei 230°C 25 Minuten rösten, bis die Haut schwarze Blasen wirft, abgedeckt abkühlen lassen und häuten.",
+      "Walnüsse ohne Fett rösten. Mit Paprika, Bröseln, Granatapfelsirup, Kreuzkümmel, Aleppo-Pfeffer, Zitronensaft und Salz grob pürieren.",
+      "Dip in eine Schale streichen und mit Olivenöl beträufeln.",
+      "Karotte und Gurke in Sticks schneiden, Pita rösten und in Dreiecke schneiden, beides zum Dip servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_487",
+    "title": "Kakao-Tahini-Energiebällchen mit Datteln und Sesam",
+    "calories": 305,
+    "protein": 7,
+    "carbs": 38,
+    "fiber": 8,
+    "fat": 13,
+    "servingSizeGrams": 80,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_487_kakao_tahini_energiebaellchen.jpg",
+    "ingredients": [
+      {
+        "name": "Datteln (entsteint)",
+        "amount": "40g"
+      },
+      {
+        "name": "Tahini",
+        "amount": "15g"
+      },
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "15g"
+      },
+      {
+        "name": "Kakaopulver (ungesüßt)",
+        "amount": "5g"
+      },
+      {
+        "name": "Sesam",
+        "amount": "5g"
+      },
+      {
+        "name": "Meersalz",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Datteln 10 Minuten in warmem Wasser einweichen und gut abtropfen lassen.",
+      "Datteln mit Tahini, Haferflocken, Kakao und Salz im Blitzhacker zu einer klebrigen Masse verarbeiten.",
+      "Mit feuchten Händen 4 Bällchen formen.",
+      "In Sesam wälzen und mindestens 30 Minuten kalt stellen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_488",
+    "title": "Funghi ripieni – Gefüllte Champignons mit Weiße-Bohnen-Walnuss-Füllung",
+    "calories": 330,
+    "protein": 16,
+    "carbs": 24,
+    "fiber": 12,
+    "fat": 17,
+    "servingSizeGrams": 315,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "snack",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_488_funghi_ripieni_bohnen_walnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Große Champignons",
+        "amount": "6 Stück (220g)"
+      },
+      {
+        "name": "Weiße Bohnen (Dose, abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Walnusskerne",
+        "amount": "12g"
+      },
+      {
+        "name": "Vollkornbrot (als Brösel)",
+        "amount": "25g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Glatte Petersilie",
+        "amount": "8g"
+      },
+      {
+        "name": "Zitronenabrieb, Oregano, Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen. Stiele aus den Champignons drehen und fein hacken.",
+      "Pilzstiele und Knoblauch in der Hälfte des Öls 3 Minuten braten. Bohnen mit einer Gabel grob zerdrücken, Walnüsse und Petersilie hacken und alles mit Zitronenabrieb, Oregano, Salz und Pfeffer mischen.",
+      "Füllung in die Pilzköpfe drücken. Brot fein zerbröseln, mit dem restlichen Öl mischen und darüberstreuen.",
+      "Auf einem Blech 15–18 Minuten backen, bis die Pilze weich und die Brösel goldbraun sind. Warm oder lauwarm servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "kalorienarm",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_489",
+    "title": "Pimientos de Padrón mit gerösteten Mandeln, Zitrone und Meersalz",
+    "calories": 260,
+    "protein": 7,
+    "carbs": 11,
+    "fiber": 7,
+    "fat": 20,
+    "servingSizeGrams": 230,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_489_pimientos_padron_mandeln.jpg",
+    "ingredients": [
+      {
+        "name": "Pimientos de Padrón",
+        "amount": "200g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Mandeln (ganz)",
+        "amount": "22g"
+      },
+      {
+        "name": "Grobes Meersalz, Zitronenspalte",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Mandeln in einer trockenen Pfanne 4 Minuten rösten und grob hacken.",
+      "Olivenöl in der Pfanne stark erhitzen und die Pimientos darin 4–5 Minuten braten, bis die Haut Blasen wirft und stellenweise dunkel wird.",
+      "Sofort mit grobem Meersalz und den Mandeln bestreuen.",
+      "Mit einer Zitronenspalte servieren und heiß essen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_490",
+    "title": "Elote – Gegrillter Maiskolben mit Cashew-Limetten-Creme und Chili",
+    "calories": 290,
+    "protein": 11,
+    "carbs": 36,
+    "fiber": 6,
+    "fat": 13,
+    "servingSizeGrams": 230,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "snack",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_490_elote_mais_cashew_limette.jpg",
+    "ingredients": [
+      {
+        "name": "Maiskolben (vorgegart, Kerngewicht)",
+        "amount": "2 halbe (200g)"
+      },
+      {
+        "name": "Cashewkerne (eingeweicht)",
+        "amount": "15g"
+      },
+      {
+        "name": "Hefeflocken",
+        "amount": "5g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "3g"
+      },
+      {
+        "name": "Frischer Koriander",
+        "amount": "5g"
+      },
+      {
+        "name": "Limette, Chilipulver, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Cashews mit 2 EL Wasser, Limettensaft und Salz zu einer glatten Creme mixen.",
+      "Maiskolben mit Öl bepinseln und auf dem Grill oder in der Grillpfanne 8–10 Minuten rundum rösten, bis sie dunkle Stellen bekommen.",
+      "Heiße Kolben mit der Cashew-Creme bestreichen.",
+      "Mit Hefeflocken, Chilipulver und gehacktem Koriander bestreuen und mit Limettenspalten servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_491",
+    "title": "Pkhali – Georgische Spinat-Walnuss-Bällchen mit Granatapfel",
+    "calories": 370,
+    "protein": 16,
+    "carbs": 28,
+    "fiber": 12,
+    "fat": 21,
+    "servingSizeGrams": 235,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "snack",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_491_pkhali_spinat_walnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Spinat",
+        "amount": "250g"
+      },
+      {
+        "name": "Walnüsse",
+        "amount": "30g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Frischer Koriander",
+        "amount": "15g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Weinessig",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Granatapfelkerne",
+        "amount": "20g"
+      },
+      {
+        "name": "Roggenbrot",
+        "amount": "1 Scheibe (40g)"
+      },
+      {
+        "name": "Utskho Suneli, Koriandersaat, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Spinat 1 Minute blanchieren, kalt abschrecken und sehr gründlich ausdrücken.",
+      "Walnüsse, Knoblauch, Gewürze und Essig im Blitzhacker zu einer feinen Paste mahlen.",
+      "Spinat, Koriander und Zwiebel fein hacken und mit der Walnusspaste verkneten, mit Salz abschmecken.",
+      "Kleine Bällchen formen, mit dem Daumen eine Mulde eindrücken und mit Granatapfelkernen füllen.",
+      "Mit Roggenbrot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_492",
+    "title": "Matcha-Latte mit Sojamilch und Ahornsirup",
+    "calories": 155,
+    "protein": 11,
+    "carbs": 13,
+    "fiber": 3,
+    "fat": 6,
+    "servingSizeGrams": 315,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "snack",
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_492_matcha_latte_sojamilch.jpg",
+    "ingredients": [
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "300ml"
+      },
+      {
+        "name": "Matcha-Pulver",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Matcha in eine Schale sieben und mit 50 ml heißem, nicht kochendem Wasser (ca. 80°C) mit dem Bambusbesen schaumig schlagen.",
+      "Sojadrink erhitzen und aufschäumen.",
+      "Ahornsirup in ein großes Glas geben, Matcha zugießen und den Milchschaum darübergießen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_493",
+    "title": "Erdbeer-Seidentofu-Smoothie mit Haferflocken",
+    "calories": 280,
+    "protein": 15,
+    "carbs": 35,
+    "fiber": 7,
+    "fat": 8,
+    "servingSizeGrams": 475,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "snack",
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_493_erdbeer_seidentofu_smoothie.jpg",
+    "ingredients": [
+      {
+        "name": "Seidentofu",
+        "amount": "150g"
+      },
+      {
+        "name": "Erdbeeren (frisch oder TK)",
+        "amount": "150g"
+      },
+      {
+        "name": "Banane",
+        "amount": "60g"
+      },
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "15g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "100ml"
+      },
+      {
+        "name": "Vanille",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Erdbeeren waschen und putzen, Banane in Stücke brechen.",
+      "Alle Zutaten im Mixer 1 Minute sehr cremig pürieren.",
+      "In ein großes Glas füllen und sofort trinken."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_494",
+    "title": "Sojajoghurt mit Granatapfel, Pistazien und Rosenwasser",
+    "calories": 265,
+    "protein": 12,
+    "carbs": 26,
+    "fiber": 7,
+    "fat": 12,
+    "servingSizeGrams": 290,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "snack",
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_494_sojajoghurt_granatapfel_pistazien.jpg",
+    "ingredients": [
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "200g"
+      },
+      {
+        "name": "Granatapfelkerne",
+        "amount": "60g"
+      },
+      {
+        "name": "Pistazien (ungesalzen)",
+        "amount": "15g"
+      },
+      {
+        "name": "Datteln (gehackt)",
+        "amount": "15g"
+      },
+      {
+        "name": "Rosenwasser, Kardamom",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Sojajoghurt mit ein paar Tropfen Rosenwasser und einer Prise Kardamom glatt rühren.",
+      "Pistazien grob hacken, Datteln fein würfeln.",
+      "Joghurt in eine Schale geben und mit Granatapfelkernen, Pistazien und Datteln bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_495",
+    "title": "Ofen-Grünkohlchips mit Cashew-Hefeflocken-Würze",
+    "calories": 240,
+    "protein": 14,
+    "carbs": 11,
+    "fiber": 8,
+    "fat": 16,
+    "servingSizeGrams": 80,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_495_gruenkohlchips_cashew_hefe.jpg",
+    "ingredients": [
+      {
+        "name": "Grünkohl (frisch)",
+        "amount": "150g"
+      },
+      {
+        "name": "Cashewkerne",
+        "amount": "20g"
+      },
+      {
+        "name": "Hefeflocken",
+        "amount": "8g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Geräuchertes Paprikapulver, Knoblauchpulver, Zitronensaft, Salz",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 140°C Umluft vorheizen. Grünkohl von den Stielen zupfen, in Stücke reißen, waschen und sehr gründlich trocken schleudern.",
+      "Cashews mit Hefeflocken, Paprika, Knoblauchpulver und Salz fein mahlen.",
+      "Grünkohl mit Olivenöl und etwas Zitronensaft einmassieren und mit der Cashew-Würze mischen.",
+      "Auf zwei Blechen mit Backpapier ausbreiten und 20–25 Minuten knusprig trocknen lassen, nach der Hälfte wenden."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_496",
+    "title": "Puffquinoa-Erdnuss-Riegel mit Zartbitterschokolade",
+    "calories": 370,
+    "protein": 11,
+    "carbs": 43,
+    "fiber": 6,
+    "fat": 16,
+    "servingSizeGrams": 90,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_496_puffquinoa_erdnuss_riegel.jpg",
+    "ingredients": [
+      {
+        "name": "Gepuffter Quinoa",
+        "amount": "20g"
+      },
+      {
+        "name": "Erdnussmus",
+        "amount": "15g"
+      },
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "15g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "10g"
+      },
+      {
+        "name": "Datteln (entsteint)",
+        "amount": "15g"
+      },
+      {
+        "name": "Zartbitterschokolade (vegan, mind. 70 %)",
+        "amount": "10g"
+      },
+      {
+        "name": "Erdnüsse (geröstet, ungesalzen)",
+        "amount": "5g"
+      },
+      {
+        "name": "Meersalz",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Datteln fein hacken und mit Erdnussmus und Ahornsirup in einem kleinen Topf bei niedriger Hitze glatt verrühren.",
+      "Puffquinoa, Haferflocken, gehackte Erdnüsse und Salz untermischen.",
+      "Masse in eine mit Backpapier ausgelegte kleine Form fest drücken und 30 Minuten kalt stellen.",
+      "Schokolade schmelzen, darüberträufeln, fest werden lassen und in 2 Riegel schneiden."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "gluten",
+      "erdnuss"
+    ]
+  },
+  {
+    "id": "rec_497",
+    "title": "Tteokbokki mit Tofu, Weißkohl und Frühlingszwiebeln",
+    "calories": 475,
+    "protein": 19,
+    "carbs": 80,
+    "fiber": 4,
+    "fat": 8,
+    "servingSizeGrams": 385,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "snack",
+      "lunch"
+    ],
+    "timeOfDay": [
+      "afternoon",
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_497_tteokbokki_tofu_weisskohl.jpg",
+    "ingredients": [
+      {
+        "name": "Reiskuchen (Tteok)",
+        "amount": "120g"
+      },
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "80g"
+      },
+      {
+        "name": "Gochujang",
+        "amount": "20g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 TL (5ml)"
+      },
+      {
+        "name": "Zucker",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Gemüsebrühe (Kombu)",
+        "amount": "200ml"
+      },
+      {
+        "name": "Weißkohl",
+        "amount": "60g"
+      },
+      {
+        "name": "Frühlingszwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Sesam",
+        "amount": "3g"
+      },
+      {
+        "name": "Gochugaru, Knoblauch",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Reiskuchen 10 Minuten in warmem Wasser einweichen, wenn sie hart sind.",
+      "Brühe mit Gochujang, Gochugaru, Sojasauce, Zucker und Knoblauch in einer weiten Pfanne aufkochen.",
+      "Reiskuchen, Tofu in Würfeln und Weißkohl in Stücken zugeben und 8–10 Minuten köcheln, bis die Sauce dick und glänzend ist.",
+      "Frühlingszwiebel in Stücken 1 Minute mitgaren und mit Sesam bestreut servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_498",
+    "title": "Mango-Kokos-Pudding mit Agar-Agar und Limette",
+    "calories": 210,
+    "protein": 4,
+    "carbs": 29,
+    "fiber": 5,
+    "fat": 8,
+    "servingSizeGrams": 310,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_498_mango_kokos_pudding_agar.jpg",
+    "ingredients": [
+      {
+        "name": "Mango (reif)",
+        "amount": "150g"
+      },
+      {
+        "name": "Kokosmilch (light)",
+        "amount": "100ml"
+      },
+      {
+        "name": "Agar-Agar",
+        "amount": "1 TL (2g)"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "8g"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "50g"
+      },
+      {
+        "name": "Limettenabrieb, Minze",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "120 g Mango mit Kokosmilch und Ahornsirup fein pürieren.",
+      "Agar-Agar mit 50 ml Wasser verrühren, aufkochen und 2 Minuten sprudelnd kochen lassen.",
+      "Mangopüree einrühren, kurz erhitzen und in ein Glas oder Förmchen füllen. Mindestens 1 Stunde kalt stellen, bis der Pudding fest ist.",
+      "Mit Sojajoghurt, der restlichen Mango in Würfeln, Limettenabrieb und Minze servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_499",
+    "title": "Saaten-Cracker mit Gurke, Tomate und Kresse",
+    "calories": 320,
+    "protein": 13,
+    "carbs": 13,
+    "fiber": 9,
+    "fat": 22,
+    "servingSizeGrams": 180,
+    "prepTimeMinutes": 50,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_499_saaten_cracker_gurke_tomate.jpg",
+    "ingredients": [
+      {
+        "name": "Sonnenblumenkerne",
+        "amount": "15g"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": "10g"
+      },
+      {
+        "name": "Leinsamen",
+        "amount": "10g"
+      },
+      {
+        "name": "Sesam",
+        "amount": "8g"
+      },
+      {
+        "name": "Chiasamen",
+        "amount": "5g"
+      },
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "10g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "60ml"
+      },
+      {
+        "name": "Gurke",
+        "amount": "60g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "60g"
+      },
+      {
+        "name": "Kresse, Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 160°C vorheizen. Saaten, Haferflocken und Salz mit dem Wasser verrühren und 15 Minuten quellen lassen.",
+      "Masse sehr dünn auf ein Blech mit Backpapier streichen und nach 10 Minuten Backzeit in Stücke schneiden.",
+      "Weitere 35–40 Minuten backen, bis die Cracker trocken und knusprig sind, dann auskühlen lassen.",
+      "Mit Gurken- und Tomatenscheiben, Kresse, Salz und Pfeffer belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_500",
+    "title": "Kichererbsen-Mandel-Cookies mit Zartbitterschokolade",
+    "calories": 350,
+    "protein": 12,
+    "carbs": 35,
+    "fiber": 9,
+    "fat": 18,
+    "servingSizeGrams": 135,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_500_kichererbsen_mandel_cookies.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (Dose, abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Mandelmus",
+        "amount": "20g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "15g"
+      },
+      {
+        "name": "Zarte Haferflocken",
+        "amount": "10g"
+      },
+      {
+        "name": "Zartbitterschokolade (vegan, mind. 70 %)",
+        "amount": "10g"
+      },
+      {
+        "name": "Backpulver, Vanille, Salz",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 180°C vorheizen. Kichererbsen gut abspülen und trocken tupfen.",
+      "Mit Mandelmus, Ahornsirup, Haferflocken, Backpulver, Vanille und Salz im Blitzhacker zu einem glatten Teig verarbeiten.",
+      "Schokolade hacken und unterheben.",
+      "3 Cookies formen, auf Backpapier flach drücken und 14 Minuten backen. Auf dem Blech fest werden lassen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte"
     ]
   }
 ]
