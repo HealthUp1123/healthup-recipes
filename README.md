@@ -2,7 +2,7 @@
 
 Remote-Datenspeicher für die Rezeptvorschläge der iOS-App **HealthUp+**. Das Repository dient als Content Delivery Network (CDN): Die App lädt `recipes.json` und die Rezeptbilder zur Laufzeit per HTTPS.
 
-Aktueller Stand: **450 Rezepte** (siehe `meta.json`, Schema-Version 3).
+Aktueller Stand: **500 Rezepte** (siehe `meta.json`, Schema-Version 3).
 
 ## Struktur
 
@@ -78,3 +78,4 @@ Die Nährwerte und das Portionsgewicht sind Richtwerte, berechnet aus Standard-N
 - 2026-10-28: Schema 3: neues Feld `fiber` (Ballaststoffe pro Portion) für alle 400 Rezepte.
 - 2026-10-29: 50 neue ballaststoffreiche Rezepte (rec_401–450, je ≥ 10 g Ballaststoffe pro Portion, Tag `ballaststoffreich`); neues Allergen `lupinen`; Tag `ballaststoffreich` zusätzlich bei allen bestehenden Rezepten mit ≥ 10 g Ballaststoffen (insgesamt 164); insgesamt 450 Rezepte.
 - 2026-11-01: Neues Allergen `sulfite` (95 Rezepte, konservativ aus den Zutaten abgeleitet); Kohlenhydrat-Konvention dokumentiert (`carbs` netto ohne Ballaststoffe, `fiber` separat); Hinweis zum Portionsfeld (`servingSizeGrams` = intern `portionGrams`); neue Regel: jedes Rezept hat ein eigenes Bild aus `images/`. Korrektur: rec_376 Allergen `senf` ergänzt (Senf war in den Zutaten).
+- 2026-11-01: 50 vegane Rezepte rec_451–500 (20 Haupt, 15 Frühstück, 15 Snacks), eigene Bilder, en/tr ergänzt; insgesamt 500 Rezepte.
