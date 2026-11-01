@@ -1710,7 +1710,7 @@
         "amount": "1 TL (5ml)"
       },
       {
-        "name": "Parmesan",
+        "name": "vegetarischer Hartkäse (Parmesan-Art)",
         "amount": "10g"
       }
     ],
@@ -1718,7 +1718,7 @@
       "Zwiebel und Karotte fein würfeln und in Olivenöl anbraten.",
       "Linsen, Passierte Tomaten und 150ml Wasser zugeben und 15 Minuten köcheln lassen.",
       "Nudeln kochen und mit der Sauce mischen.",
-      "Mit Parmesan bestreuen."
+      "Mit Hartkäse bestreuen."
     ],
     "dietTags": [
       "vegetarisch",
@@ -2786,7 +2786,7 @@
   },
   {
     "id": "rec_053",
-    "title": "Airfryer-Zucchini-Pommes mit Parmesan",
+    "title": "Airfryer-Zucchini-Pommes mit Hartkäse",
     "calories": 190,
     "protein": 14,
     "carbs": 17,
@@ -2809,7 +2809,7 @@
         "amount": "250g"
       },
       {
-        "name": "Parmesan",
+        "name": "vegetarischer Hartkäse (Parmesan-Art)",
         "amount": "15g"
       },
       {
@@ -2823,7 +2823,7 @@
     ],
     "instructions": [
       "Zucchini in Pommes-Streifen schneiden.",
-      "Erst durch das Eiklar, dann durch die Mischung aus gemahlenen Haferflocken und Parmesan ziehen.",
+      "Erst durch das Eiklar, dann durch die Mischung aus gemahlenen Haferflocken und Hartkäse ziehen.",
       "Im Airfryer bei 190°C 12 Minuten knusprig garen."
     ],
     "dietTags": [
@@ -4500,6 +4500,14 @@
         "amount": "60g"
       },
       {
+        "name": "Senf",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "1 TL (5ml)"
+      },
+      {
         "name": "Olivenöl",
         "amount": "1 TL (5ml)"
       }
@@ -4515,7 +4523,9 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -5161,6 +5171,10 @@
         "amount": "2 TL (10ml)"
       },
       {
+        "name": "Balsamico",
+        "amount": "1 TL (5ml)"
+      },
+      {
         "name": "Vollkornbrot",
         "amount": "40g"
       }
@@ -5176,7 +5190,8 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -5230,7 +5245,6 @@
       "Himbeeren mit einer Gabel zerdrücken und als Sauce darübergeben."
     ],
     "dietTags": [
-      "vegetarisch",
       "glutenfrei",
       "high-protein",
       "kalorienarm"
@@ -5663,7 +5677,7 @@
   },
   {
     "id": "rec_102",
-    "title": "Airfryer-Rosenkohl mit Parmesan und Walnüssen",
+    "title": "Airfryer-Rosenkohl mit Hartkäse und Walnüssen",
     "calories": 295,
     "protein": 18,
     "carbs": 14,
@@ -5690,7 +5704,7 @@
         "amount": "1 TL (5ml)"
       },
       {
-        "name": "Parmesan",
+        "name": "vegetarischer Hartkäse (Parmesan-Art)",
         "amount": "15g"
       },
       {
@@ -5705,7 +5719,7 @@
     "instructions": [
       "Rosenkohl putzen, halbieren und mit Olivenöl, Salz und Pfeffer mischen.",
       "Im Airfryer bei 190°C 12–14 Minuten garen, bis die Blätter knusprig sind.",
-      "Mit Honig, Parmesanspänen und gehackten Walnüssen anrichten."
+      "Mit Honig, Hartkäsespänen und gehackten Walnüssen anrichten."
     ],
     "dietTags": [
       "vegetarisch",
@@ -6720,7 +6734,7 @@
         "amount": "1 TL (5ml)"
       },
       {
-        "name": "Parmesan",
+        "name": "vegetarischer Hartkäse (Parmesan-Art)",
         "amount": "10g"
       }
     ],
@@ -6728,7 +6742,7 @@
       "Gemüse klein würfeln und in Olivenöl 4 Minuten anschwitzen.",
       "Passierte Tomaten und 400ml Wasser zugeben, 15 Minuten köcheln lassen.",
       "Bohnen und Nudeln zugeben und weitere 8 Minuten garen.",
-      "Mit Parmesan und Basilikum servieren."
+      "Mit Hartkäse und Basilikum servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -7716,6 +7730,10 @@
         "amount": "2 Stück"
       },
       {
+        "name": "Essig (für das Pochierwasser)",
+        "amount": "1 EL (15ml)"
+      },
+      {
         "name": "Kirschtomaten",
         "amount": "50g"
       },
@@ -7737,7 +7755,8 @@
     ],
     "allergens": [
       "gluten",
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
@@ -8504,7 +8523,7 @@
         "amount": "1 TL (5ml)"
       },
       {
-        "name": "Parmesan",
+        "name": "vegetarischer Hartkäse (Parmesan-Art)",
         "amount": "10g"
       },
       {
@@ -8516,7 +8535,7 @@
       "Brot toasten.",
       "Tomaten fein würfeln und mit Olivenöl, Basilikum, Salz und Pfeffer mischen.",
       "Brot mit Hüttenkäse bestreichen und die Tomaten darauf verteilen.",
-      "Mit Parmesanspänen servieren."
+      "Mit Hartkäsespänen servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -11152,7 +11171,7 @@
         "amount": "300ml"
       },
       {
-        "name": "Parmesan",
+        "name": "vegetarischer Hartkäse (Parmesan-Art)",
         "amount": "10g"
       },
       {
@@ -11165,7 +11184,7 @@
       "Passierte Tomaten, Brühe, Bohnen und Rosmarin zugeben.",
       "20 Minuten leise köcheln lassen und einen Teil der Bohnen zerdrücken, damit die Suppe cremig wird.",
       "Mit Salz und Pfeffer abschmecken und heiß in den Thermobehälter füllen.",
-      "Parmesan separat mitnehmen und zum Servieren darüberreiben."
+      "Hartkäse separat mitnehmen und zum Servieren darüberreiben."
     ],
     "dietTags": [
       "vegetarisch",
@@ -12421,7 +12440,7 @@
         "amount": "80g"
       },
       {
-        "name": "Parmesan",
+        "name": "vegetarischer Hartkäse (Parmesan-Art)",
         "amount": "10g"
       }
     ],
@@ -12430,7 +12449,7 @@
       "Kartoffeln in Salzwasser 5 Minuten vorgaren, dann die Nudeln und nach der Hälfte der Garzeit die Bohnen zufügen.",
       "Alles zusammen fertig garen und abgießen, dabei 3 EL Kochwasser aufheben.",
       "Pesto mit dem Kochwasser verrühren, mit den Nudeln und dem Gemüse vermengen.",
-      "Mit Parmesan bestreuen."
+      "Mit Hartkäse bestreuen."
     ],
     "dietTags": [
       "vegetarisch"
@@ -12834,7 +12853,7 @@
   },
   {
     "id": "rec_219",
-    "title": "Polenta mit Champignon-Ragout und Parmesan",
+    "title": "Polenta mit Champignon-Ragout und Hartkäse",
     "calories": 470,
     "protein": 21,
     "carbs": 56,
@@ -12871,7 +12890,7 @@
         "amount": "2 TL (8ml)"
       },
       {
-        "name": "Parmesan",
+        "name": "vegetarischer Hartkäse (Parmesan-Art)",
         "amount": "20g"
       },
       {
@@ -12883,8 +12902,8 @@
       "300 ml Wasser mit Salz aufkochen, Polenta einrieseln lassen und bei kleiner Hitze 10 Minuten unter Rühren ausquellen lassen.",
       "Champignons in Scheiben schneiden und in Olivenöl scharf anbraten, bis sie Farbe nehmen.",
       "Zwiebel, Tomatenmark und Thymian zugeben und 5 Minuten mit einem Schuss Brühe schmoren.",
-      "Die Hälfte des Parmesans in die Polenta rühren.",
-      "Polenta auf einem Teller anrichten, Ragout daraufgeben und mit Parmesan bestreuen."
+      "Die Hälfte des Hartkäses in die Polenta rühren.",
+      "Polenta auf einem Teller anrichten, Ragout daraufgeben und mit Hartkäse bestreuen."
     ],
     "dietTags": [
       "vegetarisch",
@@ -12927,7 +12946,7 @@
         "amount": "30g"
       },
       {
-        "name": "Parmesan",
+        "name": "vegetarischer Hartkäse (Parmesan-Art)",
         "amount": "20g"
       },
       {
@@ -12943,7 +12962,7 @@
       "Zwiebel fein würfeln und in Olivenöl glasig dünsten.",
       "Reis zugeben, kurz mitdünsten und die Hälfte der Erbsen zufügen.",
       "Nach und nach heiße Brühe angießen und ca. 15 Minuten garen, bis der Reis weich ist und eine suppige Konsistenz hat.",
-      "Restliche Erbsen letzte 3 Minuten zufügen, Parmesan unterziehen und mit Pfeffer abschmecken."
+      "Restliche Erbsen letzte 3 Minuten zufügen, Hartkäse unterziehen und mit Pfeffer abschmecken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -16279,7 +16298,7 @@
         "amount": "50g"
       },
       {
-        "name": "Grüne Currypaste",
+        "name": "Grüne Currypaste (vegan, ohne Garnelenpaste)",
         "amount": "25g"
       },
       {
@@ -19233,6 +19252,10 @@
         "amount": "1 EL (15ml)"
       },
       {
+        "name": "Essig",
+        "amount": "1 TL (5ml)"
+      },
+      {
         "name": "Basmatireis (ungekocht)",
         "amount": "45g"
       },
@@ -19258,7 +19281,8 @@
     ],
     "allergens": [
       "gluten",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -27138,7 +27162,7 @@
   },
   {
     "id": "rec_426",
-    "title": "Dinkotto mit Artischocken, Zitrone und Parmesan",
+    "title": "Dinkotto mit Artischocken, Zitrone und Hartkäse",
     "calories": 505,
     "protein": 23,
     "carbs": 61,
@@ -27177,7 +27201,7 @@
         "amount": "400ml"
       },
       {
-        "name": "Parmesan (gerieben)",
+        "name": "vegetarischer Hartkäse (Parmesan-Art)",
         "amount": "20g"
       },
       {
@@ -27197,7 +27221,7 @@
       "Zwiebel und Knoblauch fein würfeln und im Olivenöl glasig dünsten. Den Perldinkel zugeben und 1 Minute mitrösten.",
       "Nach und nach heiße Brühe angießen und den Dinkel unter gelegentlichem Rühren 25–30 Minuten cremig garen.",
       "Artischockenherzen vierteln, in den letzten 5 Minuten unterheben und mitgaren.",
-      "Parmesan, Zitronenabrieb und etwas Zitronensaft einrühren, mit Salz und Pfeffer abschmecken.",
+      "Hartkäse, Zitronenabrieb und etwas Zitronensaft einrühren, mit Salz und Pfeffer abschmecken.",
       "Auf Teller geben und mit Rucola belegt servieren."
     ],
     "dietTags": [
@@ -28519,6 +28543,10 @@
         "amount": "120g"
       },
       {
+        "name": "Essig (für das Pochierwasser)",
+        "amount": "1 EL (15ml)"
+      },
+      {
         "name": "Knoblauch",
         "amount": "4g"
       },
@@ -28566,7 +28594,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {

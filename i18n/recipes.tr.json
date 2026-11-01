@@ -515,13 +515,13 @@
       "Havuç",
       "Soğan",
       "Zeytinyağı",
-      "Parmesan"
+      "vejetaryen sert peynir (Parmesan tipi)"
     ],
     "instructions": [
       "Soğanı ve havucu ince doğrayın, zeytinyağında kavurun.",
       "Mercimeği, süzme domatesi ve 150 ml suyu ekleyin, 15 dakika kısık ateşte pişirin.",
       "Makarnayı haşlayın ve sosla karıştırın.",
-      "Üzerine parmesan serpin."
+      "Üzerine sert peynir serpin."
     ]
   },
   {
@@ -838,16 +838,16 @@
   },
   {
     "id": "rec_053",
-    "title": "Parmesanlı Airfryer Kabak Kızartması",
+    "title": "Sert Peynirli Airfryer Kabak Kızartması",
     "ingredients": [
       "Kabak",
-      "Parmesan",
+      "vejetaryen sert peynir (Parmesan tipi)",
       "Yumurta akı",
       "İnce yulaf ezmesi (öğütülmüş)"
     ],
     "instructions": [
       "Kabağı patates kızartması gibi çubuk şeklinde kesin.",
-      "Önce yumurta akına, sonra öğütülmüş yulaf ve parmesan karışımına bulayın.",
+      "Önce yumurta akına, sonra öğütülmüş yulaf ve sert peynir karışımına bulayın.",
       "Airfryer'da 190°C'de 12 dakika çıtır olana kadar pişirin."
     ]
   },
@@ -1351,6 +1351,8 @@
       "Parmesan",
       "Tost ekmeği (kıtır ekmek için)",
       "Süzme yoğurt (%0,2 yağ)",
+      "Hardal",
+      "Limon suyu",
       "Zeytinyağı"
     ],
     "instructions": [
@@ -1552,6 +1554,7 @@
       "Çeri domates",
       "Parmesan",
       "Zeytinyağı",
+      "Balzamik sirke",
       "Tam tahıllı ekmek"
     ],
     "instructions": [
@@ -1706,18 +1709,18 @@
   },
   {
     "id": "rec_102",
-    "title": "Parmesanlı ve Cevizli Airfryer Brüksel Lahanası",
+    "title": "Sert Peynirli ve Cevizli Airfryer Brüksel Lahanası",
     "ingredients": [
       "Brüksel lahanası",
       "Zeytinyağı",
-      "Parmesan",
+      "vejetaryen sert peynir (Parmesan tipi)",
       "Bal",
       "Ceviz"
     ],
     "instructions": [
       "Brüksel lahanalarını temizleyin, ikiye kesin ve zeytinyağı, tuz ve karabiberle karıştırın.",
       "Airfryer'da 190°C'de yapraklar çıtır olana kadar 12–14 dakika pişirin.",
-      "Bal, parmesan talaşı ve doğranmış cevizle servis edin."
+      "Bal, sert peynir talaşı ve doğranmış cevizle servis edin."
     ]
   },
   {
@@ -2017,13 +2020,13 @@
       "Tam buğday makarna (çiğ)",
       "Pırasa",
       "Zeytinyağı",
-      "Parmesan"
+      "vejetaryen sert peynir (Parmesan tipi)"
     ],
     "instructions": [
       "Sebzeleri küçük küp doğrayın ve zeytinyağında 4 dakika kavurun.",
       "Süzme domatesi ve 400 ml suyu ekleyin, 15 dakika kısık ateşte pişirin.",
       "Fasulyeyi ve makarnayı ekleyin ve 8 dakika daha pişirin.",
-      "Parmesan ve fesleğenle servis edin."
+      "Sert peynir ve fesleğenle servis edin."
     ]
   },
   {
@@ -2317,6 +2320,7 @@
       "Tam tahıllı ekmek",
       "Avokado",
       "Yumurta (orta boy)",
+      "Sirke (haşlama suyu için)",
       "Çeri domates",
       "Pul biber"
     ],
@@ -2552,14 +2556,14 @@
       "Domates",
       "Cottage peyniri (az yağlı)",
       "Zeytinyağı",
-      "Parmesan",
+      "vejetaryen sert peynir (Parmesan tipi)",
       "Fesleğen"
     ],
     "instructions": [
       "Ekmeği kızartın.",
       "Domatesleri ince küp doğrayın ve zeytinyağı, fesleğen, tuz ve karabiberle karıştırın.",
       "Ekmeğe cottage peyniri sürün ve domatesleri üzerine dağıtın.",
-      "Parmesan talaşıyla servis edin."
+      "Sert peynir talaşıyla servis edin."
     ]
   },
   {
@@ -3362,7 +3366,7 @@
       "Soğan",
       "Zeytinyağı",
       "Sebze suyu",
-      "Parmesan",
+      "vejetaryen sert peynir (Parmesan tipi)",
       "Biberiye"
     ],
     "instructions": [
@@ -3370,7 +3374,7 @@
       "Süzme domatesi, sebze suyunu, fasulyeyi ve biberiyeyi ekleyin.",
       "20 dakika hafif ateşte pişirin ve çorbanın kremsi olması için fasulyelerin bir kısmını ezin.",
       "Tuz ve karabiberle tatlandırın ve sıcakken termos kaba doldurun.",
-      "Parmesanı ayrı götürün ve servis ederken üzerine rendeleyin."
+      "Sert peyniri ayrı götürün ve servis ederken üzerine rendeleyin."
     ]
   },
   {
@@ -3751,14 +3755,14 @@
       "Fesleğenli pesto",
       "Patates",
       "Taze fasulye",
-      "Parmesan"
+      "vejetaryen sert peynir (Parmesan tipi)"
     ],
     "instructions": [
       "Patatesi soyun ve küçük küp doğrayın, fasulyeleri 3 cm uzunluğunda parçalara ayırın.",
       "Patatesleri tuzlu suda 5 dakika ön haşlama yapın, ardından makarnayı, pişme süresinin yarısında da fasulyeleri ekleyin.",
       "Hepsini birlikte pişirip süzün, 3 yemek kaşığı haşlama suyunu ayırın.",
       "Pestoyu haşlama suyuyla karıştırın ve makarna ve sebzelerle birleştirin.",
-      "Üzerine parmesan serpin."
+      "Üzerine sert peynir serpin."
     ]
   },
   {
@@ -3883,22 +3887,22 @@
   },
   {
     "id": "rec_219",
-    "title": "Mantar Ragulu ve Parmesanlı Polenta",
+    "title": "Mantar Ragulu ve Sert Peynirli Polenta",
     "ingredients": [
       "Polenta (mısır irmiği, çiğ)",
       "Kültür mantarı",
       "Soğan",
       "Domates salçası",
       "Zeytinyağı",
-      "Parmesan",
+      "vejetaryen sert peynir (Parmesan tipi)",
       "Kekik, tuz"
     ],
     "instructions": [
       "300 ml suyu tuzla kaynatın, polentayı yavaş yavaş ekleyin ve kısık ateşte karıştırarak 10 dakika pişirin.",
       "Mantarları dilimleyin ve zeytinyağında yüksek ateşte renk alana kadar kızartın.",
       "Soğanı, domates salçasını ve kekiği ekleyin ve biraz et suyuyla 5 dakika pişirin.",
-      "Parmesanın yarısını polentaya karıştırın.",
-      "Polentayı bir tabağa alın, üzerine ragu koyun ve parmesan serpin."
+      "Sert peynirin yarısını polentaya karıştırın.",
+      "Polentayı bir tabağa alın, üzerine ragu koyun ve sert peynir serpin."
     ]
   },
   {
@@ -3908,7 +3912,7 @@
       "Kısa taneli pirinç (risotto pirinci)",
       "Bezelye (dondurulmuş)",
       "Soğan",
-      "Parmesan",
+      "vejetaryen sert peynir (Parmesan tipi)",
       "Zeytinyağı",
       "Sebze suyu"
     ],
@@ -3916,7 +3920,7 @@
       "Soğanı ince küp doğrayın ve zeytinyağında pembeleşene kadar kavurun.",
       "Pirinci ekleyin, kısa süre kavurun ve bezelyenin yarısını ilave edin.",
       "Sıcak sebze suyunu azar azar ekleyin ve pirinç yumuşayıp çorbamsı bir kıvam alana kadar yaklaşık 15 dakika pişirin.",
-      "Kalan bezelyeyi son 3 dakikada ekleyin, parmesanı karıştırın ve karabiberle tatlandırın."
+      "Kalan bezelyeyi son 3 dakikada ekleyin, sert peyniri karıştırın ve karabiberle tatlandırın."
     ]
   },
   {
@@ -4923,7 +4927,7 @@
       "Patlıcan",
       "Bambu filizi",
       "Kırmızı biber",
-      "Yeşil köri ezmesi",
+      "Yeşil köri ezmesi (vegan, karides ezmesi içermez)",
       "Light hindistan cevizi sütü",
       "Su",
       "Soya sosu",
@@ -5798,6 +5802,7 @@
       "Soğan (mor)",
       "Sarı acı biber",
       "Soya sosu",
+      "Sirke",
       "Basmati pirinci (çiğ)",
       "Kanola yağı",
       "Kişniş"
@@ -8185,14 +8190,14 @@
   },
   {
     "id": "rec_426",
-    "title": "Enginarlı, Limonlu ve Parmesanlı Kavılca Risottosu (Dinkotto)",
+    "title": "Enginarlı, Limonlu ve Sert Peynirli Kavılca Risottosu (Dinkotto)",
     "ingredients": [
       "İnci kavılca (çiğ)",
       "Enginar kalbi (kavanoz, süzülmüş)",
       "Soğan",
       "Sarımsak",
       "Sebze suyu",
-      "Parmesan (rendelenmiş)",
+      "vejetaryen sert peynir (Parmesan tipi)",
       "Zeytinyağı",
       "Roka",
       "Limon kabuğu rendesi ve suyu, tuz, karabiber"
@@ -8201,7 +8206,7 @@
       "Soğanı ve sarımsağı ince küp doğrayın ve zeytinyağında pembeleşene kadar kavurun. İnci kavılcayı ekleyin ve 1 dakika birlikte kavurun.",
       "Sıcak sebze suyunu azar azar ekleyin ve kavılcayı ara sıra karıştırarak 25–30 dakika kremsi olana kadar pişirin.",
       "Enginar kalplerini dörde bölün, son 5 dakikada ekleyip birlikte pişirin.",
-      "Parmesan, limon kabuğu rendesi ve biraz limon suyunu ekleyip karıştırın, tuz ve karabiberle tatlandırın.",
+      "Sert peynir, limon kabuğu rendesi ve biraz limon suyunu ekleyip karıştırın, tuz ve karabiberle tatlandırın.",
       "Tabaklara alın ve üzerine roka koyarak servis edin."
     ]
   },
@@ -8589,6 +8594,7 @@
     "ingredients": [
       "Yumurta (orta boy)",
       "Süzme yoğurt (%0,2 yağ)",
+      "Sirke (haşlama suyu için)",
       "Sarımsak",
       "Bulgur (pilavlık, çiğ)",
       "Ispanak",
