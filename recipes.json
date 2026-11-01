@@ -4500,6 +4500,14 @@
         "amount": "60g"
       },
       {
+        "name": "Senf",
+        "amount": "1 TL (5g)"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "1 TL (5ml)"
+      },
+      {
         "name": "Olivenöl",
         "amount": "1 TL (5ml)"
       }
@@ -4515,7 +4523,9 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -5161,6 +5171,10 @@
         "amount": "2 TL (10ml)"
       },
       {
+        "name": "Balsamico",
+        "amount": "1 TL (5ml)"
+      },
+      {
         "name": "Vollkornbrot",
         "amount": "40g"
       }
@@ -5176,7 +5190,8 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -5230,7 +5245,6 @@
       "Himbeeren mit einer Gabel zerdrücken und als Sauce darübergeben."
     ],
     "dietTags": [
-      "vegetarisch",
       "glutenfrei",
       "high-protein",
       "kalorienarm"
@@ -7716,6 +7730,10 @@
         "amount": "2 Stück"
       },
       {
+        "name": "Essig (für das Pochierwasser)",
+        "amount": "1 EL (15ml)"
+      },
+      {
         "name": "Kirschtomaten",
         "amount": "50g"
       },
@@ -7737,7 +7755,8 @@
     ],
     "allergens": [
       "gluten",
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
@@ -16279,7 +16298,7 @@
         "amount": "50g"
       },
       {
-        "name": "Grüne Currypaste",
+        "name": "Grüne Currypaste (vegan, ohne Garnelenpaste)",
         "amount": "25g"
       },
       {
@@ -19233,6 +19252,10 @@
         "amount": "1 EL (15ml)"
       },
       {
+        "name": "Essig",
+        "amount": "1 TL (5ml)"
+      },
+      {
         "name": "Basmatireis (ungekocht)",
         "amount": "45g"
       },
@@ -19258,7 +19281,8 @@
     ],
     "allergens": [
       "gluten",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -28519,6 +28543,10 @@
         "amount": "120g"
       },
       {
+        "name": "Essig (für das Pochierwasser)",
+        "amount": "1 EL (15ml)"
+      },
+      {
         "name": "Knoblauch",
         "amount": "4g"
       },
@@ -28566,7 +28594,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
