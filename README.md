@@ -23,7 +23,8 @@ healthup-recipes/
 4. **Nährwerte nachvollziehbar berechnen.** Aus den Zutatengrammen mit Standard-Nährwerttabellen, mit Plausibilitätsprüfung (Kalorien ≈ Eiweiß×4 + Kohlenhydrate×4 + Fett×9). Ballaststoffe (`fiber`) werden separat aus den Zutatengrammen berechnet und auf ganze Gramm gerundet; sie sind nicht von `carbs` abgezogen.
 5. **Schema nur erweitern.** Felder werden hinzugefügt, aber nie umbenannt oder entfernt. IDs werden nie wiederverwendet.
 6. **Ernährungsform und Allergene** werden pro Rezept aus den Zutaten abgeleitet (`dietTags`, `allergens`).
-7. **Qualitätscheck vor jedem Upload:** JSON gültig, alle Bild-URLs erreichbar, keine Doppelten, Nährwerte plausibel.
+7. **Jedes Rezept hat ein eigenes Bild aus diesem Repo** (`images/`). Keine Fremdquellen wie Unsplash.
+8. **Qualitätscheck vor jedem Upload:** JSON gültig, alle Bild-URLs erreichbar, keine Doppelten, Nährwerte plausibel.
 
 ## Update-Prozedere
 
@@ -38,15 +39,16 @@ healthup-recipes/
 |---|---|---|
 | `id` | String | Eindeutige Kennung, z. B. `rec_001` |
 | `title` | String | Name des Gerichts |
-| `calories`, `protein`, `carbs`, `fat` | Int | Pro Portion (kcal bzw. Gramm) |
-| `fiber` | Int | Ballaststoffe pro Portion in Gramm |
-| `servingSizeGrams` | Int | Ungefähres Gewicht einer fertig zubereiteten Portion in Gramm |
+| `calories`, `protein`, `fat` | Int | Pro Portion (kcal bzw. Gramm) |
+| `carbs` | Int | Kohlenhydrate pro Portion in Gramm, **netto, ohne Ballaststoffe** (EU/BLS-Konvention) |
+| `fiber` | Int | Ballaststoffe pro Portion in Gramm, als eigene Zeile. Nicht von `carbs` abgezogen, deshalb kann `fiber` > `carbs` vorkommen (Beispiel `rec_017`: carbs 15, fiber 17) |
+| `servingSizeGrams` | Int | Ungefähres Gewicht einer fertig zubereiteten Portion in Gramm. Die App (`RecipeService`) liest dieses Feld und führt es intern als `portionGrams`. |
 | `prepTimeMinutes` | Int | Zubereitungsdauer |
 | `suitableMealTypes` | [String] | `breakfast`, `lunch`, `dinner`, `snack` |
 | `timeOfDay` | [String] | `morning` (06:00–10:30), `noon` (11:30–14:30), `afternoon` (15:00–17:30), `evening` (18:00–22:00) |
 | `imageUrl` | String | Raw-URL zum Bild |
 | `dietTags` | [String] | z. B. `vegetarisch`, `vegan`, `glutenfrei`, `laktosefrei`, `high-protein`, `kalorienarm`, `ballaststoffreich` (≥ 10 g Ballaststoffe pro Portion) |
-| `allergens` | [String] | z. B. `gluten`, `milch`, `ei`, `fisch`, `krebstiere`, `schalenfruechte`, `erdnuss`, `soja`, `sesam`, `sellerie`, `senf`, `weichtiere`, `lupinen` |
+| `allergens` | [String] | z. B. `gluten`, `milch`, `ei`, `fisch`, `krebstiere`, `schalenfruechte`, `erdnuss`, `soja`, `sesam`, `sellerie`, `senf`, `weichtiere`, `lupinen`, `sulfite` (Schwefeldioxid/Sulfite, konservativ aus typisch geschwefelten Zutaten abgeleitet, z. B. Essig, Senf, Trockenobst, Eingelegtes, Garnelen) |
 | `ingredients` | [{`name`, `amount`}] | Zutaten mit Mengenangabe |
 | `instructions` | [String] | Geordnete Zubereitungsschritte |
 
@@ -75,3 +77,4 @@ Die Nährwerte und das Portionsgewicht sind Richtwerte, berechnet aus Standard-N
 - 2026-10-28: 200 neue Rezepte (rec_201–400) mit deutlich mehr Vielfalt: Mittelmeer und Orient, Asien, Amerika und Europa, Hausmannskost und saisonale Gerichte; insgesamt 400 Rezepte.
 - 2026-10-28: Schema 3: neues Feld `fiber` (Ballaststoffe pro Portion) für alle 400 Rezepte.
 - 2026-10-29: 50 neue ballaststoffreiche Rezepte (rec_401–450, je ≥ 10 g Ballaststoffe pro Portion, Tag `ballaststoffreich`); neues Allergen `lupinen`; Tag `ballaststoffreich` zusätzlich bei allen bestehenden Rezepten mit ≥ 10 g Ballaststoffen (insgesamt 164); insgesamt 450 Rezepte.
+- 2026-11-01: Neues Allergen `sulfite` (95 Rezepte, konservativ aus den Zutaten abgeleitet); Kohlenhydrat-Konvention dokumentiert (`carbs` netto ohne Ballaststoffe, `fiber` separat); Hinweis zum Portionsfeld (`servingSizeGrams` = intern `portionGrams`); neue Regel: jedes Rezept hat ein eigenes Bild aus `images/`. Korrektur: rec_376 Allergen `senf` ergänzt (Senf war in den Zutaten).

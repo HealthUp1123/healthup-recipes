@@ -1136,7 +1136,8 @@
     ],
     "allergens": [
       "gluten",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -3003,7 +3004,8 @@
       "high-protein"
     ],
     "allergens": [
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -4997,7 +4999,8 @@
     ],
     "allergens": [
       "gluten",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -5834,7 +5837,8 @@
       "gluten",
       "milch",
       "ei",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -6596,7 +6600,8 @@
     ],
     "allergens": [
       "milch",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -7211,7 +7216,8 @@
       "kalorienarm"
     ],
     "allergens": [
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -8167,7 +8173,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -8693,7 +8700,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -9001,7 +9009,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -9421,7 +9430,8 @@
     ],
     "allergens": [
       "gluten",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -9983,7 +9993,8 @@
     ],
     "allergens": [
       "milch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -10234,7 +10245,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -10465,7 +10477,8 @@
       "gluten",
       "milch",
       "fisch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -10579,7 +10592,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -10765,7 +10779,8 @@
     ],
     "allergens": [
       "gluten",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -11674,7 +11689,8 @@
       "gluten",
       "krebstiere",
       "erdnuss",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -12364,7 +12380,8 @@
     "allergens": [
       "gluten",
       "fisch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -12625,7 +12642,8 @@
     "allergens": [
       "gluten",
       "schalenfruechte",
-      "sellerie"
+      "sellerie",
+      "sulfite"
     ]
   },
   {
@@ -12810,7 +12828,8 @@
       "laktosefrei"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -13195,7 +13214,8 @@
       "laktosefrei"
     ],
     "allergens": [
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -13999,7 +14019,8 @@
     ],
     "allergens": [
       "milch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -14071,7 +14092,8 @@
     ],
     "allergens": [
       "gluten",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -14202,7 +14224,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -14333,7 +14356,8 @@
     "allergens": [
       "gluten",
       "ei",
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -14402,7 +14426,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -14540,7 +14565,8 @@
     ],
     "allergens": [
       "krebstiere",
-      "weichtiere"
+      "weichtiere",
+      "sulfite"
     ]
   },
   {
@@ -14605,7 +14631,8 @@
     ],
     "allergens": [
       "gluten",
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -14716,7 +14743,8 @@
     ],
     "allergens": [
       "gluten",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -15351,7 +15379,8 @@
     "allergens": [
       "gluten",
       "ei",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -15800,7 +15829,8 @@
       "high-protein"
     ],
     "allergens": [
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -15881,7 +15911,8 @@
     "allergens": [
       "gluten",
       "krebstiere",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -16129,7 +16160,8 @@
     "allergens": [
       "fisch",
       "krebstiere",
-      "erdnuss"
+      "erdnuss",
+      "sulfite"
     ]
   },
   {
@@ -16436,7 +16468,8 @@
     ],
     "allergens": [
       "krebstiere",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -16514,7 +16547,8 @@
     ],
     "allergens": [
       "gluten",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -16677,7 +16711,8 @@
     "allergens": [
       "gluten",
       "erdnuss",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -16835,7 +16870,8 @@
     ],
     "allergens": [
       "gluten",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -16917,7 +16953,8 @@
     ],
     "allergens": [
       "fisch",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -16998,7 +17035,8 @@
     "allergens": [
       "gluten",
       "krebstiere",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -17072,7 +17110,9 @@
       "laktosefrei",
       "high-protein"
     ],
-    "allergens": []
+    "allergens": [
+      "sulfite"
+    ]
   },
   {
     "id": "rec_279",
@@ -17411,7 +17451,8 @@
       "gluten",
       "krebstiere",
       "erdnuss",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -17489,7 +17530,8 @@
       "gluten",
       "krebstiere",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -17567,7 +17609,8 @@
     "allergens": [
       "gluten",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -17715,7 +17758,8 @@
       "gluten",
       "krebstiere",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -17792,7 +17836,8 @@
     "allergens": [
       "gluten",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -17874,7 +17919,8 @@
     ],
     "allergens": [
       "gluten",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -18023,7 +18069,8 @@
       "gluten",
       "fisch",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -18100,7 +18147,8 @@
     "allergens": [
       "gluten",
       "soja",
-      "sesam"
+      "sesam",
+      "sulfite"
     ]
   },
   {
@@ -18708,7 +18756,8 @@
     ],
     "allergens": [
       "milch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -18793,7 +18842,8 @@
     ],
     "allergens": [
       "gluten",
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -19005,7 +19055,8 @@
       "high-protein"
     ],
     "allergens": [
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -19076,7 +19127,8 @@
       "high-protein"
     ],
     "allergens": [
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -19349,7 +19401,8 @@
       "high-protein"
     ],
     "allergens": [
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -19539,7 +19592,8 @@
       "high-protein"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -19722,7 +19776,8 @@
       "glutenfrei"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -19792,7 +19847,8 @@
     ],
     "allergens": [
       "milch",
-      "krebstiere"
+      "krebstiere",
+      "sulfite"
     ]
   },
   {
@@ -19863,7 +19919,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -19939,7 +19996,8 @@
       "gluten",
       "milch",
       "ei",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20136,7 +20194,8 @@
       "fisch",
       "schalenfruechte",
       "sellerie",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20275,7 +20334,8 @@
       "gluten",
       "fisch",
       "soja",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20354,7 +20414,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
@@ -20419,7 +20480,8 @@
       "gluten",
       "milch",
       "fisch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20484,7 +20546,8 @@
     ],
     "allergens": [
       "ei",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20608,7 +20671,8 @@
       "gluten",
       "milch",
       "fisch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -20745,7 +20809,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -20817,7 +20882,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
@@ -20949,7 +21015,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -21016,7 +21083,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -21144,7 +21212,8 @@
       "high-protein"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -21350,7 +21419,8 @@
       "high-protein"
     ],
     "allergens": [
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -21748,7 +21818,8 @@
       "high-protein"
     ],
     "allergens": [
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -22021,7 +22092,8 @@
       "gluten",
       "milch",
       "ei",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -22552,7 +22624,8 @@
     ],
     "allergens": [
       "milch",
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -22610,7 +22683,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "fisch"
+      "fisch",
+      "sulfite"
     ]
   },
   {
@@ -22675,7 +22749,8 @@
       "gluten",
       "fisch",
       "sellerie",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -22962,7 +23037,8 @@
     ],
     "allergens": [
       "gluten",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -23237,7 +23313,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "sulfite"
     ]
   },
   {
@@ -23363,7 +23440,8 @@
       "high-protein"
     ],
     "allergens": [
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
@@ -23569,7 +23647,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "ei"
+      "ei",
+      "sulfite"
     ]
   },
   {
@@ -23707,7 +23786,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -23903,7 +23983,9 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -23959,7 +24041,8 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -24092,7 +24175,8 @@
       "laktosefrei"
     ],
     "allergens": [
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -24158,7 +24242,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "sulfite"
     ]
   },
   {
@@ -24883,7 +24968,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -25079,7 +25165,8 @@
     "allergens": [
       "gluten",
       "milch",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -25366,7 +25453,8 @@
       "gluten",
       "milch",
       "ei",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -26223,7 +26311,9 @@
       "kalorienarm",
       "ballaststoffreich"
     ],
-    "allergens": []
+    "allergens": [
+      "sulfite"
+    ]
   },
   {
     "id": "rec_413",
@@ -27042,7 +27132,8 @@
     ],
     "allergens": [
       "gluten",
-      "schalenfruechte"
+      "schalenfruechte",
+      "sulfite"
     ]
   },
   {
@@ -27115,7 +27206,8 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "sulfite"
     ]
   },
   {
@@ -27190,7 +27282,8 @@
     ],
     "allergens": [
       "fisch",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -27267,7 +27360,9 @@
       "high-protein",
       "ballaststoffreich"
     ],
-    "allergens": []
+    "allergens": [
+      "sulfite"
+    ]
   },
   {
     "id": "rec_429",
@@ -27796,7 +27891,8 @@
       "gluten",
       "fisch",
       "schalenfruechte",
-      "senf"
+      "senf",
+      "sulfite"
     ]
   },
   {
@@ -27879,7 +27975,8 @@
     "allergens": [
       "gluten",
       "krebstiere",
-      "sellerie"
+      "sellerie",
+      "sulfite"
     ]
   },
   {
@@ -28101,7 +28198,8 @@
     "allergens": [
       "gluten",
       "senf",
-      "lupinen"
+      "lupinen",
+      "sulfite"
     ]
   },
   {
@@ -28703,7 +28801,8 @@
       "ballaststoffreich"
     ],
     "allergens": [
-      "weichtiere"
+      "weichtiere",
+      "sulfite"
     ]
   },
   {
