@@ -2,7 +2,7 @@
 
 Remote-Datenspeicher für die Rezeptvorschläge der iOS-App **HealthUp+**. Das Repository dient als Content Delivery Network (CDN): Die App lädt `recipes.json` und die Rezeptbilder zur Laufzeit per HTTPS.
 
-Aktueller Stand: **500 Rezepte** (siehe `meta.json`, Schema-Version 3).
+Aktueller Stand: **550 Rezepte** (siehe `meta.json`, Schema-Version 3).
 
 ## Struktur
 
@@ -80,3 +80,4 @@ Die Nährwerte und das Portionsgewicht sind Richtwerte, berechnet aus Standard-N
 - 2026-11-01: Neues Allergen `sulfite` (95 Rezepte, konservativ aus den Zutaten abgeleitet); Kohlenhydrat-Konvention dokumentiert (`carbs` netto ohne Ballaststoffe, `fiber` separat); Hinweis zum Portionsfeld (`servingSizeGrams` = intern `portionGrams`); neue Regel: jedes Rezept hat ein eigenes Bild aus `images/`. Korrektur: rec_376 Allergen `senf` ergänzt (Senf war in den Zutaten).
 - 2026-11-01: 50 vegane Rezepte rec_451–500 (20 Haupt, 15 Frühstück, 15 Snacks), eigene Bilder, en/tr ergänzt; insgesamt 500 Rezepte.
 - 2026-11-01: Korrekturen nach Nachprüfung: Allergen `sulfite` bei 5 weiteren Rezepten ergänzt (rec_082, 093, 136, 306, 444); fehlende Zutaten aus der Zubereitung ergänzt (rec_082 Senf und Zitronensaft, Allergen `senf`; rec_093 Balsamico; rec_136, 306, 444 Essig), Nährwerte unverändert (je ≤ 5 kcal); rec_094 Tag `vegetarisch` entfernt (Gelatine); rec_268 Currypaste als vegan ohne Garnelenpaste gekennzeichnet; Parmesan in 10 vegetarischen Rezepten (rec_031, 053, 102, 119, 149, 192, 212, 219, 220, 426) durch „vegetarischer Hartkäse (Parmesan-Art)“ ersetzt, auch in vier Titeln; en/tr angepasst.
+- 2026-11-05: 50 neue Rezepte rec_501–550 für mehr Abwechslung bei den Vorschlägen: 15 Frühstück, 12 Snacks (meal-prep-tauglich, 6 aus dem Airfryer), 15 schnelle Hauptgerichte (≤ 30 Min., u. a. Fisch, Meeresfrüchte, Lamm, Wild, Ente, Hack und Hülsenfrüchte aus persischer, koreanischer, vietnamesischer, mexikanischer, peruanischer, äthiopischer, skandinavischer und osteuropäischer Küche) und 8 Trendrezepte (Protein-Desserts, Shakes, Eis, Fibermaxxing); 18 mit Fleisch oder Fisch; eigene Bilder, en/tr ergänzt; insgesamt 550 Rezepte.
