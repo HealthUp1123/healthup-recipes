@@ -2,7 +2,7 @@
 
 Remote-Datenspeicher für die Rezeptvorschläge der iOS-App **HealthUp+**. Das Repository dient als Content Delivery Network (CDN): Die App lädt `recipes.json` und die Rezeptbilder zur Laufzeit per HTTPS.
 
-Aktueller Stand: **700 Rezepte** (siehe `meta.json`, Schema-Version 3).
+Aktueller Stand: **1200 Rezepte** (siehe `meta.json`, Schema-Version 3).
 
 ## Struktur
 
@@ -48,7 +48,7 @@ healthup-recipes/
 | `suitableMealTypes` | [String] | `breakfast`, `lunch`, `dinner`, `snack` |
 | `timeOfDay` | [String] | `morning` (06:00–10:30), `noon` (11:30–14:30), `afternoon` (15:00–17:30), `evening` (18:00–22:00) |
 | `imageUrl` | String | Raw-URL zum Bild |
-| `dietTags` | [String] | z. B. `vegetarisch`, `vegan`, `glutenfrei`, `laktosefrei`, `high-protein`, `kalorienarm`, `ballaststoffreich` (≥ 10 g Ballaststoffe pro Portion) |
+| `dietTags` | [String] | z. B. `vegetarisch`, `vegan`, `glutenfrei`, `laktosefrei`, `high-protein`, `kalorienarm`, `ballaststoffreich` (≥ 10 g Ballaststoffe pro Portion), sowie die neuen Tags `keto`, `low-carb`, `mediterran`, `dash`, `paleo`, `pescetarisch`, `low-fodmap`, `low-gi`, `volumenreich` (Kriterien siehe unten) |
 | `allergens` | [String] | z. B. `gluten`, `milch`, `ei`, `fisch`, `krebstiere`, `schalenfruechte`, `erdnuss`, `soja`, `sesam`, `sellerie`, `senf`, `weichtiere`, `lupinen`, `sulfite` (Schwefeldioxid/Sulfite, konservativ aus typisch geschwefelten Zutaten abgeleitet, z. B. Essig, Senf, Trockenobst, Eingelegtes, Garnelen) |
 | `ingredients` | [{`name`, `amount`}] | Zutaten mit Mengenangabe |
 | `instructions` | [String] | Geordnete Zubereitungsschritte |
@@ -57,6 +57,7 @@ healthup-recipes/
 
 - JPG, Seitenverhältnis 4:3 oder 1:1
 - Maximal 1200 x 900 Pixel, maximal 250 KB pro Bild
+- Ab 2026-11-10 werden neue Bilder einheitlich auf **1152 × 864 Pixel** hochskaliert (Lanczos) und auf höchstens 250 KB JPEG-komprimiert.
 - Fotorealistisch (siehe Regel 2)
 
 ## URL-Konvention
@@ -71,6 +72,25 @@ Es werden ausschließlich Raw-Content-URLs verwendet:
 
 Die Nährwerte und das Portionsgewicht sind Richtwerte, berechnet aus Standard-Nährwerttabellen, und keine medizinische Beratung. Ernährungsform-Tags und Allergene werden aus den Zutaten abgeleitet und berücksichtigen keine Spuren; bei Allergien bitte immer die Packungsangaben prüfen.
 
+
+## Neue dietTags (ab 2026-11-10)
+
+Die folgenden Tags werden konservativ aus den Zutaten und den Nährwerten **pro Portion** abgeleitet. Ist eine Zutat nicht sicher einzuordnen, wird der Tag nicht vergeben. Die Tags beschreiben nur die Zusammensetzung, sie sind keine medizinische Empfehlung oder Aussage zu Gesundheitseffekten.
+
+| Tag | Vergabe (kurz) |
+|---|---|
+| `keto` | Höchstens 10 g Netto-Kohlenhydrate, mindestens 65 % der Kalorien aus Fett, keine zugesetzten Zucker (Honig, Sirup u. Ä.) |
+| `low-carb` | Höchstens 20 g Netto-Kohlenhydrate |
+| `mediterran` | Olivenöl, kein rotes oder verarbeitetes Fleisch, keine typischen „schlechten“ Fette (Butter, Sahne, Kokosöl u. Ä.); Käse höchstens 40 g; gesättigte Fettsäuren höchstens 10 % der Kalorien; zugesetzter Zucker höchstens 10 g; Gemüse, Obst, Hülsenfrüchte, Vollkorn, Nüsse/Samen, Fisch, Olivenöl und Kräuter machen mindestens die Hälfte der Feststoffe aus; raffiniertes Getreide höchstens 60 g |
+| `dash` | Alle Zutaten mit bekanntem Natriumwert, kein unquantifiziertes Salz; höchstens 600 mg Natrium; mindestens 120 g Gemüse/Obst; kein rotes oder verarbeitetes Fleisch, keine geräucherten/gesalzenen Fische, keine typischen „schlechten“ Fette; fettreiche Milchprodukte höchstens 20 g; gesättigte Fettsäuren höchstens 8 % der Kalorien; zugesetzter Zucker höchstens 10 g |
+| `paleo` | Nur Zutaten aus einer Whitelist (Fleisch, Geflügel, Fisch, Ei, Gemüse, Obst, Nüsse/Samen und bestimmte Öle); keine Getreide, Hülsenfrüchte, Milchprodukte, verarbeiteten Fleischwaren oder zugesetzten Zucker |
+| `pescetarisch` | Enthält Fisch oder Meeresfrüchte und kein Fleisch |
+| `low-fodmap` | Alle Zutaten stehen auf einer Green-Serve-Liste (Monash) und bleiben unter der jeweiligen Höchstmenge pro Portion; typische High-FODMAP-Namen (Zwiebel, Knoblauch, Weizen, Honig u. Ä.) schließen den Tag aus |
+| `low-gi` | Kohlenhydratquellen mit typischem glykämischen Index ≤ 55 (oder unter 5 g Kohlenhydratbeitrag); mindestens 15 g Netto-Kohlenhydrate und 5 g Ballaststoffe; kein zugesetzter Zucker und keine typischen High-GI-Früchte |
+| `volumenreich` | Sättigende, kalorienarme Portion: mindestens 350 g, höchstens 400 kcal und höchstens 80 kcal/100 g, dazu mindestens 20 g Eiweiß oder 8 g Ballaststoffe; gilt nicht für Getränke (Smoothie, Shake, Saft u. Ä.) |
+
+`vegan` plus `high-protein` und `kalorienarm` plus `volumenreich` kennzeichnen die Gruppen „vegan high-protein“ bzw. „kalorienarm sättigend“. Die Tags wurden auch auf die 700 Bestandsrezepte angewendet, dort ändert sich ausschließlich das Feld `dietTags`.
+
 ## Changelog
 
 - 2026-10-25: Schema 2 (`servingSizeGrams`, `dietTags`, `allergens`), 150 Rezepte (rec_001–150), Regeln ergänzt.
@@ -83,3 +103,4 @@ Die Nährwerte und das Portionsgewicht sind Richtwerte, berechnet aus Standard-N
 - 2026-11-01: Korrekturen nach Nachprüfung: Allergen `sulfite` bei 5 weiteren Rezepten ergänzt (rec_082, 093, 136, 306, 444); fehlende Zutaten aus der Zubereitung ergänzt (rec_082 Senf und Zitronensaft, Allergen `senf`; rec_093 Balsamico; rec_136, 306, 444 Essig), Nährwerte unverändert (je ≤ 5 kcal); rec_094 Tag `vegetarisch` entfernt (Gelatine); rec_268 Currypaste als vegan ohne Garnelenpaste gekennzeichnet; Parmesan in 10 vegetarischen Rezepten (rec_031, 053, 102, 119, 149, 192, 212, 219, 220, 426) durch „vegetarischer Hartkäse (Parmesan-Art)“ ersetzt, auch in vier Titeln; en/tr angepasst.
 - 2026-11-05: 50 neue Rezepte rec_501–550 für mehr Abwechslung bei den Vorschlägen: 15 Frühstück, 12 Snacks (meal-prep-tauglich, 6 aus dem Airfryer), 15 schnelle Hauptgerichte (≤ 30 Min., u. a. Fisch, Meeresfrüchte, Lamm, Wild, Ente, Hack und Hülsenfrüchte aus persischer, koreanischer, vietnamesischer, mexikanischer, peruanischer, äthiopischer, skandinavischer und osteuropäischer Küche) und 8 Trendrezepte (Protein-Desserts, Shakes, Eis, Fibermaxxing); 18 mit Fleisch oder Fisch; eigene Bilder, en/tr ergänzt; insgesamt 550 Rezepte.
 - 2026-11-09: Neue Regel 9 „Kein Schweinefleisch“: 26 Rezepte mit Schweinefleisch entfernt (rec_206, 214, 216, 262, 267, 275, 280, 281, 284, 286, 300, 301, 307, 315, 321, 325, 329, 336, 342, 343, 351, 360, 371, 373, 397, 442; IDs werden nicht wiederverwendet), en/tr entsprechend bereinigt; rec_094 Gelatine durch Agar-Agar ersetzt (jetzt wieder `vegetarisch`, Nährwerte angepasst). 176 neue Rezepte rec_551–726: 76 türkische Gerichte (49 vegetarisch, Titel „Türkischer Originalname (Deutsch)“) und 100 internationale, überwiegend vegetarische Gerichte; insgesamt 149 vegetarisch (davon 46 vegan), 27 mit Fleisch oder Fisch (ohne Schwein); eigene Bilder, en/tr ergänzt; insgesamt 700 Rezepte.
+- 2026-11-10: 500 neue Rezepte rec_727–1226, ausgerichtet auf verschiedene Ernährungsformen (60 keto, 60 low-carb, 70 mediterran, 50 DASH, 40 paleo, 50 pescetarisch, 40 low-FODMAP, 50 low-GI, 40 vegan high-protein, 40 kalorienarm sättigend); neue dietTags nach den oben dokumentierten, konservativen Zutatenregeln, auch rückwirkend auf die 700 Bestandsrezepte (nur `dietTags`: u. a. 119 mediterran, 91 low-GI, 90 pescetarisch, 64 volumenreich, 51 low-carb, 18 DASH, 18 low-FODMAP, 8 paleo); eigene Bilder 1152×864 (Lanczos-Hochskalierung, höchstens 250 KB), en/tr ergänzt; insgesamt 1200 Rezepte.
