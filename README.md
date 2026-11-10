@@ -2,7 +2,7 @@
 
 Remote-Datenspeicher für die Rezeptvorschläge der iOS-App **HealthUp+**. Das Repository dient als Content Delivery Network (CDN): Die App lädt `recipes.json` und die Rezeptbilder zur Laufzeit per HTTPS.
 
-Aktueller Stand: **550 Rezepte** (siehe `meta.json`, Schema-Version 3).
+Aktueller Stand: **700 Rezepte** (siehe `meta.json`, Schema-Version 3).
 
 ## Struktur
 
@@ -25,6 +25,7 @@ healthup-recipes/
 6. **Ernährungsform und Allergene** werden pro Rezept aus den Zutaten abgeleitet (`dietTags`, `allergens`).
 7. **Jedes Rezept hat ein eigenes Bild aus diesem Repo** (`images/`). Keine Fremdquellen wie Unsplash.
 8. **Qualitätscheck vor jedem Upload:** JSON gültig, alle Bild-URLs erreichbar, keine Doppelten, Nährwerte plausibel.
+9. **Kein Schweinefleisch.** Keine Rezepte mit Schweinefleisch oder daraus hergestellten Produkten (z. B. Schinken, Speck, Chorizo, Salami, Schweinehack, Schmalz, Gelatine). Wurst und Schinken nur aus Geflügel oder Rind, entsprechend gekennzeichnet.
 
 ## Update-Prozedere
 
@@ -81,3 +82,4 @@ Die Nährwerte und das Portionsgewicht sind Richtwerte, berechnet aus Standard-N
 - 2026-11-01: 50 vegane Rezepte rec_451–500 (20 Haupt, 15 Frühstück, 15 Snacks), eigene Bilder, en/tr ergänzt; insgesamt 500 Rezepte.
 - 2026-11-01: Korrekturen nach Nachprüfung: Allergen `sulfite` bei 5 weiteren Rezepten ergänzt (rec_082, 093, 136, 306, 444); fehlende Zutaten aus der Zubereitung ergänzt (rec_082 Senf und Zitronensaft, Allergen `senf`; rec_093 Balsamico; rec_136, 306, 444 Essig), Nährwerte unverändert (je ≤ 5 kcal); rec_094 Tag `vegetarisch` entfernt (Gelatine); rec_268 Currypaste als vegan ohne Garnelenpaste gekennzeichnet; Parmesan in 10 vegetarischen Rezepten (rec_031, 053, 102, 119, 149, 192, 212, 219, 220, 426) durch „vegetarischer Hartkäse (Parmesan-Art)“ ersetzt, auch in vier Titeln; en/tr angepasst.
 - 2026-11-05: 50 neue Rezepte rec_501–550 für mehr Abwechslung bei den Vorschlägen: 15 Frühstück, 12 Snacks (meal-prep-tauglich, 6 aus dem Airfryer), 15 schnelle Hauptgerichte (≤ 30 Min., u. a. Fisch, Meeresfrüchte, Lamm, Wild, Ente, Hack und Hülsenfrüchte aus persischer, koreanischer, vietnamesischer, mexikanischer, peruanischer, äthiopischer, skandinavischer und osteuropäischer Küche) und 8 Trendrezepte (Protein-Desserts, Shakes, Eis, Fibermaxxing); 18 mit Fleisch oder Fisch; eigene Bilder, en/tr ergänzt; insgesamt 550 Rezepte.
+- 2026-11-09: Neue Regel 9 „Kein Schweinefleisch“: 26 Rezepte mit Schweinefleisch entfernt (rec_206, 214, 216, 262, 267, 275, 280, 281, 284, 286, 300, 301, 307, 315, 321, 325, 329, 336, 342, 343, 351, 360, 371, 373, 397, 442; IDs werden nicht wiederverwendet), en/tr entsprechend bereinigt; rec_094 Gelatine durch Agar-Agar ersetzt (jetzt wieder `vegetarisch`, Nährwerte angepasst). 176 neue Rezepte rec_551–726: 76 türkische Gerichte (49 vegetarisch, Titel „Türkischer Originalname (Deutsch)“) und 100 internationale, überwiegend vegetarische Gerichte; insgesamt 149 vegetarisch (davon 46 vegan), 27 mit Fleisch oder Fisch (ohne Schwein); eigene Bilder, en/tr ergänzt; insgesamt 700 Rezepte.

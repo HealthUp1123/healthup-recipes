@@ -1573,12 +1573,12 @@
       "Whey protein powder (vanilla)",
       "Honey",
       "Raspberries",
-      "Gelatine"
+      "Agar-agar"
     ],
     "instructions": [
-      "Soak the gelatine in cold water.",
-      "Warm the milk, dissolve the gelatine in it and stir until smooth with the honey, skyr and protein powder.",
-      "Pour into a glass or ramekin and chill for 3 hours.",
+      "Stir the agar-agar into the cold milk, bring to the boil while stirring and let it bubble for 2 minutes.",
+      "Leave to cool briefly and quickly stir until smooth with the honey, skyr and protein powder.",
+      "Pour into a glass or ramekin and chill for 2 hours until set.",
       "Crush the raspberries with a fork and spoon over as a sauce."
     ]
   },
@@ -3637,23 +3637,6 @@
     ]
   },
   {
-    "id": "rec_206",
-    "title": "Pan con Tomate with Serrano Ham",
-    "ingredients": [
-      "Sourdough bread (toasted)",
-      "Ripe tomatoes (grated)",
-      "Olive oil",
-      "Serrano ham",
-      "Garlic and salt"
-    ],
-    "instructions": [
-      "Toast the bread slices in a toaster or pan until crisp.",
-      "Halve the garlic clove and rub it over the hot surface of the bread.",
-      "Grate the tomatoes on a coarse grater and spread over the bread.",
-      "Drizzle with olive oil and a little salt and top with Serrano ham."
-    ]
-  },
-  {
     "id": "rec_207",
     "title": "Moroccan Baghrir with Orange and Honey",
     "ingredients": [
@@ -3785,25 +3768,6 @@
     ]
   },
   {
-    "id": "rec_214",
-    "title": "Tuscan Roast Pork Fillet (Arista) with Rosemary Potatoes",
-    "ingredients": [
-      "Pork tenderloin",
-      "Potatoes",
-      "Green beans",
-      "Red onions",
-      "Olive oil",
-      "Rosemary, garlic, salt"
-    ],
-    "instructions": [
-      "Preheat the oven to 200°C (conventional).",
-      "Rub the pork fillet with chopped rosemary, garlic, salt and pepper and sear all over in hot oil.",
-      "Cut the potatoes into wedges and the onions into eighths, mix with rosemary and roast in a dish in the oven for 35 minutes.",
-      "After 15 minutes, add the fillet to the potatoes and cook for about 18 minutes, then let it rest for 5 minutes.",
-      "Boil the beans in salted water for 6 minutes and serve everything with the meat sliced."
-    ]
-  },
-  {
     "id": "rec_215",
     "title": "Sicilian Caponata with Toasted Bread",
     "ingredients": [
@@ -3825,25 +3789,6 @@
       "Sweat the onion and celery for 5 minutes and add the passata, olives, capers and raisins.",
       "Return the aubergine to the pan, season sweet and sour with sugar, vinegar and salt and braise for 10 minutes.",
       "Sprinkle with pine nuts and serve with toasted bread."
-    ]
-  },
-  {
-    "id": "rec_216",
-    "title": "Veal Saltimbocca alla Romana with Spinach",
-    "ingredients": [
-      "Veal escalope",
-      "Cured ham",
-      "Leaf spinach",
-      "Potatoes",
-      "Olive oil",
-      "Sage leaves, garlic"
-    ],
-    "instructions": [
-      "Peel the potatoes and cook in salted water for 15–18 minutes.",
-      "Pound the veal escalopes flat, top with a sage leaf and ham and secure with a toothpick.",
-      "Fry the escalopes in olive oil for 2 minutes per side, ham side first.",
-      "Wilt the spinach with garlic in a pan for 3 minutes and season with salt and nutmeg.",
-      "Arrange everything together."
     ]
   },
   {
@@ -4773,31 +4718,6 @@
     ]
   },
   {
-    "id": "rec_262",
-    "title": "Bún Chả – Grilled Pork Patties with Rice Noodles",
-    "ingredients": [
-      "Minced pork (lean)",
-      "Rice noodles (uncooked)",
-      "Garlic",
-      "Spring onions",
-      "Fish sauce",
-      "Sugar",
-      "Rice vinegar",
-      "Water for the dip",
-      "Carrot (pickled)",
-      "Leafy greens",
-      "Cucumber",
-      "Mint and coriander"
-    ],
-    "instructions": [
-      "Season the mince with garlic, spring onions, a third of the fish sauce and 2 g sugar and shape into small flat patties.",
-      "Cook the patties in a griddle pan for 4 minutes per side.",
-      "For the dip, stir together the fish sauce, remaining sugar, vinegar and water and marinate thinly sliced carrot in it for 10 minutes.",
-      "Cook the rice noodles according to the packet instructions and drain.",
-      "Arrange the noodles with lettuce, cucumber and herbs and serve the patties in the dip."
-    ]
-  },
-  {
     "id": "rec_263",
     "title": "Air Fryer Prawn Lumpia with Sweet Chilli Dip",
     "ingredients": [
@@ -4893,30 +4813,6 @@
       "Pound the garlic and chilli in a mortar, stir in the sugar, lime juice and fish sauce and lightly bruise the beans and tomatoes.",
       "Add the papaya strips and pound briefly so they absorb the flavour.",
       "Top with the prawns and peanuts and serve with the sticky rice."
-    ]
-  },
-  {
-    "id": "rec_267",
-    "title": "Pad Kra Pao – Thai Basil Pork with Rice",
-    "ingredients": [
-      "Minced pork (lean)",
-      "Jasmine rice (uncooked)",
-      "Garlic",
-      "Red chilli",
-      "Onion",
-      "Green beans",
-      "Thai basil",
-      "Soy sauce",
-      "Oyster sauce",
-      "Sugar",
-      "Rapeseed oil"
-    ],
-    "instructions": [
-      "Cook the rice according to the packet instructions.",
-      "Roughly pound the garlic and chilli in a mortar.",
-      "Heat half of the oil in a wok until very hot, fry the garlic-chilli paste for 20 seconds, add the mince and fry until crumbly.",
-      "Add the onion and beans, deglaze with soy sauce, oyster sauce and sugar, stir-fry for 3 minutes and fold in the basil.",
-      "Arrange the mince with rice and serve with a lime wedge."
     ]
   },
   {
@@ -5084,29 +4980,6 @@
     ]
   },
   {
-    "id": "rec_275",
-    "title": "Pork Adobo with Potatoes and Rice",
-    "ingredients": [
-      "Pork tenderloin (raw weight)",
-      "Soy sauce",
-      "Rice vinegar",
-      "Garlic",
-      "Bay leaves, black pepper",
-      "Sugar",
-      "Water",
-      "Jasmine rice (uncooked)",
-      "Potatoes",
-      "Rapeseed oil"
-    ],
-    "instructions": [
-      "Cut the pork fillet into pieces and marinate with soy sauce, vinegar, garlic, bay leaves, pepper and water for 30 minutes.",
-      "Remove the meat from the marinade and sear in oil.",
-      "Add the marinade and the peeled, diced potatoes, braise covered for 20 minutes, then reduce uncovered until the sauce is glossy.",
-      "Cook the rice.",
-      "Serve the meat and potatoes with the sauce and rice."
-    ]
-  },
-  {
     "id": "rec_276",
     "title": "Sinigang na Hipon – Sour Prawn Soup",
     "ingredients": [
@@ -5203,54 +5076,6 @@
     ]
   },
   {
-    "id": "rec_280",
-    "title": "Kimchi Jjigae with Tofu and Pork Fillet",
-    "ingredients": [
-      "Kimchi",
-      "Pork tenderloin (raw weight)",
-      "Plain tofu",
-      "Water",
-      "Onion",
-      "Gochujang",
-      "Garlic",
-      "Spring onions",
-      "Sesame oil",
-      "Sushi rice (uncooked)"
-    ],
-    "instructions": [
-      "Thinly slice the pork fillet and fry in sesame oil in a pot.",
-      "Add the kimchi, onion and garlic and fry for 3 minutes.",
-      "Add the gochujang and water, bring to the boil and simmer for 15 minutes.",
-      "Cut the tofu into thick slices, add and cook for another 5 minutes.",
-      "Sprinkle with spring onions and serve with cooked rice."
-    ]
-  },
-  {
-    "id": "rec_281",
-    "title": "Mapo Tofu with Pork Mince and Rice",
-    "ingredients": [
-      "Silken tofu",
-      "Minced pork (lean)",
-      "Doubanjiang (chilli bean paste)",
-      "Garlic",
-      "Ginger",
-      "Vegetable stock",
-      "Soy sauce",
-      "Cornflour",
-      "Spring onions",
-      "Rapeseed oil",
-      "Jasmine rice (uncooked)",
-      "Sichuan pepper"
-    ],
-    "instructions": [
-      "Cook the rice. Cut the tofu into 2 cm cubes, let it steep in hot salted water for 3 minutes and drain.",
-      "Fry the mince in oil in a wok until crumbly, add the garlic, ginger and doubanjiang and toast for 1 minute until the oil turns red.",
-      "Add the stock and soy sauce and bring to the boil.",
-      "Carefully add the tofu and simmer for 5 minutes; mix the starch with water and use it to thicken the sauce.",
-      "Sprinkle with Sichuan pepper and spring onions and serve with rice."
-    ]
-  },
-  {
     "id": "rec_282",
     "title": "Kung Pao Prawns with Pepper and Peanuts",
     "ingredients": [
@@ -5300,29 +5125,6 @@
     ]
   },
   {
-    "id": "rec_284",
-    "title": "Pork and Napa Cabbage Jiaozi, Steamed and Pan-Fried",
-    "ingredients": [
-      "Wheat flour",
-      "Water for the dough",
-      "Minced pork (lean)",
-      "Chinese cabbage",
-      "Spring onions",
-      "Ginger",
-      "Soy sauce",
-      "Sesame oil",
-      "Rice vinegar",
-      "Rapeseed oil"
-    ],
-    "instructions": [
-      "Knead the flour with water and a pinch of salt into a smooth dough and leave to rest, covered, for 30 minutes.",
-      "Finely chop the Chinese cabbage, salt it and squeeze out. Mix with the mince, spring onions, ginger, soy sauce and sesame oil.",
-      "Roll the dough out thinly, cut out circles, fill and fold into half-moons.",
-      "Fry the jiaozi in a little oil in a non-stick pan for 2 minutes, deglaze with 100 ml water and steam, covered, for 7 minutes.",
-      "Serve with vinegar and a little soy sauce as a dip."
-    ]
-  },
-  {
     "id": "rec_285",
     "title": "Cantonese Steamed Sea Bream with Ginger and Spring Onions",
     "ingredients": [
@@ -5342,28 +5144,6 @@
       "Steam the pak choi alongside for 3 minutes.",
       "Pour off the cooking liquid. Top the fish with the remaining ginger and spring onions and drizzle with soy sauce.",
       "Heat the rapeseed oil and sesame oil until hot and pour over the ginger and onions; serve with rice and coriander."
-    ]
-  },
-  {
-    "id": "rec_286",
-    "title": "Wonton Soup with Pak Choi",
-    "ingredients": [
-      "Wonton wrappers",
-      "Minced pork (lean)",
-      "Prawns (raw, peeled)",
-      "Ginger",
-      "Spring onions",
-      "Chicken stock",
-      "Pak choi",
-      "Soy sauce",
-      "Sesame oil"
-    ],
-    "instructions": [
-      "Mix the mince with finely chopped prawns, ginger, half of the spring onions and a little soy sauce.",
-      "Place a teaspoon of filling on each wrapper square, moisten the edges and press together into little parcels.",
-      "Bring the stock to the boil and season with the remaining soy sauce.",
-      "Cook the wontons in the stock for 4–5 minutes, adding the pak choi for the last 2 minutes.",
-      "Ladle into bowls and serve with sesame oil and the remaining spring onions."
     ]
   },
   {
@@ -5663,54 +5443,6 @@
     ]
   },
   {
-    "id": "rec_300",
-    "title": "Lu Rou Fan – Taiwanese Braised Mince Rice with Pak Choi",
-    "ingredients": [
-      "Minced pork (lean)",
-      "Jasmine rice (uncooked)",
-      "Shallots/onion",
-      "Shiitake",
-      "Soy sauce",
-      "Sugar",
-      "Rice vinegar",
-      "Water",
-      "Garlic",
-      "Rapeseed oil",
-      "Pak choi",
-      "Five-spice powder"
-    ],
-    "instructions": [
-      "Fry the onion in oil until golden brown and add the garlic and finely diced shiitake.",
-      "Add the mince and fry until crumbly.",
-      "Add the soy sauce, sugar, vinegar, five-spice powder and water and braise, covered, for 25 minutes until the sauce is thick and glossy.",
-      "Cook the rice and steam the pak choi for 3 minutes.",
-      "Spoon the braised mince over the rice and serve with the pak choi."
-    ]
-  },
-  {
-    "id": "rec_301",
-    "title": "Pozole Rojo with Pork and Radishes",
-    "ingredients": [
-      "Pork tenderloin (lean, raw weight)",
-      "Hominy or sweetcorn (tinned, drained)",
-      "Passata",
-      "Onion",
-      "Dried chilli (guajillo)",
-      "White cabbage (finely shredded)",
-      "Radishes",
-      "Rapeseed oil",
-      "Lime juice and oregano",
-      "Water or vegetable stock"
-    ],
-    "instructions": [
-      "Deseed the chilli, soak in hot water for 10 minutes and blend with the passata into a smooth red paste.",
-      "Sweat the onion in rapeseed oil and briefly sear the diced pork fillet.",
-      "Add the chilli paste, corn and 600 ml water, season with salt and simmer gently for 30 minutes.",
-      "Season with oregano and lime juice.",
-      "Serve in deep plates with white cabbage and radish slices."
-    ]
-  },
-  {
     "id": "rec_302",
     "title": "Chilaquiles Rojos with Black Beans",
     "ingredients": [
@@ -5813,29 +5545,6 @@
       "Add the onion wedges, tomato wedges and chilli and fry for 2 minutes.",
       "Deglaze with soy sauce and a splash of vinegar.",
       "Fold in the potato batons, sprinkle with coriander and serve with the rice."
-    ]
-  },
-  {
-    "id": "rec_307",
-    "title": "Light Feijoada with Orange and Kale",
-    "ingredients": [
-      "Black beans (tinned, drained)",
-      "Pork tenderloin (lean, raw weight)",
-      "Onion",
-      "Kale (finely shredded)",
-      "Orange (sliced)",
-      "Passata",
-      "Basmati rice (uncooked)",
-      "Rapeseed oil",
-      "Bay leaf and garlic",
-      "Water or vegetable stock"
-    ],
-    "instructions": [
-      "Dice the pork fillet and fry with the onion in rapeseed oil.",
-      "Add the beans, passata, bay leaf, garlic and 200 ml water and braise gently for 25 minutes.",
-      "Cook the rice.",
-      "Fry the kale in a pan with a little garlic for 3 minutes until it wilts.",
-      "Serve the feijoada with rice, kale and orange slices."
     ]
   },
   {
@@ -5977,27 +5686,6 @@
     ]
   },
   {
-    "id": "rec_315",
-    "title": "Shrimp and Grits with Pepper",
-    "ingredients": [
-      "Prawns (peeled)",
-      "Corn grits",
-      "Light cheese (grated)",
-      "Red pepper",
-      "Onion",
-      "Cooked ham (diced)",
-      "Low-fat milk (1.5%)",
-      "Rapeseed oil",
-      "Cajun seasoning, spring onions"
-    ],
-    "instructions": [
-      "Cook the corn grits with the milk and 150 ml water for 15 minutes, stirring, into a creamy porridge, then stir in the cheese.",
-      "Fry the ham in rapeseed oil until crisp, add the onion and pepper and fry for 4 minutes.",
-      "Season the prawns with Cajun seasoning and fry for 3 minutes.",
-      "Spoon the grits onto a plate, top with the prawn mixture and sprinkle with spring onions."
-    ]
-  },
-  {
     "id": "rec_316",
     "title": "Air Fryer Southern Fried Chicken with Coleslaw",
     "ingredients": [
@@ -6103,29 +5791,6 @@
     ]
   },
   {
-    "id": "rec_321",
-    "title": "Soupe aux Pois (Québec Pea Soup)",
-    "ingredients": [
-      "Yellow split peas (dried)",
-      "Carrot",
-      "Onion",
-      "Celeriac",
-      "Cooked ham (diced)",
-      "Potato",
-      "Rapeseed oil",
-      "Wholegrain bread",
-      "Bay leaf, thyme",
-      "Water or vegetable stock"
-    ],
-    "instructions": [
-      "Soak the peas overnight or leave to swell in water for 1 hour, then drain.",
-      "Fry the onion, carrot and celery in rapeseed oil for 5 minutes.",
-      "Add the peas, diced potatoes, ham, bay leaf, thyme and 700 ml water and simmer for 50 minutes.",
-      "Remove the bay leaf, mash part of the soup to thicken it and season to taste.",
-      "Serve with the bread."
-    ]
-  },
-  {
     "id": "rec_322",
     "title": "Air Fryer Maple Salmon with Wild Rice and Broccoli",
     "ingredients": [
@@ -6188,26 +5853,6 @@
     ]
   },
   {
-    "id": "rec_325",
-    "title": "Pytt i Panna with Fried Egg and Beetroot",
-    "ingredients": [
-      "Potatoes (waxy)",
-      "Cooked ham (diced)",
-      "Onion",
-      "Egg (medium)",
-      "Beetroot (cooked)",
-      "Rapeseed oil",
-      "Mustard, parsley"
-    ],
-    "instructions": [
-      "Peel the potatoes, cut into small cubes and pre-cook in salted water for 6 minutes.",
-      "Fry the potatoes in rapeseed oil in a large pan until crisp all over.",
-      "Add the onion and ham and fry for 4 minutes.",
-      "Fry the egg sunny side up in a second pan.",
-      "Serve the pytt i panna with the fried egg, beetroot and mustard."
-    ]
-  },
-  {
     "id": "rec_326",
     "title": "Karelian Pasties with Rice Porridge and Egg Butter",
     "ingredients": [
@@ -6262,29 +5907,6 @@
       "Mix the starch with 2 tbsp cold water, stir into the berries and boil for 1 minute.",
       "Pour into a glass and let it cool.",
       "Stir the yoghurt with vanilla, spoon over and sprinkle with slivered almonds."
-    ]
-  },
-  {
-    "id": "rec_329",
-    "title": "Bigos (Polish Hunter's Stew) with Sauerkraut and Mushrooms",
-    "ingredients": [
-      "Pork tenderloin (lean, raw weight)",
-      "White cabbage",
-      "Sauerkraut",
-      "Mushrooms",
-      "Onion",
-      "Passata",
-      "Rye bread",
-      "Rapeseed oil",
-      "Bay leaf, allspice, marjoram",
-      "Water or vegetable stock"
-    ],
-    "instructions": [
-      "Dice the pork fillet and fry in rapeseed oil with the onion.",
-      "Add the mushrooms and fry briefly.",
-      "Cut the white cabbage into strips and add with the sauerkraut, passata, spices and 150 ml water.",
-      "Braise, covered, over low heat for 45 minutes until everything is tender.",
-      "Serve with the rye bread."
     ]
   },
   {
@@ -6411,27 +6033,6 @@
     ]
   },
   {
-    "id": "rec_336",
-    "title": "Breton Galette Complète with Ham, Egg and Cheese",
-    "ingredients": [
-      "Buckwheat flour",
-      "Egg for the batter",
-      "Egg (medium)",
-      "Cooked ham",
-      "Light cheese (grated)",
-      "Low-fat milk (1.5%)",
-      "Butter",
-      "Salt"
-    ],
-    "instructions": [
-      "Stir the buckwheat flour with salt, the egg for the batter, milk and 80 ml water until smooth and leave to swell for 15 minutes.",
-      "Melt the butter in a pan and cook the batter very thinly, 2 minutes per side.",
-      "First top the galette with cheese and ham, then crack the egg into the middle.",
-      "Cover and let it set for 3 minutes until the egg white is firm.",
-      "Fold in the four sides to form a square and serve immediately."
-    ]
-  },
-  {
     "id": "rec_337",
     "title": "Moules Marinières (Mussels) with Baguette and Chips",
     "ingredients": [
@@ -6531,48 +6132,6 @@
       "Place the haddock in the soup and poach for 6 minutes, then remove the fish and flake it.",
       "Mash some of the potatoes, add the milk and warm briefly.",
       "Return the fish, season and serve with chives."
-    ]
-  },
-  {
-    "id": "rec_342",
-    "title": "Light Full English Breakfast with Beans, Mushrooms and Fried Egg",
-    "ingredients": [
-      "Beans in tomato sauce (homemade)",
-      "Passata",
-      "Mushrooms",
-      "Tomato",
-      "Cooked ham",
-      "Egg (medium)",
-      "Wholegrain toast",
-      "Rapeseed oil"
-    ],
-    "instructions": [
-      "Reduce the beans with passata, salt, pepper and a little paprika for 5 minutes.",
-      "Fry the mushrooms and halved tomato in a pan with a little rapeseed oil.",
-      "Briefly fry the ham alongside and fry the egg sunny side up.",
-      "Toast the bread.",
-      "Arrange everything on a plate."
-    ]
-  },
-  {
-    "id": "rec_343",
-    "title": "Caldo Verde (Portuguese Kale Soup)",
-    "ingredients": [
-      "Kale (finely shredded)",
-      "Potatoes",
-      "Onion",
-      "White beans (tinned, drained)",
-      "Cooked ham (smoked, diced)",
-      "Olive oil",
-      "Garlic, smoked paprika",
-      "Water or vegetable stock"
-    ],
-    "instructions": [
-      "Sweat the onion with the garlic in olive oil.",
-      "Dice the potatoes, add with 600 ml water and cook for 15 minutes.",
-      "Roughly purée the potatoes with some of the liquid.",
-      "Add the beans and ham, stir in the kale and boil for 5 minutes until dark green and tender.",
-      "Season with smoked paprika."
     ]
   },
   {
@@ -6720,26 +6279,6 @@
       "Stir the peanut butter into a little hot stock until smooth and stir it in.",
       "Add the cabbage and chickpeas and simmer gently for 15 minutes until everything is tender.",
       "Season with salt and serve hot."
-    ]
-  },
-  {
-    "id": "rec_351",
-    "title": "White Asparagus with Boiled Potatoes and Light Hollandaise Sauce",
-    "ingredients": [
-      "White asparagus",
-      "Potatoes (waxy)",
-      "Cooked ham",
-      "Butter",
-      "Egg yolk",
-      "Yoghurt (0.2% fat)",
-      "Lemon juice, salt, pepper, parsley"
-    ],
-    "instructions": [
-      "Peel the asparagus and cut off the woody ends. Wash the potatoes and cook in their skins in salted water for 20 minutes.",
-      "Cook the asparagus with a pinch each of salt and sugar in a second pot for 12–15 minutes until tender but firm.",
-      "Melt the butter. Whisk the egg yolk and yoghurt with a squeeze of lemon juice over a hot bain-marie until frothy and slowly stir in the butter.",
-      "Season with salt and pepper and peel the potatoes.",
-      "Arrange the asparagus with the potatoes, ham and sauce and sprinkle with parsley."
     ]
   },
   {
@@ -6894,28 +6433,6 @@
       "Blend a quarter of the soup with a stick blender to thicken it and stir back in.",
       "Season with marjoram, salt and pepper.",
       "Slice the frankfurters, warm in the soup and serve with parsley."
-    ]
-  },
-  {
-    "id": "rec_360",
-    "title": "Graubünden Barley Soup",
-    "ingredients": [
-      "Pearl barley",
-      "Carrot",
-      "Leek",
-      "Celeriac",
-      "Potato",
-      "White beans (tinned, drained)",
-      "Cooked ham (diced)",
-      "Vegetable stock",
-      "Rapeseed oil"
-    ],
-    "instructions": [
-      "Rinse the barley in a sieve. Finely dice the vegetables and potato.",
-      "Sweat the vegetables in the rapeseed oil for 3 minutes, add the barley and pour in the stock.",
-      "Simmer gently for 40 minutes until the barley is soft.",
-      "Add the beans and diced ham and warm through for 5 minutes.",
-      "Season with salt, pepper, nutmeg and parsley."
     ]
   },
   {
@@ -7124,29 +6641,6 @@
     ]
   },
   {
-    "id": "rec_371",
-    "title": "Königsberg Meatballs in Caper Sauce with Beetroot",
-    "ingredients": [
-      "Minced pork (lean)",
-      "Wholegrain roll (soaked)",
-      "Egg (medium)",
-      "Onion",
-      "Potatoes",
-      "Beetroot (cooked)",
-      "Milk (1.5%)",
-      "Flour",
-      "Vegetable stock",
-      "Capers, lemon juice, salt, pepper"
-    ],
-    "instructions": [
-      "Soak the bread roll in water and squeeze out. Knead with the mince, egg, diced onion, salt and pepper and shape four meatballs.",
-      "Poach the meatballs in the simmering stock for 15 minutes, then remove. Boil the potatoes at the same time.",
-      "Measure out 200 ml of the stock. Stir the flour with the milk until smooth, add to the stock and simmer for 3 minutes, stirring.",
-      "Add the capers and lemon juice and season to taste.",
-      "Serve the meatballs in the sauce with potatoes and beetroot."
-    ]
-  },
-  {
     "id": "rec_372",
     "title": "Chicken Fricassée with Asparagus and Rice",
     "ingredients": [
@@ -7166,26 +6660,6 @@
       "Dust with the flour, deglaze with the stock and milk and cook for 5 minutes, stirring, into a creamy sauce.",
       "Add the chicken and peas and leave for 3 minutes. Season with lemon juice, salt, pepper and nutmeg.",
       "Serve with the rice."
-    ]
-  },
-  {
-    "id": "rec_373",
-    "title": "Pork Medallions with Apple Red Cabbage and Mashed Potatoes",
-    "ingredients": [
-      "Pork tenderloin",
-      "Red cabbage",
-      "Apple",
-      "Potatoes",
-      "Milk (1.5%)",
-      "Lingonberries",
-      "Rapeseed oil",
-      "Clove, bay leaf, vinegar, salt, pepper"
-    ],
-    "instructions": [
-      "Finely shred the red cabbage and dice the apple. Braise both in a pot, covered, with vinegar, clove, bay leaf and lingonberries for 25 minutes.",
-      "Peel the potatoes, cook in salted water, drain and mash with the warm milk.",
-      "Cut the pork fillet into 2 cm thick medallions and fry in the rapeseed oil for 3 minutes per side. Season with salt and pepper and leave to rest for 2 minutes.",
-      "Arrange everything together."
     ]
   },
   {
@@ -7621,30 +7095,6 @@
       "Cut a lid off each tomato, hollow out and finely chop the flesh.",
       "Fry the onion and mushrooms in the rapeseed oil, add the tomato flesh, buckwheat, sunflower seeds and herbs and season.",
       "Fill the tomatoes, replace the lids and bake for 20 minutes."
-    ]
-  },
-  {
-    "id": "rec_397",
-    "title": "Pichelsteiner Stew with Lean Meat",
-    "ingredients": [
-      "Beef (lean)",
-      "Pork tenderloin",
-      "Potatoes",
-      "Carrot",
-      "Leek",
-      "White cabbage",
-      "Celeriac",
-      "Onion",
-      "Vegetable stock",
-      "Rapeseed oil",
-      "Parsley, marjoram, salt, pepper"
-    ],
-    "instructions": [
-      "Cut the meat into 2 cm cubes and sear vigorously in the rapeseed oil in a pot.",
-      "Add the onion and fry briefly.",
-      "Peel and dice the vegetables and add to the meat with the stock.",
-      "Braise, covered, over low heat for 45 minutes until the meat and potatoes are tender.",
-      "Season with marjoram, salt and pepper and serve with parsley."
     ]
   },
   {
@@ -8540,28 +7990,6 @@
       "Briefly toast the tomato purée, dice the tomatoes, add and reduce for 10 minutes into a thick red sauce.",
       "Fold in the beans, simmer for 8 minutes and season with salt.",
       "Serve the beans with the baked plantain."
-    ]
-  },
-  {
-    "id": "rec_442",
-    "title": "Sichuan Green Beans with Pork Fillet, Shiitake and Brown Rice",
-    "ingredients": [
-      "Green beans",
-      "Pork tenderloin",
-      "Shiitake (fresh)",
-      "Brown rice (uncooked)",
-      "Garlic",
-      "Ginger",
-      "Soy sauce",
-      "Rapeseed oil",
-      "Sichuan pepper, dried chillies"
-    ],
-    "instructions": [
-      "Cook the brown rice in twice its volume of water for 30–35 minutes.",
-      "Cut the pork fillet into thin strips and marinate in half of the soy sauce. Slice the shiitake.",
-      "Trim the beans and stir-fry in a hot wok with half of the oil for 6–8 minutes until the skin blisters. Remove.",
-      "Heat the remaining oil, sear the meat for 2 minutes, add the shiitake, garlic, ginger, chillies and Sichuan pepper and stir-fry for 2 minutes.",
-      "Add the beans and remaining soy sauce, toss briefly and serve with the rice."
     ]
   },
   {
@@ -10841,6 +10269,3640 @@
       "Pour into a glass and chill for at least 30 minutes so the pudding firms up.",
       "Toast the sesame seeds in a dry pan until golden. Segment the orange.",
       "Serve the pudding with the orange segments and sesame."
+    ]
+  },
+  {
+    "id": "rec_551",
+    "title": "Etli Yeşil Fasulye (Green Beans with Beef) and Yoghurt",
+    "ingredients": [
+      "Beef stewing meat (lean, finely diced)",
+      "Green beans (fresh or frozen)",
+      "Onion",
+      "Tomatoes (diced)",
+      "Tomato paste",
+      "Pepper paste (Biber Salçası)",
+      "Olive oil",
+      "Water",
+      "Greek yoghurt (0.2% fat)",
+      "Salt, pepper, pul biber"
+    ],
+    "instructions": [
+      "Brown the beef well on all sides in the olive oil in a casserole.",
+      "Add the diced onion and fry for 4 minutes, then briefly toast the tomato and pepper pastes.",
+      "Trim the beans, halve them and add to the pot along with the tomatoes and water.",
+      "Cover and braise over low heat for 35 minutes until the meat and beans are tender, then season with salt, pepper and pul biber.",
+      "Serve with yoghurt."
+    ]
+  },
+  {
+    "id": "rec_552",
+    "title": "Etli Nohut (Chickpea Stew with Beef) with Bulgur Pilaf",
+    "ingredients": [
+      "Beef stewing meat (lean)",
+      "Chickpeas (tinned, drained)",
+      "Onion",
+      "Tomato paste",
+      "Pepper paste (Biber Salçası)",
+      "Olive oil",
+      "Water",
+      "Coarse bulgur (uncooked)",
+      "Salt, pepper, cumin"
+    ],
+    "instructions": [
+      "Brown the beef in the oil in a casserole, add the diced onion and sweat until translucent.",
+      "Stir in the tomato and pepper pastes and toast briefly.",
+      "Add the chickpeas and water, cover and braise over low heat for 35 minutes until the meat is tender.",
+      "Soak the bulgur in twice its volume of salted water for 10 minutes and fluff it up.",
+      "Season the etli nohut with salt, pepper and cumin and serve with the bulgur."
+    ]
+  },
+  {
+    "id": "rec_553",
+    "title": "Etli Türlü (Braised Vegetable Pot with Lamb)",
+    "ingredients": [
+      "Leg of lamb (lean, diced)",
+      "Aubergine",
+      "Courgette",
+      "Green beans",
+      "Potato",
+      "Pointed pepper",
+      "Onion",
+      "Tomatoes (chopped, tinned)",
+      "Olive oil",
+      "Water",
+      "Salt, pepper, thyme"
+    ],
+    "instructions": [
+      "Brown the lamb in the oil in a wide pot, add the onion and sweat for 4 minutes.",
+      "Cut the aubergine, courgette, potato and pepper into large chunks and halve the beans.",
+      "Layer the vegetables over the meat, pour over the tomatoes and water and season with salt.",
+      "Cover and braise over low heat for 40 minutes without stirring until everything is tender.",
+      "Season with pepper and thyme and serve warm."
+    ]
+  },
+  {
+    "id": "rec_554",
+    "title": "Karnıyarık (Stuffed Aubergines with Minced Beef) and Rice",
+    "ingredients": [
+      "Aubergines",
+      "Lean minced beef",
+      "Onion",
+      "Pointed pepper",
+      "Tomato",
+      "Tomato paste",
+      "Olive oil",
+      "Long-grain rice (uncooked)",
+      "Parsley",
+      "Salt, pepper, pul biber"
+    ],
+    "instructions": [
+      "Peel the aubergines lengthwise in stripes, brush with oil and bake at 220 °C for 20 minutes until soft.",
+      "Fry the mince until crumbly, add the onion and pepper and fry for 5 minutes, then stir in the tomato paste and half of the diced tomato.",
+      "Slit the aubergines lengthwise, press them open, fill with the mince mixture and top with the remaining tomato slices.",
+      "Bake in the dish with a little water for another 15 minutes.",
+      "Cook the rice and serve with the aubergines, sprinkled with parsley."
+    ]
+  },
+  {
+    "id": "rec_555",
+    "title": "İzmir Köfte (Oven Köfte with Potatoes, Peppers and Tomato Sauce)",
+    "ingredients": [
+      "Lean minced beef",
+      "Onion (grated)",
+      "Toast bread (crumbled)",
+      "Potatoes",
+      "Pointed pepper",
+      "Tomato",
+      "Passata",
+      "Olive oil",
+      "Parsley",
+      "Salt, pepper, cumin"
+    ],
+    "instructions": [
+      "Knead the mince with the grated onion, breadcrumbs, parsley, cumin, salt and pepper and shape into oblong köfte.",
+      "Cut the potatoes into wedges, toss with half of the oil and spread out in a baking dish with the köfte.",
+      "Bake at 200 °C for 20 minutes.",
+      "Stir the passata with a little water and the remaining oil, pour it over and tuck the peppers and tomato wedges in between.",
+      "Bake for another 20 minutes until the potatoes are tender."
+    ]
+  },
+  {
+    "id": "rec_556",
+    "title": "Hasanpaşa Köfte (Köfte Topped with Mashed Potato in Tomato Sauce)",
+    "ingredients": [
+      "Lean minced beef",
+      "Onion (grated)",
+      "Toast bread (crumbled)",
+      "Potatoes (floury)",
+      "Low-fat milk (1.5%)",
+      "Butter",
+      "Kaşar cheese (grated)",
+      "Passata",
+      "Salt, pepper, cumin, nutmeg"
+    ],
+    "instructions": [
+      "Peel the potatoes, boil in salted water for 20 minutes until soft and mash with warm milk, butter and nutmeg into a firm purée.",
+      "Knead the mince with the onion, breadcrumbs, salt, pepper and cumin, shape into flat round köfte and press a hollow into the centre of each.",
+      "Place the köfte in a dish, pipe the purée into the hollows and sprinkle with kaşar.",
+      "Thin the passata with a little water and pour it around the köfte.",
+      "Bake at 200 °C for 25 minutes until the cheese is golden brown."
+    ]
+  },
+  {
+    "id": "rec_557",
+    "title": "Kadınbudu Köfte (Beef and Rice Köfte in an Egg Coating) with Salad",
+    "ingredients": [
+      "Lean minced beef",
+      "Short-grain rice (uncooked)",
+      "Onion",
+      "Egg",
+      "Wheat flour",
+      "Rapeseed oil",
+      "Tomato",
+      "Cucumber",
+      "Lettuce",
+      "Lemon (juice)",
+      "Salt, pepper, cumin"
+    ],
+    "instructions": [
+      "Boil the rice in salted water for 12 minutes until soft and drain.",
+      "Fry half of the mince with the finely diced onion until crumbly and leave to cool.",
+      "Knead the fried and raw mince with the rice, salt, pepper and cumin and shape into flat oval köfte.",
+      "Dredge the köfte in flour, dip in the beaten egg and fry in the oil over medium heat for 4 minutes per side until golden brown.",
+      "Serve with tomatoes, cucumber, lettuce and lemon juice."
+    ]
+  },
+  {
+    "id": "rec_558",
+    "title": "Tavuk Sote (Chicken Sauté with Peppers, Mushrooms and Tomatoes) with Bulgur",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Peppers (red and green)",
+      "Button mushrooms",
+      "Onion",
+      "Tomato",
+      "Pepper paste (Biber Salçası)",
+      "Olive oil",
+      "Coarse bulgur (uncooked)",
+      "Salt, pepper, thyme"
+    ],
+    "instructions": [
+      "Soak the bulgur in twice its volume of salted water for 10 minutes.",
+      "Dice the chicken and sear in the hot oil for 5 minutes.",
+      "Add the onion, peppers and mushrooms and fry for 5 minutes.",
+      "Stir in the pepper paste and diced tomatoes, braise for 5 minutes and season with thyme, salt and pepper.",
+      "Serve with the bulgur."
+    ]
+  },
+  {
+    "id": "rec_559",
+    "title": "Orman Kebabı (Lamb Stew with Peas, Carrots, Potatoes and Mushrooms)",
+    "ingredients": [
+      "Leg of lamb (lean, diced)",
+      "Potatoes",
+      "Carrot",
+      "Peas (frozen)",
+      "Button mushrooms",
+      "Onion",
+      "Tomato paste",
+      "Olive oil",
+      "Water",
+      "Salt, pepper, thyme"
+    ],
+    "instructions": [
+      "Brown the lamb well in the oil in a casserole.",
+      "Add the diced onion, sweat until translucent and briefly toast the tomato paste.",
+      "Deglaze with water, cover and braise for 35 minutes.",
+      "Add the diced potatoes and carrots and the mushrooms and cook for another 15 minutes.",
+      "Add the peas, leave to steep for 5 minutes and season with thyme, salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_560",
+    "title": "Tas Kebabı (Braised Beef) with Rice Pilaf",
+    "ingredients": [
+      "Beef stewing meat (lean)",
+      "Onions",
+      "Tomato paste",
+      "Tomato",
+      "Butter",
+      "Water",
+      "Long-grain rice (uncooked)",
+      "Parsley",
+      "Salt, pepper, allspice"
+    ],
+    "instructions": [
+      "Brown the beef on all sides in the hot butter in a pot.",
+      "Finely dice the onions, add and sweat for 5 minutes until soft.",
+      "Stir in the tomato paste, add the diced tomato and water, cover and braise over low heat for 70 minutes until the meat is very tender.",
+      "Cook the rice, covered, in 1.5 times its volume of salted water for 15 minutes.",
+      "Arrange the tas kebabı next to the rice and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_561",
+    "title": "Hünkar Beğendi (Lamb Ragout on Aubergine Cheese Purée)",
+    "ingredients": [
+      "Leg of lamb (lean, diced)",
+      "Onion",
+      "Tomato",
+      "Tomato paste",
+      "Olive oil",
+      "Aubergines",
+      "Low-fat milk (1.5%)",
+      "Wheat flour",
+      "Butter",
+      "Kaşar cheese (grated)",
+      "Salt, pepper, nutmeg"
+    ],
+    "instructions": [
+      "Brown the lamb in the oil, add the onion and sweat for 5 minutes, then add the tomato paste, diced tomato and a little water, cover and braise for 50 minutes.",
+      "Char the aubergines all over on a gas flame or under the grill, peel and chop finely.",
+      "Melt the butter, sweat the flour in it, gradually stir in the milk and simmer for 3 minutes to make a béchamel.",
+      "Stir in the aubergines and kaşar and season with salt and nutmeg.",
+      "Spread the purée on a plate and place the lamb ragout in the centre."
+    ]
+  },
+  {
+    "id": "rec_562",
+    "title": "Mantı (Turkish Dumplings with Minced Beef, Garlic Yoghurt and Paprika Butter)",
+    "ingredients": [
+      "Wheat flour",
+      "Egg",
+      "Water",
+      "Lean minced beef",
+      "Onion (grated)",
+      "Greek yoghurt (0.2% fat)",
+      "Garlic",
+      "Butter",
+      "Paprika and pul biber",
+      "Dried mint, salt, pepper"
+    ],
+    "instructions": [
+      "Knead the flour, egg, water and a pinch of salt into a firm dough and leave to rest for 20 minutes.",
+      "Mix the mince with the onion, salt and pepper. Roll the dough out very thinly and cut into 3 cm squares.",
+      "Place a small ball of filling on each and pinch the corners together into little parcels.",
+      "Boil the mantı in plenty of salted water for 10 minutes. Stir the yoghurt with the grated garlic.",
+      "Arrange the drained mantı with the garlic yoghurt and drizzle with paprika, pul biber and mint heated in butter."
+    ]
+  },
+  {
+    "id": "rec_563",
+    "title": "Levrek Buğulama (Steamed Sea Bass with Tomatoes and Potatoes)",
+    "ingredients": [
+      "Sea bass fillet",
+      "Potatoes",
+      "Tomatoes",
+      "Onion",
+      "Pointed pepper",
+      "Garlic",
+      "Olive oil",
+      "Lemon (juice)",
+      "Dill and parsley",
+      "Water",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the potatoes thinly and parboil in salted water for 8 minutes.",
+      "Cut the onion, pepper and garlic into strips and sweat in the oil in a wide pan for 4 minutes.",
+      "Spread the potatoes and tomato slices on top, lay the salted fish over them and pour in the water.",
+      "Cover and steam over low heat for 12 minutes until the fish is cooked.",
+      "Drizzle with lemon juice, sprinkle with herbs and serve immediately."
+    ]
+  },
+  {
+    "id": "rec_564",
+    "title": "Çökertme Kebabı (Beef Strips on Oven Potato Straws with Garlic Yoghurt)",
+    "ingredients": [
+      "Beef rump steak (lean)",
+      "Potatoes",
+      "Olive oil",
+      "Greek yoghurt (0.2% fat)",
+      "Garlic",
+      "Tomato paste",
+      "Pointed pepper",
+      "Butter",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the potatoes into very fine matchsticks, toss with 6 g oil and bake at 220 °C for 25 minutes until crisp, turning once.",
+      "Stir the yoghurt with grated garlic and salt.",
+      "Slice the steak into thin strips and sear with the pepper in the remaining oil for 3 minutes, then briefly stir in the tomato paste and a splash of water.",
+      "Place the potato straws on a plate, spread the yoghurt over them and arrange the meat and pepper on top.",
+      "Brown the butter and drizzle it over the meat."
+    ]
+  },
+  {
+    "id": "rec_565",
+    "title": "Tantuni (Beef Wrap from Mersin with Tomatoes, Onions and Parsley)",
+    "ingredients": [
+      "Beef rump steak (lean)",
+      "Wholegrain lavash (wrap)",
+      "Tomato",
+      "Onion",
+      "Parsley",
+      "Rapeseed oil",
+      "Lemon (juice)",
+      "Sumac, pul biber, cumin, salt"
+    ],
+    "instructions": [
+      "Cut the beef into very fine strips.",
+      "Fry the meat in the oil in a hot pan for 3 minutes, deglaze with a splash of water and season with pul biber, salt and cumin.",
+      "Slice the onion into fine rings and mix with sumac and parsley. Dice the tomato.",
+      "Warm the lavash briefly in the pan, fill with the meat, tomato and onions, drizzle with lemon juice and roll up tightly."
+    ]
+  },
+  {
+    "id": "rec_566",
+    "title": "Tavuk Döner Bowl (Chicken Döner with Bulgur, Salad and Garlic Yoghurt)",
+    "ingredients": [
+      "Chicken thighs (skinless, boneless)",
+      "Greek yoghurt (0.2% fat, for marinade and sauce)",
+      "Pepper paste (Biber Salçası)",
+      "Olive oil",
+      "Coarse bulgur (uncooked)",
+      "Red cabbage",
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Garlic",
+      "Cumin, paprika, salt"
+    ],
+    "instructions": [
+      "Cut the chicken into thin strips and marinate for 15 minutes with 30 g yoghurt, the pepper paste, oil, cumin, paprika and salt.",
+      "Soak the bulgur in twice its volume of salted water for 10 minutes.",
+      "Fry the chicken in a hot pan for 6 minutes until browned and crispy at the edges.",
+      "Stir the remaining yoghurt with garlic. Finely slice the red cabbage, tomato, cucumber and onion.",
+      "Arrange the bulgur, salad and chicken in a bowl and serve with the garlic yoghurt."
+    ]
+  },
+  {
+    "id": "rec_567",
+    "title": "Kuşbaşılı Pide (Boat-Shaped Flatbread with Diced Beef, Tomato and Pepper)",
+    "ingredients": [
+      "Wheat flour (Type 550)",
+      "Dried yeast, salt",
+      "Lukewarm water",
+      "Olive oil",
+      "Beef rump steak (lean)",
+      "Tomato",
+      "Pointed pepper",
+      "Onion",
+      "Kaşar cheese (grated)",
+      "Egg (for brushing)",
+      "Pepper, pul biber"
+    ],
+    "instructions": [
+      "Knead the flour, yeast, salt, lukewarm water and oil into a smooth dough and leave to rise for 60 minutes.",
+      "Cut the beef into very small cubes and mix with the diced tomato, pepper, onion, salt and pepper.",
+      "Roll the dough into a long oval, spread the filling on top, fold in the edges and pinch the ends together into a boat shape.",
+      "Brush the edges with egg, sprinkle the kaşar over the filling and bake at 240 °C for 12 to 14 minutes."
+    ]
+  },
+  {
+    "id": "rec_568",
+    "title": "Balık Ekmek (Mackerel Sandwich with Sumac Onions and Salad)",
+    "ingredients": [
+      "Mackerel fillet (fresh)",
+      "White bread (ekmek, ½ loaf)",
+      "Red onion",
+      "Lettuce",
+      "Tomato",
+      "Lemon (juice)",
+      "Olive oil",
+      "Sumac, salt"
+    ],
+    "instructions": [
+      "Salt the mackerel fillets and fry in a grill pan with the oil for 4 minutes skin side down, then 2 minutes on the other side.",
+      "Slice the onion into fine rings and mix with sumac and salt.",
+      "Cut open the bread and toast briefly in the pan.",
+      "Fill with lettuce, tomato slices, fish and onions and drizzle with lemon juice."
+    ]
+  },
+  {
+    "id": "rec_569",
+    "title": "Nohutlu Tavuklu Pilav (Istanbul-Style Rice with Chicken and Chickpeas)",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Long-grain rice (uncooked)",
+      "Chickpeas (tinned, drained)",
+      "Butter",
+      "Cucumber",
+      "Salt, black pepper"
+    ],
+    "instructions": [
+      "Poach the chicken in lightly salted water for 20 minutes, lift out and shred, then measure out 150 ml of the stock.",
+      "Wash the rice, toast it in the butter for 2 minutes and add the chickpeas and stock.",
+      "Cover and cook over low heat for 15 minutes, then leave to rest for 5 minutes.",
+      "Arrange the rice with the chicken, sprinkle with pepper and serve with cucumber slices."
+    ]
+  },
+  {
+    "id": "rec_570",
+    "title": "Düğün Çorbası (Wedding Soup with Lamb, Yoghurt and Lemon)",
+    "ingredients": [
+      "Leg of lamb (lean)",
+      "Water",
+      "Greek yoghurt (0.2% fat)",
+      "Egg yolk",
+      "Wheat flour",
+      "Lemon (juice)",
+      "Butter",
+      "Paprika",
+      "Wholegrain bread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the lamb to the boil with the water and a little salt, skim, cover and simmer for 50 minutes until tender, then lift out and shred.",
+      "Whisk the yoghurt, egg yolk, flour and lemon juice until smooth and temper with a ladle of hot stock.",
+      "Pour the mixture into the stock while stirring and simmer gently for 5 minutes without letting it bubble.",
+      "Return the meat, drizzle the soup with paprika sizzled in butter and serve with bread."
+    ]
+  },
+  {
+    "id": "rec_571",
+    "title": "İskender Kebap Light (Beef on Flatbread with Tomato Sauce and Yoghurt)",
+    "ingredients": [
+      "Beef rump steak (lean)",
+      "Flatbread (pide)",
+      "Passata",
+      "Butter",
+      "Greek yoghurt (0.2% fat)",
+      "Pointed pepper",
+      "Tomato",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the steak wafer-thin, salt it and fry in batches in a very hot pan for 1 minute. Briefly fry the pepper and tomato too.",
+      "Simmer the passata with 3 g butter and salt for 5 minutes.",
+      "Cube the flatbread, spread it on a plate and drizzle with half of the tomato sauce.",
+      "Layer the meat on top, pour over the remaining sauce and add the yoghurt alongside.",
+      "Brown the remaining butter, pour it over the meat and serve with the pepper and tomato."
+    ]
+  },
+  {
+    "id": "rec_572",
+    "title": "Kuzu Şiş (Lamb Skewers with Tomato Bulgur and Sumac Onions)",
+    "ingredients": [
+      "Leg of lamb (lean)",
+      "Olive oil",
+      "Pointed pepper",
+      "Red onion",
+      "Coarse bulgur (uncooked)",
+      "Tomato",
+      "Parsley",
+      "Cucumber",
+      "Thyme, pul biber, sumac, salt"
+    ],
+    "instructions": [
+      "Cut the lamb into 3 cm cubes and marinate for at least 30 minutes with the oil, the juice of half a grated onion, thyme, pul biber and salt.",
+      "Thread the meat onto skewers, alternating with pieces of pepper.",
+      "Soak the bulgur with the diced tomato in twice its volume of salted water for 10 minutes.",
+      "Cook the skewers on the grill or in a grill pan for 8 to 10 minutes, turning all round.",
+      "Slice the remaining onion into rings, mix with sumac and parsley and serve with the bulgur and cucumber slices alongside the skewers."
+    ]
+  },
+  {
+    "id": "rec_573",
+    "title": "Fırın Kuzu Tandır Light (Slow-Cooked Lamb with Roast Potatoes and Salad)",
+    "ingredients": [
+      "Leg of lamb (lean, in one piece)",
+      "Onion",
+      "Garlic",
+      "Potatoes",
+      "Olive oil",
+      "Tomato",
+      "Cucumber",
+      "Cumin, thyme, salt"
+    ],
+    "instructions": [
+      "Rub the leg of lamb with salt, cumin and thyme and place it in a roasting tin with onion rings, garlic and a glass of water.",
+      "Cover and cook at 150 °C for 2.5 hours until the meat can be pulled apart with a fork.",
+      "Quarter the potatoes, toss with the oil and place them next to the meat for the last hour, then brown uncovered for 15 minutes at the end.",
+      "Pull the meat apart and serve with the potatoes and a tomato-cucumber salad."
+    ]
+  },
+  {
+    "id": "rec_574",
+    "title": "Keşkek (Wheat and Chicken Porridge with Paprika Butter)",
+    "ingredients": [
+      "Hulled wheat berries (uncooked)",
+      "Chicken thighs (skinless, boneless)",
+      "Water",
+      "Butter",
+      "Paprika",
+      "Salt"
+    ],
+    "instructions": [
+      "Soak the wheat overnight, drain and bring to the boil with the chicken, water and salt.",
+      "Cover and simmer over low heat for 90 minutes until the wheat is very soft, adding water if needed.",
+      "Lift out the chicken, shred it and return it to the pot.",
+      "Beat vigorously with a wooden spoon until a thick, creamy mass forms.",
+      "Heat the butter with the paprika and drizzle it over the keşkek."
+    ]
+  },
+  {
+    "id": "rec_575",
+    "title": "Çerkez Tavuğu (Circassian Chicken in Walnut Sauce) with Bread",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Walnuts",
+      "Toast bread",
+      "Garlic",
+      "Olive oil",
+      "Paprika",
+      "Lettuce",
+      "Wholegrain bread",
+      "Salt"
+    ],
+    "instructions": [
+      "Poach the chicken in lightly salted water for 20 minutes, leave to cool and shred finely, reserving 100 ml of the stock.",
+      "Soak the toast bread in a little stock and blend with the walnuts, garlic and salt into a creamy sauce, adding more stock if needed.",
+      "Mix the chicken with two thirds of the sauce, arrange on lettuce leaves and spread the remaining sauce on top.",
+      "Stir the oil with the paprika, drizzle over and serve with bread."
+    ]
+  },
+  {
+    "id": "rec_576",
+    "title": "Ankara Tava (Lamb with Oven-Baked Arpa Şehriye Pilaf)",
+    "ingredients": [
+      "Leg of lamb (lean, diced)",
+      "Arpa şehriye (durum wheat orzo, uncooked)",
+      "Onion",
+      "Tomato paste",
+      "Pepper paste (Biber Salçası)",
+      "Tomato",
+      "Butter",
+      "Water",
+      "Salt, pepper, thyme"
+    ],
+    "instructions": [
+      "Braise the lamb with the onion, salt and 250 ml water, covered, for 45 minutes until tender.",
+      "Toast the arpa şehriye in the butter until golden and briefly toast the tomato and pepper pastes with it.",
+      "Put the pasta, the lamb with its braising liquid, the diced tomato and the remaining water into a baking dish and season with thyme and pepper.",
+      "Bake at 200 °C for 20 minutes until the liquid is absorbed and the top turns slightly crispy."
+    ]
+  },
+  {
+    "id": "rec_577",
+    "title": "Elbasan Tava (Oven-Baked Lamb in a Yoghurt-Egg Crust)",
+    "ingredients": [
+      "Leg of lamb (lean, diced)",
+      "Butter",
+      "Greek yoghurt (0.2% fat)",
+      "Egg",
+      "Wheat flour",
+      "Low-fat milk (1.5%)",
+      "Tomato",
+      "Wholegrain bread",
+      "Salt, pepper, thyme, nutmeg"
+    ],
+    "instructions": [
+      "Brown the lamb in the butter, braise covered with a little water and thyme for 35 minutes until tender and transfer to a small baking dish.",
+      "Stir the flour into the milk until smooth and bring briefly to the boil until the mixture thickens, then leave to cool slightly.",
+      "Stir in the yoghurt, egg, salt and nutmeg and pour the cream over the meat.",
+      "Bake at 200 °C for 20 minutes until the crust has set and is speckled golden brown.",
+      "Serve with tomato slices and bread."
+    ]
+  },
+  {
+    "id": "rec_578",
+    "title": "Kuru Fasulye (White Bean Stew in Tomato-Pepper Sauce) with Rice Pilaf",
+    "ingredients": [
+      "White beans (tinned, drained)",
+      "Onion",
+      "Pointed pepper",
+      "Pepper paste (Biber Salçası)",
+      "Tomato paste",
+      "Olive oil",
+      "Vegetable stock",
+      "Long-grain rice (uncooked)",
+      "Salt, pepper, pul biber"
+    ],
+    "instructions": [
+      "Dice the onion and pointed pepper and sweat in the olive oil for 5 minutes until soft.",
+      "Stir in the pepper and tomato pastes and toast for 1 minute.",
+      "Add the beans and stock, simmer uncovered for 20 minutes until thick and season with salt, pepper and pul biber.",
+      "Wash the rice and cook, covered, in twice its volume of salted water for 15 minutes, then leave to rest for 5 minutes.",
+      "Serve the beans with the rice."
+    ]
+  },
+  {
+    "id": "rec_579",
+    "title": "İmam Bayıldı (Braised Aubergines with Onion-Tomato Filling) with Flatbread",
+    "ingredients": [
+      "Aubergines",
+      "Onions",
+      "Tomatoes",
+      "Garlic",
+      "Olive oil",
+      "Parsley",
+      "Sugar",
+      "Flatbread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel the aubergines in stripes, soak in salted water for 15 minutes, pat dry and roast with 10 g oil at 220 °C for 20 minutes.",
+      "Slice the onions into half rings and sweat slowly with the garlic in the remaining oil for 10 minutes until soft.",
+      "Add the diced tomatoes, sugar and parsley and reduce for 5 minutes.",
+      "Slit the aubergines lengthwise, fill with the onion mixture and braise covered with a little water at 180 °C for 20 minutes.",
+      "Serve lukewarm or cold with flatbread."
+    ]
+  },
+  {
+    "id": "rec_580",
+    "title": "Zeytinyağlı Bezelye (Peas with Carrots and Potatoes in Olive Oil)",
+    "ingredients": [
+      "Peas (frozen)",
+      "Carrot",
+      "Potato",
+      "Onion",
+      "Olive oil",
+      "Dill",
+      "Sugar",
+      "Water",
+      "Wholegrain bread",
+      "Salt"
+    ],
+    "instructions": [
+      "Dice the onion and sweat in the olive oil for 4 minutes until translucent.",
+      "Cut the carrot and potato into small cubes and sweat for 3 minutes.",
+      "Add the peas, sugar, salt and water, cover and simmer gently for 20 minutes.",
+      "Fold in the dill, leave to cool until lukewarm and serve with bread."
+    ]
+  },
+  {
+    "id": "rec_581",
+    "title": "Ispanak Yemeği (Spinach and Rice Pot) with Garlic Yoghurt",
+    "ingredients": [
+      "Spinach leaves (fresh)",
+      "Onion",
+      "Short-grain rice (uncooked)",
+      "Tomato paste",
+      "Olive oil",
+      "Water",
+      "Greek yoghurt (0.2% fat)",
+      "Garlic",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the onion, sweat in the oil for 4 minutes and briefly toast the tomato paste.",
+      "Add the washed rice and the water and simmer for 5 minutes.",
+      "Gradually fold in the roughly chopped spinach, cover and cook for 12 minutes until the rice is tender.",
+      "Stir the yoghurt with the grated garlic and a little salt and serve with the spinach."
+    ]
+  },
+  {
+    "id": "rec_582",
+    "title": "Zeytinyağlı Pırasa (Leeks with Carrots and Rice in Olive Oil)",
+    "ingredients": [
+      "Leek",
+      "Carrot",
+      "Short-grain rice (uncooked)",
+      "Olive oil",
+      "Lemon (juice)",
+      "Sugar",
+      "Water",
+      "Wholegrain bread",
+      "Salt"
+    ],
+    "instructions": [
+      "Trim the leek, halve lengthwise and cut into 2 cm pieces. Slice the carrot.",
+      "Sweat the carrot in the olive oil for 3 minutes, then add the leek and sweat for 5 minutes.",
+      "Add the washed rice, sugar, salt and water, cover and cook over low heat for 25 minutes.",
+      "Drizzle with lemon juice, leave to cool and serve lukewarm or cold with bread."
+    ]
+  },
+  {
+    "id": "rec_583",
+    "title": "Nohutlu Kabak Yemeği (Courgette and Chickpea Pot with Dill and Yoghurt)",
+    "ingredients": [
+      "Courgette",
+      "Chickpeas (tinned, drained)",
+      "Onion",
+      "Tomato",
+      "Tomato paste",
+      "Olive oil",
+      "Dill",
+      "Greek yoghurt (0.2% fat)",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the onion, sweat in the oil for 3 minutes and briefly toast the tomato paste.",
+      "Cut the courgette into half slices, dice the tomatoes and add both with the chickpeas.",
+      "Cover and braise for 15 minutes until the courgette is soft but not falling apart.",
+      "Season with dill, salt and pepper and serve with yoghurt."
+    ]
+  },
+  {
+    "id": "rec_584",
+    "title": "Fellah Köftesi (Bulgur Dumplings in Tomato-Garlic Sauce)",
+    "ingredients": [
+      "Fine bulgur (uncooked)",
+      "Durum wheat semolina",
+      "Wheat flour",
+      "Tomato paste",
+      "Pepper paste (Biber Salçası)",
+      "Garlic",
+      "Olive oil",
+      "Lemon (juice)",
+      "Parsley",
+      "Salt, pul biber"
+    ],
+    "instructions": [
+      "Pour 100 ml hot water over the bulgur and leave to swell for 15 minutes.",
+      "Knead the bulgur vigorously with the semolina, flour, 5 g pepper paste and salt for 5 minutes into a pliable dough and shape into small dumplings with a thumb hollow.",
+      "Boil the dumplings in salted water for 8 minutes until they float and drain.",
+      "Sweat the garlic in the oil, stir in the remaining pepper and tomato pastes, the lemon juice and 150 ml cooking water and simmer for 3 minutes.",
+      "Toss the dumplings in the sauce and serve with parsley."
+    ]
+  },
+  {
+    "id": "rec_585",
+    "title": "Patlıcanlı Pilav (Aubergine Rice with Chickpeas and Mint)",
+    "ingredients": [
+      "Aubergine",
+      "Long-grain rice (uncooked)",
+      "Chickpeas (tinned, drained)",
+      "Tomato",
+      "Onion",
+      "Olive oil",
+      "Dried mint, salt, pepper"
+    ],
+    "instructions": [
+      "Dice the aubergine, salt it, leave for 10 minutes, pat dry and roast with 8 g oil at 220 °C for 20 minutes.",
+      "Dice the onion and sweat in the remaining oil, dice the tomatoes and cook for 3 minutes.",
+      "Add the washed rice, chickpeas and 140 ml water, season with salt, cover and cook for 15 minutes.",
+      "Fold in the aubergines, leave to rest for 10 minutes and sprinkle with mint."
+    ]
+  },
+  {
+    "id": "rec_586",
+    "title": "İç Pilav (Spiced Rice with Pine Nuts and Currants) with Yoghurt",
+    "ingredients": [
+      "Long-grain rice (uncooked)",
+      "Pine nuts",
+      "Currants",
+      "Onion",
+      "Olive oil",
+      "Dill",
+      "Greek yoghurt (0.2% fat)",
+      "Tomato",
+      "Cinnamon, allspice, salt"
+    ],
+    "instructions": [
+      "Finely dice the onion and toast with the pine nuts in the oil until golden brown.",
+      "Wash the rice, add and toast for 2 minutes.",
+      "Add the currants, cinnamon, allspice, salt and 140 ml hot water, cover and cook for 15 minutes.",
+      "Fold in the dill, leave to rest for 10 minutes and serve with yoghurt and tomato slices."
+    ]
+  },
+  {
+    "id": "rec_587",
+    "title": "Zeytinyağlı Enginar (Artichoke Bottoms with Peas, Carrots and Dill) with Bulgur",
+    "ingredients": [
+      "Artichoke bottoms (frozen)",
+      "Peas (frozen)",
+      "Carrot",
+      "Spring onions",
+      "Olive oil",
+      "Lemon (juice)",
+      "Wheat flour",
+      "Dill",
+      "Water",
+      "Fine bulgur (uncooked)",
+      "Salt"
+    ],
+    "instructions": [
+      "Whisk the lemon juice with the flour and water until smooth.",
+      "Chop the spring onions and carrot and sweat in the olive oil for 5 minutes, then add the peas and salt.",
+      "Place the artichoke bottoms on top, hollow side up, pour over the lemon water, cover and simmer gently for 25 minutes.",
+      "Pour twice its volume of boiling salted water over the bulgur and leave to swell for 10 minutes.",
+      "Leave the artichokes to cool in their liquid, fill the bottoms with the vegetables, sprinkle with dill and serve with bulgur."
+    ]
+  },
+  {
+    "id": "rec_588",
+    "title": "Zeytinyağlı Kereviz (Celeriac with Orange, Carrots and Peas)",
+    "ingredients": [
+      "Celeriac",
+      "Carrot",
+      "Peas (frozen)",
+      "Orange (juice)",
+      "Lemon (juice)",
+      "Olive oil",
+      "Sugar",
+      "Water",
+      "Wholegrain bread",
+      "Salt, dill"
+    ],
+    "instructions": [
+      "Peel the celeriac, dice and drizzle immediately with lemon juice.",
+      "Dice the carrot and sweat in the olive oil for 3 minutes.",
+      "Add the celeriac, orange juice, sugar, salt and water, cover and cook for 25 minutes until tender.",
+      "Add the peas for the last 5 minutes, leave to cool, sprinkle with dill and serve with bread."
+    ]
+  },
+  {
+    "id": "rec_589",
+    "title": "Mantar Güveç (Mushrooms with Peppers and Kaşar from the Clay Pot)",
+    "ingredients": [
+      "Button mushrooms",
+      "Pointed pepper",
+      "Tomato",
+      "Olive oil",
+      "Garlic",
+      "Kaşar cheese (grated)",
+      "Flatbread",
+      "Thyme, salt, pepper"
+    ],
+    "instructions": [
+      "Quarter the mushrooms, slice the pepper into rings and dice the tomato.",
+      "Sear the mushrooms in the hot oil for 5 minutes, add the garlic, pepper and tomato, fry for 3 minutes and season with thyme and salt.",
+      "Transfer to a small ovenproof clay dish and sprinkle with kaşar.",
+      "Bake at 220 °C for 8 minutes until the cheese bubbles and serve with flatbread."
+    ]
+  },
+  {
+    "id": "rec_590",
+    "title": "Zeytinyağlı Bakla (Broad Beans with Dill) and Garlic Yoghurt",
+    "ingredients": [
+      "Broad beans (frozen)",
+      "Onion",
+      "Olive oil",
+      "Dill",
+      "Lemon (juice)",
+      "Sugar",
+      "Water",
+      "Greek yoghurt (0.2% fat)",
+      "Garlic",
+      "Wholegrain bread",
+      "Salt"
+    ],
+    "instructions": [
+      "Dice the onion and sweat in the oil for 3 minutes.",
+      "Add the broad beans, sugar, salt and water, cover and cook for 15 minutes.",
+      "Mix with lemon juice and plenty of dill and leave to cool.",
+      "Stir the yoghurt with garlic and serve with the beans and bread."
+    ]
+  },
+  {
+    "id": "rec_591",
+    "title": "Kumpir (Baked Potato with Kaşar, Sweetcorn, Peas, Olives and Red Cabbage)",
+    "ingredients": [
+      "Large potato",
+      "Butter",
+      "Kaşar cheese (grated)",
+      "Sweetcorn (tinned, drained)",
+      "Peas (cooked)",
+      "Black olives",
+      "Red cabbage (finely shredded)",
+      "Greek yoghurt (0.2% fat)",
+      "Salt"
+    ],
+    "instructions": [
+      "Wash the potato, prick several times and bake at 200 °C for 60 minutes until completely soft inside.",
+      "Cut open lengthwise, fluff the inside with a fork and mix with butter, salt and kaşar until the cheese melts.",
+      "Top with sweetcorn, peas, olives, red cabbage and yoghurt and serve immediately."
+    ]
+  },
+  {
+    "id": "rec_592",
+    "title": "Ispanaklı Yumurtalı Pide (Pide with Spinach, Kaşar and Egg)",
+    "ingredients": [
+      "Wheat flour (Type 550)",
+      "Dried yeast, salt",
+      "Lukewarm water",
+      "Olive oil",
+      "Spinach leaves",
+      "Garlic",
+      "Kaşar cheese (grated)",
+      "Egg",
+      "Pepper"
+    ],
+    "instructions": [
+      "Knead the flour, yeast, salt, lukewarm water and oil and leave to rise for 60 minutes.",
+      "Wilt the spinach with chopped garlic in a pan, squeeze out well, season with pepper and mix with the grated kaşar.",
+      "Roll the dough into an oval, place the filling in the centre and fold the edges into a boat shape.",
+      "Bake at 240 °C for 8 minutes, then slide the egg into the centre and bake for another 5 minutes until the white has set."
+    ]
+  },
+  {
+    "id": "rec_593",
+    "title": "Patatesli Gözleme (Flatbread with Potato, Kaşar and Parsley)",
+    "ingredients": [
+      "Wheat flour",
+      "Water",
+      "Potato",
+      "Kaşar cheese (grated)",
+      "Onion",
+      "Parsley",
+      "Butter",
+      "Pul biber, salt"
+    ],
+    "instructions": [
+      "Knead the flour, water and salt into a soft dough and leave to rest for 20 minutes.",
+      "Boil the potato, mash and mix with finely chopped onion, parsley, pul biber and salt.",
+      "Roll the dough out wafer-thin into a circle, cover one half with the potato mixture and kaşar and fold over.",
+      "Cook in a hot dry pan for 3 minutes per side, brush with butter and cut into pieces."
+    ]
+  },
+  {
+    "id": "rec_594",
+    "title": "Air Fryer Sigara Böreği (Crispy Filo Rolls with White Cheese and Parsley)",
+    "ingredients": [
+      "Filo pastry (yufka)",
+      "Feta (Turkish white cheese)",
+      "Parsley",
+      "Egg",
+      "Olive oil",
+      "Cucumber",
+      "Tomato"
+    ],
+    "instructions": [
+      "Crumble the feta and mix with finely chopped parsley and half of the egg.",
+      "Cut the filo into triangles, place a strip of filling along the wide side, fold in the sides and roll up tightly into cigars, sealing the tip with egg.",
+      "Brush the rolls with oil and air-fry at 190 °C for 8 minutes until golden brown.",
+      "Serve with cucumber and tomato."
+    ]
+  },
+  {
+    "id": "rec_595",
+    "title": "Mıhlama (Kuymak – Cornmeal and Cheese Skillet from the Black Sea Region)",
+    "ingredients": [
+      "Cornmeal",
+      "Butter",
+      "Kaşar cheese (grated)",
+      "Water",
+      "Wholegrain bread",
+      "Cucumber",
+      "Tomato",
+      "Salt"
+    ],
+    "instructions": [
+      "Melt the butter in a small pan and toast the cornmeal in it for 2 minutes.",
+      "Gradually stir in the water and simmer for 3 minutes while stirring.",
+      "Stir in the kaşar and let it melt over low heat without stirring until it forms cheesy strings.",
+      "Eat straight from the pan with bread, cucumber and tomato."
+    ]
+  },
+  {
+    "id": "rec_596",
+    "title": "Simit (Turkish Sesame Ring) with White Cheese, Tomato, Cucumber and Olives",
+    "ingredients": [
+      "Wheat flour (Type 550)",
+      "Dried yeast, salt",
+      "Lukewarm water",
+      "Grape pekmez (molasses)",
+      "Sesame seeds",
+      "Feta (Turkish white cheese)",
+      "Tomato",
+      "Cucumber",
+      "Black olives"
+    ],
+    "instructions": [
+      "Knead the flour, yeast, salt and lukewarm water into a firm dough and leave to rise for 45 minutes.",
+      "Roll the dough into two strands, twist into a rope and close into a ring.",
+      "Dip the ring in pekmez diluted with water and coat thickly all over in toasted sesame seeds.",
+      "Bake at 220 °C for 18 minutes until golden brown.",
+      "Serve with white cheese, tomato, cucumber and olives."
+    ]
+  },
+  {
+    "id": "rec_597",
+    "title": "Peynirli Poğaça (Soft Yoghurt Buns with White Cheese and Parsley)",
+    "ingredients": [
+      "Wheat flour",
+      "Yoghurt (3.5% fat)",
+      "Rapeseed oil",
+      "Egg",
+      "Feta (Turkish white cheese)",
+      "Parsley",
+      "Sesame and nigella seeds",
+      "Baking powder, salt"
+    ],
+    "instructions": [
+      "Knead the flour, yoghurt, oil, baking powder, half of the egg and a pinch of salt into a soft dough.",
+      "Crumble the feta and mix with chopped parsley.",
+      "Divide the dough into 3 pieces, flatten, fill with cheese and seal into half moons.",
+      "Brush with the remaining egg, sprinkle with sesame and nigella seeds and bake at 190 °C for 20 minutes until golden brown."
+    ]
+  },
+  {
+    "id": "rec_598",
+    "title": "Yumurtalı Ekmek (Savoury Egg Bread with White Cheese, Tomato and Cucumber)",
+    "ingredients": [
+      "Wholegrain bread",
+      "Eggs",
+      "Low-fat milk (1.5%)",
+      "Rapeseed oil",
+      "Feta (Turkish white cheese)",
+      "Tomato",
+      "Cucumber",
+      "Parsley",
+      "Pul biber, salt"
+    ],
+    "instructions": [
+      "Whisk the eggs with the milk, salt and pul biber.",
+      "Halve the bread slices and soak them on both sides in the mixture.",
+      "Fry in the hot oil for 2 minutes per side until golden brown.",
+      "Sprinkle with crumbled white cheese and parsley and serve with tomatoes and cucumber."
+    ]
+  },
+  {
+    "id": "rec_599",
+    "title": "Tahin-Pekmez (Sesame Paste with Grape Molasses) on Wholegrain Bread with Banana and Walnuts",
+    "ingredients": [
+      "Wholegrain bread",
+      "Tahini",
+      "Grape pekmez (molasses)",
+      "Banana",
+      "Walnuts"
+    ],
+    "instructions": [
+      "Stir the tahini and pekmez in a small bowl into a glossy, creamy mixture.",
+      "Toast the bread if you like and spread thickly with the cream.",
+      "Top with banana slices and chopped walnuts."
+    ]
+  },
+  {
+    "id": "rec_600",
+    "title": "Yumurtalı Patates (Potato and Pepper Skillet with Eggs)",
+    "ingredients": [
+      "Potatoes",
+      "Pointed pepper",
+      "Spring onions",
+      "Olive oil",
+      "Eggs",
+      "Beyaz peynir (feta)",
+      "Parsley and dill",
+      "Pul biber, salt"
+    ],
+    "instructions": [
+      "Cut the potatoes into small cubes and fry in the oil in a non-stick pan, covered, for 12 minutes, turning occasionally.",
+      "Add the spring onions and pepper, fry for 4 minutes and season with salt and pul biber.",
+      "Make two hollows, slide the eggs in and let them set, covered, for 4 minutes.",
+      "Sprinkle with crumbled beyaz peynir, parsley and dill and serve."
+    ]
+  },
+  {
+    "id": "rec_601",
+    "title": "Ezogelin Çorbası (Red Lentil Soup with Bulgur, Rice and Mint)",
+    "ingredients": [
+      "Red lentils (uncooked)",
+      "Fine bulgur (uncooked)",
+      "Short-grain rice (uncooked)",
+      "Onion",
+      "Tomato paste",
+      "Pepper paste (Biber Salçası)",
+      "Olive oil",
+      "Vegetable stock",
+      "Lemon (juice)",
+      "Wholegrain bread",
+      "Dried mint, pul biber, salt"
+    ],
+    "instructions": [
+      "Dice the onion, sweat in the oil for 4 minutes and briefly toast the tomato and pepper pastes.",
+      "Add the washed lentils, bulgur, rice and stock and simmer for 25 minutes until everything is soft.",
+      "Season with dried mint, pul biber and salt and blend roughly if you like.",
+      "Serve with lemon juice and bread."
+    ]
+  },
+  {
+    "id": "rec_602",
+    "title": "Yayla Çorbası (Yoghurt and Rice Soup with Mint Butter)",
+    "ingredients": [
+      "Yoghurt (3.5% fat)",
+      "Short-grain rice (uncooked)",
+      "Egg yolk",
+      "Wheat flour",
+      "Vegetable stock",
+      "Butter",
+      "Wholegrain bread",
+      "Dried mint, salt"
+    ],
+    "instructions": [
+      "Cook the rice in the stock for 15 minutes until soft.",
+      "Whisk the yoghurt with the egg yolk and flour until smooth and gradually temper with two ladles of hot stock.",
+      "Pour the mixture into the soup while stirring constantly and simmer gently for 5 minutes without letting it bubble.",
+      "Melt the butter, let the mint foam up briefly in it, drizzle over the soup and serve with bread."
+    ]
+  },
+  {
+    "id": "rec_603",
+    "title": "Tarhana Çorbası (Spiced Tarhana Soup) with Yoghurt",
+    "ingredients": [
+      "Tarhana (powder)",
+      "Tomato paste",
+      "Pepper paste (Biber Salçası)",
+      "Butter",
+      "Garlic",
+      "Vegetable stock",
+      "Greek yoghurt (0.2% fat)",
+      "Wholegrain bread",
+      "Dried mint"
+    ],
+    "instructions": [
+      "Stir the tarhana into 100 ml cold stock until smooth and leave to swell for 10 minutes.",
+      "Heat the butter and toast the garlic, tomato paste and pepper paste in it for 1 minute.",
+      "Stir in the remaining stock and the tarhana and simmer for 10 minutes while stirring until the soup is creamy.",
+      "Sprinkle with mint and serve with yoghurt and bread."
+    ]
+  },
+  {
+    "id": "rec_604",
+    "title": "Tutmaç Çorbası (Lentil Noodle Soup with Yoghurt and Mint Butter)",
+    "ingredients": [
+      "Green lentils (uncooked)",
+      "Ribbon noodles (erişte, uncooked)",
+      "Yoghurt (3.5% fat)",
+      "Wheat flour",
+      "Onion",
+      "Tomato paste",
+      "Butter",
+      "Vegetable stock",
+      "Dried mint, salt"
+    ],
+    "instructions": [
+      "Pre-cook the lentils in the stock for 20 minutes.",
+      "Sweat the onion in half of the butter, briefly toast the tomato paste and add to the lentils with the noodles, then cook for another 8 minutes.",
+      "Stir the yoghurt with the flour until smooth, temper with a little hot soup and stir in, then let it steep gently for 3 minutes.",
+      "Foam the remaining butter with the mint and drizzle over the soup."
+    ]
+  },
+  {
+    "id": "rec_605",
+    "title": "Kabak Çorbası (Cream of Courgette Soup with Yoghurt, Mint and Pumpkin Seeds)",
+    "ingredients": [
+      "Courgette",
+      "Potato",
+      "Onion",
+      "Olive oil",
+      "Vegetable stock",
+      "Greek yoghurt (0.2% fat)",
+      "Pumpkin seeds",
+      "Wholegrain bread",
+      "Dried mint, salt, pepper"
+    ],
+    "instructions": [
+      "Dice the onion and sweat in the oil for 3 minutes.",
+      "Dice the courgette and potato, add, top up with stock and simmer for 15 minutes.",
+      "Blend until smooth and season with salt, pepper and mint.",
+      "Serve with a dollop of yoghurt, toasted pumpkin seeds and bread."
+    ]
+  },
+  {
+    "id": "rec_606",
+    "title": "Karalahana Çorbası (Black Sea Black Cabbage Soup with Beans and Sweetcorn)",
+    "ingredients": [
+      "Kale or black cabbage",
+      "Kidney beans (tinned, drained)",
+      "Sweetcorn (tinned, drained)",
+      "Cornmeal",
+      "Onion",
+      "Tomato paste",
+      "Olive oil",
+      "Vegetable stock",
+      "Pul biber, salt"
+    ],
+    "instructions": [
+      "Strip the cabbage from the stalks and cut into fine strips.",
+      "Sweat the onion in the oil for 3 minutes and briefly toast the tomato paste.",
+      "Add the cabbage, beans, sweetcorn and stock and simmer for 20 minutes.",
+      "Mix the cornmeal with a little cold water, stir in and simmer for another 5 minutes until the soup thickens slightly; season with pul biber and salt."
+    ]
+  },
+  {
+    "id": "rec_607",
+    "title": "Kısır (Bulgur Salad with Pepper Paste, Parsley and Pomegranate Molasses)",
+    "ingredients": [
+      "Fine bulgur (uncooked)",
+      "Tomato paste",
+      "Pepper paste (Biber Salçası)",
+      "Olive oil",
+      "Pomegranate molasses",
+      "Lemon (juice)",
+      "Spring onions",
+      "Parsley",
+      "Mint",
+      "Tomato",
+      "Cucumber",
+      "Romaine lettuce leaves",
+      "Salt, pul biber"
+    ],
+    "instructions": [
+      "Pour 100 ml hot water over the bulgur, cover and leave to swell for 15 minutes.",
+      "Knead the tomato and pepper pastes, oil, pomegranate molasses and lemon juice into the warm bulgur until it is evenly red.",
+      "Finely chop the spring onions, parsley, mint, tomato and cucumber, fold in and season with salt and pul biber.",
+      "Serve in lettuce leaves."
+    ]
+  },
+  {
+    "id": "rec_608",
+    "title": "Cacık (Chilled Yoghurt and Cucumber Meze with Dill and Mint) with Wholegrain Pitta",
+    "ingredients": [
+      "Greek yoghurt (0.2% fat)",
+      "Cucumber",
+      "Garlic",
+      "Dill",
+      "Olive oil",
+      "Cold water",
+      "Wholegrain pitta",
+      "Dried mint, salt"
+    ],
+    "instructions": [
+      "Peel the cucumber, dice finely and salt lightly.",
+      "Stir the yoghurt with grated garlic and cold water until smooth and fold in the cucumber and dill.",
+      "Sprinkle with dried mint, drizzle with olive oil and serve well chilled with pitta."
+    ]
+  },
+  {
+    "id": "rec_609",
+    "title": "Acılı Ezme (Spicy Tomato and Pepper Meze with Walnuts) and Wholegrain Pitta",
+    "ingredients": [
+      "Tomatoes",
+      "Pointed pepper",
+      "Onion",
+      "Parsley",
+      "Walnuts",
+      "Pepper paste (Biber Salçası)",
+      "Pomegranate molasses",
+      "Olive oil",
+      "Lemon (juice)",
+      "Wholegrain pitta",
+      "Pul biber, sumac, salt"
+    ],
+    "instructions": [
+      "Deseed the tomatoes and chop very finely with the pepper, onion and parsley using a large knife.",
+      "Finely chop the walnuts and stir in with the pepper paste, pomegranate molasses, oil, lemon juice, pul biber and sumac.",
+      "Leave to infuse for 10 minutes and serve with pitta."
+    ]
+  },
+  {
+    "id": "rec_610",
+    "title": "Piyaz (White Bean Salad with Onions, Egg and Tahini-Lemon Dressing)",
+    "ingredients": [
+      "White beans (tinned, drained)",
+      "Red onion",
+      "Tomato",
+      "Parsley",
+      "Egg",
+      "Tahini",
+      "Lemon (juice)",
+      "Olive oil",
+      "Sumac, salt"
+    ],
+    "instructions": [
+      "Rinse and drain the beans. Hard-boil the egg for 9 minutes and quarter it.",
+      "Stir the tahini with the lemon juice, oil, 2 tbsp water and salt into a creamy dressing.",
+      "Slice the onion into rings and mix with sumac, dice the tomato.",
+      "Mix the beans with the dressing, onions, tomato and parsley and top with the egg."
+    ]
+  },
+  {
+    "id": "rec_611",
+    "title": "Semizotu Salatası (Purslane with Garlic Yoghurt and Walnuts)",
+    "ingredients": [
+      "Purslane",
+      "Greek yoghurt (0.2% fat)",
+      "Garlic",
+      "Olive oil",
+      "Walnuts",
+      "Wholegrain pitta",
+      "Salt"
+    ],
+    "instructions": [
+      "Wash the purslane, remove thick stalks and chop roughly.",
+      "Stir the yoghurt with grated garlic and salt until smooth.",
+      "Fold in the purslane, drizzle with olive oil and sprinkle with chopped walnuts.",
+      "Serve with pitta."
+    ]
+  },
+  {
+    "id": "rec_612",
+    "title": "Havuç Tarator (Carrot, Yoghurt and Walnut Dip) with Vegetable Sticks",
+    "ingredients": [
+      "Carrots",
+      "Olive oil",
+      "Greek yoghurt (0.2% fat)",
+      "Garlic",
+      "Walnuts",
+      "Dill",
+      "Cucumber",
+      "Red pepper",
+      "Salt"
+    ],
+    "instructions": [
+      "Coarsely grate the carrots, sweat in the oil over medium heat for 6 minutes until soft and leave to cool.",
+      "Stir the yoghurt with grated garlic, salt and chopped dill.",
+      "Fold in the carrots and half of the chopped walnuts and sprinkle with the remaining walnuts.",
+      "Serve with cucumber and pepper sticks."
+    ]
+  },
+  {
+    "id": "rec_613",
+    "title": "Mercimekli Erişte (Ribbon Noodles with Green Lentils and Crispy Onions)",
+    "ingredients": [
+      "Green lentils (uncooked)",
+      "Ribbon noodles (erişte, uncooked)",
+      "Onion",
+      "Olive oil",
+      "Pepper paste (Biber Salçası)",
+      "Parsley",
+      "Pul biber, salt"
+    ],
+    "instructions": [
+      "Cook the lentils in salted water for 20 minutes until al dente, adding the noodles for the last 8 minutes, then drain.",
+      "Slice the onion into half rings and fry in the oil for 8 minutes until golden brown.",
+      "Briefly toast the pepper paste and pul biber and stir in a splash of cooking water.",
+      "Mix in the lentils and noodles and serve sprinkled with parsley."
+    ]
+  },
+  {
+    "id": "rec_614",
+    "title": "Air Fryer Patlıcan Kızartması (Aubergine Slices with Garlic Yoghurt and Tomato Sauce)",
+    "ingredients": [
+      "Aubergine",
+      "Olive oil",
+      "Passata",
+      "Garlic",
+      "Greek yoghurt (0.2% fat)",
+      "Flatbread",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the aubergine into 1 cm thick slices, salt, leave for 10 minutes and pat dry.",
+      "Brush with 6 g oil and air-fry at 200 °C for 14 minutes until golden brown, turning halfway.",
+      "Reduce the passata with the remaining oil, half of the garlic and salt for 5 minutes.",
+      "Stir the yoghurt with the remaining garlic and serve the aubergines with both sauces, parsley and flatbread."
+    ]
+  },
+  {
+    "id": "rec_615",
+    "title": "Air Fryer Patates Köftesi (Potato and Bulgur Köfte) with Yoghurt Dip",
+    "ingredients": [
+      "Potatoes",
+      "Fine bulgur (uncooked)",
+      "Egg",
+      "Spring onion",
+      "Parsley",
+      "Kaşar cheese (grated)",
+      "Olive oil",
+      "Greek yoghurt (0.2% fat)",
+      "Cumin, paprika, salt"
+    ],
+    "instructions": [
+      "Boil the potatoes, drain and mash finely. Soak the bulgur in 50 ml hot water for 10 minutes.",
+      "Knead the potatoes with the bulgur, egg, spring onion, parsley, kaşar and spices and shape into 8 oblong köfte.",
+      "Brush with oil and air-fry at 200 °C for 14 minutes until golden brown.",
+      "Serve with yoghurt as a dip."
+    ]
+  },
+  {
+    "id": "rec_616",
+    "title": "Ayvalık Tostu (Vegetarian Cheese Toastie with Tomato, Pickled Gherkin and Pepper)",
+    "ingredients": [
+      "Wholegrain toast roll or sandwich bread",
+      "Kaşar cheese (slices)",
+      "Tomato",
+      "Pickled gherkin",
+      "Pointed pepper",
+      "Greek yoghurt (0.2% fat)",
+      "Cucumber"
+    ],
+    "instructions": [
+      "Cut open the bread and cover one half with kaşar.",
+      "Top with tomato slices, gherkin slices and pepper rings and place the other half on top.",
+      "Toast in a sandwich press or in a weighted-down pan for 5 minutes until the cheese melts.",
+      "Spread the inside with yoghurt and serve with fresh cucumber."
+    ]
+  },
+  {
+    "id": "rec_617",
+    "title": "Fırın Makarna (Baked Pasta with Béchamel and Kaşar)",
+    "ingredients": [
+      "Wholegrain penne (uncooked)",
+      "Low-fat milk (1.5%)",
+      "Wheat flour",
+      "Butter",
+      "Egg",
+      "Kaşar cheese (grated)",
+      "Tomato",
+      "Salt, pepper, nutmeg"
+    ],
+    "instructions": [
+      "Cook the pasta in salted water for 2 minutes less than stated and drain.",
+      "Melt the butter, sweat the flour, stir in the milk and simmer for 4 minutes into a béchamel, season with salt, pepper and nutmeg.",
+      "Leave to cool slightly, stir in the egg and half of the cheese and mix with the pasta.",
+      "Transfer to a small dish, sprinkle with the remaining cheese and bake at 200 °C for 20 minutes until golden brown. Serve with tomato slices."
+    ]
+  },
+  {
+    "id": "rec_618",
+    "title": "Ayran (Turkish Yoghurt Drink) with Mint and Cucumber Sticks",
+    "ingredients": [
+      "Yoghurt (3.5% fat)",
+      "Cold water",
+      "Fresh mint",
+      "Cucumber (in sticks)",
+      "Salt"
+    ],
+    "instructions": [
+      "Put the yoghurt, cold water and a pinch of salt into a blender or tall beaker.",
+      "Blend or whisk vigorously for 30 seconds until frothy.",
+      "Pour into a glass, garnish with mint leaves and serve with cucumber sticks."
+    ]
+  },
+  {
+    "id": "rec_619",
+    "title": "Aşure (Noah's Pudding with Wheat, Pulses and Dried Fruit)",
+    "ingredients": [
+      "Hulled wheat berries (uncooked)",
+      "Chickpeas (tinned, drained)",
+      "White beans (tinned, drained)",
+      "Dried apricots",
+      "Dried figs",
+      "Raisins",
+      "Sugar",
+      "Water",
+      "Walnuts",
+      "Pomegranate seeds",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Soak the wheat overnight and cook in the water for 60 minutes until soft.",
+      "Add the chickpeas, beans, diced apricots and figs, raisins and sugar and simmer for 20 minutes while stirring until thick.",
+      "Pour into small bowls and leave to cool.",
+      "Sprinkle with walnuts, pomegranate seeds and cinnamon."
+    ]
+  },
+  {
+    "id": "rec_620",
+    "title": "Revani Light (Semolina Yoghurt Cake with Lemon Syrup and Pistachios)",
+    "ingredients": [
+      "Durum wheat semolina",
+      "Wheat flour",
+      "Greek yoghurt (0.2% fat)",
+      "Egg",
+      "Sugar",
+      "Rapeseed oil",
+      "Lemon (juice)",
+      "Pistachios",
+      "Baking powder"
+    ],
+    "instructions": [
+      "Whisk the egg with 8 g sugar until fluffy and stir in the yoghurt and oil.",
+      "Fold in the semolina, flour and baking powder and pour into a small greased tin (approx. 10 cm).",
+      "Bake at 180 °C for 25 minutes until golden brown.",
+      "Boil the remaining sugar with the lemon juice and 30 ml water for 3 minutes into a syrup and pour over the hot cake.",
+      "Leave to cool and sprinkle with chopped pistachios."
+    ]
+  },
+  {
+    "id": "rec_621",
+    "title": "Keşkül (Almond Milk Pudding with Pistachios)",
+    "ingredients": [
+      "Low-fat milk (1.5%)",
+      "Ground almonds",
+      "Cornflour",
+      "Sugar",
+      "Egg yolk",
+      "Pistachios"
+    ],
+    "instructions": [
+      "Heat the milk, almonds and sugar in a pan.",
+      "Stir the cornflour with the egg yolk and a little cold milk until smooth and stir into the hot milk.",
+      "Simmer for 5 minutes, stirring constantly, until the pudding is thick.",
+      "Pour into a small bowl, leave to cool and sprinkle with chopped pistachios."
+    ]
+  },
+  {
+    "id": "rec_622",
+    "title": "Ayva Tatlısı (Braised Quince with Skyr and Walnuts)",
+    "ingredients": [
+      "Quince",
+      "Sugar",
+      "Lemon (juice)",
+      "Skyr (plain)",
+      "Walnuts",
+      "Cloves"
+    ],
+    "instructions": [
+      "Peel and halve the quince and remove the core, keeping the peel and seeds.",
+      "Place the quince half cut side up in a small pan, sprinkle with sugar, add the cloves, lemon juice, peel and seeds and pour in 150 ml water.",
+      "Cover and braise over low heat for 50 minutes until the quince is soft and ruby red, basting with the syrup.",
+      "Leave to cool and serve with skyr and walnuts."
+    ]
+  },
+  {
+    "id": "rec_623",
+    "title": "Kayısı Tatlısı (Poached Apricots Filled with Skyr and Pistachios)",
+    "ingredients": [
+      "Dried apricots",
+      "Sugar",
+      "Lemon (juice)",
+      "Skyr (plain)",
+      "Pistachios"
+    ],
+    "instructions": [
+      "Bring the apricots to the boil with the sugar, lemon juice and 200 ml water and simmer for 20 minutes until soft and the syrup thickens slightly.",
+      "Leave to cool in the syrup.",
+      "Slit the apricots open on one side and fill with skyr.",
+      "Sprinkle with chopped pistachios and serve with a little syrup."
+    ]
+  },
+  {
+    "id": "rec_624",
+    "title": "İncir Uyutması (Fig and Milk Dessert with Walnuts)",
+    "ingredients": [
+      "Dried figs",
+      "Low-fat milk (1.5%)",
+      "Walnuts",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Cut the figs into small pieces and blend finely with a little milk.",
+      "Warm the remaining milk to about 40 °C, i.e. comfortably hand-warm.",
+      "Add the milk to the figs while stirring, pour into small bowls and leave covered in a warm place for 6 to 8 hours until the mixture sets like a pudding.",
+      "Chill and serve with walnuts and cinnamon."
+    ]
+  },
+  {
+    "id": "rec_625",
+    "title": "Fıstıklı Dondurma Light (Pistachio Frozen Yoghurt)",
+    "ingredients": [
+      "Greek yoghurt (0.2% fat)",
+      "Pistachios",
+      "Honey",
+      "Low-fat milk (1.5%)",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Finely grind the pistachios and set aside 5 g for sprinkling.",
+      "Stir the yoghurt, milk, honey, vanilla and ground pistachios until smooth.",
+      "Pour into a shallow container and freeze for 3 hours, stirring vigorously every half hour.",
+      "Leave to soften for 10 minutes before serving and sprinkle with the remaining pistachios."
+    ]
+  },
+  {
+    "id": "rec_626",
+    "title": "Tahinli Kurabiye (Vegan Tahini Cookies with Sesame) with Apple Wedges",
+    "ingredients": [
+      "Apple",
+      "Wheat flour",
+      "Tahini",
+      "Sugar",
+      "Rapeseed oil",
+      "Sesame seeds",
+      "Baking powder, cinnamon"
+    ],
+    "instructions": [
+      "Beat the tahini, sugar and oil until creamy.",
+      "Knead in the flour, baking powder and cinnamon until a soft, non-sticky dough forms.",
+      "Shape into 3 balls, flatten slightly, press a pattern in with a fork and sprinkle with sesame seeds.",
+      "Bake at 180 °C for 12 minutes, leave to cool on a rack and serve with apple wedges."
+    ]
+  },
+  {
+    "id": "rec_627",
+    "title": "Aloo Paratha – Indian Potato-Stuffed Flatbread with Cucumber Raita",
+    "ingredients": [
+      "Wholewheat flour (atta)",
+      "Water",
+      "Potatoes",
+      "Ghee",
+      "Greek yoghurt (0.2% fat)",
+      "Cucumber",
+      "Coriander and green chilli",
+      "Cumin, garam masala, salt"
+    ],
+    "instructions": [
+      "Knead the flour, water and salt into a soft dough and leave to rest for 15 minutes.",
+      "Boil the potatoes, mash finely and mix with coriander, chilli, cumin, garam masala and salt.",
+      "Divide the dough into 2 balls, enclose a portion of potato in each and carefully roll out into rounds.",
+      "Cook the parathas in a hot pan for 2 minutes per side and brush with ghee.",
+      "Stir the yoghurt with grated cucumber and salt to make raita and serve alongside."
+    ]
+  },
+  {
+    "id": "rec_628",
+    "title": "Upma – South Indian Semolina with Vegetables, Mustard Seeds and Cashews",
+    "ingredients": [
+      "Durum wheat semolina",
+      "Peas (frozen)",
+      "Carrot",
+      "Onion",
+      "Cashew nuts",
+      "Rapeseed oil",
+      "Mustard seeds",
+      "Water",
+      "Lemon (juice)",
+      "Curry leaves, ginger, green chilli, turmeric, salt"
+    ],
+    "instructions": [
+      "Toast the semolina in a dry pan for 3 minutes until pale golden and set aside.",
+      "Heat the oil, toast the mustard seeds, cashews and curry leaves until the seeds pop, then sweat the onion, ginger and chilli for 3 minutes.",
+      "Add the carrot and peas, top up with water, season with salt and bring to the boil.",
+      "Sprinkle in the semolina while stirring and leave to swell for 3 minutes until fluffy. Serve with lemon juice."
+    ]
+  },
+  {
+    "id": "rec_629",
+    "title": "Cachapas – Venezuelan Sweetcorn Pancakes with Queso Fresco and Avocado",
+    "ingredients": [
+      "Sweetcorn (frozen or tinned, drained)",
+      "Cornmeal",
+      "Low-fat milk (1.5%)",
+      "Rapeseed oil",
+      "Queso fresco (or mild feta)",
+      "Avocado",
+      "Salt, sugar"
+    ],
+    "instructions": [
+      "Blend the sweetcorn coarsely with the milk, salt and a pinch of sugar and stir in the cornmeal.",
+      "Leave the mixture to swell for 5 minutes.",
+      "Fry two thick pancakes in the oil over medium heat for 3 minutes per side until golden brown.",
+      "Fill with crumbled cheese, fold over and serve with avocado slices."
+    ]
+  },
+  {
+    "id": "rec_630",
+    "title": "Buckwheat Galette with Egg, Spinach and Mountain Cheese",
+    "ingredients": [
+      "Buckwheat flour",
+      "Water",
+      "Egg",
+      "Spinach leaves",
+      "Mountain cheese (grated)",
+      "Butter",
+      "Button mushrooms",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Whisk the buckwheat flour with the water and salt until smooth and leave to rest for 15 minutes.",
+      "Slice the mushrooms and sauté briefly with the spinach in a pan.",
+      "Cook a thin galette in a large non-stick pan with half of the butter and flip it.",
+      "Place the cheese, mushrooms and spinach in the centre, crack the egg on top and fold the edges in to form a square.",
+      "Cover and cook for 3 minutes until the egg white has set, then brush with the remaining butter."
+    ]
+  },
+  {
+    "id": "rec_631",
+    "title": "Fanqie Chao Dan – Chinese Tomato and Egg Stir-Fry with Rice",
+    "ingredients": [
+      "Eggs",
+      "Tomatoes",
+      "Spring onion",
+      "Rapeseed oil",
+      "Sugar",
+      "Jasmine rice (uncooked)",
+      "Salt"
+    ],
+    "instructions": [
+      "Cook the rice according to the packet instructions.",
+      "Whisk the eggs with salt, let them set into large soft curds in half of the oil in a hot pan and remove.",
+      "Cut the tomatoes into wedges and fry in the remaining oil for 3 minutes until juicy, then add the sugar and salt.",
+      "Return the eggs to the pan, toss briefly and serve over the rice with spring onions."
+    ]
+  },
+  {
+    "id": "rec_632",
+    "title": "Okonomiyaki – Japanese Cabbage Pancake with Yoghurt-Mustard Sauce",
+    "ingredients": [
+      "Wheat flour",
+      "Eggs",
+      "Vegetable stock",
+      "White cabbage",
+      "Spring onions",
+      "Rapeseed oil",
+      "Greek yoghurt (0.2% fat)",
+      "Medium-hot mustard",
+      "Soy sauce",
+      "Nori flakes",
+      "Ginger, salt"
+    ],
+    "instructions": [
+      "Whisk the flour with the eggs and stock until smooth.",
+      "Finely shred the white cabbage and fold into the batter with the spring onions and a little ginger.",
+      "Shape the mixture into a thick pancake in the oil in a pan and cook covered over medium heat for 6 minutes per side.",
+      "Stir the yoghurt with the mustard and drizzle it over the pancake in a crisscross pattern with the soy sauce, then sprinkle with nori."
+    ]
+  },
+  {
+    "id": "rec_633",
+    "title": "Mirza Ghasemi – Persian Smoky Aubergines with Tomato, Egg and Flatbread",
+    "ingredients": [
+      "Aubergines",
+      "Tomatoes",
+      "Garlic",
+      "Eggs",
+      "Olive oil",
+      "Flatbread",
+      "Turmeric, salt, pepper"
+    ],
+    "instructions": [
+      "Char the aubergines all over on a gas flame or under the grill, peel and chop finely.",
+      "Fry the garlic in the oil until golden, add the turmeric and diced tomatoes and reduce for 5 minutes.",
+      "Stir in the aubergines and braise for 5 minutes, then season with salt and pepper.",
+      "Whisk the eggs, fold into the mixture and let them set for 2 minutes while stirring. Serve with flatbread."
+    ]
+  },
+  {
+    "id": "rec_634",
+    "title": "Dakos – Cretan Bread Salad with Tomato, Feta, Olives and Capers",
+    "ingredients": [
+      "Wholegrain bread (toasted, instead of barley rusks)",
+      "Ripe tomatoes",
+      "Feta",
+      "Black olives",
+      "Capers",
+      "Olive oil",
+      "Oregano, salt"
+    ],
+    "instructions": [
+      "Toast the bread until very crisp in a dry pan or the oven and sprinkle with a few drops of water.",
+      "Grate the tomatoes on a coarse grater, salt and leave to drain.",
+      "Cover the bread with the tomato pulp, crumble the feta over and top with olives and capers.",
+      "Drizzle with olive oil and sprinkle with oregano."
+    ]
+  },
+  {
+    "id": "rec_635",
+    "title": "Masala Omelette with Tomato, Onion, Coriander and Wholegrain Toast",
+    "ingredients": [
+      "Eggs",
+      "Tomato",
+      "Red onion",
+      "Coriander",
+      "Rapeseed oil",
+      "Wholegrain toast",
+      "Green chilli, turmeric, garam masala, salt"
+    ],
+    "instructions": [
+      "Finely chop the tomato, onion, chilli and coriander.",
+      "Whisk the eggs with the turmeric, garam masala and salt and stir in the vegetables.",
+      "Spread the mixture in the hot oil in a pan and let it set over medium heat for 3 minutes, then flip and fry for 1 more minute.",
+      "Serve with toasted wholegrain bread."
+    ]
+  },
+  {
+    "id": "rec_636",
+    "title": "Beetroot and Cherry Smoothie with Ginger and Oat Drink",
+    "ingredients": [
+      "Beetroot (pre-cooked)",
+      "Sour cherries (frozen)",
+      "Banana",
+      "Oat drink",
+      "Fine rolled oats",
+      "Ginger"
+    ],
+    "instructions": [
+      "Cut the beetroot into pieces and peel the ginger.",
+      "Blend all the ingredients for 1 minute until completely smooth.",
+      "Pour into a large glass and drink immediately."
+    ]
+  },
+  {
+    "id": "rec_637",
+    "title": "Papaya and Lime Smoothie with Soy Yoghurt, Banana and Linseed",
+    "ingredients": [
+      "Papaya",
+      "Banana",
+      "Soy yoghurt (plain)",
+      "Lime (juice)",
+      "Linseed (ground)",
+      "Cold water"
+    ],
+    "instructions": [
+      "Deseed the papaya and scoop out the flesh.",
+      "Blend with the banana, soy yoghurt, lime juice, linseed and water for 1 minute until creamy.",
+      "Pour into a glass and enjoy immediately."
+    ]
+  },
+  {
+    "id": "rec_638",
+    "title": "PB&J Smoothie with Strawberries, Peanut Butter, Banana and Skyr",
+    "ingredients": [
+      "Strawberries (frozen)",
+      "Skyr (plain)",
+      "Low-fat milk (1.5%)",
+      "Peanut butter (100% peanuts)",
+      "Banana"
+    ],
+    "instructions": [
+      "Put all the ingredients into the blender.",
+      "Blend on the highest setting for 1 minute until the smoothie is thick and creamy.",
+      "Pour into a glass and serve with a dollop of peanut butter."
+    ]
+  },
+  {
+    "id": "rec_639",
+    "title": "Pumpkin Spice Smoothie with Pumpkin, Skyr and Oats",
+    "ingredients": [
+      "Pumpkin purée (Hokkaido, cooked)",
+      "Skyr (plain)",
+      "Low-fat milk (1.5%)",
+      "Banana",
+      "Fine rolled oats",
+      "Maple syrup",
+      "Cinnamon, ginger, nutmeg"
+    ],
+    "instructions": [
+      "Steam the pumpkin pieces for 10 minutes until soft and leave to cool.",
+      "Blend with all the other ingredients for 1 minute until smooth.",
+      "Pour into a glass and dust with a little cinnamon."
+    ]
+  },
+  {
+    "id": "rec_640",
+    "title": "Pasta alla Norma – Sicilian Wholegrain Pasta with Aubergine and Ricotta",
+    "ingredients": [
+      "Wholegrain penne (uncooked)",
+      "Aubergine",
+      "Passata",
+      "Garlic",
+      "Olive oil",
+      "Ricotta",
+      "Basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the aubergine, toss with 7 g oil and roast in the oven at 220 °C for 20 minutes until golden brown.",
+      "Sweat the garlic in the remaining oil, add the passata and simmer for 10 minutes.",
+      "Cook the pasta in salted water until al dente.",
+      "Toss the pasta and aubergines with the sauce and serve with ricotta and basil."
+    ]
+  },
+  {
+    "id": "rec_641",
+    "title": "Spinach and Ricotta Gnudi with Tomato Sauce and Vegetarian Hard Cheese",
+    "ingredients": [
+      "Ricotta",
+      "Spinach leaves",
+      "Wheat flour",
+      "Egg",
+      "Vegetarian hard cheese (Parmesan-style)",
+      "Passata",
+      "Olive oil",
+      "Sage, nutmeg, salt, pepper"
+    ],
+    "instructions": [
+      "Blanch the spinach, squeeze out very well and chop finely.",
+      "Stir with the ricotta, egg, half of the cheese, flour, nutmeg and salt into a soft dough and shape into walnut-sized balls with floured hands.",
+      "Poach the gnudi in simmering salted water for 4 minutes until they rise.",
+      "Simmer the passata with oil and sage for 5 minutes and serve the gnudi with the sauce and remaining cheese."
+    ]
+  },
+  {
+    "id": "rec_642",
+    "title": "Vegetable and Lentil Lasagne with Wholegrain Sheets",
+    "ingredients": [
+      "Wholegrain lasagne sheets (uncooked)",
+      "Red lentils (uncooked)",
+      "Courgette",
+      "Carrot",
+      "Passata",
+      "Low-fat milk (1.5%)",
+      "Cornflour",
+      "Mozzarella (light)",
+      "Olive oil",
+      "Oregano, salt, pepper, nutmeg"
+    ],
+    "instructions": [
+      "Finely dice the courgette and carrot and fry in the oil for 4 minutes.",
+      "Add the lentils, passata and 100 ml water and simmer for 12 minutes into a thick sauce, seasoning with oregano, salt and pepper.",
+      "Bring the milk to the boil with the cornflour, salt and nutmeg while stirring until it thickens.",
+      "Layer the sheets, lentil sauce and white sauce in a small dish and finish with mozzarella.",
+      "Bake at 190 °C for 35 minutes and leave to rest for 5 minutes before cutting."
+    ]
+  },
+  {
+    "id": "rec_643",
+    "title": "Air Fryer Melanzane alla Parmigiana Light",
+    "ingredients": [
+      "Aubergine",
+      "Olive oil",
+      "Passata",
+      "Mozzarella (light)",
+      "Vegetarian hard cheese (Parmesan-style)",
+      "Basil",
+      "Wholegrain bread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the aubergine lengthwise into 1 cm thick slices, brush with oil and air-fry at 200 °C for 12 minutes until golden brown.",
+      "Reduce the passata with salt and basil for 5 minutes.",
+      "Layer the aubergines, sauce and mozzarella in a small ovenproof dish and finish with the hard cheese.",
+      "Bake in the air fryer at 180 °C for 10 minutes and serve with bread."
+    ]
+  },
+  {
+    "id": "rec_644",
+    "title": "Leek Quiche Light with Quark-Oil Pastry and Mountain Cheese",
+    "ingredients": [
+      "Wholewheat flour",
+      "Low-fat quark",
+      "Rapeseed oil",
+      "Leek",
+      "Eggs",
+      "Low-fat milk (1.5%)",
+      "Mountain cheese (grated)",
+      "Nutmeg, salt, pepper, baking powder"
+    ],
+    "instructions": [
+      "Knead the flour, quark, oil, a pinch of baking powder and salt into a smooth dough and line a small tart tin (approx. 16 cm) with it.",
+      "Slice the leek into fine rings and sweat in a pan for 5 minutes.",
+      "Whisk the eggs with the milk, cheese, nutmeg, salt and pepper.",
+      "Spread the leek over the pastry, pour the egg mixture over and bake at 190 °C for 30 minutes until golden brown."
+    ]
+  },
+  {
+    "id": "rec_645",
+    "title": "Air Fryer Patatas Bravas with Spicy Tomato Sauce and Yoghurt Aioli",
+    "ingredients": [
+      "Potatoes (waxy)",
+      "Olive oil",
+      "Passata",
+      "Paprika (smoked)",
+      "Greek yoghurt (0.2% fat)",
+      "Garlic",
+      "Chilli, salt"
+    ],
+    "instructions": [
+      "Cut the potatoes into 2 cm cubes and toss with 6 g oil, salt and half of the paprika.",
+      "Air-fry at 200 °C for 20 minutes until crispy, shaking in between.",
+      "Reduce the passata with the remaining oil, paprika and chilli for 5 minutes. Stir the yoghurt with garlic and salt.",
+      "Drizzle the potatoes with both sauces and serve immediately."
+    ]
+  },
+  {
+    "id": "rec_646",
+    "title": "Gazpacho Andaluz with Chickpea Croutons",
+    "ingredients": [
+      "Ripe tomatoes",
+      "Cucumber",
+      "Red pepper",
+      "Red onion",
+      "Garlic",
+      "Olive oil",
+      "Sherry vinegar",
+      "Wholegrain bread",
+      "Chickpeas (tinned, drained)",
+      "Paprika, salt"
+    ],
+    "instructions": [
+      "Roughly chop the tomatoes, cucumber, pepper, onion and garlic and blend very finely with the bread, vinegar, 8 g oil and salt.",
+      "Chill for at least 1 hour.",
+      "Pat the chickpeas dry, toss with the remaining oil and paprika and roast in a pan for 8 minutes until crispy.",
+      "Pour the gazpacho into bowls and serve with the chickpeas and a little diced cucumber."
+    ]
+  },
+  {
+    "id": "rec_647",
+    "title": "Lecsó – Hungarian Pepper and Tomato Stew with Egg and Wholegrain Bread",
+    "ingredients": [
+      "Pointed peppers (yellow and green)",
+      "Tomatoes",
+      "Onion",
+      "Rapeseed oil",
+      "Eggs",
+      "Sweet paprika",
+      "Wholegrain bread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the onion into strips and sweat in the oil for 5 minutes until translucent.",
+      "Slice the peppers into rings, add and braise for 8 minutes, then stir in the paprika.",
+      "Add the diced tomatoes and reduce for 8 minutes, seasoning with salt and pepper.",
+      "Whisk the eggs, fold in and let them set for 2 minutes. Serve with bread."
+    ]
+  },
+  {
+    "id": "rec_648",
+    "title": "Paprikás Krumpli – Hungarian Paprika Potato Stew with Soy Yoghurt",
+    "ingredients": [
+      "Potatoes",
+      "Onion",
+      "Red pepper",
+      "Tomato",
+      "Rapeseed oil",
+      "Sweet paprika",
+      "Vegetable stock",
+      "Soy yoghurt (plain)",
+      "Caraway, marjoram, salt"
+    ],
+    "instructions": [
+      "Dice the onion and sweat in the oil for 5 minutes until golden.",
+      "Take the pot off the heat and stir in the paprika and caraway.",
+      "Add the diced potatoes, pepper, tomato and stock and simmer for 20 minutes until the potatoes are soft and the sauce is thick.",
+      "Season with marjoram and salt and serve with soy yoghurt."
+    ]
+  },
+  {
+    "id": "rec_649",
+    "title": "Pierogi Ruskie – Polish Dumplings with Potato-Quark Filling and Fried Onions",
+    "ingredients": [
+      "Wheat flour",
+      "Warm water",
+      "Potatoes",
+      "Low-fat quark",
+      "Onion",
+      "Rapeseed oil",
+      "Greek yoghurt (0.2% fat)",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Knead the flour, warm water and salt into a supple dough and leave to rest for 20 minutes.",
+      "Boil and mash the potatoes. Dice the onion and fry in half of the oil until golden brown, then mix half of it with the potatoes, quark, salt and pepper.",
+      "Roll the dough out thinly, cut out circles, fill, fold into half moons and press the edges firmly together.",
+      "Boil the pierogi in salted water for 4 minutes until they rise and fry briefly in the remaining oil.",
+      "Serve with the remaining fried onions and yoghurt."
+    ]
+  },
+  {
+    "id": "rec_650",
+    "title": "Tyrolean Spinach Dumplings with Mountain Cheese and Tomato Salad",
+    "ingredients": [
+      "Dumpling bread (diced rolls)",
+      "Low-fat milk (1.5%)",
+      "Spinach leaves",
+      "Egg",
+      "Onion",
+      "Mountain cheese (grated)",
+      "Butter",
+      "Tomatoes",
+      "Chives, nutmeg, salt"
+    ],
+    "instructions": [
+      "Pour warm milk over the dumpling bread and leave to soak for 10 minutes.",
+      "Blanch the spinach, squeeze out well and chop finely. Dice the onion and sweat in the butter until translucent.",
+      "Knead the bread with the spinach, onion, egg, 15 g cheese, nutmeg and salt and shape 4 dumplings with wet hands.",
+      "Let the dumplings steep in gently simmering salted water for 15 minutes.",
+      "Sprinkle with the remaining cheese and chives and serve with tomato salad."
+    ]
+  },
+  {
+    "id": "rec_651",
+    "title": "Mushroom Goulash with Bread Dumplings",
+    "ingredients": [
+      "Button mushrooms and king oyster mushrooms",
+      "Onion",
+      "Rapeseed oil",
+      "Sweet paprika",
+      "Tomato paste",
+      "Vegetable stock",
+      "Dumpling bread (diced rolls)",
+      "Low-fat milk (1.5%)",
+      "Egg",
+      "Parsley",
+      "Caraway, marjoram, salt, pepper"
+    ],
+    "instructions": [
+      "Pour warm milk over the dumpling bread, leave to soak for 10 minutes, knead with the egg, parsley and salt and shape into 2 dumplings.",
+      "Let the dumplings steep in simmering salted water for 15 minutes.",
+      "Fry the onion in the oil until golden brown, add the mushrooms in large pieces and sear for 6 minutes.",
+      "Briefly toast the paprika and tomato paste, deglaze with stock and simmer for 10 minutes until thick, seasoning with caraway, marjoram, salt and pepper.",
+      "Serve the goulash with the dumplings."
+    ]
+  },
+  {
+    "id": "rec_652",
+    "title": "Swabian Lentils with Spaetzle (Vegetarian)",
+    "ingredients": [
+      "Alb lentils (uncooked)",
+      "Spaetzle (fresh, chilled section)",
+      "Carrot",
+      "Celeriac",
+      "Onion",
+      "Rapeseed oil",
+      "Vegetable stock",
+      "Wheat flour",
+      "Red wine vinegar",
+      "Bay leaf, salt, pepper"
+    ],
+    "instructions": [
+      "Finely dice the onion, carrot and celeriac, sweat in the oil for 4 minutes and dust with flour.",
+      "Add the lentils, bay leaf and stock and simmer for 30 minutes until the lentils are soft.",
+      "Season boldly with vinegar, salt and pepper.",
+      "Warm the spaetzle in a pan and serve with the lentils."
+    ]
+  },
+  {
+    "id": "rec_653",
+    "title": "White Asparagus with Herb Scrambled Eggs and Boiled Potatoes",
+    "ingredients": [
+      "White asparagus",
+      "Potatoes (waxy)",
+      "Eggs",
+      "Low-fat milk (1.5%)",
+      "Butter",
+      "Chives and parsley",
+      "Sugar, salt, lemon juice"
+    ],
+    "instructions": [
+      "Boil the potatoes in their skins for 20 minutes and peel.",
+      "Peel the asparagus and cook in salted water with a pinch of sugar and a little lemon juice for 12 minutes.",
+      "Whisk the eggs with the milk, herbs and salt and let them set creamily in the butter over low heat.",
+      "Arrange the asparagus with the scrambled eggs and potatoes."
+    ]
+  },
+  {
+    "id": "rec_654",
+    "title": "Frankfurt Green Sauce with Eggs and Boiled Potatoes",
+    "ingredients": [
+      "Herbs for green sauce (7 kinds)",
+      "Greek yoghurt (0.2% fat)",
+      "Sour cream (light)",
+      "Medium-hot mustard",
+      "Eggs",
+      "Potatoes",
+      "Lemon (juice)",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel the potatoes and boil in salted water for 20 minutes. Hard-boil the eggs for 9 minutes.",
+      "Wash the herbs, spin dry and chop very finely or blend with a little yoghurt.",
+      "Stir the herbs with the yoghurt, sour cream, mustard, lemon juice, salt and pepper and leave to infuse for 10 minutes.",
+      "Halve the eggs and arrange with the potatoes and green sauce."
+    ]
+  },
+  {
+    "id": "rec_655",
+    "title": "Welsh Rarebit – Grilled Cheese Toast with Mustard and Tomato Salad",
+    "ingredients": [
+      "Wholegrain toast",
+      "Mountain cheese (grated)",
+      "Low-fat milk (1.5%)",
+      "Wheat flour",
+      "Mustard",
+      "Tomatoes",
+      "Rocket",
+      "Paprika, pepper"
+    ],
+    "instructions": [
+      "Stir the milk with the flour in a small pan until smooth and bring to the boil while stirring.",
+      "Take the pan off the heat and stir in the cheese, mustard, paprika and pepper until a thick cream forms.",
+      "Toast the bread lightly, spread with the cheese cream and grill under the oven grill for 3 minutes until golden brown.",
+      "Serve with tomatoes and rocket."
+    ]
+  },
+  {
+    "id": "rec_656",
+    "title": "Cauliflower Cheese – British Cauliflower Cheese Bake with Peas",
+    "ingredients": [
+      "Cauliflower",
+      "Peas (frozen)",
+      "Low-fat milk (1.5%)",
+      "Cornflour",
+      "Mountain cheese (grated)",
+      "Mustard",
+      "Wholegrain bread",
+      "Nutmeg, salt, pepper"
+    ],
+    "instructions": [
+      "Divide the cauliflower into florets and parboil in salted water for 6 minutes, cooking the peas briefly with it.",
+      "Bring the milk to the boil with the cornflour, mustard, nutmeg and salt while stirring until the sauce thickens and stir in 25 g cheese.",
+      "Put the vegetables into a baking dish, pour over the sauce and sprinkle with the remaining cheese.",
+      "Bake at 200 °C for 20 minutes until golden brown and serve with bread."
+    ]
+  },
+  {
+    "id": "rec_657",
+    "title": "Swedish Yellow Split Pea Soup with Mustard and Crispbread",
+    "ingredients": [
+      "Yellow split peas (uncooked)",
+      "Onion",
+      "Carrot",
+      "Vegetable stock",
+      "Medium-hot mustard",
+      "Wholegrain crispbread",
+      "Marjoram, thyme, salt"
+    ],
+    "instructions": [
+      "Soak the peas overnight, drain and bring to the boil with the stock, diced onion and carrot.",
+      "Cover and simmer gently for 60 minutes until the peas fall apart, stirring occasionally.",
+      "Season with marjoram, thyme and salt.",
+      "Serve with a dollop of mustard and crispbread."
+    ]
+  },
+  {
+    "id": "rec_658",
+    "title": "Maqluba – Upside-Down Rice with Aubergine, Cauliflower and Chickpeas",
+    "ingredients": [
+      "Basmati rice (uncooked)",
+      "Aubergine",
+      "Cauliflower",
+      "Chickpeas (tinned, drained)",
+      "Tomato",
+      "Olive oil",
+      "Vegetable stock",
+      "Flaked almonds",
+      "Baharat, turmeric, salt"
+    ],
+    "instructions": [
+      "Slice the aubergine and divide the cauliflower into florets, toss with 10 g oil and roast in the oven at 220 °C for 20 minutes.",
+      "Line a small pot with tomato slices and layer the aubergines, cauliflower, chickpeas and washed rice.",
+      "Bring the stock to the boil with baharat, turmeric and salt, pour in and cook covered over low heat for 25 minutes.",
+      "Leave to rest for 10 minutes and turn the pot out onto a plate. Sprinkle with almonds toasted in the remaining oil."
+    ]
+  },
+  {
+    "id": "rec_659",
+    "title": "Ash Reshteh – Persian Herb, Bean and Noodle Soup with Yoghurt and Fried Onions",
+    "ingredients": [
+      "Kidney beans (tinned, drained)",
+      "Chickpeas (tinned, drained)",
+      "Green lentils (uncooked)",
+      "Linguine (instead of reshteh, uncooked)",
+      "Spinach",
+      "Parsley, coriander, dill",
+      "Onion",
+      "Rapeseed oil",
+      "Vegetable stock",
+      "Greek yoghurt (instead of kashk)",
+      "Turmeric, dried mint, salt"
+    ],
+    "instructions": [
+      "Pre-cook the lentils in the stock for 15 minutes, then add the beans and chickpeas.",
+      "Add the chopped herbs and spinach and simmer for 10 minutes, then cook the broken noodles in it for 10 minutes.",
+      "Fry the onion rings in the oil until golden brown and stir half of them into the soup with the turmeric.",
+      "Garnish the soup with yoghurt, the remaining fried onions and mint warmed in a little oil."
+    ]
+  },
+  {
+    "id": "rec_660",
+    "title": "Fesenjan with Aubergine and Chickpeas – Walnut and Pomegranate Stew with Rice",
+    "ingredients": [
+      "Walnuts (ground)",
+      "Pomegranate molasses",
+      "Aubergine",
+      "Chickpeas (tinned, drained)",
+      "Onion",
+      "Rapeseed oil",
+      "Basmati rice (uncooked)",
+      "Pomegranate seeds",
+      "Cinnamon, turmeric, salt"
+    ],
+    "instructions": [
+      "Toast the walnuts in a dry pot for 4 minutes, add 250 ml water and simmer covered for 30 minutes until a little oil separates.",
+      "Fry the onion in the oil until golden brown, add the diced aubergine and fry for 8 minutes.",
+      "Add the aubergine, chickpeas, pomegranate molasses, cinnamon and turmeric to the walnut sauce, reduce for 15 minutes until thick and season with salt.",
+      "Cook the rice and serve with the fesenjan and pomegranate seeds."
+    ]
+  },
+  {
+    "id": "rec_661",
+    "title": "Baingan Bharta – Smoky Aubergine Curry with Peas and Wholewheat Chapati",
+    "ingredients": [
+      "Aubergines",
+      "Tomatoes",
+      "Onion",
+      "Peas (frozen)",
+      "Rapeseed oil",
+      "Wholewheat flour (for 2 chapatis)",
+      "Ginger, garlic, garam masala, cumin, salt"
+    ],
+    "instructions": [
+      "Char the aubergines all over on a gas flame or in the oven at 230 °C, peel and mash roughly.",
+      "Fry the onion in the oil until golden brown and toast the ginger, garlic and cumin for 1 minute.",
+      "Add the diced tomatoes and peas and simmer for 6 minutes, then stir in the aubergine and garam masala and braise for 5 minutes.",
+      "Knead the flour with a little water and salt, roll out 2 thin chapatis and cook in a hot pan for 1 minute per side.",
+      "Serve the bharta with the chapatis."
+    ]
+  },
+  {
+    "id": "rec_662",
+    "title": "Malai Kofta Light – Paneer and Potato Balls in Tomato-Cashew Sauce with Rice",
+    "ingredients": [
+      "Paneer",
+      "Potatoes",
+      "Cornflour",
+      "Rapeseed oil",
+      "Passata",
+      "Cashew nuts",
+      "Onion",
+      "Greek yoghurt (0.2% fat)",
+      "Basmati rice (uncooked)",
+      "Garam masala, turmeric, ginger, salt"
+    ],
+    "instructions": [
+      "Boil and mash the potatoes, knead with grated paneer, cornflour and salt and shape into 6 balls.",
+      "Brush the balls with 4 g oil and bake in the oven at 200 °C for 18 minutes until golden brown.",
+      "Sweat the onion in the remaining oil, briefly toast the ginger and spices, add the tomatoes and cashews and simmer for 8 minutes, then blend finely and stir in the yoghurt.",
+      "Cook the rice and serve the kofta in the sauce with rice."
+    ]
+  },
+  {
+    "id": "rec_663",
+    "title": "Kadhi Pakora – Yoghurt and Gram Flour Curry with Onion Pakoras and Rice",
+    "ingredients": [
+      "Yoghurt (3.5% fat)",
+      "Gram flour",
+      "Onion",
+      "Rapeseed oil",
+      "Water",
+      "Basmati rice (uncooked)",
+      "Mustard seeds",
+      "Turmeric, cumin, fenugreek, chilli, salt"
+    ],
+    "instructions": [
+      "Stir the yoghurt with 20 g gram flour, turmeric, salt and water until smooth and simmer gently for 20 minutes while stirring.",
+      "Mix the remaining flour with finely sliced onion, chilli, salt and a little water into a thick batter, shape small pakoras and bake with 6 g oil in the oven at 220 °C for 15 minutes until crispy.",
+      "Toast the mustard seeds, cumin and fenugreek in the remaining oil and pour over the kadhi.",
+      "Place the pakoras in the kadhi and serve with rice."
+    ]
+  },
+  {
+    "id": "rec_664",
+    "title": "Bhindi Masala – Okra Curry with Tomatoes and Basmati Rice",
+    "ingredients": [
+      "Okra",
+      "Onion",
+      "Tomatoes",
+      "Rapeseed oil",
+      "Chickpeas (tinned, drained)",
+      "Basmati rice (uncooked)",
+      "Amchur, turmeric, coriander, cumin, salt"
+    ],
+    "instructions": [
+      "Wash the okra, pat very dry and cut into 2 cm pieces.",
+      "Fry the okra in 6 g oil over high heat for 8 minutes until no longer slimy and remove.",
+      "Fry the onion in the remaining oil until golden brown, add the spices and diced tomatoes and reduce for 5 minutes.",
+      "Mix in the okra and chickpeas, finish cooking for 4 minutes and serve with rice."
+    ]
+  },
+  {
+    "id": "rec_665",
+    "title": "Pav Bhaji – Spiced Vegetable Mash with Wholegrain Rolls",
+    "ingredients": [
+      "Potatoes",
+      "Cauliflower",
+      "Peas (frozen)",
+      "Pepper",
+      "Tomatoes",
+      "Onion",
+      "Butter",
+      "Wholegrain roll",
+      "Lemon (juice)",
+      "Pav bhaji masala, ginger, garlic, coriander, salt"
+    ],
+    "instructions": [
+      "Boil the potatoes, cauliflower and peas in salted water for 15 minutes until soft and drain.",
+      "Fry the onion and pepper in 5 g butter for 5 minutes, add the ginger, garlic, masala and diced tomatoes and reduce for 5 minutes.",
+      "Add the cooked vegetables, mash into a coarse, thick purée and simmer with a little water for 5 minutes.",
+      "Halve the roll, toast in the remaining butter and serve with the bhaji, coriander, raw onion and lemon."
+    ]
+  },
+  {
+    "id": "rec_666",
+    "title": "Vegetable Biryani with Cucumber Raita",
+    "ingredients": [
+      "Basmati rice (uncooked)",
+      "Cauliflower",
+      "Carrot",
+      "Peas (frozen)",
+      "Green beans",
+      "Onion",
+      "Ghee",
+      "Greek yoghurt (0.2% fat)",
+      "Cucumber",
+      "Cashew nuts",
+      "Biryani masala, saffron, mint, salt"
+    ],
+    "instructions": [
+      "Wash the rice and parboil in salted water for 7 minutes, then drain.",
+      "Fry the onion rings in the ghee until golden brown, add the vegetables, masala and 50 g yoghurt and braise for 8 minutes.",
+      "Layer the vegetables and rice in a pot, top with saffron water, mint and the fried onions and cook covered over the lowest heat for 20 minutes.",
+      "Stir the remaining yoghurt with grated cucumber and salt and serve with the toasted cashews and the biryani."
+    ]
+  },
+  {
+    "id": "rec_667",
+    "title": "Moong Dal Khichdi with Vegetables and Coriander",
+    "ingredients": [
+      "Basmati rice (uncooked)",
+      "Yellow split mung beans (moong dal)",
+      "Carrot",
+      "Peas (frozen)",
+      "Spinach",
+      "Rapeseed oil",
+      "Water",
+      "Coriander",
+      "Cumin, turmeric, ginger, salt"
+    ],
+    "instructions": [
+      "Wash the rice and dal together and soak for 15 minutes.",
+      "Toast the cumin in the oil and sweat the ginger, carrot and turmeric for 2 minutes.",
+      "Add the rice, dal, peas and water, cover and cook for 20 minutes until soft and porridge-like.",
+      "Stir in the spinach, season with salt and serve with coriander."
+    ]
+  },
+  {
+    "id": "rec_668",
+    "title": "Dhokla – Steamed Gram Flour Cake with Coriander Chutney",
+    "ingredients": [
+      "Gram flour",
+      "Soy yoghurt (plain)",
+      "Water",
+      "Lemon (juice)",
+      "Rapeseed oil",
+      "Mustard seeds",
+      "Coriander and mint",
+      "Baking powder, turmeric, ginger, green chilli, salt"
+    ],
+    "instructions": [
+      "Stir the gram flour with the soy yoghurt, water, turmeric, ginger and salt until smooth and leave to rest for 10 minutes.",
+      "Stir in the baking powder and half of the lemon juice, pour into a greased dish and steam in a steamer basket for 15 minutes.",
+      "Toast the mustard seeds and chilli in the oil, pour over the cake and cut into squares.",
+      "Blend the coriander and mint with the remaining lemon juice, salt and a little water into a chutney and serve alongside."
+    ]
+  },
+  {
+    "id": "rec_669",
+    "title": "Vegan Mapo Tofu with Shiitake and Jasmine Rice",
+    "ingredients": [
+      "Tofu (plain, silken-firm)",
+      "Shiitake",
+      "Doubanjiang (chilli bean paste)",
+      "Rapeseed oil",
+      "Vegetable stock",
+      "Cornflour",
+      "Spring onion",
+      "Jasmine rice (uncooked)",
+      "Soy sauce",
+      "Sichuan pepper, garlic, ginger"
+    ],
+    "instructions": [
+      "Cook the rice according to the packet instructions. Cut the tofu into 2 cm cubes and let it steep in lightly salted water for 2 minutes.",
+      "Finely chop the shiitake and fry in the oil for 4 minutes until browned, then toast the doubanjiang, garlic and ginger for 1 minute.",
+      "Add the stock and soy sauce, gently add the tofu and simmer for 5 minutes.",
+      "Thicken with the mixed cornflour, sprinkle with ground Sichuan pepper and spring onions and serve with rice."
+    ]
+  },
+  {
+    "id": "rec_670",
+    "title": "Jiaozi with Tofu and Napa Cabbage Filling and Soy-Vinegar Dip",
+    "ingredients": [
+      "Wheat flour",
+      "Water",
+      "Smoked tofu",
+      "Napa cabbage",
+      "Shiitake",
+      "Spring onion",
+      "Sesame oil",
+      "Soy sauce",
+      "Rice vinegar",
+      "Ginger, salt"
+    ],
+    "instructions": [
+      "Knead the flour with the water into a smooth dough and leave to rest covered for 20 minutes.",
+      "Finely chop the napa cabbage, salt it, leave for 10 minutes and squeeze out firmly. Mix with the crumbled tofu, chopped shiitake, spring onions, ginger and sesame oil.",
+      "Shape the dough into a roll, divide into 14 pieces, roll out into thin circles, fill and seal into pleated half moons.",
+      "Boil the jiaozi in simmering water for 5 minutes until they rise.",
+      "Stir the soy sauce with the rice vinegar and serve as a dip."
+    ]
+  },
+  {
+    "id": "rec_671",
+    "title": "Pad Kra Pao Tofu – Thai Basil Tofu with Fried Egg and Jasmine Rice",
+    "ingredients": [
+      "Tofu (plain)",
+      "Egg",
+      "Green beans",
+      "Rapeseed oil",
+      "Soy sauce",
+      "Vegetarian oyster sauce (mushroom-based)",
+      "Thai basil",
+      "Jasmine rice (uncooked)",
+      "Garlic, Thai chilli, sugar"
+    ],
+    "instructions": [
+      "Cook the rice according to the packet instructions. Crumble the tofu roughly by hand.",
+      "Toast the garlic and chilli in 5 g oil in the wok for 30 seconds, add the tofu and fry vigorously for 5 minutes.",
+      "Add the beans in short pieces, stir-fry with the soy sauce, mushroom sauce and a pinch of sugar for 3 minutes and fold in the basil.",
+      "Fry the egg crispy in the remaining oil and serve with the tofu and rice."
+    ]
+  },
+  {
+    "id": "rec_672",
+    "title": "Yaki Udon with Vegetables, Tofu and Sesame",
+    "ingredients": [
+      "Udon noodles (dried)",
+      "Tofu (plain)",
+      "White cabbage",
+      "Carrot",
+      "Button mushrooms",
+      "Spring onion",
+      "Rapeseed oil",
+      "Soy sauce",
+      "Sesame seeds",
+      "Ginger, sugar"
+    ],
+    "instructions": [
+      "Cook the udon according to the packet instructions and rinse under cold water.",
+      "Dice the tofu and fry in half of the oil in the wok for 5 minutes until golden brown, then remove.",
+      "Stir-fry the cabbage, carrot and mushrooms in strips in the remaining oil with ginger for 4 minutes.",
+      "Add the noodles, tofu, soy sauce and a pinch of sugar, toss for 2 minutes and sprinkle with spring onions and sesame seeds."
+    ]
+  },
+  {
+    "id": "rec_673",
+    "title": "Di San Xian with Edamame – Wok-Fried Aubergine, Potato and Pepper",
+    "ingredients": [
+      "Aubergine",
+      "Potato",
+      "Green pepper",
+      "Edamame (shelled, frozen)",
+      "Rapeseed oil",
+      "Soy sauce",
+      "Cornflour",
+      "Vegetable stock",
+      "Garlic, sugar"
+    ],
+    "instructions": [
+      "Cut the potato and aubergine into bite-sized pieces, toss with 8 g oil and air-fry at 200 °C for 15 minutes until golden brown.",
+      "Toast the garlic in the remaining oil in the wok and stir-fry the pepper and edamame for 3 minutes.",
+      "Add the potatoes and aubergine.",
+      "Stir the stock with the soy sauce, cornflour and a pinch of sugar, pour in and reduce for 1 minute until glossy."
+    ]
+  },
+  {
+    "id": "rec_674",
+    "title": "Pai Huang Gua – Chinese Smashed Cucumber Salad with Edamame and Garlic",
+    "ingredients": [
+      "Cucumber",
+      "Edamame (shelled, frozen)",
+      "Garlic",
+      "Rice vinegar",
+      "Soy sauce",
+      "Sesame oil",
+      "Sesame seeds",
+      "Chilli flakes, sugar, salt"
+    ],
+    "instructions": [
+      "Cook the edamame in salted water for 4 minutes and refresh in cold water.",
+      "Press the cucumber with the flat side of a knife, break into rough pieces, salt and leave for 5 minutes, then drain.",
+      "Finely chop the garlic and stir with the vinegar, soy sauce, sesame oil, sugar and chilli.",
+      "Mix the cucumber and edamame with the dressing and sprinkle with sesame seeds."
+    ]
+  },
+  {
+    "id": "rec_675",
+    "title": "Bánh Xèo – Vietnamese Rice Flour Crêpes with Tofu, Sprouts and Herbs",
+    "ingredients": [
+      "Rice flour",
+      "Coconut milk (light)",
+      "Water",
+      "Tofu (plain)",
+      "Mung bean sprouts",
+      "Button mushrooms",
+      "Rapeseed oil",
+      "Lettuce leaves, mint, coriander",
+      "Soy sauce",
+      "Lime (juice)",
+      "Turmeric, spring onion, salt, chilli"
+    ],
+    "instructions": [
+      "Stir the rice flour with the coconut milk, water, turmeric, salt and spring onions into a thin batter and leave to rest for 10 minutes.",
+      "Cut the tofu into strips and fry with the mushrooms in 4 g oil for 5 minutes.",
+      "Spread the remaining oil in a hot pan, pour in half of the batter thinly, put the tofu, mushrooms and sprouts on one half and cook covered for 3 minutes until crispy.",
+      "Fold the crêpe over and repeat with the second half of the batter.",
+      "Stir the soy sauce with the lime juice and chilli and serve the crêpes in lettuce leaves with herbs and the dip."
+    ]
+  },
+  {
+    "id": "rec_676",
+    "title": "Dubu Jorim – Korean Braised Tofu with Rice and Spinach Namul",
+    "ingredients": [
+      "Tofu (firm)",
+      "Rapeseed oil",
+      "Soy sauce",
+      "Gochugaru or chilli flakes",
+      "Water",
+      "Spinach",
+      "Sesame oil",
+      "Sesame seeds",
+      "Short-grain rice (uncooked)",
+      "Spring onion, garlic, sugar"
+    ],
+    "instructions": [
+      "Cook the rice according to the packet instructions. Cut the tofu into 1 cm thick slices and pat dry.",
+      "Fry the tofu in the oil for 3 minutes per side until golden brown.",
+      "Stir the soy sauce, water, chilli, garlic and a pinch of sugar, pour over the tofu and reduce for 5 minutes until glazed.",
+      "Blanch the spinach briefly, squeeze out and dress with sesame oil, sesame seeds and salt. Serve the tofu with spring onions, rice and namul."
+    ]
+  },
+  {
+    "id": "rec_677",
+    "title": "Hiyayakko – Chilled Silken Tofu with Ginger, Spring Onion and Edamame",
+    "ingredients": [
+      "Silken tofu",
+      "Edamame (shelled, frozen)",
+      "Spring onion",
+      "Ginger (grated)",
+      "Soy sauce",
+      "Sesame oil",
+      "Sesame seeds",
+      "Nori strips"
+    ],
+    "instructions": [
+      "Cook the edamame in salted water for 4 minutes and refresh in cold water.",
+      "Carefully remove the silken tofu from the pack, drain and divide into two blocks in a deep plate.",
+      "Top with ginger, spring onions, nori and sesame seeds and place the edamame alongside.",
+      "Stir the soy sauce with the sesame oil and drizzle over just before serving."
+    ]
+  },
+  {
+    "id": "rec_678",
+    "title": "Vegetarian Nasi Lemak – Coconut Rice with Egg, Peanuts, Cucumber and Tempeh Sambal",
+    "ingredients": [
+      "Jasmine rice (uncooked)",
+      "Coconut milk (light)",
+      "Egg",
+      "Tempeh",
+      "Peanuts (roasted)",
+      "Cucumber",
+      "Sambal oelek",
+      "Rapeseed oil",
+      "Onion",
+      "Pandan leaf or lemongrass, sugar, salt"
+    ],
+    "instructions": [
+      "Bring the rice to the boil with the coconut milk, 60 ml water, salt and pandan, cover and cook for 15 minutes.",
+      "Boil the egg for 7 minutes, refresh in cold water and halve.",
+      "Dice the tempeh and fry in the oil for 5 minutes until crispy, add the onion, sambal and a pinch of sugar and reduce for 3 minutes into a thick sambal.",
+      "Arrange the coconut rice with the tempeh sambal, egg, peanuts and cucumber slices."
+    ]
+  },
+  {
+    "id": "rec_679",
+    "title": "Pad See Ew Tofu – Stir-Fried Wide Rice Noodles with Broccoli and Egg",
+    "ingredients": [
+      "Wide rice noodles (dried)",
+      "Tofu (plain)",
+      "Broccoli (or gai lan)",
+      "Egg",
+      "Rapeseed oil",
+      "Soy sauce (light and dark)",
+      "Garlic, sugar, white pepper"
+    ],
+    "instructions": [
+      "Soak the rice noodles in warm water for 10 minutes and drain.",
+      "Dice the tofu and fry in half of the oil in the wok until golden brown, fry the broccoli and garlic for 3 minutes and push everything to the side.",
+      "Crack the egg into the centre, let it set briefly and break it up.",
+      "Add the noodles, remaining oil, soy sauce and a pinch of sugar and fry over high heat for 3 minutes until the noodles caramelise slightly. Serve with pepper."
+    ]
+  },
+  {
+    "id": "rec_680",
+    "title": "Bún Chay – Vietnamese Rice Noodle Salad with Lemongrass Tofu and Herbs",
+    "ingredients": [
+      "Rice vermicelli (dried)",
+      "Tofu (plain)",
+      "Lemongrass",
+      "Rapeseed oil",
+      "Lettuce, cucumber and carrot",
+      "Mint, coriander, Thai basil",
+      "Peanuts (roasted)",
+      "Soy sauce",
+      "Lime (juice)",
+      "Garlic, chilli, sugar"
+    ],
+    "instructions": [
+      "Steep the vermicelli in boiling water for 4 minutes, rinse under cold water and drain.",
+      "Slice the tofu, mix with finely chopped lemongrass and garlic and fry in the oil for 3 minutes per side until golden brown.",
+      "Stir the soy sauce with the lime juice, 2 tbsp water, sugar and chilli into a dressing.",
+      "Place the noodles on the lettuce, cucumber, carrot and herbs, top with tofu, sprinkle with peanuts and serve with the dressing."
+    ]
+  },
+  {
+    "id": "rec_681",
+    "title": "Ginataang Gulay – Filipino Squash and Bean Vegetables in Coconut Milk with Rice",
+    "ingredients": [
+      "Squash (Hokkaido)",
+      "Green beans",
+      "Tofu (plain)",
+      "Coconut milk (light)",
+      "Onion",
+      "Rapeseed oil",
+      "Jasmine rice (uncooked)",
+      "Garlic, ginger, soy sauce, salt"
+    ],
+    "instructions": [
+      "Cook the rice according to the packet instructions.",
+      "Sweat the onion, garlic and ginger in the oil for 3 minutes and fry the tofu cubes for 3 minutes.",
+      "Add the diced squash and coconut milk and simmer for 10 minutes.",
+      "Add the beans in pieces and cook for another 6 minutes, season with soy sauce and salt and serve with rice."
+    ]
+  },
+  {
+    "id": "rec_682",
+    "title": "Kottu Roti – Sri Lankan Chopped Flatbread Stir-Fry with Vegetables and Egg",
+    "ingredients": [
+      "Wheat tortilla (wholegrain, as roti)",
+      "Eggs",
+      "White cabbage",
+      "Carrot",
+      "Leek",
+      "Rapeseed oil",
+      "Curry powder, chilli, curry leaves, salt"
+    ],
+    "instructions": [
+      "Cut the flatbreads into thin strips.",
+      "Cut the cabbage, carrot and leek into strips and fry in the oil with curry leaves and curry powder over high heat for 5 minutes.",
+      "Add the eggs and let them set while stirring.",
+      "Add the bread strips and chop and mix everything with two spatulas for 3 minutes, then season with chilli and salt."
+    ]
+  },
+  {
+    "id": "rec_683",
+    "title": "Ndengu – Kenyan Mung Bean Curry with Wholewheat Chapati",
+    "ingredients": [
+      "Mung beans (uncooked)",
+      "Tomatoes",
+      "Onion",
+      "Coconut milk (light)",
+      "Rapeseed oil",
+      "Wholewheat flour (for 2 chapatis)",
+      "Coriander",
+      "Curry powder, cumin, garlic, salt"
+    ],
+    "instructions": [
+      "Boil the mung beans in plenty of water for 30 minutes until soft and drain.",
+      "Fry the onion in 5 g oil until golden, toast the garlic and spices for 1 minute, add the tomatoes and reduce for 5 minutes.",
+      "Add the beans and coconut milk and simmer for 8 minutes until creamy, then season with salt and coriander.",
+      "Knead the flour with water, salt and the remaining oil into a soft dough, roll out 2 thin chapatis and cook in a hot pan for 1 minute per side."
+    ]
+  },
+  {
+    "id": "rec_684",
+    "title": "Lentil and Mushroom Bourguignon with Mashed Potatoes",
+    "ingredients": [
+      "Beluga lentils (uncooked)",
+      "Button mushrooms",
+      "Pearl onions or shallots",
+      "Carrot",
+      "Alcohol-free red wine",
+      "Vegetable stock",
+      "Tomato paste",
+      "Olive oil",
+      "Potatoes",
+      "Low-fat milk (1.5%)",
+      "Thyme, bay leaf, salt, pepper, nutmeg"
+    ],
+    "instructions": [
+      "Halve the mushrooms and sear in the oil for 6 minutes, then fry the shallots and carrot slices for 3 minutes.",
+      "Briefly toast the tomato paste, deglaze with the alcohol-free red wine and reduce a little.",
+      "Add the lentils, stock, thyme and bay leaf, cover and braise for 30 minutes until the lentils are soft and the sauce is thick.",
+      "Boil the potatoes, mash with warm milk, salt and nutmeg and serve with the bourguignon."
+    ]
+  },
+  {
+    "id": "rec_685",
+    "title": "Vegetable Pot Pie with a Filo Lid",
+    "ingredients": [
+      "Carrot",
+      "Peas (frozen)",
+      "Button mushrooms",
+      "Potato",
+      "White beans (tinned, drained)",
+      "Low-fat milk (1.5%)",
+      "Cornflour",
+      "Filo pastry",
+      "Butter",
+      "Thyme, salt, pepper"
+    ],
+    "instructions": [
+      "Dice the potato and carrot and fry with the mushrooms in a pan with 3 g butter for 6 minutes.",
+      "Stir the milk with the cornflour, pour in and bring to the boil while stirring until the sauce thickens. Stir in the peas, beans, thyme, salt and pepper.",
+      "Put the filling into an ovenproof dish, loosely crumple the filo sheets on top and brush with the remaining melted butter.",
+      "Bake at 200 °C for 20 minutes until the lid is golden brown and crisp."
+    ]
+  },
+  {
+    "id": "rec_686",
+    "title": "Khachapuri Adjaruli Light – Georgian Cheese Bread Boat with Egg",
+    "ingredients": [
+      "Wheat flour",
+      "Water (lukewarm)",
+      "Mozzarella (light)",
+      "Feta",
+      "Egg",
+      "Butter",
+      "Dried yeast, salt, sugar"
+    ],
+    "instructions": [
+      "Knead the flour with the water, yeast, salt and a pinch of sugar into a soft dough and leave to rise for 40 minutes.",
+      "Roll the dough into an oval, roll in the long sides and twist the ends together into a boat.",
+      "Fill with grated mozzarella and crumbled feta and bake at 230 °C for 12 minutes.",
+      "Place the egg yolk in the centre, bake for another 2 minutes and serve with the butter."
+    ]
+  },
+  {
+    "id": "rec_687",
+    "title": "Papa a la Huancaína – Peruvian Potatoes with Cheese-Chilli Sauce and Egg",
+    "ingredients": [
+      "Potatoes (waxy)",
+      "Queso fresco (or mild feta)",
+      "Low-fat milk (1.5%)",
+      "Yellow pepper (instead of ají amarillo)",
+      "Salted crackers (or rusks)",
+      "Egg",
+      "Black olives",
+      "Lettuce leaves",
+      "Chilli, garlic, salt"
+    ],
+    "instructions": [
+      "Boil the potatoes in salted water for 20 minutes, peel and slice. Hard-boil the egg for 9 minutes.",
+      "Blend the pepper, cheese, milk, crackers, chilli and garlic into a smooth yellow sauce and season with salt.",
+      "Arrange the potatoes on lettuce leaves and pour the sauce over them.",
+      "Garnish with egg quarters and olives."
+    ]
+  },
+  {
+    "id": "rec_688",
+    "title": "Sopa de Fideo – Mexican Tomato Noodle Soup with Beans and Avocado",
+    "ingredients": [
+      "Vermicelli noodles (uncooked)",
+      "Passata",
+      "Vegetable stock",
+      "Black beans (tinned, drained)",
+      "Onion",
+      "Rapeseed oil",
+      "Avocado",
+      "Queso fresco (or mild feta)",
+      "Garlic, cumin, coriander, lime, salt"
+    ],
+    "instructions": [
+      "Toast the vermicelli in the oil for 3 minutes while stirring until golden brown.",
+      "Add the chopped onion and garlic and sweat for 2 minutes.",
+      "Add the passata, stock, cumin and beans and simmer for 8 minutes until the noodles are soft.",
+      "Serve with diced avocado, crumbled cheese, coriander and lime."
+    ]
+  },
+  {
+    "id": "rec_689",
+    "title": "Sopa de Quinua – Andean Quinoa Vegetable Soup with Cheese",
+    "ingredients": [
+      "Quinoa (uncooked)",
+      "Potato",
+      "Carrot",
+      "Peas (frozen)",
+      "Onion",
+      "Olive oil",
+      "Vegetable stock",
+      "Queso fresco (or mild feta)",
+      "Cumin, oregano, coriander, salt"
+    ],
+    "instructions": [
+      "Wash the quinoa thoroughly.",
+      "Sweat the onion in the oil until translucent and fry the carrot, diced potato and cumin for 2 minutes.",
+      "Add the stock and quinoa and simmer for 15 minutes, then cook the peas for 5 minutes.",
+      "Season with oregano and salt and serve with crumbled cheese and coriander."
+    ]
+  },
+  {
+    "id": "rec_690",
+    "title": "Locro de Papa – Ecuadorian Potato and Cheese Soup with Avocado",
+    "ingredients": [
+      "Potatoes (floury)",
+      "Onion",
+      "Low-fat milk (1.5%)",
+      "Vegetable stock",
+      "Queso fresco (or mild feta)",
+      "Avocado",
+      "Rapeseed oil",
+      "Cumin, achiote or paprika, salt"
+    ],
+    "instructions": [
+      "Sweat the onion in the oil with the cumin and achiote for 3 minutes.",
+      "Add the diced potatoes and stock and simmer for 20 minutes, then mash a third of the potatoes.",
+      "Add the milk, heat through and stir in 30 g cheese, then season with salt.",
+      "Serve with avocado slices and the remaining cheese."
+    ]
+  },
+  {
+    "id": "rec_691",
+    "title": "Causa Limeña – Peruvian Potato-Lime Stack with Avocado and Egg",
+    "ingredients": [
+      "Potatoes (floury)",
+      "Lime (juice)",
+      "Rapeseed oil",
+      "Avocado",
+      "Egg",
+      "Chickpeas (tinned, drained)",
+      "Greek yoghurt (0.2% fat)",
+      "Red onion",
+      "Ají amarillo paste or turmeric and chilli, salt"
+    ],
+    "instructions": [
+      "Boil, peel and press the potatoes while still warm. Knead with the lime juice, oil, ají paste and salt into a smooth dough.",
+      "Roughly mash the chickpeas and mix with the yoghurt, chopped onion and salt. Hard-boil the egg for 9 minutes.",
+      "Press half of the potato mixture into a serving ring, layer in the chickpea cream and avocado slices and finish with the remaining potato mixture.",
+      "Lift off the ring and garnish with egg slices."
+    ]
+  },
+  {
+    "id": "rec_692",
+    "title": "Sopa Negra – Costa Rican Black Bean Soup with Egg",
+    "ingredients": [
+      "Black beans (tinned, drained)",
+      "Onion",
+      "Pepper",
+      "Vegetable stock",
+      "Egg",
+      "Rapeseed oil",
+      "Coriander",
+      "Garlic, cumin, salt"
+    ],
+    "instructions": [
+      "Dice the onion, pepper and garlic and sweat in the oil for 5 minutes.",
+      "Add the beans, stock and cumin and simmer for 15 minutes, then blend a third of the soup and return it.",
+      "Boil the egg for 7 minutes, peel and halve.",
+      "Serve the soup with the egg and coriander."
+    ]
+  },
+  {
+    "id": "rec_693",
+    "title": "Enchiladas with Sweet Potato and Bean Filling and Red Sauce",
+    "ingredients": [
+      "Corn tortillas",
+      "Sweet potato",
+      "Kidney beans (tinned, drained)",
+      "Spinach leaves",
+      "Passata",
+      "Onion",
+      "Rapeseed oil",
+      "Light cheese (grated)",
+      "Greek yoghurt (0.2% fat)",
+      "Cumin, chipotle, oregano, salt"
+    ],
+    "instructions": [
+      "Dice the sweet potato and roast in the oven at 210 °C for 20 minutes until soft, then mash roughly with the beans, cumin and salt and mix in the chopped spinach.",
+      "Sweat the onion in the oil until translucent, add the passata, chipotle and oregano and simmer for 5 minutes.",
+      "Fill the tortillas, roll up and place in a dish, pour the sauce over and sprinkle with cheese.",
+      "Bake at 200 °C for 15 minutes and serve with yoghurt."
+    ]
+  },
+  {
+    "id": "rec_694",
+    "title": "Tlayuda – Crispy Oaxacan Tortilla with Bean Purée, Cheese and Avocado",
+    "ingredients": [
+      "Wholegrain wheat tortilla (large)",
+      "Black beans (tinned, drained)",
+      "Mozzarella (light)",
+      "White cabbage",
+      "Tomato",
+      "Avocado",
+      "Salsa (hot)",
+      "Cumin, garlic, lime, salt"
+    ],
+    "instructions": [
+      "Blend the beans with cumin, garlic, salt and a little water into a smooth purée.",
+      "Toast the tortilla in a pan or the oven for 3 minutes until crispy.",
+      "Spread with the bean purée, sprinkle with mozzarella and grill for 3 minutes until the cheese melts.",
+      "Top with shredded cabbage, diced tomato, avocado, salsa and lime."
+    ]
+  },
+  {
+    "id": "rec_695",
+    "title": "Couscous aux Sept Légumes – Moroccan Seven-Vegetable Couscous with Chickpeas",
+    "ingredients": [
+      "Couscous (wholegrain, uncooked)",
+      "Chickpeas (tinned, drained)",
+      "Carrot",
+      "Courgette",
+      "Squash",
+      "White cabbage",
+      "Swede",
+      "Tomato",
+      "Onion",
+      "Olive oil",
+      "Vegetable stock",
+      "Ras el hanout, turmeric, ginger, coriander, salt"
+    ],
+    "instructions": [
+      "Sweat the onion and tomato in the oil with ras el hanout, turmeric and ginger for 4 minutes.",
+      "Add the stock, carrot, swede and cabbage and simmer for 15 minutes, then cook the squash, courgette and chickpeas for 10 minutes.",
+      "Pour 90 ml hot stock from the pot over the couscous, leave to swell for 5 minutes and fluff up.",
+      "Mound the couscous, arrange the vegetables on top, drizzle with stock and sprinkle with coriander."
+    ]
+  },
+  {
+    "id": "rec_696",
+    "title": "Lablabi – Tunisian Chickpea Soup with Egg, Cumin and Harissa",
+    "ingredients": [
+      "Chickpeas (tinned, drained)",
+      "Vegetable stock",
+      "Garlic",
+      "Egg",
+      "Wholegrain bread (day-old)",
+      "Olive oil",
+      "Harissa",
+      "Lemon (juice)",
+      "Cumin, capers, salt"
+    ],
+    "instructions": [
+      "Simmer the chickpeas with the stock, garlic and cumin for 15 minutes.",
+      "Boil the egg for 6 minutes until soft and peel.",
+      "Place the bread in pieces in a deep bowl and pour the hot soup over it.",
+      "Break open the egg, add the harissa, olive oil, lemon juice and a pinch of cumin and stir everything together before eating."
+    ]
+  },
+  {
+    "id": "rec_697",
+    "title": "Mechouia – Tunisian Grilled Vegetable Salad with Egg and Capers",
+    "ingredients": [
+      "Peppers (red and green)",
+      "Tomatoes",
+      "Onion",
+      "Garlic",
+      "Olive oil",
+      "Egg",
+      "Capers",
+      "Wholegrain bread",
+      "Caraway, coriander, lemon, salt"
+    ],
+    "instructions": [
+      "Char the peppers, tomatoes and onion all over under the oven grill or on the grill and leave covered for 10 minutes.",
+      "Skin and deseed the vegetables and chop finely with the garlic.",
+      "Season with olive oil, caraway, coriander, lemon and salt.",
+      "Hard-boil the egg for 9 minutes and serve the salad with egg quarters, capers and bread."
+    ]
+  },
+  {
+    "id": "rec_698",
+    "title": "Spaghetti Aglio, Olio e Peperoncino with Cherry Tomatoes, Rocket and White Beans",
+    "ingredients": [
+      "Wholegrain spaghetti (uncooked)",
+      "Cherry tomatoes",
+      "Rocket",
+      "White beans (tinned, drained)",
+      "Garlic",
+      "Olive oil",
+      "Vegetarian hard cheese (Parmesan-style)",
+      "Parsley, chilli flakes, lemon zest, salt"
+    ],
+    "instructions": [
+      "Cook the spaghetti in salted water until al dente and reserve a little pasta water.",
+      "Fry the sliced garlic in the oil over medium heat until pale golden and add the chilli flakes.",
+      "Toss the halved cherry tomatoes and beans in for 2 minutes, then mix in the pasta and a splash of pasta water.",
+      "Fold in the rocket and serve with parsley, lemon zest and hard cheese."
+    ]
+  },
+  {
+    "id": "rec_699",
+    "title": "Pasta Primavera with Asparagus, Peas and Courgette",
+    "ingredients": [
+      "Wholegrain penne (uncooked)",
+      "Green asparagus",
+      "Peas (frozen)",
+      "Courgette",
+      "Cream cheese (light)",
+      "Olive oil",
+      "Vegetarian hard cheese (Parmesan-style)",
+      "Lemon, basil, salt, pepper"
+    ],
+    "instructions": [
+      "Cook the pasta in salted water until al dente and reserve 80 ml pasta water.",
+      "Cut the asparagus into pieces and the courgette into half moons and fry in the oil for 5 minutes, cooking the peas for 2 minutes.",
+      "Stir in the cream cheese with the pasta water until a light sauce forms.",
+      "Mix in the pasta, season with lemon, basil, salt and pepper and serve with hard cheese."
+    ]
+  },
+  {
+    "id": "rec_700",
+    "title": "One-Pot Orzo with Tomatoes, Spinach and Feta",
+    "ingredients": [
+      "Orzo (kritharaki, uncooked)",
+      "Chickpeas (tinned, drained)",
+      "Cherry tomatoes",
+      "Spinach leaves",
+      "Vegetable stock",
+      "Feta",
+      "Olive oil",
+      "Garlic, oregano, lemon, salt"
+    ],
+    "instructions": [
+      "Sweat the garlic in the oil, add the orzo and toast for 1 minute.",
+      "Add the halved tomatoes, chickpeas and stock and simmer for 10 minutes, stirring occasionally, until the liquid is almost absorbed.",
+      "Fold in the spinach and let it wilt.",
+      "Season with oregano and lemon and serve with crumbled feta."
+    ]
+  },
+  {
+    "id": "rec_701",
+    "title": "High-Protein Lentil Pasta with Creamy Cottage Cheese and Tomato Sauce",
+    "ingredients": [
+      "Red lentil pasta (uncooked)",
+      "Cottage cheese",
+      "Passata",
+      "Spinach leaves",
+      "Garlic",
+      "Olive oil",
+      "Vegetarian hard cheese (Parmesan-style)",
+      "Basil, chilli, salt"
+    ],
+    "instructions": [
+      "Cook the lentil pasta according to the packet instructions until al dente.",
+      "Blend the cottage cheese with the passata, garlic, basil and salt until smooth.",
+      "Warm the sauce gently in the oil in a pan and let the spinach wilt, without boiling.",
+      "Mix in the pasta and serve with hard cheese and chilli."
+    ]
+  },
+  {
+    "id": "rec_702",
+    "title": "Protein Bagel from Skyr Dough with Cream Cheese, Cucumber and Egg",
+    "ingredients": [
+      "Wholewheat flour",
+      "Skyr (plain)",
+      "Egg",
+      "Cream cheese (light)",
+      "Cucumber",
+      "Sesame seeds",
+      "Baking powder, salt, chives"
+    ],
+    "instructions": [
+      "Knead the flour with the skyr, a pinch of baking powder and salt into a smooth dough.",
+      "Divide the dough into 2 pieces, roll into ropes and close into rings, brush with a little beaten egg and sprinkle with sesame seeds.",
+      "Bake at 190 °C for 22 minutes until golden brown. Fry the remaining egg in a pan as a fried egg.",
+      "Halve the bagels, spread with cream cheese and top with cucumber slices, egg and chives."
+    ]
+  },
+  {
+    "id": "rec_703",
+    "title": "Air Fryer Cottage Cheese Chips with Paprika and Vegetable Sticks",
+    "ingredients": [
+      "Cottage cheese",
+      "Vegetarian hard cheese (Parmesan-style)",
+      "Carrot",
+      "Cucumber",
+      "Pepper",
+      "Paprika, garlic powder, pepper"
+    ],
+    "instructions": [
+      "Drain the cottage cheese well and mash finely with a fork, then stir in the hard cheese and spices.",
+      "Place small mounds well spaced on baking paper in the air fryer basket and press flat.",
+      "Bake at 190 °C for 12 to 15 minutes until golden brown and crisp, then leave to cool on the paper.",
+      "Serve with vegetable sticks."
+    ]
+  },
+  {
+    "id": "rec_704",
+    "title": "Air Fryer Arancini with a Pea-Mozzarella Centre and Tomato Sauce",
+    "ingredients": [
+      "Risotto rice (uncooked)",
+      "Vegetable stock",
+      "Peas (frozen)",
+      "Mozzarella (light)",
+      "Vegetarian hard cheese (Parmesan-style)",
+      "Panko",
+      "Egg",
+      "Rapeseed oil",
+      "Passata",
+      "Saffron, basil, salt"
+    ],
+    "instructions": [
+      "Cook the rice with the stock and saffron for 18 minutes while stirring until creamy, stir in the hard cheese and leave to cool completely.",
+      "Divide the rice into 4 portions, enclose a cube of mozzarella and a few peas in each and shape into balls.",
+      "Roll the balls in beaten egg and panko, spray with oil and bake in the air fryer at 200 °C for 12 minutes until golden brown.",
+      "Simmer the passata with basil and salt for 5 minutes and serve as a dip."
+    ]
+  },
+  {
+    "id": "rec_705",
+    "title": "Air Fryer Polenta Fries with Rosemary and Yoghurt Dip",
+    "ingredients": [
+      "Polenta (cornmeal)",
+      "Vegetable stock",
+      "Vegetarian hard cheese (Parmesan-style)",
+      "Olive oil",
+      "Greek yoghurt (0.2% fat)",
+      "Rosemary, garlic, salt"
+    ],
+    "instructions": [
+      "Stir the polenta into boiling stock and cook for 5 minutes while stirring until thick, then stir in the hard cheese and chopped rosemary.",
+      "Spread the mixture 1 cm thick in a dish and leave to set for 1 hour.",
+      "Cut into sticks, brush with oil and bake in the air fryer at 200 °C for 15 minutes until crisp.",
+      "Stir the yoghurt with garlic and salt and serve as a dip."
+    ]
+  },
+  {
+    "id": "rec_706",
+    "title": "Light Air Fryer Mozzarella Sticks with Marinara",
+    "ingredients": [
+      "Mozzarella sticks (light, block cheese)",
+      "Panko",
+      "Egg",
+      "Wheat flour",
+      "Passata",
+      "Oregano, garlic, salt"
+    ],
+    "instructions": [
+      "Cut the mozzarella into 6 sticks and freeze for 30 minutes.",
+      "Roll the sticks one after another in flour, egg and oregano-seasoned panko, repeating egg and panko for a thicker crust.",
+      "Bake in the air fryer at 200 °C for 6 minutes until golden brown and the cheese is soft.",
+      "Simmer the passata with garlic, oregano and salt for 5 minutes and serve as a dip."
+    ]
+  },
+  {
+    "id": "rec_707",
+    "title": "Air Fryer Rice Paper Spring Rolls with Tofu and Vegetables",
+    "ingredients": [
+      "Rice paper",
+      "Smoked tofu",
+      "White cabbage",
+      "Carrot",
+      "Glass noodles (dried)",
+      "Rapeseed oil",
+      "Soy sauce",
+      "Sweet chilli sauce",
+      "Ginger, garlic"
+    ],
+    "instructions": [
+      "Soak the glass noodles in hot water for 5 minutes and chop.",
+      "Crumble the tofu and mix with finely shredded cabbage, carrot, noodles, soy sauce, ginger and garlic.",
+      "Briefly dip the rice paper in water, add the filling, fold in the sides and roll up tightly.",
+      "Brush the rolls with oil and bake in the air fryer at 200 °C for 12 minutes until crisp, turning once. Serve with sweet chilli sauce."
+    ]
+  },
+  {
+    "id": "rec_708",
+    "title": "Air Fryer Bean and Cheese Taquitos with Salsa",
+    "ingredients": [
+      "Corn tortillas",
+      "Pinto beans or kidney beans (tinned, drained)",
+      "Light cheese (grated)",
+      "Rapeseed oil",
+      "Tomato",
+      "Greek yoghurt (0.2% fat)",
+      "Cumin, chilli, coriander, lime, salt"
+    ],
+    "instructions": [
+      "Roughly mash the beans with cumin, chilli and salt and mix in the cheese.",
+      "Briefly warm the tortillas in a pan so they become pliable, top with the filling and roll up tightly.",
+      "Place seam side down in the air fryer, brush with oil and bake at 200 °C for 8 minutes until crisp.",
+      "Chop the tomato with coriander, lime and salt into a salsa and serve with yoghurt alongside the taquitos."
+    ]
+  },
+  {
+    "id": "rec_709",
+    "title": "Air Fryer Squash Wedges with Feta, Chickpeas and Honey-Thyme",
+    "ingredients": [
+      "Hokkaido squash",
+      "Chickpeas (tinned, drained)",
+      "Feta",
+      "Olive oil",
+      "Honey",
+      "Pumpkin seeds",
+      "Rocket",
+      "Thyme, chilli flakes, salt"
+    ],
+    "instructions": [
+      "Deseed the squash and cut into wedges, pat the chickpeas dry.",
+      "Mix both with oil, thyme, chilli and salt and roast in the air fryer at 200 °C for 18 minutes, shaking after 10 minutes.",
+      "Crumble the feta over the hot wedges and drizzle with honey.",
+      "Arrange on rocket and sprinkle with pumpkin seeds."
+    ]
+  },
+  {
+    "id": "rec_710",
+    "title": "Pan con Tomate with Manchego, Egg and Olives",
+    "ingredients": [
+      "Sourdough bread",
+      "Ripe tomato",
+      "Garlic",
+      "Olive oil",
+      "Manchego (or mountain cheese)",
+      "Egg",
+      "Green olives",
+      "Sea salt"
+    ],
+    "instructions": [
+      "Boil the egg for 8 minutes, refresh in cold water and slice.",
+      "Toast the bread and rub with the halved garlic clove.",
+      "Grate the tomato, spread the pulp on the bread, drizzle with olive oil and season with salt.",
+      "Serve with cheese slices, egg and olives."
+    ]
+  },
+  {
+    "id": "rec_711",
+    "title": "Fibermaxxing Wrap with Beans, Vegetables, Avocado and Flaxseed",
+    "ingredients": [
+      "Wholegrain wrap",
+      "Black beans (tinned, drained)",
+      "Hummus",
+      "Red cabbage",
+      "Carrot",
+      "Avocado",
+      "Flaxseed (ground)",
+      "Spinach leaves",
+      "Lime, cumin, salt"
+    ],
+    "instructions": [
+      "Roughly mash the beans with cumin, lime juice and salt.",
+      "Finely grate the red cabbage and carrot.",
+      "Spread the wrap with hummus, top with beans, spinach, cabbage, carrot and avocado slices and sprinkle with flaxseed.",
+      "Roll up tightly, halve and serve."
+    ]
+  },
+  {
+    "id": "rec_712",
+    "title": "Fibermaxxing Barley Soup with Beans, Kale and Vegetables",
+    "ingredients": [
+      "Pearl barley (uncooked)",
+      "Borlotti beans (tinned, drained)",
+      "Kale",
+      "Carrot",
+      "Celeriac",
+      "Onion",
+      "Passata",
+      "Olive oil",
+      "Vegetable stock",
+      "Thyme, bay leaf, salt, pepper"
+    ],
+    "instructions": [
+      "Dice the onion, carrot and celeriac and sweat in the oil for 5 minutes.",
+      "Add the barley, passata, stock, thyme and bay leaf and simmer for 30 minutes.",
+      "Add the beans and torn kale and cook for another 10 minutes.",
+      "Season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_713",
+    "title": "Frozen Yoghurt Bark with Berries, Pistachios and Dark Chocolate",
+    "ingredients": [
+      "Greek yoghurt (2% fat)",
+      "Honey",
+      "Berries (raspberries, blueberries)",
+      "Pistachios",
+      "Dark chocolate (70%)",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Stir the yoghurt with honey and vanilla until smooth and spread about 1 cm thick on a board lined with baking paper.",
+      "Scatter the berries, chopped pistachios and shaved chocolate on top and press in lightly.",
+      "Freeze for at least 3 hours.",
+      "Break into irregular pieces and serve immediately."
+    ]
+  },
+  {
+    "id": "rec_714",
+    "title": "Matcha Coconut Ice Lollies with Soy Yoghurt",
+    "ingredients": [
+      "Coconut milk (light)",
+      "Soy yoghurt (plain)",
+      "Matcha powder",
+      "Maple syrup",
+      "Desiccated coconut"
+    ],
+    "instructions": [
+      "Blend the coconut milk, soy yoghurt, matcha and maple syrup until smooth.",
+      "Pour into 3 ice lolly moulds, insert the sticks and freeze for at least 5 hours.",
+      "Briefly hold the moulds under warm water and release the lollies.",
+      "Serve sprinkled with desiccated coconut."
+    ]
+  },
+  {
+    "id": "rec_715",
+    "title": "Air Fryer Churros with Cinnamon Sugar and Chocolate Dip",
+    "ingredients": [
+      "Wheat flour",
+      "Water",
+      "Butter",
+      "Sugar",
+      "Low-fat milk (1.5%)",
+      "Dark chocolate (70%)",
+      "Cinnamon, salt"
+    ],
+    "instructions": [
+      "Bring the water to the boil with the butter and salt, add the flour all at once and stir until a smooth ball comes away from the bottom of the pan.",
+      "Fill the dough into a piping bag with a star nozzle and pipe 15 cm long strips onto baking paper in the air fryer.",
+      "Bake at 190 °C for 12 minutes until golden brown and immediately roll in sugar with cinnamon.",
+      "Warm the milk, melt the chocolate in it and serve as a dip."
+    ]
+  },
+  {
+    "id": "rec_716",
+    "title": "Light Pavlova with Skyr Cream and Berries",
+    "ingredients": [
+      "Egg whites",
+      "Sugar",
+      "Cornflour",
+      "Skyr (plain)",
+      "Maple syrup",
+      "Berries (strawberries, raspberries, blueberries)",
+      "Lemon juice, vanilla"
+    ],
+    "instructions": [
+      "Beat the egg whites until stiff, slowly sprinkle in the sugar and keep beating until glossy, then fold in the cornflour and a few drops of lemon juice.",
+      "Shape into 2 nests on baking paper and dry at 120 °C for 75 minutes, then leave to cool in the switched-off oven.",
+      "Stir the skyr with maple syrup and vanilla until smooth.",
+      "Fill the nests with the skyr cream and berries and serve immediately."
+    ]
+  },
+  {
+    "id": "rec_717",
+    "title": "Light Black Forest Cherry Dessert in a Glass (Alcohol-Free)",
+    "ingredients": [
+      "Sour cherries (jar, drained)",
+      "Low-fat quark",
+      "Greek yoghurt (0.2% fat)",
+      "Cocoa powder (low-fat)",
+      "Ladyfingers",
+      "Maple syrup",
+      "Cornflour",
+      "Dark chocolate (70%)",
+      "Vanilla, cinnamon"
+    ],
+    "instructions": [
+      "Bring the cherries to the boil with 40 ml juice and cinnamon, thicken with the blended cornflour and leave to cool.",
+      "Stir the quark with yoghurt, maple syrup and vanilla until smooth.",
+      "Crumble the ladyfingers, mix with cocoa and place in a glass as the base.",
+      "Layer the cherries and quark cream alternately and finish with shaved chocolate and a cherry."
+    ]
+  },
+  {
+    "id": "rec_718",
+    "title": "Pan-Fried Feta Egg Wrap with Spinach and Tomato",
+    "ingredients": [
+      "Eggs",
+      "Wholegrain wrap",
+      "Feta",
+      "Spinach leaves",
+      "Tomato",
+      "Rapeseed oil",
+      "Chilli flakes, oregano, pepper"
+    ],
+    "instructions": [
+      "Beat the eggs and spread them in a pan in the oil over medium heat.",
+      "Immediately place the wrap on the still-runny egg, press lightly and let set for 2 minutes, then flip.",
+      "Top one half with spinach, diced tomato and crumbled feta and season with chilli and oregano.",
+      "Fold over and fry for another 1 minute until the wrap is crisp, then halve."
+    ]
+  },
+  {
+    "id": "rec_719",
+    "title": "Smashed Chickpea Sandwich with Dill, Cucumber and Mustard",
+    "ingredients": [
+      "Wholegrain bread",
+      "Chickpeas (tinned, drained)",
+      "Greek yoghurt (0.2% fat)",
+      "Mustard",
+      "Cucumber",
+      "Red onion",
+      "Lettuce",
+      "Dill, lemon, salt, pepper"
+    ],
+    "instructions": [
+      "Roughly mash the chickpeas with a fork.",
+      "Mix with yoghurt, mustard, chopped dill, finely diced onion, lemon, salt and pepper.",
+      "Toast the bread and top with lettuce, the chickpea smash and cucumber slices.",
+      "Close and cut in half diagonally."
+    ]
+  },
+  {
+    "id": "rec_720",
+    "title": "Aloo Chana Chaat – Indian Chickpea and Potato Street Salad with Pomegranate",
+    "ingredients": [
+      "Chickpeas (tinned, drained)",
+      "Potato (waxy)",
+      "Tomato",
+      "Cucumber",
+      "Red onion",
+      "Pomegranate seeds",
+      "Greek yoghurt (0.2% fat)",
+      "Tamarind paste",
+      "Rapeseed oil",
+      "Coriander",
+      "Chaat masala, cumin, chilli, lime, salt"
+    ],
+    "instructions": [
+      "Boil the potato in its skin for 20 minutes, peel and dice. Finely dice the tomato, cucumber and onion.",
+      "Mix with the potato, chickpeas, oil, pomegranate seeds, coriander, chaat masala, cumin, chilli, lime and salt.",
+      "Stir the tamarind paste with 1 tbsp water.",
+      "Serve the chaat drizzled with yoghurt and tamarind sauce."
+    ]
+  },
+  {
+    "id": "rec_721",
+    "title": "Tamago Sando – Japanese Egg Salad Sandwich with Yoghurt",
+    "ingredients": [
+      "Sandwich bread (wholegrain)",
+      "Eggs",
+      "Greek yoghurt (0.2% fat)",
+      "Mustard",
+      "Chives",
+      "Salt, white pepper, sugar"
+    ],
+    "instructions": [
+      "Hard-boil the eggs for 10 minutes, refresh in cold water and peel.",
+      "Finely mash the eggs with a fork and stir with yoghurt, mustard, chives, salt, pepper and a pinch of sugar until creamy.",
+      "Spread the egg salad thickly on one slice of bread and cover with the second slice.",
+      "Press lightly, trim the crusts if desired and halve."
+    ]
+  },
+  {
+    "id": "rec_722",
+    "title": "Kimchi Fried Rice with Tofu and Fried Egg",
+    "ingredients": [
+      "Brown rice (uncooked, cooked the day before)",
+      "Kimchi (vegan)",
+      "Tofu (plain)",
+      "Egg",
+      "Rapeseed oil",
+      "Gochujang",
+      "Sesame oil",
+      "Spring onion, sesame seeds, nori"
+    ],
+    "instructions": [
+      "Dice the tofu and fry in half of the oil for 4 minutes.",
+      "Add the chopped kimchi and gochujang and fry for 2 minutes.",
+      "Add the rice and fry over high heat for 4 minutes while turning, then season with sesame oil.",
+      "Fry the egg in the remaining oil, place on the rice and sprinkle with spring onions, sesame seeds and nori."
+    ]
+  },
+  {
+    "id": "rec_723",
+    "title": "Light Dal Makhani – Creamy Black Lentils with Kidney Beans and Rice",
+    "ingredients": [
+      "Urad lentils (whole, uncooked)",
+      "Kidney beans (tinned, drained)",
+      "Passata",
+      "Onion",
+      "Butter",
+      "Greek yoghurt (0.2% fat)",
+      "Basmati rice (uncooked)",
+      "Ginger, garlic, garam masala, cumin, chilli, salt"
+    ],
+    "instructions": [
+      "Soak the urad lentils overnight and boil in fresh water for 45 minutes until soft.",
+      "Fry the onion in the butter until golden brown and toast the ginger, garlic and spices for 1 minute.",
+      "Add the passata, lentils and kidney beans and reduce over low heat for 20 minutes until creamy, mashing some of the lentils.",
+      "Stir in the yoghurt and serve with rice."
+    ]
+  },
+  {
+    "id": "rec_724",
+    "title": "Squash and Ricotta Cannelloni with Sage and Tomato Sauce",
+    "ingredients": [
+      "Cannelloni (uncooked)",
+      "Hokkaido squash",
+      "Ricotta",
+      "Spinach leaves",
+      "Passata",
+      "Mozzarella (light)",
+      "Olive oil",
+      "Sage, nutmeg, salt, pepper"
+    ],
+    "instructions": [
+      "Dice the squash and steam for 12 minutes until soft, mash and mix with ricotta, chopped spinach, nutmeg, salt and pepper.",
+      "Fill the mixture into a piping bag and fill the uncooked cannelloni with it.",
+      "Put half of the passata into a dish, place the cannelloni on top and cover with the remaining sauce.",
+      "Top with mozzarella, sage and oil and bake covered at 190 °C for 30 minutes, then uncovered for 10 minutes."
+    ]
+  },
+  {
+    "id": "rec_725",
+    "title": "Porotos Granados – Chilean Bean, Squash and Corn Stew with Basil",
+    "ingredients": [
+      "White beans (tinned, drained)",
+      "Squash",
+      "Sweetcorn (frozen)",
+      "Onion",
+      "Pepper",
+      "Olive oil",
+      "Vegetable stock",
+      "Basil",
+      "Paprika, oregano, salt"
+    ],
+    "instructions": [
+      "Dice the onion and pepper and sweat in the oil with paprika for 5 minutes.",
+      "Add the diced squash and stock and simmer for 15 minutes until the squash falls apart and thickens the stock.",
+      "Add the beans and sweetcorn and cook for another 8 minutes.",
+      "Season with oregano and salt and stir in plenty of fresh basil."
+    ]
+  },
+  {
+    "id": "rec_726",
+    "title": "Atakilt Wat – Ethiopian Cabbage, Potato and Carrot Vegetables with Lentil Misir",
+    "ingredients": [
+      "White cabbage",
+      "Potatoes",
+      "Carrot",
+      "Onion",
+      "Red lentils (uncooked)",
+      "Tomato paste",
+      "Rapeseed oil",
+      "Injera or wholegrain flatbread",
+      "Turmeric, berbere, ginger, garlic, salt"
+    ],
+    "instructions": [
+      "Sweat the onion in half of the oil for 5 minutes until soft, add the turmeric, ginger and garlic and fry the carrots and potatoes in pieces for 5 minutes.",
+      "Add the cabbage in strips and a little water, cover and braise for 15 minutes until everything is soft.",
+      "For the misir, toast the remaining onion in the remaining oil with tomato paste and berbere, add the lentils and 200 ml water and cook for 15 minutes until creamy.",
+      "Serve both on injera or flatbread."
     ]
   }
 ]
