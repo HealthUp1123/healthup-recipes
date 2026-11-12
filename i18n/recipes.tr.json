@@ -69335,5 +69335,889 @@
       "Soğuk yerleştirip hemen yiyin.",
       "Tatını bakıp hemen servis edin."
     ]
+  },
+  {
+    "id": "rec_3527",
+    "title": "Hızlı kahvaltı: salatalık, domates, tam buğday ekmeği ve frenk soğanlı yumurta tabağı",
+    "ingredients": [
+      "Yumurta",
+      "Salatalık",
+      "Domates",
+      "Tam buğday ekmeği",
+      "Frenk soğanı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtaları kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Bu arada salatalık ve domatesi yıkayıp dilimleyin.",
+      "Yumurtaları ikiye kesin, salatalık, domates ve ekmekle bir tabağa dizin.",
+      "Tuz, karabiber ve ince doğranmış frenk soğanı serpin."
+    ]
+  },
+  {
+    "id": "rec_3528",
+    "title": "Hızlı kahvaltı: bebek ıspanağı, çeri domates ve edamameli çırpılmış yumurta",
+    "ingredients": [
+      "Yumurta",
+      "Bebek ıspanağı",
+      "Çeri domates",
+      "Edamame (ayıklanmış)",
+      "Kanola yağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtaları bir kasede tuz ve karabiberle çırpın.",
+      "Kanola yağını yapışmaz tavada ısıtın ve edamameyi 2 dakika ısıtın.",
+      "Yumurtaları ekleyin, orta ateşte 3 dakika karıştırarak pişirin, bebek ıspanağını son dakikada ekleyin.",
+      "Çeri domatesleri ikiye kesip çırpılmış yumurtanın yanına tabağa dizin."
+    ]
+  },
+  {
+    "id": "rec_3529",
+    "title": "Hızlı kahvaltı: turp, biber, salatalık ve gevrek ekmekli süzme peynir tabağı",
+    "ingredients": [
+      "Süzme peynir",
+      "Kırmızı turp",
+      "Kırmızı biber",
+      "Salatalık",
+      "Tam tahıllı gevrek ekmek",
+      "Frenk soğanı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Turpları, biberi ve salatalığı yıkayıp dilim veya şerit halinde doğrayın.",
+      "Süzme peyniri küçük bir kaseye koyun, tuz, karabiber ve frenk soğanıyla tatlandırın.",
+      "Sebzeleri ve 2 dilim gevrek ekmeği kasenin çevresine tabağa dizin."
+    ]
+  },
+  {
+    "id": "rec_3530",
+    "title": "Hızlı kahvaltı: yumurta, salatalık, biber ve tam tahıllı gevrek ekmekli hindi göğsü tabağı",
+    "ingredients": [
+      "Hindi füme dilim",
+      "Yumurta",
+      "Salatalık",
+      "Sarı biber",
+      "Tam tahıllı gevrek ekmek",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtayı kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Salatalık ve biberi yıkayın, salatalığı dilimleyin, biberi şerit halinde kesin.",
+      "Hindi dilimlerini gevşekçe katlayın, ikiye kesilmiş yumurta, sebzeler ve gevrek ekmekle tabağa dizin.",
+      "Yumurtayı tuz ve karabiberle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3531",
+    "title": "Hızlı kahvaltı: yaban mersini, yulaf ezmesi, ayçekirdeği ve tarçınlı skyr kasesi",
+    "ingredients": [
+      "Skyr",
+      "Yaban mersini",
+      "Yulaf ezmesi",
+      "Ayçiçeği çekirdeği",
+      "Tarçın"
+    ],
+    "instructions": [
+      "Skyrı bir kasede pürüzsüz olana kadar karıştırın.",
+      "Yaban mersinlerini yıkayıp süzün ve skyrın üzerine yayın.",
+      "Yulaf ezmesi, ayçekirdeği ve tarçın serpip hemen yiyin."
+    ]
+  },
+  {
+    "id": "rec_3532",
+    "title": "Hızlı kahvaltı: yumurta, salatalık, dereotu ve pumpernickel ekmekli füme somon tabağı",
+    "ingredients": [
+      "Füme somon",
+      "Yumurta",
+      "Salatalık",
+      "Dereotu",
+      "Pumpernickel ekmeği",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtayı kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Salatalığı yıkayıp ince dilimleyin.",
+      "Füme somonu, ikiye kesilmiş yumurtayı, salatalığı ve pumpernickeli bir tabağa dizin.",
+      "Somonun üzerine limon suyu gezdirin, her şeye dereotu, tuz ve karabiber serpin."
+    ]
+  },
+  {
+    "id": "rec_3533",
+    "title": "Hızlı kahvaltı: yumurta, domates, salatalık ve kırmızı soğanlı ton balığı tabağı",
+    "ingredients": [
+      "Ton (kendi suyunda, süzülmüş)",
+      "Yumurta",
+      "Domates",
+      "Salatalık",
+      "Kırmızı soğan",
+      "Zeytinyağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtayı kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Domates ve salatalığı dilimleyin, kırmızı soğanı ince halkalar halinde kesin.",
+      "Ton balığını didikleyin, ikiye kesilmiş yumurta ve sebzelerle tabağa dizin.",
+      "Zeytinyağı gezdirip tuz ve karabiberle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3534",
+    "title": "Hızlı kahvaltı: humus, salatalık, havuç ve tam buğday ekmekli tavuk göğsü tabağı",
+    "ingredients": [
+      "Dilimlenmiş tavuk göğsü",
+      "Humus",
+      "Salatalık",
+      "Havuç",
+      "Tam buğday ekmeği"
+    ],
+    "instructions": [
+      "Salatalık ve havucu soyun veya yıkayın, çubuk şeklinde kesin.",
+      "Humusu küçük bir kaseye koyun.",
+      "Tavuk dilimlerini, sebze çubuklarını ve ekmeği humusun yanına dizip batırarak yiyin."
+    ]
+  },
+  {
+    "id": "rec_3535",
+    "title": "Hızlı kahvaltı: karpuz, salatalık, nane ve gevrek ekmekli light beyaz peynir tabağı",
+    "ingredients": [
+      "Light beyaz peynir (feta)",
+      "Karpuz",
+      "Salatalık",
+      "Nane",
+      "Tam tahıllı gevrek ekmek",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Karpuzu kabuksuz küp küp, salatalığı dilim dilim kesin.",
+      "Light beyaz peyniri küp küp kesin veya iri ufalayın.",
+      "Her şeyi bir tabağa dizin, nane ve karabiber serpip gevrek ekmeği yanına koyun."
+    ]
+  },
+  {
+    "id": "rec_3536",
+    "title": "Hızlı kahvaltı: domates ve rokalı tam buğday ekmeği üzerinde sahanda yumurta",
+    "ingredients": [
+      "Yumurta",
+      "Tam buğday ekmeği",
+      "Domates",
+      "Roka",
+      "Kanola yağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Kanola yağını tavada ısıtıp yumurtaları kırın.",
+      "Orta ateşte 3 ile 4 dakika, beyazı pişene kadar kızartın.",
+      "Bu arada domatesi dilimleyin ve rokayı yıkayın.",
+      "Ekmeğin üzerine roka ve domates koyun, yumurtaları yerleştirip tuz ve karabiberle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3537",
+    "title": "Hızlı kahvaltı: biberli, taze soğanlı omlet ve salatalık salatası",
+    "ingredients": [
+      "Yumurta",
+      "Yumurta akı",
+      "Kırmızı biber",
+      "Taze soğan",
+      "Salatalık",
+      "Limon suyu",
+      "Kanola yağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Biberi ince doğrayın, taze soğanı halka halka kesin.",
+      "Yumurta ve yumurta akını tuz ve karabiberle çırpın.",
+      "Kanola yağını tavada ısıtın, biberi 1 dakika soteleyin, yumurta karışımını ve taze soğanı ekleyip kapağı kapalı 4 dakika pişirin.",
+      "Salatalığı ince dilimleyin, limon suyu, tuz ve karabiberle karıştırıp katlanmış omletin yanına koyun."
+    ]
+  },
+  {
+    "id": "rec_3538",
+    "title": "Hızlı kahvaltı: alabaş, havuç ve biber çubukları ile otlu lor ve gevrek ekmek",
+    "ingredients": [
+      "Yağsız lor",
+      "Maydanoz, frenk soğanı",
+      "Alabaş",
+      "Havuç",
+      "Sarı biber",
+      "Tam tahıllı gevrek ekmek",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Otları ince kıyın, lor, tuz, karabiber ve 1 ile 2 yemek kaşığı suyla krema kıvamına gelene kadar karıştırın.",
+      "Alabaş ve havucu soyun, biberi yıkayın ve hepsini çubuk şeklinde kesin.",
+      "Otlu loru küçük bir kaseye koyun, sebze çubukları ve gevrek ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3539",
+    "title": "Hızlı kahvaltı: domates, misket limonu ve gevrek ekmekli avokado yumurta tabağı",
+    "ingredients": [
+      "Yumurta",
+      "Avokado",
+      "Domates",
+      "Misket limonu suyu",
+      "Tam tahıllı gevrek ekmek",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtaları kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Avokadoyu dilimleyip misket limonu suyu gezdirin.",
+      "Domatesi dilimleyin, ikiye kesilmiş yumurtalar, avokado ve gevrek ekmekle birlikte dizin.",
+      "Tuz ve karabiberle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3540",
+    "title": "Hızlı kahvaltı: çeri domates, salatalık, nohut ve maydanozlu süzme peynir kasesi",
+    "ingredients": [
+      "Süzme peynir",
+      "Çeri domates",
+      "Salatalık",
+      "Nohut (süzülmüş)",
+      "Maydanoz",
+      "Zeytinyağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Nohutları yıkayıp süzün.",
+      "Çeri domatesleri ikiye kesin, salatalığı doğrayın ve maydanozu kıyın.",
+      "Süzme peyniri bir kaseye koyun, sebzeleri ve nohutları üzerine yayın.",
+      "Zeytinyağı, maydanoz, tuz ve karabiberle tamamlayın."
+    ]
+  },
+  {
+    "id": "rec_3541",
+    "title": "Hızlı kahvaltı: yumurta, roka ve tam buğday ekmekli mozzarella domates tabağı",
+    "ingredients": [
+      "Light mozzarella",
+      "Domates",
+      "Yumurta",
+      "Roka",
+      "Tam buğday ekmeği",
+      "Fesleğen",
+      "Zeytinyağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtayı kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Domates ve light mozzarellayı dilimleyip tabağa sırayla dizin.",
+      "Roka ve ikiye kesilmiş yumurtayı yanına koyun, zeytinyağı gezdirin.",
+      "Fesleğen, tuz ve karabiber serpip ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3542",
+    "title": "Hızlı kahvaltı: yumurta, turp, salatalık ve gevrek ekmekli füme alabalık tabağı",
+    "ingredients": [
+      "Füme alabalık",
+      "Yumurta",
+      "Kırmızı turp",
+      "Salatalık",
+      "Tam tahıllı gevrek ekmek",
+      "Dereotu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtayı kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Turpları ve salatalığı yıkayıp dilimleyin.",
+      "Füme alabalığı parçalara ayırın, ikiye kesilmiş yumurta, sebzeler ve gevrek ekmekle dizin.",
+      "Dereotu ve karabiber serpin."
+    ]
+  },
+  {
+    "id": "rec_3543",
+    "title": "Hızlı kahvaltı: mantarlı, ıspanaklı yumurta akı çırpması ve tam buğday tost",
+    "ingredients": [
+      "Yumurta",
+      "Yumurta akı",
+      "Mantar",
+      "Bebek ıspanağı",
+      "Tam buğday tost ekmeği",
+      "Kanola yağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Mantarları dilimleyip kanola yağında 3 dakika soteleyin.",
+      "Yumurta ve yumurta akını tuz ve karabiberle çırpın, tavaya dökün ve 2 ile 3 dakika karıştırarak pişirin.",
+      "Bebek ıspanağını ekleyip sönene kadar karıştırın.",
+      "Tost ekmeğini kızartıp çırpılmış yumurtayla servis edin."
+    ]
+  },
+  {
+    "id": "rec_3544",
+    "title": "Hızlı kahvaltı: çeri domates, sarı biber, roka ve kabak çekirdekli tofu tabağı",
+    "ingredients": [
+      "Sade sert tofu",
+      "Çeri domates",
+      "Sarı biber",
+      "Roka",
+      "Kabak çekirdeği",
+      "Limon suyu",
+      "Toz biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Tofuyu kurulayın, küp küp kesin ve toz biber, tuz ve karabiberle tatlandırın.",
+      "Çeri domatesleri ikiye kesin, biberi şerit halinde doğrayın ve rokayı yıkayın.",
+      "Her şeyi tabağa dizin ve limon suyu gezdirin.",
+      "Kabak çekirdeği serpin."
+    ]
+  },
+  {
+    "id": "rec_3545",
+    "title": "Hızlı kahvaltı: çeri domates, biber, roka ve gevrek ekmekli humus yumurta tabağı",
+    "ingredients": [
+      "Humus",
+      "Yumurta",
+      "Çeri domates",
+      "Kırmızı biber",
+      "Roka",
+      "Tam tahıllı gevrek ekmek",
+      "Toz biber"
+    ],
+    "instructions": [
+      "Yumurtayı kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Çeri domatesleri ikiye kesin, biberi şerit halinde doğrayın ve rokayı yıkayın.",
+      "Humusu tabağa yayın ve toz biber serpin.",
+      "İkiye kesilmiş yumurtayı, sebzeleri, rokayı ve gevrek ekmeği yanına dizin."
+    ]
+  },
+  {
+    "id": "rec_3546",
+    "title": "Hızlı kahvaltı: light krem peynir, roka, biber ve turplu hindi göğsü ruloları",
+    "ingredients": [
+      "Hindi füme dilim",
+      "Light krem peynir",
+      "Roka",
+      "Kırmızı biber",
+      "Kırmızı turp",
+      "Tam tahıllı gevrek ekmek"
+    ],
+    "instructions": [
+      "Biberi uzun ince şeritler halinde kesin, rokayı yıkayın ve turpları ikiye bölün.",
+      "Hindi dilimlerine ince bir kat light krem peynir sürün.",
+      "Her dilimin üzerine biraz roka ve birkaç biber şeridi koyup rulo yapın.",
+      "Ruloları turplar ve gevrek ekmekle dizin."
+    ]
+  },
+  {
+    "id": "rec_3547",
+    "title": "Hızlı kahvaltı: yumurta, dereotu ve pumpernickel ekmekli tuzlu skyr salatalık kasesi",
+    "ingredients": [
+      "Skyr",
+      "Salatalık",
+      "Yumurta",
+      "Dereotu",
+      "Pumpernickel ekmeği",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtayı kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Salatalığı küçük küp doğrayın, dereotunu ince kıyın.",
+      "Skyrı salatalık, dereotu, tuz ve karabiberle karıştırıp bir kaseye koyun.",
+      "Yumurtayı dörde bölüp kasenin üzerine koyun ve pumpernickel ile servis edin."
+    ]
+  },
+  {
+    "id": "rec_3548",
+    "title": "Hızlı kahvaltı: bezelye ve taze soğanlı çırpılmış yumurta ile turp salatalık salatası",
+    "ingredients": [
+      "Yumurta",
+      "Bezelye (donuk)",
+      "Taze soğan",
+      "Kırmızı turp",
+      "Salatalık",
+      "Kanola yağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Kanola yağını ısıtın, bezelye ve taze soğanı 2 dakika soteleyin.",
+      "Yumurtaları tuz ve karabiberle çırpın, ekleyin ve 3 dakika karıştırarak pişirin.",
+      "Turp ve salatalığı dilimleyip hafifçe tuzlayın.",
+      "Çırpılmış yumurtayı salatayla birlikte tabağa alın."
+    ]
+  },
+  {
+    "id": "rec_3549",
+    "title": "Hızlı kahvaltı: roka, çeri domates, yumurta ve gevrek ekmekli bresaola tabağı",
+    "ingredients": [
+      "Bresaola (dana)",
+      "Yumurta",
+      "Roka",
+      "Çeri domates",
+      "Tam tahıllı gevrek ekmek",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtayı kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Rokayı yıkayın, çeri domatesleri ikiye kesin.",
+      "Bresaolayı tabağa serin, roka ve domatesleri üzerine koyup limon suyu gezdirin.",
+      "İkiye kesilmiş yumurtayı ve gevrek ekmeği ekleyip karabiberle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3550",
+    "title": "Hızlı kahvaltı: domates, tere ve tam buğday ekmekli tavuk göğsü avokado tabağı",
+    "ingredients": [
+      "Dilimlenmiş tavuk göğsü",
+      "Avokado",
+      "Domates",
+      "Tere",
+      "Tam buğday ekmeği",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Avokadoyu dilimleyip limon suyu gezdirin.",
+      "Domatesi dilimleyin.",
+      "Tavuk dilimlerini, avokadoyu, domatesi ve ekmeği tabağa dizin.",
+      "Tere, tuz ve karabiber serpin."
+    ]
+  },
+  {
+    "id": "rec_3551",
+    "title": "Hızlı kahvaltı: salatalık, biber, sap kereviz ve gevrek ekmekli ton balıklı süzme peynir kreması",
+    "ingredients": [
+      "Ton (kendi suyunda, süzülmüş)",
+      "Süzme peynir",
+      "Salatalık",
+      "Kırmızı biber",
+      "Sap kereviz",
+      "Tam tahıllı gevrek ekmek",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Ton balığını süzme peynir, limon suyu, tuz ve karabiberle çatalla karıştırın.",
+      "Salatalık, biber ve sap kerevizi çubuk şeklinde kesin.",
+      "Kremayı küçük bir kaseye koyup sebze çubukları ve gevrek ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3552",
+    "title": "Hızlı kahvaltı: kuzu kulağı salatası, elma ve cevizli yumurta süzme peynir tabağı",
+    "ingredients": [
+      "Yumurta",
+      "Süzme peynir",
+      "Kuzu kulağı salatası",
+      "Elma",
+      "Ceviz",
+      "Tam buğday ekmeği",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtayı kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Kuzu kulağı salatasını yıkayın, elmayı ince dilimler halinde kesin.",
+      "Süzme peyniri, salatayı, elmayı ve ikiye kesilmiş yumurtayı tabağa dizin.",
+      "Cevizleri iri kıyıp üzerine serpin, karabiberle tatlandırın ve ekmeği yanına koyun."
+    ]
+  },
+  {
+    "id": "rec_3553",
+    "title": "Hızlı kahvaltı: beyaz fasulye, domates ve bebek ıspanaklı sahanda yumurta",
+    "ingredients": [
+      "Yumurta",
+      "Kuru fasulye (süzülmüş)",
+      "Domates",
+      "Bebek ıspanağı",
+      "Kanola yağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Beyaz fasulyeleri yıkayın, domatesi doğrayın.",
+      "Kanola yağını tavada ısıtın, fasulye ve domatesi 2 dakika ısıtıp kenara itin.",
+      "Yumurtaları tavaya kırın, 3 ile 4 dakika pişirin, bebek ıspanağı son dakikada ekleyin.",
+      "Tuz ve karabiberle tatlandırıp hemen tabakta servis edin."
+    ]
+  },
+  {
+    "id": "rec_3554",
+    "title": "Hızlı kahvaltı: süzme peynirli otlu omlet ve domates salatası",
+    "ingredients": [
+      "Yumurta",
+      "Süzme peynir",
+      "Maydanoz, frenk soğanı",
+      "Domates",
+      "Kırmızı soğan",
+      "Kanola yağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtaları kıyılmış otlar, tuz ve karabiberle çırpın.",
+      "Kanola yağını ısıtın, yumurta karışımını dökün ve kapağı kapalı 4 dakika pişirin.",
+      "Süzme peyniri omletin bir yarısına koyup katlayın.",
+      "Domatesi dilimleyin, soğanı ince halkalar halinde kesin, tuz ve karabiber ekleyip omletle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3555",
+    "title": "Hızlı kahvaltı: avokado, turp, salatalık ve gevrek ekmekli füme somon tabağı",
+    "ingredients": [
+      "Füme somon",
+      "Avokado",
+      "Kırmızı turp",
+      "Salatalık",
+      "Tam tahıllı gevrek ekmek",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Avokadoyu dilimleyip limon suyu gezdirin.",
+      "Turp ve salatalığı ince dilimleyin.",
+      "Füme somonu, avokadoyu, sebzeleri ve gevrek ekmeği tabağa dizip karabiberle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3556",
+    "title": "Hızlı kahvaltı: süzme peynir, çeri domates ve tereyle doldurulmuş avokado",
+    "ingredients": [
+      "Avokado",
+      "Süzme peynir",
+      "Çeri domates",
+      "Tere",
+      "Tam tahıllı gevrek ekmek",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Avokadoyu ikiye bölüp çekirdeğini çıkarın.",
+      "Süzme peyniri tuz ve karabiberle tatlandırıp avokado yarısına doldurun.",
+      "Çeri domatesleri ikiye kesip avokadonun yanına koyun ve her şeye tere serpin.",
+      "Gevrek ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3557",
+    "title": "Hızlı kahvaltı: hindi göğsü, kabak ve çeri domatesli çırpılmış yumurta",
+    "ingredients": [
+      "Yumurta",
+      "Hindi füme dilim",
+      "Kabak",
+      "Çeri domates",
+      "Kanola yağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Kabağı küçük küp doğrayın, hindi dilimlerini şerit halinde kesin.",
+      "Kanola yağını ısıtın, kabağı 3 dakika soteleyin, sonra hindi şeritlerini kısa süre birlikte kavurun.",
+      "Yumurtaları tuz ve karabiberle çırpın, ekleyin ve 2 ile 3 dakika karıştırarak pişirin.",
+      "İkiye kesilmiş çeri domateslerle tabakta servis edin."
+    ]
+  },
+  {
+    "id": "rec_3558",
+    "title": "Hızlı kahvaltı: kırmızı pancar, kuzu kulağı salatası ve pumpernickel ekmekli yumurta tabağı",
+    "ingredients": [
+      "Yumurta",
+      "Pişmiş kırmızı pancar",
+      "Kuzu kulağı salatası",
+      "Pumpernickel ekmeği",
+      "Zeytinyağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtaları kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Pişmiş kırmızı pancarı dilimleyin, kuzu kulağı salatasını yıkayın.",
+      "Salatayı ve pancarı zeytinyağı, tuz ve karabiberle karıştırın.",
+      "Yumurtaları ikiye kesip salata ve pumpernickel ile tabağa dizin."
+    ]
+  },
+  {
+    "id": "rec_3559",
+    "title": "Hızlı kahvaltı: salatalıklı yoğurt sosu ve tam buğday pitalı tavuk göğsü tabağı",
+    "ingredients": [
+      "Dilimlenmiş tavuk göğsü",
+      "Süzme yoğurt (%0,2 yağ)",
+      "Salatalık",
+      "Sarımsak",
+      "Dereotu",
+      "Tam buğday pita",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Salatalığın 40 g kadarını ince rendeleyip iyice sıkın, kalanını dilimleyin.",
+      "Yoğurdu rendelenmiş salatalık, ezilmiş sarımsak, dereotu, tuz ve karabiberle karıştırın.",
+      "Tavuk dilimlerini, salatalık dilimlerini, sosu ve pitayı tabağa dizin."
+    ]
+  },
+  {
+    "id": "rec_3560",
+    "title": "Hızlı kahvaltı: avokado, salatalık, çeri domates ve pumpernickel ekmekli füme tofu tabağı",
+    "ingredients": [
+      "Füme tofu",
+      "Avokado",
+      "Salatalık",
+      "Çeri domates",
+      "Pumpernickel ekmeği",
+      "Misket limonu suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Füme tofuyu ince dilimleyin.",
+      "Avokadoyu dilimleyip misket limonu suyu gezdirin, salatalığı dilimleyin, çeri domatesleri ikiye kesin.",
+      "Her şeyi pumpernickel ile tabağa dizip tuz ve karabiberle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3561",
+    "title": "Hızlı kahvaltı: çeri domates, misket limonu ve gevrek ekmekli ton balıklı avokado tabağı",
+    "ingredients": [
+      "Ton (kendi suyunda, süzülmüş)",
+      "Avokado",
+      "Çeri domates",
+      "Misket limonu suyu",
+      "Kişniş",
+      "Tam tahıllı gevrek ekmek",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Avokadoyu küp doğrayıp misket limonu suyu, tuz ve karabiberle karıştırın.",
+      "Çeri domatesleri ikiye kesin, ton balığını iri didikleyin.",
+      "Ton balığını, avokadoyu ve domatesleri tabağa dizin, kişniş serpip gevrek ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3562",
+    "title": "Hızlı kahvaltı: skyr, frenk soğanı, turp, domates ve gevrek ekmekli hafif yumurta salatası",
+    "ingredients": [
+      "Yumurta",
+      "Skyr",
+      "Frenk soğanı",
+      "Kırmızı turp",
+      "Domates",
+      "Tam tahıllı gevrek ekmek",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumurtaları kaynar suya koyun, 8 dakika katı haşlayın, soğuk suda soğutup soyun.",
+      "Yumurtaları iri kıyıp skyr, frenk soğanı, tuz ve karabiberle karıştırın.",
+      "Turp ve domatesi dilimleyin.",
+      "Yumurta salatasını gevrek ekmeklerin üzerine koyup turp ve domatesle tabakta servis edin."
+    ]
+  },
+  {
+    "id": "rec_3563",
+    "title": "Hızlı kahvaltı: light beyaz peynir, domates ve naneli nohut salatalık tabağı",
+    "ingredients": [
+      "Nohut (süzülmüş)",
+      "Salatalık",
+      "Domates",
+      "Light beyaz peynir (feta)",
+      "Nane",
+      "Zeytinyağı",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Nohutları yıkayıp süzün.",
+      "Salatalık ve domatesi doğrayın, naneyi iri kıyın.",
+      "Her şeyi zeytinyağı, limon suyu, tuz ve karabiberle karıştırıp tabağa alın.",
+      "Light beyaz peyniri üzerine ufalayın."
+    ]
+  },
+  {
+    "id": "rec_3564",
+    "title": "Hızlı kahvaltı: domates, frenk soğanı ve pumpernickel ekmekli hindi göğsü süzme peynir tabağı",
+    "ingredients": [
+      "Hindi füme dilim",
+      "Süzme peynir",
+      "Domates",
+      "Frenk soğanı",
+      "Pumpernickel ekmeği",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Domatesi dilimleyin, frenk soğanını ince doğrayın.",
+      "Süzme peyniri frenk soğanı, tuz ve karabiberle tatlandırın.",
+      "Hindi dilimlerini, süzme peyniri, domatesi ve pumpernickeli tabağa dizin."
+    ]
+  },
+  {
+    "id": "rec_3565",
+    "title": "Hızlı kahvaltı: edamame, havuç, salatalık ve biberli humus tabağı",
+    "ingredients": [
+      "Humus",
+      "Edamame (ayıklanmış)",
+      "Havuç",
+      "Salatalık",
+      "Sarı biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Edamameyi kaynar suda 2 dakika ısıtın, soğuk suyla soğutup hafifçe tuzlayın.",
+      "Havuç, salatalık ve biberi çubuk şeklinde kesin.",
+      "Humusu küçük bir kaseye koyup edamame ve sebze çubuklarıyla dizin."
+    ]
+  },
+  {
+    "id": "rec_3566",
+    "title": "Hızlı kahvaltı: elma, turp, kuzu kulağı salatası ve gevrek ekmekli füme uskumru tabağı",
+    "ingredients": [
+      "Füme uskumru",
+      "Elma",
+      "Kırmızı turp",
+      "Kuzu kulağı salatası",
+      "Tam tahıllı gevrek ekmek",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Uskumrunun derisini ve kılçıklarını ayıklayıp parçalara ayırın.",
+      "Elma ve turpları ince dilimleyin, elmaya limon suyu gezdirin ve kuzu kulağı salatasını yıkayın.",
+      "Her şeyi gevrek ekmekle tabağa dizip karabiberle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3567",
+    "title": "Hızlı kahvaltı: ahududu, fındık ve vanilyalı yağsız lor kasesi",
+    "ingredients": [
+      "Yağsız lor",
+      "Ahududu",
+      "Fındık",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Loru vanilya ve 2 yemek kaşığı suyla krema kıvamına getirip bir kaseye koyun.",
+      "Ahudularını nazikçe yıkayıp lorun üzerine yayın.",
+      "Fındıkları iri kıyıp üzerine serpin."
+    ]
+  },
+  {
+    "id": "rec_3568",
+    "title": "Hızlı kahvaltı: şeftali, kabak çekirdeği ve tarçınlı süzme peynir kasesi",
+    "ingredients": [
+      "Süzme peynir",
+      "Şeftali",
+      "Kabak çekirdeği",
+      "Tarçın"
+    ],
+    "instructions": [
+      "Şeftaliyi yıkayın, çekirdeğini çıkarıp dilimleyin.",
+      "Süzme peyniri bir kaseye koyun ve şeftali dilimlerini üzerine yerleştirin.",
+      "Kabak çekirdeği ve tarçın serpin."
+    ]
+  },
+  {
+    "id": "rec_3569",
+    "title": "Hızlı kahvaltı: mango, misket limonu ve kenevir tohumlu skyr kasesi",
+    "ingredients": [
+      "Skyr",
+      "Mango",
+      "Misket limonu suyu",
+      "Kenevir tohumu"
+    ],
+    "instructions": [
+      "Mangoyu soyup küp küp doğrayın ve misket limonu suyuyla karıştırın.",
+      "Skyrı pürüzsüz olana kadar karıştırıp bir kaseye koyun.",
+      "Mango küplerini üzerine yayın ve kenevir tohumu serpin."
+    ]
+  },
+  {
+    "id": "rec_3570",
+    "title": "Hızlı kahvaltı: böğürtlen, chia tohumu ve yulaf ezmeli yoğurt kasesi",
+    "ingredients": [
+      "Süzme yoğurt (%0,2 yağ)",
+      "Böğürtlen",
+      "Chia tohumu",
+      "Yulaf ezmesi"
+    ],
+    "instructions": [
+      "Yoğurdu chia tohumuyla karıştırıp 2 dakika şişmeye bırakın.",
+      "Böğürtlenleri yıkayıp süzün.",
+      "Yoğurdu bir kaseye koyun, üzerine böğürtlen ve yulaf ezmesi ekleyin."
+    ]
+  },
+  {
+    "id": "rec_3571",
+    "title": "Hızlı kahvaltı: yaban mersini, keten tohumu ve bademli soya skyri kasesi",
+    "ingredients": [
+      "Soya skyri",
+      "Yaban mersini",
+      "Öğütülmüş keten tohumu",
+      "Badem"
+    ],
+    "instructions": [
+      "Soya skyrını pürüzsüz olana kadar karıştırıp bir kaseye koyun.",
+      "Yaban mersinlerini yıkayıp üzerine yayın.",
+      "Öğütülmüş keten tohumu ve kıyılmış badem serpin."
+    ]
+  },
+  {
+    "id": "rec_3572",
+    "title": "Hızlı kahvaltı: muz, kakao ve fıstık ezmeli yağsız lor kasesi",
+    "ingredients": [
+      "Yağsız lor",
+      "Muz",
+      "Şekersiz kakao tozu",
+      "Fıstık ezmesi"
+    ],
+    "instructions": [
+      "Loru kakao tozu ve 2 yemek kaşığı suyla krema kıvamına gelene kadar karıştırın.",
+      "Muzu dilimleyin.",
+      "Kakaolu loru bir kaseye koyun, muz dilimleriyle süsleyin ve fıstık ezmesini üzerine gezdirin."
+    ]
+  },
+  {
+    "id": "rec_3573",
+    "title": "Hızlı kahvaltı: kivi, nar ve yulaf ezmeli süzme peynir kasesi",
+    "ingredients": [
+      "Süzme peynir",
+      "Kivi",
+      "Nar taneleri",
+      "Yulaf ezmesi"
+    ],
+    "instructions": [
+      "Kiviyi soyup dilim veya küp şeklinde kesin.",
+      "Süzme peyniri bir kaseye koyun ve kiviyi üzerine yayın.",
+      "Nar taneleri ve yulaf ezmesi serpin."
+    ]
+  },
+  {
+    "id": "rec_3574",
+    "title": "Hızlı kahvaltı: çilek, Antep fıstığı ve fesleğenli skyr kasesi",
+    "ingredients": [
+      "Skyr",
+      "Çilek",
+      "Antep fıstığı",
+      "Fesleğen"
+    ],
+    "instructions": [
+      "Çilekleri yıkayın, saplarını ayıklayıp dörde bölün.",
+      "Skyrı bir kaseye koyun ve çilekleri üzerine yayın.",
+      "Antep fıstıklarını kıyıp ince kıyılmış fesleğenle birlikte üzerine serpin."
+    ]
+  },
+  {
+    "id": "rec_3575",
+    "title": "Hızlı kahvaltı: kiraz, kakao kırığı ve yulaf ezmeli skyr kasesi",
+    "ingredients": [
+      "Skyr",
+      "Kiraz",
+      "Kakao kırığı",
+      "Yulaf ezmesi"
+    ],
+    "instructions": [
+      "Kirazları yıkayın, çekirdeklerini çıkarıp ikiye bölün.",
+      "Skyrı pürüzsüz olana kadar karıştırıp bir kaseye koyun.",
+      "Kirazları üzerine yayın, kakao kırığı ve yulaf ezmesi serpin."
+    ]
+  },
+  {
+    "id": "rec_3576",
+    "title": "Hızlı kahvaltı: nektarin, yulaf ezmesi ve cevizli yoğurt kasesi",
+    "ingredients": [
+      "Süzme yoğurt (%0,2 yağ)",
+      "Nektarin",
+      "Yulaf ezmesi",
+      "Ceviz"
+    ],
+    "instructions": [
+      "Nektarini yıkayın, çekirdeğini çıkarıp dilimleyin.",
+      "Yoğurdu bir kaseye koyun ve nektarin dilimlerini üzerine yerleştirin.",
+      "Yulaf ezmesi ve iri kıyılmış ceviz serpin."
+    ]
   }
 ]

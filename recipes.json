@@ -245164,5 +245164,3048 @@
       "sesam",
       "sulfite"
     ]
+  },
+  {
+    "id": "rec_3527",
+    "title": "Quick-Win: Eier-Teller mit Gurke, Tomate, Vollkornbrot und Schnittlauch",
+    "calories": 305,
+    "protein": 20,
+    "carbs": 26,
+    "fiber": 5,
+    "fat": 12,
+    "servingSizeGrams": 375,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3527_q14_eier_teller_gurke_tomate_vollkornbrot.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "1 Scheibe (50g)"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Eier in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Inzwischen Gurke und Tomate waschen und in Scheiben schneiden.",
+      "Eier halbieren und mit Gurke, Tomate und Vollkornbrot auf einem Teller anrichten.",
+      "Mit Salz, Pfeffer und fein geschnittenem Schnittlauch bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3528",
+    "title": "Quick-Win: Rührei mit Babyspinat, Kirschtomaten und Edamame",
+    "calories": 295,
+    "protein": 23,
+    "carbs": 7,
+    "fiber": 5,
+    "fat": 19,
+    "servingSizeGrams": 315,
+    "prepTimeMinutes": 8,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3528_q14_ruehrei_babyspinat_kirschtomaten_edamame.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "40g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Edamame (geschält)",
+        "amount": "50g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (4g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Eier in einer Schüssel mit Salz und Pfeffer verquirlen.",
+      "Rapsöl in einer beschichteten Pfanne erhitzen und die Edamame darin 2 Minuten erwärmen.",
+      "Eier dazugeben und bei mittlerer Hitze in 3 Minuten unter Rühren stocken lassen, Babyspinat in der letzten Minute unterheben.",
+      "Kirschtomaten halbieren und neben dem Rührei auf dem Teller anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "ei",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3529",
+    "title": "Quick-Win: Hüttenkäse-Teller mit Radieschen, Paprika, Gurke und Knäckebrot",
+    "calories": 250,
+    "protein": 29,
+    "carbs": 25,
+    "fiber": 6,
+    "fat": 4,
+    "servingSizeGrams": 445,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3529_q14_huettenkaese_teller_radieschen_paprika_gurke.jpg",
+    "ingredients": [
+      {
+        "name": "Hüttenkäse",
+        "amount": "200g"
+      },
+      {
+        "name": "Radieschen",
+        "amount": "60g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "80g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Radieschen, Paprika und Gurke waschen und in Scheiben oder Streifen schneiden.",
+      "Hüttenkäse in ein Schälchen geben und mit Salz, Pfeffer und Schnittlauch würzen.",
+      "Gemüse und 2 Scheiben Knäckebrot rund um das Schälchen auf dem Teller anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "volumenreich",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3530",
+    "title": "Quick-Win: Putenbrust-Teller mit Ei, Gurke, Paprika und Vollkorn-Knäckebrot",
+    "calories": 240,
+    "protein": 22,
+    "carbs": 19,
+    "fiber": 5,
+    "fat": 7,
+    "servingSizeGrams": 300,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3530_q14_putenbrust_teller_ei_gurke_paprika_knaecke.jpg",
+    "ingredients": [
+      {
+        "name": "Putenaufschnitt",
+        "amount": "60g"
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Paprika (gelb)",
+        "amount": "80g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Das Ei in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Gurke und Paprika waschen, die Gurke in Scheiben und die Paprika in Streifen schneiden.",
+      "Putenaufschnitt locker falten und mit dem halbierten Ei, dem Gemüse und dem Knäckebrot auf einem Teller anrichten.",
+      "Das Ei mit Salz und Pfeffer würzen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3531",
+    "title": "Quick-Win: Skyr-Schale mit Heidelbeeren, Haferflocken, Sonnenblumenkernen und Zimt",
+    "calories": 255,
+    "protein": 26,
+    "carbs": 26,
+    "fiber": 7,
+    "fat": 4,
+    "servingSizeGrams": 320,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3531_q14_skyr_schale_heidelbeeren_hafer_sonnenblumenkerne.jpg",
+    "ingredients": [
+      {
+        "name": "Skyr",
+        "amount": "200g"
+      },
+      {
+        "name": "Heidelbeeren",
+        "amount": "100g"
+      },
+      {
+        "name": "Haferflocken",
+        "amount": "1 EL (15g)"
+      },
+      {
+        "name": "Sonnenblumenkerne",
+        "amount": "5g"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Skyr in einer Schale glatt rühren.",
+      "Heidelbeeren waschen, abtropfen lassen und auf dem Skyr verteilen.",
+      "Haferflocken, Sonnenblumenkerne und Zimt darüberstreuen und sofort essen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3532",
+    "title": "Quick-Win: Räucherlachs-Teller mit Ei, Gurke, Dill und Pumpernickel",
+    "calories": 290,
+    "protein": 22,
+    "carbs": 22,
+    "fiber": 5,
+    "fat": 11,
+    "servingSizeGrams": 265,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3532_q14_raeucherlachs_teller_ei_gurke_pumpernickel.jpg",
+    "ingredients": [
+      {
+        "name": "Räucherlachs",
+        "amount": "50g"
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Dill",
+        "amount": "2g"
+      },
+      {
+        "name": "Pumpernickel",
+        "amount": "1 Scheibe (50g)"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Das Ei in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Gurke waschen und in dünne Scheiben schneiden.",
+      "Räucherlachs, das halbierte Ei, Gurke und Pumpernickel auf einem Teller anrichten.",
+      "Den Lachs mit Zitronensaft beträufeln und alles mit Dill, Salz und Pfeffer bestreuen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "kalorienarm",
+      "pescetarisch",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "ei",
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3533",
+    "title": "Quick-Win: Thunfisch-Teller mit Ei, Tomate, Gurke und roter Zwiebel",
+    "calories": 235,
+    "protein": 29,
+    "carbs": 7,
+    "fiber": 2,
+    "fat": 10,
+    "servingSizeGrams": 340,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3533_q14_thunfisch_teller_ei_tomate_gurke_zwiebel.jpg",
+    "ingredients": [
+      {
+        "name": "Thunfisch (abgetropft, im eigenen Saft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "15g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Das Ei in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Tomate und Gurke in Scheiben, die rote Zwiebel in feine Ringe schneiden.",
+      "Thunfisch zerpflücken und mit dem halbierten Ei und dem Gemüse auf einem Teller anrichten.",
+      "Mit Olivenöl beträufeln und mit Salz und Pfeffer würzen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "mediterran",
+      "paleo",
+      "pescetarisch",
+      "quick-win"
+    ],
+    "allergens": [
+      "ei",
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3534",
+    "title": "Quick-Win: Hähnchenbrust-Teller mit Hummus, Gurke, Karotte und Vollkornbrot",
+    "calories": 270,
+    "protein": 19,
+    "carbs": 28,
+    "fiber": 8,
+    "fat": 9,
+    "servingSizeGrams": 300,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3534_q14_haehnchenbrust_teller_hummus_gurke_karotte.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustaufschnitt",
+        "amount": "60g"
+      },
+      {
+        "name": "Hummus",
+        "amount": "40g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "80g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "40g"
+      }
+    ],
+    "instructions": [
+      "Gurke und Karotte schälen bzw. waschen und in Sticks schneiden.",
+      "Hummus in ein kleines Schälchen geben.",
+      "Hähnchenbrustaufschnitt, Gemüsesticks und Vollkornbrot neben dem Hummus anrichten und dippen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_3535",
+    "title": "Quick-Win: Feta-light-Teller mit Wassermelone, Gurke, Minze und Knäckebrot",
+    "calories": 260,
+    "protein": 16,
+    "carbs": 29,
+    "fiber": 4,
+    "fat": 9,
+    "servingSizeGrams": 370,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3535_q14_feta_light_teller_wassermelone_gurke_minze.jpg",
+    "ingredients": [
+      {
+        "name": "Feta light",
+        "amount": "70g"
+      },
+      {
+        "name": "Wassermelone",
+        "amount": "200g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Minze",
+        "amount": "2g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Wassermelone ohne Schale in Würfel, die Gurke in Scheiben schneiden.",
+      "Feta light in Würfel schneiden oder grob zerbröseln.",
+      "Alles auf einem Teller anrichten, mit Minze und Pfeffer bestreuen und das Knäckebrot dazulegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3536",
+    "title": "Quick-Win: Spiegeleier auf Vollkornbrot mit Tomate und Rucola",
+    "calories": 320,
+    "protein": 20,
+    "carbs": 24,
+    "fiber": 5,
+    "fat": 15,
+    "servingSizeGrams": 295,
+    "prepTimeMinutes": 8,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3536_q14_spiegeleier_vollkornbrot_tomate_rucola.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "1 Scheibe (50g)"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Rucola",
+        "amount": "20g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Rapsöl in einer Pfanne erhitzen und die Eier hineinschlagen.",
+      "Bei mittlerer Hitze 3 bis 4 Minuten braten, bis das Eiweiß fest ist.",
+      "Inzwischen die Tomate in Scheiben schneiden und den Rucola waschen.",
+      "Vollkornbrot mit Rucola und Tomate belegen, die Spiegeleier daraufsetzen und mit Salz und Pfeffer würzen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3537",
+    "title": "Quick-Win: Omelett mit Paprika, Frühlingszwiebel und Gurkensalat",
+    "calories": 270,
+    "protein": 23,
+    "carbs": 8,
+    "fiber": 2,
+    "fat": 15,
+    "servingSizeGrams": 385,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3537_q14_omelett_paprika_fruehlingszwiebel_gurkensalat.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Eiklar",
+        "amount": "60g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "60g"
+      },
+      {
+        "name": "Frühlingszwiebel",
+        "amount": "15g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "120g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Paprika fein würfeln, Frühlingszwiebel in Ringe schneiden.",
+      "Eier und Eiklar mit Salz und Pfeffer verquirlen.",
+      "Rapsöl in einer Pfanne erhitzen, Paprika 1 Minute anbraten, Eimasse und Frühlingszwiebel dazugeben und zugedeckt 4 Minuten stocken lassen.",
+      "Gurke in dünne Scheiben schneiden, mit Zitronensaft, Salz und Pfeffer anmachen und neben das gefaltete Omelett geben."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "volumenreich",
+      "quick-win"
+    ],
+    "allergens": [
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3538",
+    "title": "Quick-Win: Kräuterquark mit Kohlrabi-, Karotten- und Paprikasticks und Knäckebrot",
+    "calories": 225,
+    "protein": 23,
+    "carbs": 29,
+    "fiber": 9,
+    "fat": 1,
+    "servingSizeGrams": 380,
+    "prepTimeMinutes": 8,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3538_q14_kraeuterquark_kohlrabi_karotte_paprika_sticks.jpg",
+    "ingredients": [
+      {
+        "name": "Magerquark",
+        "amount": "150g"
+      },
+      {
+        "name": "Petersilie, Schnittlauch",
+        "amount": "8g"
+      },
+      {
+        "name": "Kohlrabi",
+        "amount": "80g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Paprika (gelb)",
+        "amount": "60g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kräuter fein hacken und mit dem Magerquark, Salz, Pfeffer und 1 bis 2 EL Wasser cremig rühren.",
+      "Kohlrabi und Karotte schälen, Paprika waschen und alles in Sticks schneiden.",
+      "Kräuterquark in ein Schälchen füllen und mit den Gemüsesticks und dem Knäckebrot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "volumenreich",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3539",
+    "title": "Quick-Win: Avocado-Ei-Teller mit Tomate, Limette und Knäckebrot",
+    "calories": 350,
+    "protein": 19,
+    "carbs": 18,
+    "fiber": 8,
+    "fat": 21,
+    "servingSizeGrams": 305,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3539_q14_avocado_ei_teller_tomate_limette.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Avocado",
+        "amount": "60g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Eier in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Avocado in Spalten schneiden und mit Limettensaft beträufeln.",
+      "Tomate in Scheiben schneiden und mit den halbierten Eiern, der Avocado und dem Knäckebrot anrichten.",
+      "Mit Salz und Pfeffer würzen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3540",
+    "title": "Quick-Win: Hüttenkäse-Schale mit Kirschtomaten, Gurke, Kichererbsen und Petersilie",
+    "calories": 235,
+    "protein": 24,
+    "carbs": 20,
+    "fiber": 5,
+    "fat": 7,
+    "servingSizeGrams": 380,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3540_q14_huettenkaese_schale_kichererbsen_kirschtomaten.jpg",
+    "ingredients": [
+      {
+        "name": "Hüttenkäse",
+        "amount": "150g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "80g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "60g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kichererbsen abspülen und abtropfen lassen.",
+      "Kirschtomaten halbieren, Gurke würfeln und Petersilie hacken.",
+      "Hüttenkäse in eine Schale geben, Gemüse und Kichererbsen darauf verteilen.",
+      "Mit Olivenöl, Petersilie, Salz und Pfeffer abschließen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm",
+      "low-carb",
+      "mediterran",
+      "low-gi",
+      "volumenreich",
+      "quick-win"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3541",
+    "title": "Quick-Win: Mozzarella-Tomaten-Teller mit Ei, Rucola und Vollkornbrot",
+    "calories": 320,
+    "protein": 23,
+    "carbs": 21,
+    "fiber": 5,
+    "fat": 16,
+    "servingSizeGrams": 305,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3541_q14_mozzarella_tomaten_teller_ei_rucola.jpg",
+    "ingredients": [
+      {
+        "name": "Mozzarella light",
+        "amount": "60g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "120g"
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Rucola",
+        "amount": "20g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "40g"
+      },
+      {
+        "name": "Basilikum",
+        "amount": "2g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Das Ei in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Tomate und Mozzarella light in Scheiben schneiden und abwechselnd auf einen Teller legen.",
+      "Rucola und das halbierte Ei danebenlegen, mit Olivenöl beträufeln.",
+      "Mit Basilikum, Salz und Pfeffer bestreuen und mit dem Vollkornbrot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3542",
+    "title": "Quick-Win: Räucherforellen-Teller mit Ei, Radieschen, Gurke und Knäckebrot",
+    "calories": 255,
+    "protein": 24,
+    "carbs": 16,
+    "fiber": 4,
+    "fat": 10,
+    "servingSizeGrams": 280,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3542_q14_raeucherforelle_teller_ei_radieschen_gurke.jpg",
+    "ingredients": [
+      {
+        "name": "Räucherforelle",
+        "amount": "60g"
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Radieschen",
+        "amount": "60g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Dill",
+        "amount": "2g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Das Ei in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Radieschen und Gurke waschen und in Scheiben schneiden.",
+      "Räucherforelle in Stücke zupfen und mit dem halbierten Ei, dem Gemüse und dem Knäckebrot anrichten.",
+      "Mit Dill und Pfeffer bestreuen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "pescetarisch",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "ei",
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3543",
+    "title": "Quick-Win: Eiweiß-Rührei mit Champignons, Spinat und Vollkorntoast",
+    "calories": 270,
+    "protein": 27,
+    "carbs": 15,
+    "fiber": 4,
+    "fat": 10,
+    "servingSizeGrams": 315,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3543_q14_eiweiss_ruehrei_champignons_spinat_toast.jpg",
+    "ingredients": [
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Eiklar",
+        "amount": "120g"
+      },
+      {
+        "name": "Champignons",
+        "amount": "80g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "40g"
+      },
+      {
+        "name": "Vollkorntoast",
+        "amount": "1 Scheibe (30g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Champignons in Scheiben schneiden und im Rapsöl 3 Minuten anbraten.",
+      "Ei und Eiklar mit Salz und Pfeffer verquirlen, in die Pfanne geben und unter Rühren 2 bis 3 Minuten stocken lassen.",
+      "Babyspinat unterheben, bis er zusammenfällt.",
+      "Vollkorntoast rösten und mit dem Rührei servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3544",
+    "title": "Quick-Win: Tofu-Teller mit Kirschtomaten, gelber Paprika, Rucola und Kürbiskernen",
+    "calories": 220,
+    "protein": 19,
+    "carbs": 9,
+    "fiber": 5,
+    "fat": 11,
+    "servingSizeGrams": 330,
+    "prepTimeMinutes": 8,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3544_q14_tofu_teller_kirschtomaten_paprika_rucola_kuerbiskerne.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "120g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Paprika (gelb)",
+        "amount": "80g"
+      },
+      {
+        "name": "Rucola",
+        "amount": "20g"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": "5g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Paprikapulver",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Tofu trocken tupfen, in Würfel schneiden und mit Paprikapulver, Salz und Pfeffer würzen.",
+      "Kirschtomaten halbieren, Paprika in Streifen schneiden und Rucola waschen.",
+      "Alles auf einem Teller anrichten und mit Zitronensaft beträufeln.",
+      "Mit Kürbiskernen bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3545",
+    "title": "Quick-Win: Hummus-Ei-Teller mit Kirschtomaten, Paprika, Rucola und Knäckebrot",
+    "calories": 300,
+    "protein": 15,
+    "carbs": 24,
+    "fiber": 8,
+    "fat": 15,
+    "servingSizeGrams": 285,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3545_q14_hummus_ei_teller_kirschtomaten_paprika_rucola.jpg",
+    "ingredients": [
+      {
+        "name": "Hummus",
+        "amount": "50g"
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "80g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "60g"
+      },
+      {
+        "name": "Rucola",
+        "amount": "15g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Paprikapulver",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Das Ei in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Kirschtomaten halbieren, Paprika in Streifen schneiden und Rucola waschen.",
+      "Hummus auf den Teller streichen und mit Paprikapulver bestäuben.",
+      "Das halbierte Ei, das Gemüse, den Rucola und das Knäckebrot daneben anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "ei",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_3546",
+    "title": "Quick-Win: Putenbrust-Röllchen mit Frischkäse light, Rucola, Paprika und Radieschen",
+    "calories": 220,
+    "protein": 23,
+    "carbs": 20,
+    "fiber": 6,
+    "fat": 4,
+    "servingSizeGrams": 295,
+    "prepTimeMinutes": 8,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3546_q14_putenbrust_roellchen_frischkaese_rucola_paprika.jpg",
+    "ingredients": [
+      {
+        "name": "Putenaufschnitt",
+        "amount": "80g"
+      },
+      {
+        "name": "Frischkäse light",
+        "amount": "40g"
+      },
+      {
+        "name": "Rucola",
+        "amount": "15g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "80g"
+      },
+      {
+        "name": "Radieschen",
+        "amount": "60g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      }
+    ],
+    "instructions": [
+      "Paprika in lange, dünne Streifen schneiden, Rucola waschen und Radieschen halbieren.",
+      "Putenaufschnitt dünn mit Frischkäse light bestreichen.",
+      "Je etwas Rucola und ein paar Paprikastreifen darauflegen und die Scheiben aufrollen.",
+      "Röllchen mit den Radieschen und dem Knäckebrot anrichten."
+    ],
+    "dietTags": [
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3547",
+    "title": "Quick-Win: Herzhafte Skyr-Gurken-Schale mit Ei, Dill und Pumpernickel",
+    "calories": 270,
+    "protein": 27,
+    "carbs": 24,
+    "fiber": 4,
+    "fat": 7,
+    "servingSizeGrams": 355,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3547_q14_herzhafte_skyr_gurken_schale_ei_dill.jpg",
+    "ingredients": [
+      {
+        "name": "Skyr",
+        "amount": "150g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Dill",
+        "amount": "3g"
+      },
+      {
+        "name": "Pumpernickel",
+        "amount": "40g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Das Ei in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Gurke klein würfeln, Dill fein hacken.",
+      "Skyr mit Gurke, Dill, Salz und Pfeffer verrühren und in eine Schale geben.",
+      "Das Ei vierteln, auf die Schale setzen und mit dem Pumpernickel servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "volumenreich",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3548",
+    "title": "Quick-Win: Rührei mit Erbsen, Frühlingszwiebel und Radieschen-Gurken-Salat",
+    "calories": 265,
+    "protein": 20,
+    "carbs": 10,
+    "fiber": 5,
+    "fat": 15,
+    "servingSizeGrams": 330,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3548_q14_ruehrei_erbsen_fruehlingszwiebel_radieschen.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "60g"
+      },
+      {
+        "name": "Frühlingszwiebel",
+        "amount": "15g"
+      },
+      {
+        "name": "Radieschen",
+        "amount": "50g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Rapsöl erhitzen, Erbsen und Frühlingszwiebel darin 2 Minuten andünsten.",
+      "Eier mit Salz und Pfeffer verquirlen, dazugeben und unter Rühren 3 Minuten stocken lassen.",
+      "Radieschen und Gurke in Scheiben schneiden und leicht salzen.",
+      "Rührei mit dem Salat auf einem Teller anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3549",
+    "title": "Quick-Win: Bresaola-Teller mit Rucola, Kirschtomaten, Ei und Knäckebrot",
+    "calories": 230,
+    "protein": 24,
+    "carbs": 15,
+    "fiber": 4,
+    "fat": 7,
+    "servingSizeGrams": 225,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3549_q14_bresaola_teller_rucola_kirschtomaten_ei.jpg",
+    "ingredients": [
+      {
+        "name": "Bresaola (Rind)",
+        "amount": "40g"
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Rucola",
+        "amount": "20g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "80g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Das Ei in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Rucola waschen, Kirschtomaten halbieren.",
+      "Bresaola auf einem Teller auslegen, Rucola und Tomaten daraufgeben und mit Zitronensaft beträufeln.",
+      "Das halbierte Ei und das Knäckebrot dazulegen und mit Pfeffer würzen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3550",
+    "title": "Quick-Win: Hähnchenbrust-Avocado-Teller mit Tomate, Kresse und Vollkornbrot",
+    "calories": 240,
+    "protein": 17,
+    "carbs": 21,
+    "fiber": 8,
+    "fat": 9,
+    "servingSizeGrams": 260,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3550_q14_haehnchenbrust_avocado_teller_tomate_kresse.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustaufschnitt",
+        "amount": "60g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "50g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Kresse",
+        "amount": "3g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "40g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Avocado in Scheiben schneiden und mit Zitronensaft beträufeln.",
+      "Tomate in Scheiben schneiden.",
+      "Hähnchenbrustaufschnitt, Avocado, Tomate und Vollkornbrot auf einem Teller anrichten.",
+      "Mit Kresse, Salz und Pfeffer bestreuen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3551",
+    "title": "Quick-Win: Thunfisch-Hüttenkäse-Creme mit Gurke, Paprika, Staudensellerie und Knäckebrot",
+    "calories": 240,
+    "protein": 31,
+    "carbs": 21,
+    "fiber": 6,
+    "fat": 3,
+    "servingSizeGrams": 375,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3551_q14_thunfisch_huettenkaese_creme_gemuesesticks.jpg",
+    "ingredients": [
+      {
+        "name": "Thunfisch (abgetropft, im eigenen Saft)",
+        "amount": "60g"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "100g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "60g"
+      },
+      {
+        "name": "Staudensellerie",
+        "amount": "50g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Thunfisch mit Hüttenkäse, Zitronensaft, Salz und Pfeffer mit einer Gabel vermengen.",
+      "Gurke, Paprika und Staudensellerie in Sticks schneiden.",
+      "Die Creme in ein Schälchen füllen und mit Gemüsesticks und Knäckebrot servieren."
+    ],
+    "dietTags": [
+      "high-protein",
+      "kalorienarm",
+      "pescetarisch",
+      "volumenreich",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "fisch",
+      "sellerie"
+    ]
+  },
+  {
+    "id": "rec_3552",
+    "title": "Quick-Win: Ei-Hüttenkäse-Teller mit Feldsalat, Apfel und Walnüssen",
+    "calories": 350,
+    "protein": 25,
+    "carbs": 29,
+    "fiber": 6,
+    "fat": 15,
+    "servingSizeGrams": 320,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3552_q14_ei_huettenkaese_teller_feldsalat_apfel_walnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "100g"
+      },
+      {
+        "name": "Feldsalat",
+        "amount": "30g"
+      },
+      {
+        "name": "Apfel",
+        "amount": "80g"
+      },
+      {
+        "name": "Walnüsse",
+        "amount": "10g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "40g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Das Ei in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Feldsalat waschen, Apfel in dünne Spalten schneiden.",
+      "Hüttenkäse, Feldsalat, Apfel und das halbierte Ei auf einem Teller anrichten.",
+      "Walnüsse grob hacken und darüberstreuen, mit Pfeffer würzen und das Vollkornbrot dazulegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_3553",
+    "title": "Quick-Win: Spiegeleier mit weißen Bohnen, Tomate und Babyspinat",
+    "calories": 295,
+    "protein": 22,
+    "carbs": 15,
+    "fiber": 6,
+    "fat": 15,
+    "servingSizeGrams": 335,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3553_q14_spiegeleier_weisse_bohnen_tomate_spinat.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Weiße Bohnen (abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "30g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Weiße Bohnen abspülen, Tomate würfeln.",
+      "Rapsöl in einer Pfanne erhitzen, Bohnen und Tomate 2 Minuten erwärmen und an den Rand schieben.",
+      "Eier in die Pfanne schlagen und 3 bis 4 Minuten braten, Babyspinat in der letzten Minute dazugeben.",
+      "Mit Salz und Pfeffer würzen und direkt auf einem Teller servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3554",
+    "title": "Quick-Win: Kräuter-Omelett mit Hüttenkäse und Tomatensalat",
+    "calories": 275,
+    "protein": 24,
+    "carbs": 9,
+    "fiber": 2,
+    "fat": 16,
+    "servingSizeGrams": 350,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3554_q14_kraeuter_omelett_huettenkaese_tomatensalat.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "60g"
+      },
+      {
+        "name": "Petersilie, Schnittlauch",
+        "amount": "6g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "150g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "10g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Eier mit gehackten Kräutern, Salz und Pfeffer verquirlen.",
+      "Rapsöl erhitzen, die Eimasse hineingeben und zugedeckt 4 Minuten stocken lassen.",
+      "Hüttenkäse auf eine Hälfte geben und das Omelett zusammenklappen.",
+      "Tomate in Scheiben und Zwiebel in feine Ringe schneiden, salzen, pfeffern und zum Omelett servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm",
+      "low-carb",
+      "volumenreich",
+      "quick-win"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3555",
+    "title": "Quick-Win: Räucherlachs-Teller mit Avocado, Radieschen, Gurke und Knäckebrot",
+    "calories": 250,
+    "protein": 17,
+    "carbs": 16,
+    "fiber": 7,
+    "fat": 12,
+    "servingSizeGrams": 235,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3555_q14_raeucherlachs_teller_avocado_radieschen_knaecke.jpg",
+    "ingredients": [
+      {
+        "name": "Räucherlachs",
+        "amount": "60g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "40g"
+      },
+      {
+        "name": "Radieschen",
+        "amount": "50g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "60g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Avocado in Scheiben schneiden und mit Zitronensaft beträufeln.",
+      "Radieschen und Gurke in dünne Scheiben schneiden.",
+      "Räucherlachs, Avocado, Gemüse und Knäckebrot auf einem Teller anrichten und mit Pfeffer würzen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "pescetarisch",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3556",
+    "title": "Quick-Win: Gefüllte Avocado mit Hüttenkäse, Kirschtomaten und Kresse",
+    "calories": 250,
+    "protein": 18,
+    "carbs": 14,
+    "fiber": 8,
+    "fat": 13,
+    "servingSizeGrams": 305,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3556_q14_gefuellte_avocado_huettenkaese_kirschtomaten.jpg",
+    "ingredients": [
+      {
+        "name": "Avocado",
+        "amount": "1/2 Stück (70g)"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "120g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Kresse",
+        "amount": "3g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "1 Scheibe (10g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Avocado halbieren und den Kern entfernen.",
+      "Hüttenkäse mit Salz und Pfeffer würzen und in die Avocadohälfte füllen.",
+      "Kirschtomaten halbieren, neben die Avocado legen und alles mit Kresse bestreuen.",
+      "Mit dem Knäckebrot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3557",
+    "title": "Quick-Win: Rührei mit Putenbrust, Zucchini und Kirschtomaten",
+    "calories": 265,
+    "protein": 24,
+    "carbs": 5,
+    "fiber": 2,
+    "fat": 15,
+    "servingSizeGrams": 325,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3557_q14_ruehrei_putenbrust_zucchini_kirschtomaten.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Putenaufschnitt",
+        "amount": "40g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "80g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "80g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zucchini klein würfeln, Putenaufschnitt in Streifen schneiden.",
+      "Rapsöl erhitzen und Zucchini 3 Minuten anbraten, dann die Putenstreifen kurz mitbraten.",
+      "Eier mit Salz und Pfeffer verquirlen, dazugeben und unter Rühren 2 bis 3 Minuten stocken lassen.",
+      "Mit halbierten Kirschtomaten auf einem Teller servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3558",
+    "title": "Quick-Win: Eier-Teller mit Roter Bete, Feldsalat und Pumpernickel",
+    "calories": 315,
+    "protein": 19,
+    "carbs": 23,
+    "fiber": 6,
+    "fat": 15,
+    "servingSizeGrams": 275,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3558_q14_eier_teller_rote_bete_feldsalat_pumpernickel.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Rote Bete (gegart)",
+        "amount": "80g"
+      },
+      {
+        "name": "Feldsalat",
+        "amount": "30g"
+      },
+      {
+        "name": "Pumpernickel",
+        "amount": "40g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Eier in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Vorgegarte Rote Bete in Scheiben schneiden, Feldsalat waschen.",
+      "Feldsalat und Rote Bete mit Olivenöl, Salz und Pfeffer anmachen.",
+      "Eier halbieren und mit dem Salat und dem Pumpernickel auf einem Teller anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3559",
+    "title": "Quick-Win: Hähnchenbrust-Teller mit Gurken-Joghurt-Dip und Vollkornpita",
+    "calories": 250,
+    "protein": 29,
+    "carbs": 27,
+    "fiber": 4,
+    "fat": 2,
+    "servingSizeGrams": 335,
+    "prepTimeMinutes": 8,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3559_q14_haehnchenbrust_teller_gurken_joghurt_dip.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustaufschnitt",
+        "amount": "70g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "100g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "120g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "2g"
+      },
+      {
+        "name": "Dill",
+        "amount": "2g"
+      },
+      {
+        "name": "Vollkornpita",
+        "amount": "40g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "40 g Gurke fein raspeln und gut ausdrücken, den Rest in Scheiben schneiden.",
+      "Joghurt mit geraspelter Gurke, gepresstem Knoblauch, Dill, Salz und Pfeffer verrühren.",
+      "Hähnchenbrustaufschnitt, Gurkenscheiben, Dip und Vollkornpita auf einem Teller anrichten."
+    ],
+    "dietTags": [
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3560",
+    "title": "Quick-Win: Räuchertofu-Teller mit Avocado, Gurke, Kirschtomaten und Pumpernickel",
+    "calories": 300,
+    "protein": 18,
+    "carbs": 22,
+    "fiber": 9,
+    "fat": 15,
+    "servingSizeGrams": 305,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3560_q14_raeuchertofu_teller_avocado_gurke_pumpernickel.jpg",
+    "ingredients": [
+      {
+        "name": "Räuchertofu",
+        "amount": "80g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "40g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "60g"
+      },
+      {
+        "name": "Pumpernickel",
+        "amount": "40g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Räuchertofu in dünne Scheiben schneiden.",
+      "Avocado in Spalten schneiden und mit Limettensaft beträufeln, Gurke in Scheiben schneiden und Kirschtomaten halbieren.",
+      "Alles mit dem Pumpernickel auf einem Teller anrichten und mit Salz und Pfeffer würzen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "kalorienarm",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3561",
+    "title": "Quick-Win: Thunfisch-Avocado-Teller mit Kirschtomaten, Limette und Knäckebrot",
+    "calories": 250,
+    "protein": 24,
+    "carbs": 16,
+    "fiber": 8,
+    "fat": 9,
+    "servingSizeGrams": 255,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3561_q14_thunfisch_avocado_teller_kirschtomaten_limette.jpg",
+    "ingredients": [
+      {
+        "name": "Thunfisch (abgetropft, im eigenen Saft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "50g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Koriander",
+        "amount": "2g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Avocado würfeln und mit Limettensaft, Salz und Pfeffer mischen.",
+      "Kirschtomaten halbieren und Thunfisch grob zerpflücken.",
+      "Thunfisch, Avocado und Tomaten auf einem Teller anrichten, mit Koriander bestreuen und mit dem Knäckebrot servieren."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb",
+      "pescetarisch",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3562",
+    "title": "Quick-Win: Eiersalat light mit Skyr, Schnittlauch, Radieschen, Tomate und Knäckebrot",
+    "calories": 280,
+    "protein": 23,
+    "carbs": 18,
+    "fiber": 5,
+    "fat": 12,
+    "servingSizeGrams": 305,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3562_q14_eiersalat_light_skyr_radieschen_tomate.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Skyr",
+        "amount": "40g"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": "4g"
+      },
+      {
+        "name": "Radieschen",
+        "amount": "60g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "60g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Eier in kochendes Wasser legen und 8 Minuten hart kochen, dann kalt abschrecken und schälen.",
+      "Eier grob hacken und mit Skyr, Schnittlauch, Salz und Pfeffer vermengen.",
+      "Radieschen und Tomate in Scheiben schneiden.",
+      "Eiersalat auf das Knäckebrot geben und mit Radieschen und Tomate auf einem Teller servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3563",
+    "title": "Quick-Win: Kichererbsen-Gurken-Teller mit Feta light, Tomate und Minze",
+    "calories": 260,
+    "protein": 16,
+    "carbs": 24,
+    "fiber": 8,
+    "fat": 11,
+    "servingSizeGrams": 335,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3563_q14_kichererbsen_gurken_teller_feta_light_minze.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "80g"
+      },
+      {
+        "name": "Feta light",
+        "amount": "45g"
+      },
+      {
+        "name": "Minze",
+        "amount": "3g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL (3g)"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kichererbsen abspülen und abtropfen lassen.",
+      "Gurke und Tomate würfeln, Minze grob hacken.",
+      "Alles mit Olivenöl, Zitronensaft, Salz und Pfeffer mischen und auf einem Teller anrichten.",
+      "Feta light darüberbröseln."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3564",
+    "title": "Quick-Win: Putenbrust-Hüttenkäse-Teller mit Tomate, Schnittlauch und Pumpernickel",
+    "calories": 215,
+    "protein": 25,
+    "carbs": 22,
+    "fiber": 5,
+    "fat": 3,
+    "servingSizeGrams": 295,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3564_q14_putenbrust_huettenkaese_teller_tomate_pumpernickel.jpg",
+    "ingredients": [
+      {
+        "name": "Putenaufschnitt",
+        "amount": "50g"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": "3g"
+      },
+      {
+        "name": "Pumpernickel",
+        "amount": "40g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Tomate in Scheiben schneiden, Schnittlauch fein schneiden.",
+      "Hüttenkäse mit Schnittlauch, Salz und Pfeffer würzen.",
+      "Putenaufschnitt, Hüttenkäse, Tomate und Pumpernickel auf einem Teller anrichten."
+    ],
+    "dietTags": [
+      "kalorienarm",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3565",
+    "title": "Quick-Win: Hummus-Teller mit Edamame, Karotte, Gurke und Paprika",
+    "calories": 280,
+    "protein": 15,
+    "carbs": 21,
+    "fiber": 10,
+    "fat": 15,
+    "servingSizeGrams": 320,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3565_q14_hummus_teller_edamame_karotte_gurke_paprika.jpg",
+    "ingredients": [
+      {
+        "name": "Hummus",
+        "amount": "60g"
+      },
+      {
+        "name": "Edamame (geschält)",
+        "amount": "80g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "60g"
+      },
+      {
+        "name": "Paprika (gelb)",
+        "amount": "60g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Edamame 2 Minuten in kochendem Wasser erhitzen, abschrecken und leicht salzen.",
+      "Karotte, Gurke und Paprika in Sticks schneiden.",
+      "Hummus in ein Schälchen geben und mit Edamame und Gemüsesticks anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "ballaststoffreich",
+      "quick-win"
+    ],
+    "allergens": [
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_3566",
+    "title": "Quick-Win: Räuchermakrelen-Teller mit Apfel, Radieschen, Feldsalat und Knäckebrot",
+    "calories": 245,
+    "protein": 15,
+    "carbs": 21,
+    "fiber": 5,
+    "fat": 10,
+    "servingSizeGrams": 225,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3566_q14_raeuchermakrele_teller_apfel_radieschen_feldsalat.jpg",
+    "ingredients": [
+      {
+        "name": "Geräucherte Makrele",
+        "amount": "60g"
+      },
+      {
+        "name": "Apfel",
+        "amount": "60g"
+      },
+      {
+        "name": "Radieschen",
+        "amount": "50g"
+      },
+      {
+        "name": "Feldsalat",
+        "amount": "30g"
+      },
+      {
+        "name": "Vollkornknäckebrot",
+        "amount": "2 Scheiben (20g)"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Makrele von Haut und Gräten befreien und in Stücke zupfen.",
+      "Apfel und Radieschen in dünne Scheiben schneiden, den Apfel mit Zitronensaft beträufeln und den Feldsalat waschen.",
+      "Alles mit dem Knäckebrot auf einem Teller anrichten und mit Pfeffer würzen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "kalorienarm",
+      "pescetarisch",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3567",
+    "title": "Quick-Win: Magerquark-Schale mit Himbeeren, Haselnüssen und Vanille",
+    "calories": 240,
+    "protein": 27,
+    "carbs": 14,
+    "fiber": 8,
+    "fat": 7,
+    "servingSizeGrams": 310,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3567_q14_magerquark_schale_himbeeren_haselnuss_vanille.jpg",
+    "ingredients": [
+      {
+        "name": "Magerquark",
+        "amount": "200g"
+      },
+      {
+        "name": "Himbeeren",
+        "amount": "100g"
+      },
+      {
+        "name": "Haselnüsse",
+        "amount": "10g"
+      },
+      {
+        "name": "Vanille",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Magerquark mit Vanille und 2 EL Wasser cremig rühren und in eine Schale geben.",
+      "Himbeeren vorsichtig waschen und auf dem Quark verteilen.",
+      "Haselnüsse grob hacken und darüberstreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "milch",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_3568",
+    "title": "Quick-Win: Hüttenkäse-Schale mit Pfirsich, Kürbiskernen und Zimt",
+    "calories": 210,
+    "protein": 23,
+    "carbs": 16,
+    "fiber": 3,
+    "fat": 7,
+    "servingSizeGrams": 280,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3568_q14_huettenkaese_schale_pfirsich_kuerbiskerne_zimt.jpg",
+    "ingredients": [
+      {
+        "name": "Hüttenkäse",
+        "amount": "150g"
+      },
+      {
+        "name": "Pfirsich",
+        "amount": "120g"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": "10g"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Pfirsich waschen, entsteinen und in Spalten schneiden.",
+      "Hüttenkäse in eine Schale geben und die Pfirsichspalten darauflegen.",
+      "Mit Kürbiskernen und Zimt bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3569",
+    "title": "Quick-Win: Skyr-Schale mit Mango, Limette und Hanfsamen",
+    "calories": 245,
+    "protein": 26,
+    "carbs": 23,
+    "fiber": 2,
+    "fat": 6,
+    "servingSizeGrams": 315,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3569_q14_skyr_schale_mango_limette_hanfsamen.jpg",
+    "ingredients": [
+      {
+        "name": "Skyr",
+        "amount": "200g"
+      },
+      {
+        "name": "Mango",
+        "amount": "100g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "5ml"
+      },
+      {
+        "name": "Hanfsamen",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Mango schälen und in Würfel schneiden, mit Limettensaft mischen.",
+      "Skyr glatt rühren und in eine Schale geben.",
+      "Mangowürfel darauf verteilen und mit Hanfsamen bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3570",
+    "title": "Quick-Win: Joghurt-Schale mit Brombeeren, Chiasamen und Haferflocken",
+    "calories": 260,
+    "protein": 25,
+    "carbs": 27,
+    "fiber": 10,
+    "fat": 5,
+    "servingSizeGrams": 325,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3570_q14_joghurt_schale_brombeeren_chia_haferflocken.jpg",
+    "ingredients": [
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "200g"
+      },
+      {
+        "name": "Brombeeren",
+        "amount": "100g"
+      },
+      {
+        "name": "Chiasamen",
+        "amount": "10g"
+      },
+      {
+        "name": "Haferflocken",
+        "amount": "15g"
+      }
+    ],
+    "instructions": [
+      "Joghurt mit Chiasamen verrühren und 2 Minuten quellen lassen.",
+      "Brombeeren waschen und abtropfen lassen.",
+      "Joghurt in eine Schale geben, mit Brombeeren und Haferflocken belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "ballaststoffreich",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3571",
+    "title": "Quick-Win: Sojaskyr-Schale mit Heidelbeeren, Leinsamen und Mandeln",
+    "calories": 265,
+    "protein": 19,
+    "carbs": 14,
+    "fiber": 10,
+    "fat": 13,
+    "servingSizeGrams": 315,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3571_q14_sojaskyr_schale_heidelbeeren_leinsamen_mandeln.jpg",
+    "ingredients": [
+      {
+        "name": "Sojaskyr",
+        "amount": "200g"
+      },
+      {
+        "name": "Heidelbeeren",
+        "amount": "100g"
+      },
+      {
+        "name": "Leinsamen (geschrotet)",
+        "amount": "5g"
+      },
+      {
+        "name": "Mandeln",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Sojaskyr glatt rühren und in eine Schale geben.",
+      "Heidelbeeren waschen und darauf verteilen.",
+      "Mit geschrotetem Leinsamen und gehackten Mandeln bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "ballaststoffreich",
+      "low-carb",
+      "quick-win"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3572",
+    "title": "Quick-Win: Magerquark-Schale mit Banane, Kakao und Erdnussmus",
+    "calories": 300,
+    "protein": 29,
+    "carbs": 30,
+    "fiber": 4,
+    "fat": 7,
+    "servingSizeGrams": 315,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3572_q14_magerquark_schale_banane_kakao_erdnussmus.jpg",
+    "ingredients": [
+      {
+        "name": "Magerquark",
+        "amount": "200g"
+      },
+      {
+        "name": "Banane",
+        "amount": "100g"
+      },
+      {
+        "name": "Kakaopulver (ungesüßt)",
+        "amount": "5g"
+      },
+      {
+        "name": "Erdnussmus",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Magerquark mit Kakaopulver und 2 EL Wasser cremig rühren.",
+      "Banane in Scheiben schneiden.",
+      "Kakaoquark in eine Schale geben, mit Bananenscheiben belegen und das Erdnussmus darüberträufeln."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "milch",
+      "erdnuss"
+    ]
+  },
+  {
+    "id": "rec_3573",
+    "title": "Quick-Win: Hüttenkäse-Schale mit Kiwi, Granatapfel und Haferflocken",
+    "calories": 255,
+    "protein": 28,
+    "carbs": 27,
+    "fiber": 5,
+    "fat": 4,
+    "servingSizeGrams": 340,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3573_q14_huettenkaese_schale_kiwi_granatapfel_haferflocken.jpg",
+    "ingredients": [
+      {
+        "name": "Hüttenkäse",
+        "amount": "200g"
+      },
+      {
+        "name": "Kiwi",
+        "amount": "100g"
+      },
+      {
+        "name": "Granatapfelkerne",
+        "amount": "30g"
+      },
+      {
+        "name": "Haferflocken",
+        "amount": "10g"
+      }
+    ],
+    "instructions": [
+      "Kiwi schälen und in Scheiben oder Würfel schneiden.",
+      "Hüttenkäse in eine Schale geben und die Kiwi darauf verteilen.",
+      "Mit Granatapfelkernen und Haferflocken bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3574",
+    "title": "Quick-Win: Skyr-Schale mit Erdbeeren, Pistazien und Basilikum",
+    "calories": 230,
+    "protein": 25,
+    "carbs": 19,
+    "fiber": 4,
+    "fat": 5,
+    "servingSizeGrams": 360,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3574_q14_skyr_schale_erdbeeren_pistazien_basilikum.jpg",
+    "ingredients": [
+      {
+        "name": "Skyr",
+        "amount": "200g"
+      },
+      {
+        "name": "Erdbeeren",
+        "amount": "150g"
+      },
+      {
+        "name": "Pistazien",
+        "amount": "10g"
+      },
+      {
+        "name": "Basilikum",
+        "amount": "2g"
+      }
+    ],
+    "instructions": [
+      "Erdbeeren waschen, putzen und vierteln.",
+      "Skyr in eine Schale geben und die Erdbeeren darauf verteilen.",
+      "Pistazien hacken und mit fein geschnittenem Basilikum darüberstreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm",
+      "low-carb",
+      "dash",
+      "volumenreich",
+      "quick-win"
+    ],
+    "allergens": [
+      "milch",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_3575",
+    "title": "Quick-Win: Skyr-Schale mit Kirschen, Kakaonibs und Haferflocken",
+    "calories": 270,
+    "protein": 26,
+    "carbs": 30,
+    "fiber": 4,
+    "fat": 4,
+    "servingSizeGrams": 320,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3575_q14_skyr_schale_kirschen_kakaonibs_haferflocken.jpg",
+    "ingredients": [
+      {
+        "name": "Skyr",
+        "amount": "200g"
+      },
+      {
+        "name": "Kirschen",
+        "amount": "100g"
+      },
+      {
+        "name": "Kakaonibs",
+        "amount": "5g"
+      },
+      {
+        "name": "Haferflocken",
+        "amount": "15g"
+      }
+    ],
+    "instructions": [
+      "Kirschen waschen, entsteinen und halbieren.",
+      "Skyr glatt rühren und in eine Schale geben.",
+      "Kirschen darauf verteilen und mit Kakaonibs und Haferflocken bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3576",
+    "title": "Quick-Win: Joghurt-Schale mit Nektarine, Haferflocken und Walnüssen",
+    "calories": 275,
+    "protein": 25,
+    "carbs": 28,
+    "fiber": 4,
+    "fat": 7,
+    "servingSizeGrams": 345,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3576_q14_joghurt_schale_nektarine_haferflocken_walnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "200g"
+      },
+      {
+        "name": "Nektarine",
+        "amount": "120g"
+      },
+      {
+        "name": "Haferflocken",
+        "amount": "15g"
+      },
+      {
+        "name": "Walnüsse",
+        "amount": "8g"
+      }
+    ],
+    "instructions": [
+      "Nektarine waschen, entsteinen und in Spalten schneiden.",
+      "Joghurt in eine Schale geben und die Nektarinenspalten darauflegen.",
+      "Haferflocken und grob gehackte Walnüsse darüberstreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "dash",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "schalenfruechte"
+    ]
   }
 ]

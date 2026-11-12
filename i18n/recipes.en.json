@@ -69335,5 +69335,889 @@
       "Plate cold and eat at once.",
       "Season to taste and serve at once."
     ]
+  },
+  {
+    "id": "rec_3527",
+    "title": "Quick win: egg plate with cucumber, tomato, wholemeal bread and chives",
+    "ingredients": [
+      "Eggs",
+      "Cucumber",
+      "Tomato",
+      "Wholemeal bread",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the eggs in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Meanwhile wash the cucumber and tomato and cut them into slices.",
+      "Halve the eggs and arrange them on a plate with cucumber, tomato and the bread.",
+      "Sprinkle with salt, pepper and finely cut chives."
+    ]
+  },
+  {
+    "id": "rec_3528",
+    "title": "Quick win: scrambled eggs with baby spinach, cherry tomatoes and edamame",
+    "ingredients": [
+      "Eggs",
+      "Baby spinach",
+      "Cherry tomatoes",
+      "Edamame (shelled)",
+      "Rapeseed oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Whisk the eggs in a bowl with salt and pepper.",
+      "Heat the rapeseed oil in a non-stick pan and warm the edamame in it for 2 minutes.",
+      "Add the eggs and stir over medium heat for 3 minutes until set, folding in the baby spinach during the last minute.",
+      "Halve the cherry tomatoes and arrange them next to the scrambled eggs on the plate."
+    ]
+  },
+  {
+    "id": "rec_3529",
+    "title": "Quick win: cottage cheese plate with radishes, pepper, cucumber and crispbread",
+    "ingredients": [
+      "Cottage cheese",
+      "Radishes",
+      "Red peppers",
+      "Cucumber",
+      "Wholegrain crispbread",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Wash the radishes, pepper and cucumber and cut them into slices or strips.",
+      "Put the cottage cheese into a small bowl and season with salt, pepper and chives.",
+      "Arrange the vegetables and 2 slices of crispbread around the bowl on the plate."
+    ]
+  },
+  {
+    "id": "rec_3530",
+    "title": "Quick win: turkey breast plate with egg, cucumber, pepper and wholegrain crispbread",
+    "ingredients": [
+      "Sliced turkey breast",
+      "Egg",
+      "Cucumber",
+      "Yellow pepper",
+      "Wholegrain crispbread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the egg in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Wash the cucumber and pepper, slice the cucumber and cut the pepper into strips.",
+      "Loosely fold the sliced turkey and arrange it on a plate with the halved egg, the vegetables and the crispbread.",
+      "Season the egg with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_3531",
+    "title": "Quick win: skyr bowl with blueberries, rolled oats, sunflower seeds and cinnamon",
+    "ingredients": [
+      "Skyr",
+      "Blueberries",
+      "Rolled oats",
+      "Sunflower seeds",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Stir the skyr smooth in a bowl.",
+      "Wash and drain the blueberries and spread them over the skyr.",
+      "Sprinkle with the oats, sunflower seeds and cinnamon and eat straight away."
+    ]
+  },
+  {
+    "id": "rec_3532",
+    "title": "Quick win: smoked salmon plate with egg, cucumber, dill and pumpernickel",
+    "ingredients": [
+      "Smoked salmon",
+      "Egg",
+      "Cucumber",
+      "Dill",
+      "Pumpernickel",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the egg in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Wash the cucumber and cut it into thin slices.",
+      "Arrange the smoked salmon, the halved egg, the cucumber and the pumpernickel on a plate.",
+      "Drizzle the salmon with lemon juice and sprinkle everything with dill, salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_3533",
+    "title": "Quick win: tuna plate with egg, tomato, cucumber and red onion",
+    "ingredients": [
+      "Tuna (drained, in its own juice)",
+      "Egg",
+      "Tomato",
+      "Cucumber",
+      "Red onion",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the egg in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Slice the tomato and cucumber and cut the red onion into thin rings.",
+      "Flake the tuna and arrange it on a plate with the halved egg and the vegetables.",
+      "Drizzle with olive oil and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_3534",
+    "title": "Quick win: chicken breast plate with hummus, cucumber, carrot and wholemeal bread",
+    "ingredients": [
+      "Sliced chicken breast",
+      "Hummus",
+      "Cucumber",
+      "Carrot",
+      "Wholemeal bread"
+    ],
+    "instructions": [
+      "Peel or wash the cucumber and carrot and cut them into sticks.",
+      "Put the hummus into a small bowl.",
+      "Arrange the sliced chicken, vegetable sticks and bread next to the hummus and dip."
+    ]
+  },
+  {
+    "id": "rec_3535",
+    "title": "Quick win: light feta plate with watermelon, cucumber, mint and crispbread",
+    "ingredients": [
+      "Light feta",
+      "Watermelon",
+      "Cucumber",
+      "Mint",
+      "Wholegrain crispbread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the watermelon without rind into cubes and slice the cucumber.",
+      "Cut the light feta into cubes or crumble it roughly.",
+      "Arrange everything on a plate, sprinkle with mint and pepper and add the crispbread."
+    ]
+  },
+  {
+    "id": "rec_3536",
+    "title": "Quick win: fried eggs on wholemeal bread with tomato and rocket",
+    "ingredients": [
+      "Eggs",
+      "Wholemeal bread",
+      "Tomato",
+      "Rocket",
+      "Rapeseed oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Heat the rapeseed oil in a pan and crack in the eggs.",
+      "Fry over medium heat for 3 to 4 minutes until the whites are set.",
+      "Meanwhile slice the tomato and wash the rocket.",
+      "Top the bread with rocket and tomato, place the fried eggs on top and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_3537",
+    "title": "Quick win: omelette with pepper, spring onion and cucumber salad",
+    "ingredients": [
+      "Eggs",
+      "Egg white",
+      "Red peppers",
+      "Spring onion",
+      "Cucumber",
+      "Lemon juice",
+      "Rapeseed oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely dice the pepper and cut the spring onion into rings.",
+      "Whisk the eggs and egg white with salt and pepper.",
+      "Heat the rapeseed oil in a pan, fry the pepper for 1 minute, add the egg mixture and spring onion and let it set covered for 4 minutes.",
+      "Slice the cucumber thinly, dress it with lemon juice, salt and pepper and serve it next to the folded omelette."
+    ]
+  },
+  {
+    "id": "rec_3538",
+    "title": "Quick win: herb quark with kohlrabi, carrot and pepper sticks and crispbread",
+    "ingredients": [
+      "Low-fat quark",
+      "Parsley, chives",
+      "Kohlrabi",
+      "Carrot",
+      "Yellow pepper",
+      "Wholegrain crispbread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely chop the herbs and stir them into the quark with salt, pepper and 1 to 2 tbsp water until creamy.",
+      "Peel the kohlrabi and carrot, wash the pepper and cut everything into sticks.",
+      "Fill the herb quark into a small bowl and serve with the vegetable sticks and crispbread."
+    ]
+  },
+  {
+    "id": "rec_3539",
+    "title": "Quick win: avocado and egg plate with tomato, lime and crispbread",
+    "ingredients": [
+      "Eggs",
+      "Avocado",
+      "Tomato",
+      "Lime juice",
+      "Wholegrain crispbread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the eggs in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Cut the avocado into wedges and drizzle with lime juice.",
+      "Slice the tomato and arrange it with the halved eggs, the avocado and the crispbread.",
+      "Season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_3540",
+    "title": "Quick win: cottage cheese bowl with cherry tomatoes, cucumber, chickpeas and parsley",
+    "ingredients": [
+      "Cottage cheese",
+      "Cherry tomatoes",
+      "Cucumber",
+      "Chickpeas (drained)",
+      "Parsley",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse and drain the chickpeas.",
+      "Halve the cherry tomatoes, dice the cucumber and chop the parsley.",
+      "Put the cottage cheese into a bowl and spread the vegetables and chickpeas on top.",
+      "Finish with olive oil, parsley, salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_3541",
+    "title": "Quick win: mozzarella and tomato plate with egg, rocket and wholemeal bread",
+    "ingredients": [
+      "Light mozzarella",
+      "Tomato",
+      "Egg",
+      "Rocket",
+      "Wholemeal bread",
+      "Basil",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the egg in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Slice the tomato and light mozzarella and layer them alternately on a plate.",
+      "Add the rocket and the halved egg alongside and drizzle with olive oil.",
+      "Sprinkle with basil, salt and pepper and serve with the bread."
+    ]
+  },
+  {
+    "id": "rec_3542",
+    "title": "Quick win: smoked trout plate with egg, radishes, cucumber and crispbread",
+    "ingredients": [
+      "Smoked trout",
+      "Egg",
+      "Radishes",
+      "Cucumber",
+      "Wholegrain crispbread",
+      "Dill",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the egg in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Wash the radishes and cucumber and slice them.",
+      "Pull the smoked trout into pieces and arrange it with the halved egg, vegetables and crispbread.",
+      "Sprinkle with dill and pepper."
+    ]
+  },
+  {
+    "id": "rec_3543",
+    "title": "Quick win: egg white scramble with mushrooms, spinach and wholemeal toast",
+    "ingredients": [
+      "Egg",
+      "Egg white",
+      "Mushrooms",
+      "Baby spinach",
+      "Wholemeal toast",
+      "Rapeseed oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the mushrooms and fry them in the rapeseed oil for 3 minutes.",
+      "Whisk the egg and egg white with salt and pepper, pour into the pan and stir for 2 to 3 minutes until set.",
+      "Fold in the baby spinach until it wilts.",
+      "Toast the bread and serve with the scramble."
+    ]
+  },
+  {
+    "id": "rec_3544",
+    "title": "Quick win: tofu plate with cherry tomatoes, yellow pepper, rocket and pumpkin seeds",
+    "ingredients": [
+      "Firm plain tofu",
+      "Cherry tomatoes",
+      "Yellow pepper",
+      "Rocket",
+      "Pumpkin seeds",
+      "Lemon juice",
+      "Paprika powder",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Pat the tofu dry, cut it into cubes and season with paprika, salt and pepper.",
+      "Halve the cherry tomatoes, cut the pepper into strips and wash the rocket.",
+      "Arrange everything on a plate and drizzle with lemon juice.",
+      "Sprinkle with pumpkin seeds."
+    ]
+  },
+  {
+    "id": "rec_3545",
+    "title": "Quick win: hummus and egg plate with cherry tomatoes, pepper, rocket and crispbread",
+    "ingredients": [
+      "Hummus",
+      "Egg",
+      "Cherry tomatoes",
+      "Red peppers",
+      "Rocket",
+      "Wholegrain crispbread",
+      "Paprika powder"
+    ],
+    "instructions": [
+      "Place the egg in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Halve the cherry tomatoes, cut the pepper into strips and wash the rocket.",
+      "Spread the hummus on the plate and dust with paprika.",
+      "Arrange the halved egg, the vegetables, the rocket and the crispbread alongside."
+    ]
+  },
+  {
+    "id": "rec_3546",
+    "title": "Quick win: turkey breast rolls with light cream cheese, rocket, pepper and radishes",
+    "ingredients": [
+      "Sliced turkey breast",
+      "Light cream cheese",
+      "Rocket",
+      "Red peppers",
+      "Radishes",
+      "Wholegrain crispbread"
+    ],
+    "instructions": [
+      "Cut the pepper into long thin strips, wash the rocket and halve the radishes.",
+      "Spread the sliced turkey thinly with the light cream cheese.",
+      "Place a little rocket and a few pepper strips on each slice and roll them up.",
+      "Arrange the rolls with the radishes and the crispbread."
+    ]
+  },
+  {
+    "id": "rec_3547",
+    "title": "Quick win: savoury skyr and cucumber bowl with egg, dill and pumpernickel",
+    "ingredients": [
+      "Skyr",
+      "Cucumber",
+      "Egg",
+      "Dill",
+      "Pumpernickel",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the egg in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Finely dice the cucumber and chop the dill.",
+      "Stir the skyr with cucumber, dill, salt and pepper and put it into a bowl.",
+      "Quarter the egg, place it on the bowl and serve with the pumpernickel."
+    ]
+  },
+  {
+    "id": "rec_3548",
+    "title": "Quick win: scrambled eggs with peas, spring onion and radish cucumber salad",
+    "ingredients": [
+      "Eggs",
+      "Peas (frozen)",
+      "Spring onion",
+      "Radishes",
+      "Cucumber",
+      "Rapeseed oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Heat the rapeseed oil and sauté the peas and spring onion for 2 minutes.",
+      "Whisk the eggs with salt and pepper, add them and stir for 3 minutes until set.",
+      "Slice the radishes and cucumber and salt them lightly.",
+      "Serve the scrambled eggs with the salad on a plate."
+    ]
+  },
+  {
+    "id": "rec_3549",
+    "title": "Quick win: bresaola plate with rocket, cherry tomatoes, egg and crispbread",
+    "ingredients": [
+      "Bresaola (beef)",
+      "Egg",
+      "Rocket",
+      "Cherry tomatoes",
+      "Wholegrain crispbread",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the egg in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Wash the rocket and halve the cherry tomatoes.",
+      "Lay the bresaola on a plate, top with rocket and tomatoes and drizzle with lemon juice.",
+      "Add the halved egg and the crispbread and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_3550",
+    "title": "Quick win: chicken breast and avocado plate with tomato, cress and wholemeal bread",
+    "ingredients": [
+      "Sliced chicken breast",
+      "Avocado",
+      "Tomato",
+      "Cress",
+      "Wholemeal bread",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the avocado and drizzle with lemon juice.",
+      "Slice the tomato.",
+      "Arrange the sliced chicken, avocado, tomato and bread on a plate.",
+      "Sprinkle with cress, salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_3551",
+    "title": "Quick win: tuna cottage cheese spread with cucumber, pepper, celery and crispbread",
+    "ingredients": [
+      "Tuna (drained, in its own juice)",
+      "Cottage cheese",
+      "Cucumber",
+      "Red peppers",
+      "Celery",
+      "Wholegrain crispbread",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Mix the tuna with the cottage cheese, lemon juice, salt and pepper using a fork.",
+      "Cut the cucumber, pepper and celery into sticks.",
+      "Fill the spread into a small bowl and serve with the vegetable sticks and crispbread."
+    ]
+  },
+  {
+    "id": "rec_3552",
+    "title": "Quick win: egg and cottage cheese plate with lamb's lettuce, apple and walnuts",
+    "ingredients": [
+      "Egg",
+      "Cottage cheese",
+      "Lamb's lettuce",
+      "Apple",
+      "Walnuts",
+      "Wholemeal bread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the egg in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Wash the lamb's lettuce and cut the apple into thin wedges.",
+      "Arrange the cottage cheese, lettuce, apple and the halved egg on a plate.",
+      "Roughly chop the walnuts and sprinkle them over, season with pepper and add the bread."
+    ]
+  },
+  {
+    "id": "rec_3553",
+    "title": "Quick win: fried eggs with white beans, tomato and baby spinach",
+    "ingredients": [
+      "Eggs",
+      "White beans (drained)",
+      "Tomato",
+      "Baby spinach",
+      "Rapeseed oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse the white beans and dice the tomato.",
+      "Heat the rapeseed oil in a pan, warm the beans and tomato for 2 minutes and push them to the side.",
+      "Crack the eggs into the pan and fry for 3 to 4 minutes, adding the baby spinach in the last minute.",
+      "Season with salt and pepper and serve right away on a plate."
+    ]
+  },
+  {
+    "id": "rec_3554",
+    "title": "Quick win: herb omelette with cottage cheese and tomato salad",
+    "ingredients": [
+      "Eggs",
+      "Cottage cheese",
+      "Parsley, chives",
+      "Tomato",
+      "Red onion",
+      "Rapeseed oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Whisk the eggs with chopped herbs, salt and pepper.",
+      "Heat the rapeseed oil, pour in the egg mixture and let it set covered for 4 minutes.",
+      "Spoon the cottage cheese onto one half and fold the omelette.",
+      "Slice the tomato, cut the onion into thin rings, season with salt and pepper and serve with the omelette."
+    ]
+  },
+  {
+    "id": "rec_3555",
+    "title": "Quick win: smoked salmon plate with avocado, radishes, cucumber and crispbread",
+    "ingredients": [
+      "Smoked salmon",
+      "Avocado",
+      "Radishes",
+      "Cucumber",
+      "Wholegrain crispbread",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the avocado and drizzle with lemon juice.",
+      "Cut the radishes and cucumber into thin slices.",
+      "Arrange the smoked salmon, avocado, vegetables and crispbread on a plate and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_3556",
+    "title": "Quick win: stuffed avocado with cottage cheese, cherry tomatoes and cress",
+    "ingredients": [
+      "Avocado",
+      "Cottage cheese",
+      "Cherry tomatoes",
+      "Cress",
+      "Wholegrain crispbread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Halve the avocado and remove the stone.",
+      "Season the cottage cheese with salt and pepper and fill it into the avocado half.",
+      "Halve the cherry tomatoes, place them next to the avocado and sprinkle everything with cress.",
+      "Serve with the crispbread."
+    ]
+  },
+  {
+    "id": "rec_3557",
+    "title": "Quick win: scrambled eggs with turkey breast, courgette and cherry tomatoes",
+    "ingredients": [
+      "Eggs",
+      "Sliced turkey breast",
+      "Courgette",
+      "Cherry tomatoes",
+      "Rapeseed oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the courgette small and cut the sliced turkey into strips.",
+      "Heat the rapeseed oil and fry the courgette for 3 minutes, then briefly fry the turkey strips with it.",
+      "Whisk the eggs with salt and pepper, add them and stir for 2 to 3 minutes until set.",
+      "Serve on a plate with halved cherry tomatoes."
+    ]
+  },
+  {
+    "id": "rec_3558",
+    "title": "Quick win: egg plate with beetroot, lamb's lettuce and pumpernickel",
+    "ingredients": [
+      "Eggs",
+      "Cooked beetroot",
+      "Lamb's lettuce",
+      "Pumpernickel",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the eggs in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Slice the cooked beetroot and wash the lamb's lettuce.",
+      "Dress the lettuce and beetroot with olive oil, salt and pepper.",
+      "Halve the eggs and arrange them on a plate with the salad and the pumpernickel."
+    ]
+  },
+  {
+    "id": "rec_3559",
+    "title": "Quick win: chicken breast plate with cucumber yoghurt dip and wholemeal pita",
+    "ingredients": [
+      "Sliced chicken breast",
+      "Greek yoghurt (0.2% fat)",
+      "Cucumber",
+      "Garlic",
+      "Dill",
+      "Wholemeal pita",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely grate 40 g of the cucumber and squeeze it well, slice the rest.",
+      "Stir the yoghurt with the grated cucumber, crushed garlic, dill, salt and pepper.",
+      "Arrange the sliced chicken, cucumber slices, dip and pita on a plate."
+    ]
+  },
+  {
+    "id": "rec_3560",
+    "title": "Quick win: smoked tofu plate with avocado, cucumber, cherry tomatoes and pumpernickel",
+    "ingredients": [
+      "Smoked tofu",
+      "Avocado",
+      "Cucumber",
+      "Cherry tomatoes",
+      "Pumpernickel",
+      "Lime juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the smoked tofu into thin slices.",
+      "Cut the avocado into wedges and drizzle with lime juice, slice the cucumber and halve the cherry tomatoes.",
+      "Arrange everything with the pumpernickel on a plate and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_3561",
+    "title": "Quick win: tuna and avocado plate with cherry tomatoes, lime and crispbread",
+    "ingredients": [
+      "Tuna (drained, in its own juice)",
+      "Avocado",
+      "Cherry tomatoes",
+      "Lime juice",
+      "Coriander",
+      "Wholegrain crispbread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the avocado and mix with lime juice, salt and pepper.",
+      "Halve the cherry tomatoes and roughly flake the tuna.",
+      "Arrange the tuna, avocado and tomatoes on a plate, sprinkle with coriander and serve with the crispbread."
+    ]
+  },
+  {
+    "id": "rec_3562",
+    "title": "Quick win: light egg salad with skyr, chives, radishes, tomato and crispbread",
+    "ingredients": [
+      "Eggs",
+      "Skyr",
+      "Chives",
+      "Radishes",
+      "Tomato",
+      "Wholegrain crispbread",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Place the eggs in boiling water, cook for 8 minutes until hard, then cool in cold water and peel.",
+      "Roughly chop the eggs and mix with skyr, chives, salt and pepper.",
+      "Slice the radishes and tomato.",
+      "Spoon the egg salad onto the crispbread and serve on a plate with the radishes and tomato."
+    ]
+  },
+  {
+    "id": "rec_3563",
+    "title": "Quick win: chickpea and cucumber plate with light feta, tomato and mint",
+    "ingredients": [
+      "Chickpeas (drained)",
+      "Cucumber",
+      "Tomato",
+      "Light feta",
+      "Mint",
+      "Olive oil",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse and drain the chickpeas.",
+      "Dice the cucumber and tomato and roughly chop the mint.",
+      "Mix everything with olive oil, lemon juice, salt and pepper and arrange on a plate.",
+      "Crumble the light feta over the top."
+    ]
+  },
+  {
+    "id": "rec_3564",
+    "title": "Quick win: turkey breast and cottage cheese plate with tomato, chives and pumpernickel",
+    "ingredients": [
+      "Sliced turkey breast",
+      "Cottage cheese",
+      "Tomato",
+      "Chives",
+      "Pumpernickel",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the tomato and finely cut the chives.",
+      "Season the cottage cheese with chives, salt and pepper.",
+      "Arrange the sliced turkey, cottage cheese, tomato and pumpernickel on a plate."
+    ]
+  },
+  {
+    "id": "rec_3565",
+    "title": "Quick win: hummus plate with edamame, carrot, cucumber and pepper",
+    "ingredients": [
+      "Hummus",
+      "Edamame (shelled)",
+      "Carrot",
+      "Cucumber",
+      "Yellow pepper",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Heat the edamame in boiling water for 2 minutes, rinse in cold water and salt lightly.",
+      "Cut the carrot, cucumber and pepper into sticks.",
+      "Put the hummus into a small bowl and arrange with the edamame and vegetable sticks."
+    ]
+  },
+  {
+    "id": "rec_3566",
+    "title": "Quick win: smoked mackerel plate with apple, radishes, lamb's lettuce and crispbread",
+    "ingredients": [
+      "Smoked mackerel",
+      "Apple",
+      "Radishes",
+      "Lamb's lettuce",
+      "Wholegrain crispbread",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Remove skin and bones from the mackerel and pull it into pieces.",
+      "Cut the apple and radishes into thin slices, drizzle the apple with lemon juice and wash the lamb's lettuce.",
+      "Arrange everything with the crispbread on a plate and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_3567",
+    "title": "Quick win: low-fat quark bowl with raspberries, hazelnuts and vanilla",
+    "ingredients": [
+      "Low-fat quark",
+      "Raspberries",
+      "Hazelnuts",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Stir the quark with vanilla and 2 tbsp water until creamy and put it into a bowl.",
+      "Gently wash the raspberries and spread them over the quark.",
+      "Roughly chop the hazelnuts and sprinkle them over."
+    ]
+  },
+  {
+    "id": "rec_3568",
+    "title": "Quick win: cottage cheese bowl with peach, pumpkin seeds and cinnamon",
+    "ingredients": [
+      "Cottage cheese",
+      "Peach",
+      "Pumpkin seeds",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Wash the peach, remove the stone and cut it into wedges.",
+      "Put the cottage cheese into a bowl and lay the peach wedges on top.",
+      "Sprinkle with pumpkin seeds and cinnamon."
+    ]
+  },
+  {
+    "id": "rec_3569",
+    "title": "Quick win: skyr bowl with mango, lime and hemp seeds",
+    "ingredients": [
+      "Skyr",
+      "Mango",
+      "Lime juice",
+      "Hemp seeds"
+    ],
+    "instructions": [
+      "Peel and dice the mango and mix it with the lime juice.",
+      "Stir the skyr smooth and put it into a bowl.",
+      "Spread the mango cubes on top and sprinkle with hemp seeds."
+    ]
+  },
+  {
+    "id": "rec_3570",
+    "title": "Quick win: yoghurt bowl with blackberries, chia seeds and rolled oats",
+    "ingredients": [
+      "Greek yoghurt (0.2% fat)",
+      "Blackberries",
+      "Chia seeds",
+      "Rolled oats"
+    ],
+    "instructions": [
+      "Stir the yoghurt with the chia seeds and let it swell for 2 minutes.",
+      "Wash and drain the blackberries.",
+      "Put the yoghurt into a bowl and top with the blackberries and oats."
+    ]
+  },
+  {
+    "id": "rec_3571",
+    "title": "Quick win: soy skyr bowl with blueberries, flaxseed and almonds",
+    "ingredients": [
+      "Soy skyr",
+      "Blueberries",
+      "Ground flaxseed",
+      "Almonds"
+    ],
+    "instructions": [
+      "Stir the soy skyr smooth and put it into a bowl.",
+      "Wash the blueberries and spread them on top.",
+      "Sprinkle with ground flaxseed and chopped almonds."
+    ]
+  },
+  {
+    "id": "rec_3572",
+    "title": "Quick win: low-fat quark bowl with banana, cocoa and peanut butter",
+    "ingredients": [
+      "Low-fat quark",
+      "Banana",
+      "Unsweetened cocoa powder",
+      "Peanut butter"
+    ],
+    "instructions": [
+      "Stir the quark with cocoa powder and 2 tbsp water until creamy.",
+      "Slice the banana.",
+      "Put the cocoa quark into a bowl, top with banana slices and drizzle the peanut butter over it."
+    ]
+  },
+  {
+    "id": "rec_3573",
+    "title": "Quick win: cottage cheese bowl with kiwi, pomegranate and rolled oats",
+    "ingredients": [
+      "Cottage cheese",
+      "Kiwi",
+      "Pomegranate seeds",
+      "Rolled oats"
+    ],
+    "instructions": [
+      "Peel the kiwi and cut it into slices or cubes.",
+      "Put the cottage cheese into a bowl and spread the kiwi on top.",
+      "Sprinkle with pomegranate seeds and oats."
+    ]
+  },
+  {
+    "id": "rec_3574",
+    "title": "Quick win: skyr bowl with strawberries, pistachios and basil",
+    "ingredients": [
+      "Skyr",
+      "Strawberries",
+      "Pistachios",
+      "Basil"
+    ],
+    "instructions": [
+      "Wash and hull the strawberries and cut them into quarters.",
+      "Put the skyr into a bowl and spread the strawberries on top.",
+      "Chop the pistachios and sprinkle them over with finely cut basil."
+    ]
+  },
+  {
+    "id": "rec_3575",
+    "title": "Quick win: skyr bowl with cherries, cocoa nibs and rolled oats",
+    "ingredients": [
+      "Skyr",
+      "Cherries",
+      "Cocoa nibs",
+      "Rolled oats"
+    ],
+    "instructions": [
+      "Wash, pit and halve the cherries.",
+      "Stir the skyr smooth and put it into a bowl.",
+      "Spread the cherries on top and sprinkle with cocoa nibs and oats."
+    ]
+  },
+  {
+    "id": "rec_3576",
+    "title": "Quick win: yoghurt bowl with nectarine, rolled oats and walnuts",
+    "ingredients": [
+      "Greek yoghurt (0.2% fat)",
+      "Nectarine",
+      "Rolled oats",
+      "Walnuts"
+    ],
+    "instructions": [
+      "Wash the nectarine, remove the stone and cut it into wedges.",
+      "Put the yoghurt into a bowl and lay the nectarine wedges on top.",
+      "Sprinkle with the oats and roughly chopped walnuts."
+    ]
   }
 ]
