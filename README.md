@@ -2,7 +2,7 @@
 
 Remote-Datenspeicher für die Rezeptvorschläge der iOS-App **HealthUp+**. Das Repository dient als Content Delivery Network (CDN): Die App lädt `recipes.json` und die Rezeptbilder zur Laufzeit per HTTPS.
 
-Aktueller Stand: **3500 Rezepte** (siehe `meta.json`, Schema-Version 3).
+Aktueller Stand: **3550 Rezepte** (siehe `meta.json`, Schema-Version 3).
 
 ## Struktur
 
@@ -48,7 +48,7 @@ healthup-recipes/
 | `suitableMealTypes` | [String] | `breakfast`, `lunch`, `dinner`, `snack` |
 | `timeOfDay` | [String] | `morning` (06:00–10:30), `noon` (11:30–14:30), `afternoon` (15:00–17:30), `evening` (18:00–22:00) |
 | `imageUrl` | String | Raw-URL zum Bild |
-| `dietTags` | [String] | z. B. `vegetarisch`, `vegan`, `glutenfrei`, `laktosefrei`, `high-protein`, `kalorienarm`, `ballaststoffreich` (≥ 10 g Ballaststoffe pro Portion), sowie die neuen Tags `keto`, `low-carb`, `mediterran`, `dash`, `paleo`, `pescetarisch`, `low-fodmap`, `low-gi`, `volumenreich` (Kriterien siehe unten) |
+| `dietTags` | [String] | z. B. `vegetarisch`, `vegan`, `glutenfrei`, `laktosefrei`, `high-protein`, `kalorienarm`, `ballaststoffreich` (≥ 10 g Ballaststoffe pro Portion), sowie die neuen Tags `keto`, `low-carb`, `mediterran`, `dash`, `paleo`, `pescetarisch`, `low-fodmap`, `low-gi`, `volumenreich`, `quick-win` (Kriterien siehe unten) |
 | `allergens` | [String] | z. B. `gluten`, `milch`, `ei`, `fisch`, `krebstiere`, `schalenfruechte`, `erdnuss`, `soja`, `sesam`, `sellerie`, `senf`, `weichtiere`, `lupinen`, `sulfite` (Schwefeldioxid/Sulfite, konservativ aus typisch geschwefelten Zutaten abgeleitet, z. B. Essig, Senf, Trockenobst, Eingelegtes, Garnelen) |
 | `ingredients` | [{`name`, `amount`}] | Zutaten mit Mengenangabe |
 | `instructions` | [String] | Geordnete Zubereitungsschritte |
@@ -88,6 +88,7 @@ Die folgenden Tags werden konservativ aus den Zutaten und den Nährwerten **pro 
 | `low-fodmap` | Alle Zutaten stehen auf einer Green-Serve-Liste (Monash) und bleiben unter der jeweiligen Höchstmenge pro Portion; typische High-FODMAP-Namen (Zwiebel, Knoblauch, Weizen, Honig u. Ä.) schließen den Tag aus |
 | `low-gi` | Kohlenhydratquellen mit typischem glykämischen Index ≤ 55 (oder unter 5 g Kohlenhydratbeitrag); mindestens 15 g Netto-Kohlenhydrate und 5 g Ballaststoffe; kein zugesetzter Zucker und keine typischen High-GI-Früchte |
 | `volumenreich` | Sättigende, kalorienarme Portion: mindestens 350 g, höchstens 400 kcal und höchstens 80 kcal/100 g, dazu mindestens 20 g Eiweiß oder 8 g Ballaststoffe; gilt nicht für Getränke (Smoothie, Shake, Saft u. Ä.) |
+| `quick-win` (ab 2026-11-12) | Schnelles Diät-Frühstück als einfacher Teller oder Schale: als Frühstück geeignet, Zubereitung höchstens 10 Minuten, mindestens 15 g Eiweiß, höchstens 450 kcal und mindestens 100 g Gemüse/Obst pro Portion (Avocado, Kartoffel, Oliven, Kapern zählen nicht mit); wird immer als letzter Tag angehängt. Bisher nur bei rec_3527–3576 vergeben, Bestandsrezepte unverändert |
 
 `vegan` plus `high-protein` und `kalorienarm` plus `volumenreich` kennzeichnen die Gruppen „vegan high-protein“ bzw. „kalorienarm sättigend“. Die Tags wurden auch auf die 700 Bestandsrezepte angewendet, dort ändert sich ausschließlich das Feld `dietTags`.
 
