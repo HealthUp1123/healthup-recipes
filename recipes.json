@@ -248206,5 +248206,3852 @@
       "milch",
       "schalenfruechte"
     ]
+  },
+  {
+    "id": "rec_3577",
+    "title": "Hähnchen-Linsen-Bowl mit Brokkoli und Joghurt-Minz-Dip",
+    "calories": 460,
+    "protein": 55,
+    "carbs": 35,
+    "fiber": 10,
+    "fat": 9,
+    "servingSizeGrams": 505,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3577_h15_haehnchen_linsen_bowl_brokkoli_joghurt_minz_dip.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "130g"
+      },
+      {
+        "name": "Berglinsen (trocken)",
+        "amount": "50g"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "150g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "80g"
+      },
+      {
+        "name": "Minze",
+        "amount": "3g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Linsen in reichlich Wasser 20 Minuten weich kochen und abgießen.",
+      "Brokkoli in Röschen teilen und in den letzten 5 Minuten über den Linsen dämpfen.",
+      "Hähnchen salzen, pfeffern und im Olivenöl pro Seite 5 Minuten braten, dann in Scheiben schneiden.",
+      "Joghurt mit gehackter Minze, Zitronensaft und etwas Salz verrühren.",
+      "Linsen, Brokkoli und Hähnchen in einer Schale anrichten und den Dip daraufgeben."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3578",
+    "title": "Airfryer-Hähnchenbrust mit Kichererbsen-Paprika-Salat und Rucola",
+    "calories": 485,
+    "protein": 48,
+    "carbs": 38,
+    "fiber": 13,
+    "fat": 15,
+    "servingSizeGrams": 540,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3578_h15_airfryer_haehnchenbrust_kichererbsen_paprika_rucola.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "150g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "150g"
+      },
+      {
+        "name": "Rucola",
+        "amount": "40g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Hähnchen mit der Hälfte des Olivenöls, Paprikapulver, Salz und Pfeffer einreiben.",
+      "Im Airfryer bei 190 °C etwa 14 Minuten garen, dabei einmal wenden.",
+      "Paprika würfeln, Zwiebel in feine Ringe schneiden und mit den Kichererbsen mischen.",
+      "Salat mit Zitronensaft, restlichem Olivenöl, Salz und Pfeffer anmachen und den Rucola unterheben.",
+      "Hähnchen 3 Minuten ruhen lassen, in Scheiben schneiden und neben dem Salat servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3579",
+    "title": "Hähnchen-Linsen-Suppe mit Blattspinat, Karotte und Zitrone",
+    "calories": 435,
+    "protein": 46,
+    "carbs": 39,
+    "fiber": 11,
+    "fat": 8,
+    "servingSizeGrams": 885,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3579_h15_haehnchen_linsen_suppe_blattspinat_karotte_zitrone.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "120g"
+      },
+      {
+        "name": "Rote Linsen (trocken)",
+        "amount": "50g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "80g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "400 ml"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "4g"
+      },
+      {
+        "name": "Kurkuma (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel hacken, Karotte würfeln und Hähnchen in kleine Würfel schneiden.",
+      "Zwiebel und Karotte im Rapsöl in einem Topf 3 Minuten andünsten, Kurkuma einrühren.",
+      "Brühe und Linsen zugeben und 10 Minuten köcheln lassen.",
+      "Hähnchenwürfel zugeben und 8 Minuten gar ziehen lassen, dann den Spinat unterrühren.",
+      "Mit Zitronensaft, Salz und Pfeffer abschmecken und mit Petersilie bestreut servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3580",
+    "title": "Hähnchen-Edamame-Pfanne mit Pak Choi, Karotte und Vollkornreis",
+    "calories": 520,
+    "protein": 47,
+    "carbs": 52,
+    "fiber": 11,
+    "fat": 13,
+    "servingSizeGrams": 620,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3580_h15_haehnchen_edamame_pfanne_pak_choi_vollkornreis.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "120g"
+      },
+      {
+        "name": "Edamame (geschält)",
+        "amount": "100g"
+      },
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Pak Choi",
+        "amount": "150g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "80g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "10g"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Sesamöl",
+        "amount": "4g"
+      }
+    ],
+    "instructions": [
+      "Vollkornreis nach Packungsangabe in etwa 25 Minuten garen.",
+      "Hähnchen in Streifen schneiden, Karotte in feine Stifte und Pak Choi in Stücke schneiden, Ingwer reiben.",
+      "Hähnchen im Sesamöl 5 Minuten scharf anbraten.",
+      "Karotte, Edamame und Ingwer 3 Minuten mitbraten, Pak Choi zugeben und weitere 2 Minuten braten.",
+      "Mit Sojasauce ablöschen und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_3581",
+    "title": "Hähnchen-Bulgur-Salat mit Kichererbsen, Tomate und Petersilie",
+    "calories": 515,
+    "protein": 41,
+    "carbs": 55,
+    "fiber": 14,
+    "fat": 13,
+    "servingSizeGrams": 585,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3581_h15_haehnchen_bulgur_salat_kichererbsen_tomate_petersilie.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "120g"
+      },
+      {
+        "name": "Bulgur (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "120g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "15g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Bulgur mit kochendem Wasser übergießen und 10 Minuten zugedeckt quellen lassen.",
+      "Hähnchen salzen, pfeffern und in einer beschichteten Pfanne mit der Hälfte des Öls pro Seite 5 Minuten braten.",
+      "Gurke und Tomate würfeln, Petersilie fein hacken.",
+      "Bulgur mit Gemüse, Kichererbsen, Petersilie, Zitronensaft und restlichem Öl mischen.",
+      "Hähnchen in Scheiben schneiden und auf dem Salat anrichten."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3582",
+    "title": "Ofen-Hähnchen mit Rosenkohl, Süßkartoffel und Senf-Joghurt",
+    "calories": 485,
+    "protein": 50,
+    "carbs": 41,
+    "fiber": 14,
+    "fat": 11,
+    "servingSizeGrams": 570,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3582_h15_ofen_haehnchen_rosenkohl_suesskartoffel_senf_joghurt.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "140g"
+      },
+      {
+        "name": "Rosenkohl",
+        "amount": "200g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": "150g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "60g"
+      },
+      {
+        "name": "Senf (mittelscharf)",
+        "amount": "10g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200 °C vorheizen, Rosenkohl halbieren und Süßkartoffel in Würfel schneiden.",
+      "Gemüse mit dem Olivenöl, Salz und Pfeffer mischen und auf einem Blech verteilen.",
+      "Hähnchen mit Paprikapulver und Salz würzen, dazulegen und alles 25 Minuten backen.",
+      "Joghurt mit Senf und einer Prise Salz verrühren.",
+      "Hähnchen aufschneiden und mit dem Ofengemüse und dem Senf-Joghurt servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "milch",
+      "senf",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_3583",
+    "title": "Hähnchen-Wrap mit schwarzen Bohnen, Rotkohl und Avocado",
+    "calories": 445,
+    "protein": 39,
+    "carbs": 44,
+    "fiber": 14,
+    "fat": 10,
+    "servingSizeGrams": 395,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3583_h15_haehnchen_wrap_schwarze_bohnen_rotkohl_avocado.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornwrap",
+        "amount": "1 Stück (65g)"
+      },
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "100g"
+      },
+      {
+        "name": "Schwarze Bohnen (abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": "60g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "40g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "40g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "5g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Hähnchen in Streifen schneiden, mit Kreuzkümmel, Salz und Pfeffer würzen und in einer beschichteten Pfanne 6 Minuten braten.",
+      "Bohnen abspülen und mit einer Gabel leicht andrücken, Rotkohl fein hobeln.",
+      "Avocado mit Limettensaft und etwas Salz zerdrücken.",
+      "Wrap kurz in der Pfanne erwärmen, mit Joghurt, Bohnen, Rotkohl, Hähnchen, Avocado und Koriander belegen, aufrollen und halbieren."
+    ],
+    "dietTags": [
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3584",
+    "title": "Hähnchen-Kichererbsen-Curry mit Blattspinat",
+    "calories": 475,
+    "protein": 44,
+    "carbs": 34,
+    "fiber": 12,
+    "fat": 17,
+    "servingSizeGrams": 615,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3584_h15_haehnchen_kichererbsen_curry_blattspinat.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "130g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "100g"
+      },
+      {
+        "name": "Kokosmilch (light)",
+        "amount": "100g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Hähnchen würfeln, Zwiebel fein hacken und Ingwer reiben.",
+      "Hähnchen im Rapsöl 4 Minuten anbraten, Zwiebel und Ingwer 2 Minuten mitbraten und mit Currypulver bestäuben.",
+      "Kokosmilch, Tomaten und Kichererbsen dazugeben und 12 Minuten köcheln lassen.",
+      "Spinat unterrühren, bis er zusammenfällt, und mit Salz abschmecken.",
+      "Curry in einer Schale anrichten und mit Koriander bestreuen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3585",
+    "title": "Hähnchen-Buchweizen-Salat mit grünen Bohnen, Kirschtomaten und Feta light",
+    "calories": 480,
+    "protein": 43,
+    "carbs": 45,
+    "fiber": 12,
+    "fat": 14,
+    "servingSizeGrams": 585,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3585_h15_haehnchen_buchweizen_salat_gruene_bohnen_feta_light.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "110g"
+      },
+      {
+        "name": "Buchweizen (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Grüne Bohnen",
+        "amount": "200g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Feta light",
+        "amount": "30g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Basilikum",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Buchweizen in der doppelten Menge Salzwasser 12 Minuten köcheln lassen und abtropfen.",
+      "Grüne Bohnen putzen, halbieren und 8 Minuten in Salzwasser garen, dann kalt abschrecken.",
+      "Hähnchen würzen, in einer beschichteten Pfanne pro Seite 5 Minuten braten und in Scheiben schneiden.",
+      "Buchweizen, Bohnen und halbierte Kirschtomaten mit Zitronensaft, Olivenöl, Salz und Pfeffer mischen.",
+      "Hähnchen darauflegen, Feta darüberbröseln und mit Basilikum bestreuen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3586",
+    "title": "Airfryer-Hähnchenstreifen in Haferpanade mit Erbsen-Minz-Püree",
+    "calories": 455,
+    "protein": 54,
+    "carbs": 34,
+    "fiber": 13,
+    "fat": 9,
+    "servingSizeGrams": 435,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3586_h15_airfryer_haehnchenstreifen_haferpanade_erbsen_minz_pueree.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "140g"
+      },
+      {
+        "name": "Haferflocken (zart)",
+        "amount": "25g"
+      },
+      {
+        "name": "Eiklar",
+        "amount": "30g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "200g"
+      },
+      {
+        "name": "Minze",
+        "amount": "4g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "30g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "4g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Hähnchen in 6 Streifen schneiden, mit Salz, Pfeffer und Paprikapulver würzen.",
+      "Streifen erst durch das verquirlte Eiklar ziehen, dann in den Haferflocken wenden und mit dem Rapsöl besprühen.",
+      "Im Airfryer bei 190 °C etwa 12 Minuten knusprig garen, nach der Hälfte wenden.",
+      "Erbsen 4 Minuten in Salzwasser kochen, abgießen und mit Minze, Joghurt, Salz und Pfeffer grob pürieren.",
+      "Hähnchenstreifen mit dem Erbsenpüree servieren."
+    ],
+    "dietTags": [
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3587",
+    "title": "Puten-Süßkartoffel-Pfanne mit Pintobohnen und Babyspinat",
+    "calories": 460,
+    "protein": 45,
+    "carbs": 52,
+    "fiber": 16,
+    "fat": 8,
+    "servingSizeGrams": 495,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3587_h15_puten_suesskartoffel_pfanne_pintobohnen_babyspinat.jpg",
+    "ingredients": [
+      {
+        "name": "Putenbrustfilet",
+        "amount": "130g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": "150g"
+      },
+      {
+        "name": "Pintobohnen (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "60g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Süßkartoffel in kleine Würfel schneiden, Pute in Streifen und Zwiebel in Spalten schneiden.",
+      "Süßkartoffel in der Hälfte des Rapsöls zugedeckt 8 Minuten braten, bis sie fast weich ist.",
+      "Pute und Zwiebel im restlichen Öl zugeben und 5 Minuten mitbraten, mit Paprikapulver, Kreuzkümmel und Salz würzen.",
+      "Pintobohnen zugeben, 2 Minuten erwärmen und den Babyspinat unterheben.",
+      "Mit Limettensaft und Pfeffer abschmecken und servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3588",
+    "title": "Putengeschnetzeltes mit Kidneybohnen, Paprika und Zucchini",
+    "calories": 405,
+    "protein": 44,
+    "carbs": 33,
+    "fiber": 13,
+    "fat": 9,
+    "servingSizeGrams": 645,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3588_h15_putengeschnetzeltes_kidneybohnen_paprika_zucchini.jpg",
+    "ingredients": [
+      {
+        "name": "Putenbrustfilet",
+        "amount": "130g"
+      },
+      {
+        "name": "Kidneybohnen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Paprika (gelb)",
+        "amount": "120g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "80g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Pute in dünne Streifen schneiden, Paprika, Zucchini und Zwiebel in Stücke schneiden.",
+      "Pute im Rapsöl 4 Minuten scharf anbraten und herausnehmen.",
+      "Zwiebel, Paprika und Zucchini in derselben Pfanne 5 Minuten braten.",
+      "Passierte Tomaten, Kidneybohnen, Paprikapulver und Pute zugeben und 5 Minuten köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3589",
+    "title": "Airfryer-Puten-Patties mit Kichererbsen-Radieschen-Salat und Dill-Joghurt",
+    "calories": 425,
+    "protein": 46,
+    "carbs": 39,
+    "fiber": 11,
+    "fat": 9,
+    "servingSizeGrams": 530,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3589_h15_airfryer_puten_patties_kichererbsen_radieschen_salat.jpg",
+    "ingredients": [
+      {
+        "name": "Putenhackfleisch",
+        "amount": "130g"
+      },
+      {
+        "name": "Haferflocken (zart)",
+        "amount": "15g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "120g"
+      },
+      {
+        "name": "Radieschen",
+        "amount": "60g"
+      },
+      {
+        "name": "Dill",
+        "amount": "5g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "50g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Putenhack mit Haferflocken, fein gehackter Zwiebel, Salz und Pfeffer verkneten und 3 flache Patties formen.",
+      "Im Airfryer bei 190 °C etwa 12 Minuten garen, nach der Hälfte wenden.",
+      "Gurke und Radieschen in Scheiben schneiden und mit den Kichererbsen und Zitronensaft mischen.",
+      "Joghurt mit gehacktem Dill und einer Prise Salz verrühren.",
+      "Patties mit Salat und Dill-Joghurt anrichten."
+    ],
+    "dietTags": [
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3590",
+    "title": "Putenbrust mit Weiße-Bohnen-Tomaten-Ragout und Blattspinat",
+    "calories": 420,
+    "protein": 49,
+    "carbs": 28,
+    "fiber": 12,
+    "fat": 11,
+    "servingSizeGrams": 555,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3590_h15_putenbrust_weisse_bohnen_tomaten_ragout_spinat.jpg",
+    "ingredients": [
+      {
+        "name": "Putenbrustfilet",
+        "amount": "140g"
+      },
+      {
+        "name": "Weiße Bohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "150g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "100g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "2g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Putenbrust salzen und pfeffern und in der Hälfte des Olivenöls pro Seite 5 Minuten braten, dann warm stellen.",
+      "Knoblauch hacken und im restlichen Öl kurz anschwitzen.",
+      "Tomaten und Bohnen zugeben und 8 Minuten köcheln lassen.",
+      "Spinat unterheben, bis er zusammenfällt, und das Ragout abschmecken.",
+      "Pute in Scheiben schneiden, auf das Ragout legen und mit Petersilie bestreuen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3591",
+    "title": "Airfryer-Putenspieße mit Kichererbsen-Couscous und Gurken-Joghurt",
+    "calories": 545,
+    "protein": 53,
+    "carbs": 56,
+    "fiber": 13,
+    "fat": 11,
+    "servingSizeGrams": 710,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3591_h15_airfryer_putenspiesse_kichererbsen_couscous_gurken_joghurt.jpg",
+    "ingredients": [
+      {
+        "name": "Putenbrustfilet",
+        "amount": "130g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "150g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "100g"
+      },
+      {
+        "name": "Vollkorncouscous (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "60g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "80g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "60g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Pute, Paprika und Zucchini in Würfel schneiden, abwechselnd auf 3 Spieße stecken und mit dem Olivenöl, Paprikapulver und Salz einpinseln.",
+      "Spieße im Airfryer bei 190 °C etwa 12 Minuten garen, nach der Hälfte wenden.",
+      "Couscous mit der gleichen Menge kochendem Wasser übergießen, 5 Minuten quellen lassen und die Kichererbsen untermischen.",
+      "Gurke reiben, ausdrücken und mit Joghurt, Salz und Pfeffer verrühren.",
+      "Spieße auf dem Couscous anrichten und den Gurken-Joghurt dazureichen."
+    ],
+    "dietTags": [
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3592",
+    "title": "Puten-Lauch-Pfanne mit Erbsen und Vollkornpenne",
+    "calories": 550,
+    "protein": 51,
+    "carbs": 57,
+    "fiber": 15,
+    "fat": 11,
+    "servingSizeGrams": 660,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3592_h15_puten_lauch_pfanne_erbsen_vollkornpenne.jpg",
+    "ingredients": [
+      {
+        "name": "Putenbrustfilet",
+        "amount": "120g"
+      },
+      {
+        "name": "Lauch",
+        "amount": "150g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "120g"
+      },
+      {
+        "name": "Vollkornpenne (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Frischkäse light",
+        "amount": "30g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "100 ml"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Penne nach Packungsangabe in Salzwasser bissfest kochen.",
+      "Pute in Streifen schneiden und im Rapsöl 4 Minuten anbraten, dann herausnehmen.",
+      "Lauch längs halbieren, waschen, in Ringe schneiden und in derselben Pfanne 4 Minuten dünsten.",
+      "Brühe, Erbsen und Frischkäse einrühren, Pute zurückgeben und 3 Minuten köcheln lassen.",
+      "Mit den Penne mischen, abschmecken und mit Petersilie bestreuen."
+    ],
+    "dietTags": [
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3593",
+    "title": "Puten-Kichererbsen-Tajine mit Karotte, Zucchini und Petersilie",
+    "calories": 435,
+    "protein": 44,
+    "carbs": 39,
+    "fiber": 14,
+    "fat": 11,
+    "servingSizeGrams": 630,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3593_h15_puten_kichererbsen_tajine_karotte_zucchini.jpg",
+    "ingredients": [
+      {
+        "name": "Putenbrustfilet",
+        "amount": "130g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "100g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "120g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "100g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Ras el Hanout",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Pute in große Würfel, Karotte in Scheiben und Zucchini in dicke Stücke schneiden, Zwiebel hacken.",
+      "Pute im Olivenöl in einem Schmortopf 4 Minuten anbraten, Zwiebel und Ras el Hanout 2 Minuten mitbraten.",
+      "Karotte, Tomaten und 150 ml Wasser zugeben und zugedeckt 15 Minuten schmoren.",
+      "Zucchini und Kichererbsen zugeben und weitere 8 Minuten schmoren.",
+      "Mit Zitronensaft und Salz abschmecken und mit Petersilie bestreuen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3594",
+    "title": "Rinderhack-Chili mit schwarzen Bohnen und Hokkaido-Kürbis",
+    "calories": 405,
+    "protein": 37,
+    "carbs": 37,
+    "fiber": 16,
+    "fat": 11,
+    "servingSizeGrams": 615,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3594_h15_rinderhack_chili_schwarze_bohnen_hokkaido.jpg",
+    "ingredients": [
+      {
+        "name": "Rinderhackfleisch (mager)",
+        "amount": "110g"
+      },
+      {
+        "name": "Schwarze Bohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Kürbis (Hokkaido)",
+        "amount": "150g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "4g"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Chiliflocken",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kürbis mit Schale in kleine Würfel schneiden, Zwiebel hacken.",
+      "Rinderhack im Rapsöl krümelig anbraten, Zwiebel 2 Minuten mitbraten.",
+      "Kreuzkümmel und Chiliflocken kurz mitrösten, Kürbis, Tomaten und 100 ml Wasser zugeben.",
+      "Zugedeckt 15 Minuten köcheln lassen, dann die Bohnen 5 Minuten mitziehen lassen.",
+      "Abschmecken und mit Koriander bestreut servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3595",
+    "title": "Ingwer-Rinderstreifen mit Brokkoli, Edamame und Quinoa",
+    "calories": 530,
+    "protein": 48,
+    "carbs": 42,
+    "fiber": 13,
+    "fat": 16,
+    "servingSizeGrams": 540,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3595_h15_ingwer_rinderstreifen_brokkoli_edamame_quinoa.jpg",
+    "ingredients": [
+      {
+        "name": "Rinderhüftsteak",
+        "amount": "120g"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "180g"
+      },
+      {
+        "name": "Edamame (geschält)",
+        "amount": "70g"
+      },
+      {
+        "name": "Quinoa (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "10g"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "3g"
+      },
+      {
+        "name": "Sesamöl",
+        "amount": "4g"
+      }
+    ],
+    "instructions": [
+      "Quinoa waschen und in der doppelten Menge Wasser 15 Minuten garen.",
+      "Steak quer zur Faser in dünne Streifen schneiden, Brokkoli in kleine Röschen teilen, Ingwer und Knoblauch hacken.",
+      "Rinderstreifen im Sesamöl 2 Minuten scharf anbraten und herausnehmen.",
+      "Brokkoli, Edamame, Ingwer und Knoblauch mit 3 EL Wasser 4 Minuten braten.",
+      "Fleisch und Sojasauce zugeben, kurz durchschwenken und mit der Quinoa servieren."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_3596",
+    "title": "Airfryer-Rinderkofta mit Bulgur-Kichererbsen-Salat und Joghurt",
+    "calories": 505,
+    "protein": 44,
+    "carbs": 49,
+    "fiber": 11,
+    "fat": 15,
+    "servingSizeGrams": 525,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3596_h15_airfryer_rinderkofta_bulgur_kichererbsen_salat.jpg",
+    "ingredients": [
+      {
+        "name": "Rinderhackfleisch (mager)",
+        "amount": "120g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Bulgur (ungekocht)",
+        "amount": "45g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "60g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "120g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "15g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "60g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Rinderhack mit fein geriebener Zwiebel, Kreuzkümmel, der Hälfte der Petersilie, Salz und Pfeffer verkneten und 4 längliche Kofta formen.",
+      "Kofta im Airfryer bei 200 °C etwa 10 Minuten garen, nach der Hälfte wenden.",
+      "Bulgur mit kochendem Wasser übergießen und 10 Minuten quellen lassen.",
+      "Bulgur mit Kichererbsen, gewürfelter Tomate, restlicher Petersilie, Zitronensaft, Olivenöl und Salz mischen.",
+      "Kofta mit dem Salat und dem Joghurt anrichten."
+    ],
+    "dietTags": [
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3597",
+    "title": "Rinderhüftsteak mit Weiße-Bohnen-Rucola-Salat und Kirschtomaten",
+    "calories": 430,
+    "protein": 44,
+    "carbs": 26,
+    "fiber": 11,
+    "fat": 15,
+    "servingSizeGrams": 510,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3597_h15_rinderhueftsteak_weisse_bohnen_rucola_salat.jpg",
+    "ingredients": [
+      {
+        "name": "Rinderhüftsteak",
+        "amount": "140g"
+      },
+      {
+        "name": "Weiße Bohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Rucola",
+        "amount": "50g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "120g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Steak 20 Minuten vor dem Braten aus dem Kühlschrank nehmen und trocken tupfen.",
+      "Steak in einer sehr heißen Pfanne mit der Hälfte des Öls pro Seite 3 Minuten braten, salzen, pfeffern und 4 Minuten ruhen lassen.",
+      "Bohnen abspülen, Kirschtomaten halbieren und die Zwiebel in feine Ringe schneiden.",
+      "Bohnen, Tomaten, Zwiebel und Rucola mit Zitronensaft, restlichem Öl, Salz und Pfeffer mischen.",
+      "Steak in Scheiben schneiden und auf dem Salat servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3598",
+    "title": "Rinderstreifen mit Rosenkohl, Champignons und Kichererbsen",
+    "calories": 450,
+    "protein": 46,
+    "carbs": 29,
+    "fiber": 18,
+    "fat": 14,
+    "servingSizeGrams": 555,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3598_h15_rinderstreifen_rosenkohl_champignons_kichererbsen.jpg",
+    "ingredients": [
+      {
+        "name": "Rinderhüftsteak",
+        "amount": "120g"
+      },
+      {
+        "name": "Rosenkohl",
+        "amount": "200g"
+      },
+      {
+        "name": "Champignons",
+        "amount": "120g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Thymian",
+        "amount": "2g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Rosenkohl putzen, halbieren und in Salzwasser 5 Minuten vorgaren, dann abgießen.",
+      "Steak in dünne Streifen schneiden, Champignons in Scheiben und Zwiebel in Streifen schneiden.",
+      "Rinderstreifen in der Hälfte des Öls 2 Minuten scharf anbraten, salzen und herausnehmen.",
+      "Im restlichen Öl Rosenkohl, Champignons und Zwiebel 6 Minuten braten, Kichererbsen und Thymian 2 Minuten mitbraten.",
+      "Fleisch zurückgeben, mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3599",
+    "title": "Rinderhack-Spitzkohl-Pfanne mit Kichererbsen und Tomate",
+    "calories": 435,
+    "protein": 38,
+    "carbs": 38,
+    "fiber": 15,
+    "fat": 14,
+    "servingSizeGrams": 625,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3599_h15_rinderhack_spitzkohl_pfanne_kichererbsen_tomate.jpg",
+    "ingredients": [
+      {
+        "name": "Rinderhackfleisch (mager)",
+        "amount": "110g"
+      },
+      {
+        "name": "Spitzkohl",
+        "amount": "250g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Spitzkohl vierteln, den Strunk entfernen und in feine Streifen schneiden, Zwiebel würfeln.",
+      "Rinderhack im Rapsöl krümelig braten, Zwiebel, Paprikapulver und Kreuzkümmel 2 Minuten mitbraten.",
+      "Spitzkohl zugeben und 6 Minuten unter Wenden braten, bis er weich ist.",
+      "Tomaten und Kichererbsen unterrühren und 5 Minuten köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3600",
+    "title": "Lachs mit Belugalinsen-Salat, Babyspinat und Radieschen",
+    "calories": 505,
+    "protein": 41,
+    "carbs": 31,
+    "fiber": 10,
+    "fat": 20,
+    "servingSizeGrams": 520,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3600_h15_lachs_belugalinsen_salat_babyspinat_radieschen.jpg",
+    "ingredients": [
+      {
+        "name": "Lachsfilet",
+        "amount": "110g"
+      },
+      {
+        "name": "Belugalinsen (trocken)",
+        "amount": "60g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "60g"
+      },
+      {
+        "name": "Radieschen",
+        "amount": "80g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "80g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "4g"
+      },
+      {
+        "name": "Dill",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Belugalinsen in reichlich Wasser 20 Minuten bissfest kochen und abgießen.",
+      "Radieschen in Scheiben schneiden, Kirschtomaten halbieren und die Zwiebel fein würfeln.",
+      "Linsen mit Gemüse, Babyspinat, Zitronensaft, Olivenöl, Dill, Salz und Pfeffer mischen.",
+      "Lachs salzen und in einer beschichteten Pfanne auf der Hautseite 5 Minuten braten, wenden und 2 Minuten fertig garen.",
+      "Lachs auf dem Linsensalat anrichten."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "pescetarisch",
+      "low-gi"
+    ],
+    "allergens": [
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3601",
+    "title": "Airfryer-Rotbarsch mit Erbsen, grünen Bohnen und Dillkartoffeln",
+    "calories": 470,
+    "protein": 44,
+    "carbs": 41,
+    "fiber": 14,
+    "fat": 14,
+    "servingSizeGrams": 600,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3601_h15_airfryer_rotbarsch_erbsen_gruene_bohnen_dillkartoffeln.jpg",
+    "ingredients": [
+      {
+        "name": "Rotbarschfilet",
+        "amount": "160g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "120g"
+      },
+      {
+        "name": "Grüne Bohnen",
+        "amount": "150g"
+      },
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "150g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Dill",
+        "amount": "4g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln in Spalten schneiden und in Salzwasser 15 Minuten kochen.",
+      "Rotbarsch mit der Hälfte des Olivenöls, Paprikapulver und Salz einpinseln und im Airfryer bei 180 °C etwa 9 Minuten garen.",
+      "Grüne Bohnen 8 Minuten und Erbsen 3 Minuten in Salzwasser garen und abgießen.",
+      "Kartoffeln mit restlichem Öl und gehacktem Dill mischen.",
+      "Fisch mit Gemüse und Kartoffeln anrichten und mit Zitronensaft beträufeln."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "pescetarisch"
+    ],
+    "allergens": [
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3602",
+    "title": "Seelachs mit Senf-Linsen, Karotte und Lauch",
+    "calories": 470,
+    "protein": 48,
+    "carbs": 41,
+    "fiber": 11,
+    "fat": 9,
+    "servingSizeGrams": 660,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3602_h15_seelachs_senf_linsen_karotte_lauch.jpg",
+    "ingredients": [
+      {
+        "name": "Seelachsfilet",
+        "amount": "150g"
+      },
+      {
+        "name": "Berglinsen (trocken)",
+        "amount": "60g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "80g"
+      },
+      {
+        "name": "Lauch",
+        "amount": "80g"
+      },
+      {
+        "name": "Senf (mittelscharf)",
+        "amount": "10g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "150 ml"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "30g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Linsen in reichlich Wasser 20 Minuten bissfest kochen und abgießen.",
+      "Karotte fein würfeln, Lauch in Ringe schneiden und in der Hälfte des Öls 4 Minuten andünsten.",
+      "Linsen und Brühe zugeben, 3 Minuten köcheln lassen und Senf und Joghurt einrühren.",
+      "Seelachs salzen und im restlichen Öl pro Seite 3 Minuten braten.",
+      "Senf-Linsen auf einem Teller verteilen, Fisch darauflegen und mit Petersilie bestreuen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich",
+      "pescetarisch",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch",
+      "fisch",
+      "senf",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_3603",
+    "title": "Thunfisch-Borlotti-Salat mit Ei, Gurke, Paprika und Tomate",
+    "calories": 475,
+    "protein": 46,
+    "carbs": 37,
+    "fiber": 13,
+    "fat": 14,
+    "servingSizeGrams": 650,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3603_h15_thunfisch_borlotti_salat_ei_gurke_paprika_tomate.jpg",
+    "ingredients": [
+      {
+        "name": "Thunfisch (im eigenen Saft, abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Borlottibohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Paprika (gelb)",
+        "amount": "80g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "10g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Das Ei 9 Minuten hart kochen, kalt abschrecken, schälen und vierteln.",
+      "Bohnen abspülen, Gurke, Paprika und Tomate würfeln und die Zwiebel in feine Ringe schneiden.",
+      "Zitronensaft mit Olivenöl, Salz und Pfeffer verrühren und mit Bohnen, Gemüse und gehackter Petersilie mischen.",
+      "Thunfisch zerpflücken, mit den Eivierteln auf dem Salat anrichten."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "pescetarisch",
+      "low-gi"
+    ],
+    "allergens": [
+      "ei",
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3604",
+    "title": "Garnelen-Quinoa-Bowl mit Edamame, Mango und Rotkohl",
+    "calories": 490,
+    "protein": 42,
+    "carbs": 48,
+    "fiber": 11,
+    "fat": 13,
+    "servingSizeGrams": 570,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3604_h15_garnelen_quinoa_bowl_edamame_mango_rotkohl.jpg",
+    "ingredients": [
+      {
+        "name": "Garnelen (geschält)",
+        "amount": "130g"
+      },
+      {
+        "name": "Quinoa (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Edamame (geschält)",
+        "amount": "80g"
+      },
+      {
+        "name": "Mango",
+        "amount": "60g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": "50g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Sesamöl",
+        "amount": "4g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "5g"
+      }
+    ],
+    "instructions": [
+      "Quinoa waschen und in der doppelten Menge Wasser 15 Minuten garen.",
+      "Edamame 3 Minuten in kochendem Wasser garen und abgießen.",
+      "Garnelen in der Hälfte des Sesamöls 3 Minuten braten, bis sie rosa sind.",
+      "Mango und Gurke würfeln, Rotkohl fein hobeln.",
+      "Alles nebeneinander in einer Schale anrichten und mit Limettensaft, Sojasauce und restlichem Sesamöl beträufeln."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "dash",
+      "pescetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "krebstiere",
+      "soja",
+      "sesam",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_3605",
+    "title": "Forellenfilet auf Erbsen-Graupen mit Dill-Joghurt",
+    "calories": 460,
+    "protein": 45,
+    "carbs": 49,
+    "fiber": 11,
+    "fat": 8,
+    "servingSizeGrams": 720,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3605_h15_forellenfilet_erbsen_graupen_dill_joghurt.jpg",
+    "ingredients": [
+      {
+        "name": "Forellenfilet",
+        "amount": "140g"
+      },
+      {
+        "name": "Perlgraupen (ungekocht)",
+        "amount": "45g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "120g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "250 ml"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Dill",
+        "amount": "5g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "40g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel fein würfeln und mit den Graupen in einem Topf ohne Fett kurz anrösten.",
+      "Brühe angießen und die Graupen zugedeckt 25 Minuten köcheln lassen, Erbsen in den letzten 4 Minuten zugeben.",
+      "Forelle salzen und in einer beschichteten Pfanne auf der Hautseite 4 Minuten braten, wenden und 1 Minute fertig garen.",
+      "Joghurt mit gehacktem Dill, Zitronensaft und Salz verrühren.",
+      "Erbsen-Graupen auf einem Teller verteilen, Forelle darauflegen und den Dill-Joghurt dazugeben."
+    ],
+    "dietTags": [
+      "high-protein",
+      "ballaststoffreich",
+      "pescetarisch",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3606",
+    "title": "Airfryer-Lachs mit Hokkaido-Kürbis, Kichererbsen und Grünkohl",
+    "calories": 470,
+    "protein": 34,
+    "carbs": 30,
+    "fiber": 13,
+    "fat": 23,
+    "servingSizeGrams": 505,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3606_h15_airfryer_lachs_hokkaido_kichererbsen_gruenkohl.jpg",
+    "ingredients": [
+      {
+        "name": "Lachsfilet",
+        "amount": "110g"
+      },
+      {
+        "name": "Kürbis (Hokkaido)",
+        "amount": "200g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Grünkohl",
+        "amount": "80g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kürbis mit Schale in Spalten schneiden und mit Kichererbsen, der Hälfte des Olivenöls, Paprikapulver und Salz mischen.",
+      "Im Airfryer bei 190 °C 12 Minuten garen.",
+      "Lachs salzen, auf das Gemüse legen und weitere 9 Minuten garen.",
+      "Grünkohl von den Stielen zupfen und im restlichen Öl in einer Pfanne 3 Minuten zusammenfallen lassen.",
+      "Alles anrichten und mit Zitronensaft beträufeln."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "pescetarisch"
+    ],
+    "allergens": [
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3607",
+    "title": "Kabeljau in Tomaten-Kichererbsen-Sauce mit Blattspinat",
+    "calories": 420,
+    "protein": 43,
+    "carbs": 32,
+    "fiber": 12,
+    "fat": 13,
+    "servingSizeGrams": 595,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3607_h15_kabeljau_tomaten_kichererbsen_sauce_blattspinat.jpg",
+    "ingredients": [
+      {
+        "name": "Kabeljaufilet",
+        "amount": "160g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "200g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "100g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Knoblauch hacken und im Olivenöl in einer breiten Pfanne kurz andünsten, Paprikapulver einrühren.",
+      "Tomaten und Kichererbsen zugeben und 8 Minuten köcheln lassen.",
+      "Kabeljau salzen, in die Sauce legen und zugedeckt 8 Minuten gar ziehen lassen.",
+      "Spinat neben dem Fisch in die Sauce geben und zusammenfallen lassen.",
+      "Mit Pfeffer abschmecken und in einem tiefen Teller servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "pescetarisch",
+      "low-gi"
+    ],
+    "allergens": [
+      "fisch"
+    ]
+  },
+  {
+    "id": "rec_3608",
+    "title": "Garnelen-Vollkornspaghetti mit Brokkoli, Erbsen und Kirschtomaten",
+    "calories": 570,
+    "protein": 45,
+    "carbs": 65,
+    "fiber": 16,
+    "fat": 12,
+    "servingSizeGrams": 645,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3608_h15_garnelen_vollkornspaghetti_brokkoli_erbsen_kirschtomaten.jpg",
+    "ingredients": [
+      {
+        "name": "Garnelen (geschält)",
+        "amount": "140g"
+      },
+      {
+        "name": "Vollkornspaghetti (ungekocht)",
+        "amount": "70g"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "150g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "80g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe (5g)"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Chiliflocken",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Spaghetti nach Packungsangabe in Salzwasser bissfest kochen, Brokkoliröschen und Erbsen 4 Minuten vor Ende zugeben.",
+      "Kirschtomaten halbieren, Knoblauch hacken.",
+      "Garnelen im Olivenöl 2 Minuten braten, Knoblauch, Tomaten und Chiliflocken zugeben und 2 Minuten weiterbraten.",
+      "Nudeln und Gemüse abgießen, in der Pfanne mit Zitronensaft durchschwenken und mit Salz und Pfeffer abschmecken."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "pescetarisch",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "krebstiere",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_3609",
+    "title": "Rote-Linsen-Dal mit Karotte, Blattspinat und Skyr",
+    "calories": 485,
+    "protein": 36,
+    "carbs": 60,
+    "fiber": 16,
+    "fat": 7,
+    "servingSizeGrams": 630,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3609_h15_rote_linsen_dal_karotte_blattspinat_skyr.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Linsen (trocken)",
+        "amount": "80g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "100g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "80g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Skyr",
+        "amount": "100g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel hacken, Ingwer reiben und Karotte fein würfeln.",
+      "Zwiebel, Ingwer und Karotte im Rapsöl 3 Minuten andünsten, Currypulver kurz mitrösten.",
+      "Linsen, Tomaten und 300 ml Wasser zugeben und 15 Minuten köcheln lassen, bis die Linsen zerfallen.",
+      "Spinat unterrühren, bis er zusammenfällt, und mit Salz abschmecken.",
+      "Dal in einer Schale mit einem Klecks Skyr servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3610",
+    "title": "Ofen-Frittata mit Brokkoli, Erbsen und Hüttenkäse",
+    "calories": 485,
+    "protein": 44,
+    "carbs": 22,
+    "fiber": 11,
+    "fat": 23,
+    "servingSizeGrams": 635,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3610_h15_ofen_frittata_brokkoli_erbsen_huettenkaese.jpg",
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": "3 Stück (180g)"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "80g"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "150g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "100g"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": "20g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "100g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 190 °C vorheizen, Brokkoli in kleine Röschen teilen und mit den Erbsen 3 Minuten in Salzwasser blanchieren.",
+      "Eier mit Hüttenkäse, Salz und Pfeffer verquirlen, Frühlingszwiebeln in Ringe schneiden.",
+      "Eine kleine ofenfeste Pfanne mit dem Olivenöl auspinseln, Gemüse darin verteilen und die Eimasse darübergießen.",
+      "Im Ofen 18 Minuten backen, bis die Frittata gestockt und leicht gebräunt ist.",
+      "Mit halbierten Kirschtomaten servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3611",
+    "title": "Linsen-Hüttenkäse-Bratlinge aus dem Airfryer mit Gurken-Dill-Salat",
+    "calories": 515,
+    "protein": 46,
+    "carbs": 53,
+    "fiber": 11,
+    "fat": 10,
+    "servingSizeGrams": 605,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3611_h15_airfryer_linsen_huettenkaese_bratlinge_gurken_dill_salat.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Linsen (trocken)",
+        "amount": "60g"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "100g"
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Haferflocken (zart)",
+        "amount": "20g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "150g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "50g"
+      },
+      {
+        "name": "Dill",
+        "amount": "5g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "60g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Linsen in Wasser 10 Minuten weich kochen, gut abtropfen und abkühlen lassen.",
+      "Linsen mit Hüttenkäse, Ei, Haferflocken, Salz und Pfeffer vermengen und 4 Bratlinge formen.",
+      "Bratlinge im Airfryer bei 190 °C etwa 14 Minuten goldbraun garen, nach der Hälfte vorsichtig wenden.",
+      "Gurke hobeln und mit Babyspinat, Joghurt, gehacktem Dill, Zitronensaft und Salz mischen.",
+      "Bratlinge mit dem Salat anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3612",
+    "title": "Schwarze-Bohnen-Quinoa-Bowl mit Hüttenkäse und Tomaten-Salsa",
+    "calories": 470,
+    "protein": 32,
+    "carbs": 67,
+    "fiber": 18,
+    "fat": 6,
+    "servingSizeGrams": 645,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3612_h15_schwarze_bohnen_quinoa_bowl_huettenkaese_salsa.jpg",
+    "ingredients": [
+      {
+        "name": "Quinoa (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Schwarze Bohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Mais (abgetropft)",
+        "amount": "50g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Paprika (gelb)",
+        "amount": "80g"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "100g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "5g"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Quinoa waschen und in der doppelten Menge Wasser 15 Minuten garen.",
+      "Bohnen und Mais abspülen und mit Kreuzkümmel in einem kleinen Topf 3 Minuten erwärmen.",
+      "Tomate und Paprika fein würfeln und mit Limettensaft, gehacktem Koriander und Salz zu einer Salsa mischen.",
+      "Quinoa, Bohnen mit Mais, Salsa und Hüttenkäse nebeneinander in einer Schale anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3613",
+    "title": "Vollkornfusilli mit Edamame-Basilikum-Creme und Kirschtomaten",
+    "calories": 505,
+    "protein": 32,
+    "carbs": 60,
+    "fiber": 13,
+    "fat": 14,
+    "servingSizeGrams": 485,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3613_h15_vollkornfusilli_edamame_basilikum_creme_kirschtomaten.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornfusilli (ungekocht)",
+        "amount": "70g"
+      },
+      {
+        "name": "Edamame (geschält)",
+        "amount": "100g"
+      },
+      {
+        "name": "Basilikum",
+        "amount": "10g"
+      },
+      {
+        "name": "Magerquark",
+        "amount": "80g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "3g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "120g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Fusilli nach Packungsangabe in Salzwasser bissfest kochen, Edamame in den letzten 4 Minuten mitkochen.",
+      "Ein Drittel der Edamame mit Basilikum, Magerquark, Zitronensaft, Olivenöl, Knoblauch, Salz und 3 EL Nudelwasser fein pürieren.",
+      "Kirschtomaten halbieren.",
+      "Nudeln und restliche Edamame mit der Creme mischen, Tomaten unterheben und mit Pfeffer abschmecken."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3614",
+    "title": "Ofen-Süßkartoffel mit Linsen-Spinat-Füllung und Limetten-Skyr",
+    "calories": 545,
+    "protein": 39,
+    "carbs": 84,
+    "fiber": 15,
+    "fat": 4,
+    "servingSizeGrams": 635,
+    "prepTimeMinutes": 50,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3614_h15_ofen_suesskartoffel_linsen_spinat_fuellung_limetten_skyr.jpg",
+    "ingredients": [
+      {
+        "name": "Süßkartoffel",
+        "amount": "1 Stück (250g)"
+      },
+      {
+        "name": "Berglinsen (trocken)",
+        "amount": "50g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "60g"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": "20g"
+      },
+      {
+        "name": "Skyr",
+        "amount": "150g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Feta light",
+        "amount": "20g"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200 °C vorheizen, Süßkartoffel waschen, mehrmals einstechen und 40 Minuten backen, bis sie weich ist.",
+      "Linsen in Wasser 20 Minuten weich kochen, abgießen und mit Kreuzkümmel, Salz und dem Babyspinat mischen, bis er zusammenfällt.",
+      "Skyr mit Limettensaft und einer Prise Salz verrühren, Frühlingszwiebeln in Ringe schneiden.",
+      "Süßkartoffel längs aufschneiden, mit der Linsen-Spinat-Mischung füllen, Limetten-Skyr daraufgeben und mit Feta und Frühlingszwiebeln bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3615",
+    "title": "Belugalinsen-Salat mit Feta light, Gurke, Paprika und Minz-Skyr",
+    "calories": 470,
+    "protein": 35,
+    "carbs": 41,
+    "fiber": 11,
+    "fat": 14,
+    "servingSizeGrams": 550,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3615_h15_belugalinsen_salat_feta_light_gurke_paprika_minz_skyr.jpg",
+    "ingredients": [
+      {
+        "name": "Belugalinsen (trocken)",
+        "amount": "70g"
+      },
+      {
+        "name": "Feta light",
+        "amount": "50g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "120g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "100g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Minze",
+        "amount": "5g"
+      },
+      {
+        "name": "Skyr",
+        "amount": "60g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Belugalinsen in reichlich Wasser 20 Minuten bissfest kochen, abgießen und abkühlen lassen.",
+      "Gurke und Paprika würfeln, Zwiebel fein hacken.",
+      "Linsen mit Gemüse, Zitronensaft, Olivenöl, Salz und Pfeffer mischen.",
+      "Skyr mit der Hälfte der gehackten Minze verrühren.",
+      "Salat mit zerbröseltem Feta, restlicher Minze und dem Minz-Skyr servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3616",
+    "title": "Brokkoli-Kichererbsen-Bowl mit Ei und Tahini-Joghurt",
+    "calories": 485,
+    "protein": 37,
+    "carbs": 37,
+    "fiber": 15,
+    "fat": 20,
+    "servingSizeGrams": 580,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3616_h15_brokkoli_kichererbsen_bowl_ei_tahini_joghurt.jpg",
+    "ingredients": [
+      {
+        "name": "Brokkoli",
+        "amount": "200g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Eier",
+        "amount": "2 Stück (120g)"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": "60g"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "60g"
+      },
+      {
+        "name": "Tahini",
+        "amount": "8g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200 °C vorheizen, Brokkoli in Röschen teilen und mit den Kichererbsen, Paprikapulver und Salz auf einem Blech 20 Minuten rösten.",
+      "Eier 7 Minuten kochen, kalt abschrecken, schälen und halbieren.",
+      "Rotkohl fein hobeln.",
+      "Joghurt mit Tahini, Zitronensaft und einer Prise Salz verrühren.",
+      "Brokkoli, Kichererbsen, Rotkohl und Eier in einer Schale anrichten und den Tahini-Joghurt darübergeben."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch",
+      "ei",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_3617",
+    "title": "Airfryer-Ingwer-Tofu mit Spitzkohl-Karotten-Salat und Vollkornreis",
+    "calories": 485,
+    "protein": 31,
+    "carbs": 50,
+    "fiber": 10,
+    "fat": 17,
+    "servingSizeGrams": 590,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3617_h15_airfryer_ingwer_tofu_spitzkohl_karotten_salat_vollkornreis.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur)",
+        "amount": "180g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "10g"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "8g"
+      },
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "45g"
+      },
+      {
+        "name": "Spitzkohl",
+        "amount": "150g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "80g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Sesamöl",
+        "amount": "3g"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": "15g"
+      }
+    ],
+    "instructions": [
+      "Vollkornreis nach Packungsangabe in etwa 25 Minuten garen.",
+      "Tofu trocken tupfen, würfeln und mit der Hälfte der Sojasauce und dem geriebenen Ingwer mischen.",
+      "Im Airfryer bei 200 °C etwa 15 Minuten knusprig garen, zwischendurch schütteln.",
+      "Spitzkohl fein hobeln, Karotte raspeln und mit Limettensaft, Sesamöl, restlicher Sojasauce und Frühlingszwiebeln mischen.",
+      "Reis, Salat und Tofu zusammen in einer Schale anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_3618",
+    "title": "Tempeh-Kichererbsen-Pfanne mit Paprika und Blattspinat",
+    "calories": 480,
+    "protein": 35,
+    "carbs": 40,
+    "fiber": 15,
+    "fat": 21,
+    "servingSizeGrams": 495,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3618_h15_tempeh_kichererbsen_pfanne_paprika_blattspinat.jpg",
+    "ingredients": [
+      {
+        "name": "Tempeh",
+        "amount": "120g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "120g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "10g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Tempeh in dünne Scheiben schneiden, Paprika in Streifen und Zwiebel in Spalten schneiden.",
+      "Tempeh im Rapsöl pro Seite 3 Minuten goldbraun braten und mit der Hälfte der Sojasauce ablöschen.",
+      "Zwiebel und Paprika zugeben und 4 Minuten braten.",
+      "Kichererbsen, Paprikapulver und restliche Sojasauce zugeben und 2 Minuten mitbraten.",
+      "Spinat unterheben, bis er zusammenfällt, und mit Pfeffer abschmecken."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3619",
+    "title": "Grünes Tofu-Erbsen-Curry mit Zucchini und Vollkornreis",
+    "calories": 520,
+    "protein": 33,
+    "carbs": 50,
+    "fiber": 12,
+    "fat": 19,
+    "servingSizeGrams": 665,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3619_h15_gruenes_tofu_erbsen_curry_zucchini_vollkornreis.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur)",
+        "amount": "150g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "120g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "150g"
+      },
+      {
+        "name": "Kokosmilch (light)",
+        "amount": "100g"
+      },
+      {
+        "name": "Grüne Currypaste (vegan)",
+        "amount": "15g"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Vollkornreis nach Packungsangabe in etwa 25 Minuten garen.",
+      "Tofu würfeln, Zucchini in Halbmonde schneiden und Ingwer reiben.",
+      "Currypaste und Ingwer in einem Topf mit 3 EL Kokosmilch 1 Minute anrösten.",
+      "Restliche Kokosmilch, 100 ml Wasser, Zucchini und Tofu zugeben und 8 Minuten köcheln lassen, Erbsen in den letzten 3 Minuten zugeben.",
+      "Mit Salz abschmecken, mit Koriander bestreuen und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3620",
+    "title": "Gefüllte Zucchini mit Sojagranulat, weißen Bohnen und Tomate",
+    "calories": 370,
+    "protein": 33,
+    "carbs": 34,
+    "fiber": 18,
+    "fat": 8,
+    "servingSizeGrams": 630,
+    "prepTimeMinutes": 45,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3620_h15_gefuellte_zucchini_sojagranulat_weisse_bohnen_tomate.jpg",
+    "ingredients": [
+      {
+        "name": "Zucchini",
+        "amount": "2 Stück (300g)"
+      },
+      {
+        "name": "Sojagranulat (trocken)",
+        "amount": "40g"
+      },
+      {
+        "name": "Weiße Bohnen (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Basilikum",
+        "amount": "5g"
+      },
+      {
+        "name": "Oregano (getrocknet)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200 °C vorheizen, Sojagranulat mit 120 ml heißem Wasser übergießen und 10 Minuten quellen lassen.",
+      "Zucchini längs halbieren und das Fruchtfleisch mit einem Löffel herauskratzen und hacken.",
+      "Zwiebel und Zucchinifleisch im Olivenöl 3 Minuten braten, ausgedrücktes Sojagranulat, leicht zerdrückte weiße Bohnen, die Hälfte der Tomaten und Oregano zugeben und 5 Minuten köcheln lassen.",
+      "Zucchinihälften füllen, in eine Form mit den restlichen Tomaten setzen und 25 Minuten backen.",
+      "Mit Basilikum bestreut servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "volumenreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3621",
+    "title": "Kreuzkümmel-Tofu auf Bulgur-Pilaw mit Kichererbsen und Gurken-Sojajoghurt",
+    "calories": 545,
+    "protein": 35,
+    "carbs": 52,
+    "fiber": 14,
+    "fat": 21,
+    "servingSizeGrams": 630,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3621_h15_kreuzkuemmel_tofu_bulgur_pilaw_kichererbsen_gurken_sojajoghurt.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur)",
+        "amount": "150g"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Bulgur (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Sojajoghurt (ungesüßt)",
+        "amount": "80g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Minze",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel fein würfeln und in der Hälfte des Öls 2 Minuten andünsten, gewürfelte Tomate und Bulgur zugeben.",
+      "Mit 90 ml Wasser und etwas Salz aufkochen, Kichererbsen zugeben und zugedeckt 12 Minuten bei kleiner Hitze quellen lassen.",
+      "Tofu würfeln, mit Kreuzkümmel, Paprikapulver und Salz würzen und im restlichen Öl 8 Minuten rundum knusprig braten.",
+      "Gurke reiben und mit Sojajoghurt, gehackter Minze und Salz verrühren.",
+      "Pilaw auf einem Teller anrichten, Tofu darauflegen und den Gurken-Sojajoghurt dazugeben."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3622",
+    "title": "Airfryer-Tempeh mit Hirse-Taboulé, Kichererbsen und Granatapfel",
+    "calories": 580,
+    "protein": 36,
+    "carbs": 63,
+    "fiber": 13,
+    "fat": 23,
+    "servingSizeGrams": 585,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3622_h15_airfryer_tempeh_hirse_taboule_kichererbsen_granatapfel.jpg",
+    "ingredients": [
+      {
+        "name": "Tempeh",
+        "amount": "130g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "5g"
+      },
+      {
+        "name": "Hirse (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "50g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "20g"
+      },
+      {
+        "name": "Granatapfelkerne",
+        "amount": "40g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Hirse heiß abspülen und in der doppelten Menge Salzwasser 10 Minuten köcheln, dann 10 Minuten quellen lassen.",
+      "Tempeh in Würfel schneiden, mit Sojasauce mischen und im Airfryer bei 190 °C etwa 10 Minuten knusprig garen.",
+      "Gurke und Tomate fein würfeln, Petersilie hacken.",
+      "Hirse mit Gemüse, Kichererbsen, Petersilie, Zitronensaft, Olivenöl und Salz mischen.",
+      "Taboulé mit Tempeh anrichten und mit Granatapfelkernen bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3623",
+    "title": "Edamame-Kichererbsen-Salat mit Räuchertofu, Karotte und Sesam",
+    "calories": 500,
+    "protein": 38,
+    "carbs": 32,
+    "fiber": 15,
+    "fat": 24,
+    "servingSizeGrams": 480,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3623_h15_edamame_kichererbsen_salat_raeuchertofu_karotte_sesam.jpg",
+    "ingredients": [
+      {
+        "name": "Räuchertofu",
+        "amount": "100g"
+      },
+      {
+        "name": "Edamame (geschält)",
+        "amount": "100g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": "15g"
+      },
+      {
+        "name": "Sesam",
+        "amount": "5g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "8g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Sesamöl",
+        "amount": "4g"
+      }
+    ],
+    "instructions": [
+      "Edamame 3 Minuten in kochendem Wasser garen, kalt abschrecken und abtropfen lassen.",
+      "Räuchertofu und Gurke würfeln, Karotte raspeln und Frühlingszwiebeln in Ringe schneiden.",
+      "Sojasauce, Limettensaft und Sesamöl zu einem Dressing verrühren.",
+      "Alle Zutaten mit dem Dressing mischen und mit Sesam bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_3624",
+    "title": "Tofu-Kidneybohnen-Eintopf mit Mangold und Süßkartoffel",
+    "calories": 520,
+    "protein": 34,
+    "carbs": 58,
+    "fiber": 17,
+    "fat": 16,
+    "servingSizeGrams": 930,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3624_h15_tofu_kidneybohnen_eintopf_mangold_suesskartoffel.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur)",
+        "amount": "130g"
+      },
+      {
+        "name": "Kidneybohnen (abgetropft)",
+        "amount": "130g"
+      },
+      {
+        "name": "Mangold",
+        "amount": "150g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": "120g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "100g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "250 ml"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "3g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch hacken, Süßkartoffel würfeln und Mangold in Streifen schneiden, dabei Stiele und Blätter trennen.",
+      "Zwiebel, Knoblauch und Mangoldstiele im Olivenöl 3 Minuten andünsten, Paprikapulver einrühren.",
+      "Süßkartoffel, Tomaten und Brühe zugeben und 10 Minuten köcheln lassen.",
+      "Tofuwürfel, Kidneybohnen und Mangoldblätter zugeben und weitere 6 Minuten köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3625",
+    "title": "Tofu-Rosenkohl-Pfanne mit Hokkaido-Kürbis und weißen Bohnen",
+    "calories": 490,
+    "protein": 38,
+    "carbs": 34,
+    "fiber": 19,
+    "fat": 20,
+    "servingSizeGrams": 650,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3625_h15_tofu_rosenkohl_pfanne_hokkaido_weisse_bohnen.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur)",
+        "amount": "150g"
+      },
+      {
+        "name": "Rosenkohl",
+        "amount": "200g"
+      },
+      {
+        "name": "Kürbis (Hokkaido)",
+        "amount": "150g"
+      },
+      {
+        "name": "Weiße Bohnen (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "8g"
+      },
+      {
+        "name": "Thymian",
+        "amount": "2g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Rosenkohl halbieren, Kürbis mit Schale in kleine Würfel schneiden und beides in Salzwasser 5 Minuten vorgaren, dann abgießen.",
+      "Tofu würfeln und in der Hälfte des Olivenöls 6 Minuten goldbraun braten, mit Sojasauce ablöschen und herausnehmen.",
+      "Im restlichen Öl Zwiebel, Rosenkohl und Kürbis 6 Minuten braten, bis sie leicht gebräunt sind.",
+      "Bohnen, Thymian und Tofu zugeben, 2 Minuten mitbraten und mit Salz und Pfeffer abschmecken."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3626",
+    "title": "Blumenkohl-Kichererbsen-Suppe mit Räuchertofu-Würfeln",
+    "calories": 455,
+    "protein": 34,
+    "carbs": 34,
+    "fiber": 16,
+    "fat": 19,
+    "servingSizeGrams": 945,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3626_h15_blumenkohl_kichererbsen_suppe_raeuchertofu_wuerfel.jpg",
+    "ingredients": [
+      {
+        "name": "Blumenkohl",
+        "amount": "300g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Räuchertofu",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "350 ml"
+      },
+      {
+        "name": "Sojajoghurt (ungesüßt)",
+        "amount": "50g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "4g"
+      },
+      {
+        "name": "Kurkuma (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel hacken und in der Hälfte des Rapsöls 3 Minuten andünsten, Kurkuma und Kreuzkümmel kurz mitrösten.",
+      "Blumenkohlröschen, Kichererbsen und Brühe zugeben und 15 Minuten köcheln lassen.",
+      "Suppe fein pürieren und mit Salz und Pfeffer abschmecken.",
+      "Räuchertofu würfeln und im restlichen Öl 5 Minuten knusprig braten.",
+      "Suppe mit einem Klecks Sojajoghurt und den Tofuwürfeln servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "soja"
+    ]
   }
 ]
