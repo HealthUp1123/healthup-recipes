@@ -2,7 +2,7 @@
 
 Remote-Datenspeicher für die Rezeptvorschläge der iOS-App **HealthUp+**. Das Repository dient als Content Delivery Network (CDN): Die App lädt `recipes.json` und die Rezeptbilder zur Laufzeit per HTTPS.
 
-Aktueller Stand: **3550 Rezepte** (siehe `meta.json`, Schema-Version 3).
+Aktueller Stand: **3600 Rezepte** (siehe `meta.json`, Schema-Version 3).
 
 ## Struktur
 
@@ -108,3 +108,4 @@ Die folgenden Tags werden konservativ aus den Zutaten und den Nährwerten **pro 
 - 2026-11-10: 500 neue Rezepte rec_1227–1726 (internationale Küche und Hausmannskost, Airfryer, Protein-Desserts und Gerichte für keto, paleo, low-FODMAP und DASH, wo die Zutaten das ehrlich hergeben); Primärtags u. a. 77 mediterran, 63 pescetarisch, 50 vegan high-protein, 48 low-GI, 39 DASH, 26 volumenreich, 21 low-carb, 17 low-FODMAP, 12 keto, 10 paleo; 329 Hauptgerichte, 63 Frühstück, 54 Snacks, 54 Desserts; 280 vegetarisch (davon 117 vegan); eigene Bilder 1152×864 (Lanczos-Hochskalierung, höchstens 250 KB), en/tr ergänzt; Allergen `sulfite` bei den neuen Rezepten aus den Zutaten abgeleitet; insgesamt 1700 Rezepte.
 - 2026-11-11: 1800 neue Rezepte rec_1727–3526 für den Diät-Ernährungsberater (mediterrane Küche, Low-Carb und Keto, High-Protein vegan und vegetarisch, Fisch, Low-GI und ballaststoffreich, DASH und volumenreich, Paleo und Low-FODMAP, türkisch und nahöstlich, Airfryer und schnelle Gerichte, Frühstück und Snacks, Ost- und Südostasien, DACH-Hausmannskost, lateinamerikanische und afrikanische Küche, Suppen, Salate und Meal-Prep, Desserts und Eis, Protein-Bowls, saisonale Geflügel- und Wildgerichte ohne Wildschwein, dazu Lückenfüller); kein Schweinefleisch; eigene Bilder 1152×864 (höchstens 250 KB), en/tr ergänzt; Allergen `sulfite` bei den neuen Rezepten aus den Zutaten abgeleitet; Korrekturen: Titel und Bildname rec_2858 (Kalbsgeschnetzeltes mit Rösti und Feldsalat), rec_3227 von Hirse auf Buchweizen umgestellt, Zubereitungsschritte rec_2355 ergänzt; insgesamt 3500 Rezepte.
 - 2026-11-12: rec_1472 Doro Wat: Tag low-gi entfernt
+- 2026-11-14: 50 neue Rezepte rec_3577–3626 für den Diät-Ernährungsberater: eiweiß- und ballaststoffreiche Mittag- und Abendessen (Hähnchen, Pute, Rind, Fisch und Garnelen, Hülsenfrüchte, Tofu und Tempeh; 10 aus dem Airfryer; 370–580 kcal, mindestens 31 g Eiweiß und 10 g Ballaststoffe pro Portion); alle `high-protein` und `ballaststoffreich`, dazu u. a. 35 low-GI, 18 mediterran, 9 pescetarisch; 18 vegetarisch (davon 10 vegan); kein Schweinefleisch; eigene Bilder 1152×864 (höchstens 250 KB), en/tr ergänzt; Allergen `sulfite` aus den Zutaten abgeleitet (rec_3582, 3602 Senf; rec_3604, 3608 Garnelen); kein Schemawechsel; insgesamt 3600 Rezepte.

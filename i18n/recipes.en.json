@@ -70219,5 +70219,1118 @@
       "Put the yoghurt into a bowl and lay the nectarine wedges on top.",
       "Sprinkle with the oats and roughly chopped walnuts."
     ]
+  },
+  {
+    "id": "rec_3577",
+    "title": "Chicken lentil bowl with broccoli and yoghurt mint dip",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Green lentils (dry)",
+      "Broccoli",
+      "Greek yoghurt (0.2% fat)",
+      "Mint",
+      "Lemon juice",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the lentils in plenty of water for 20 minutes until tender, then drain.",
+      "Cut the broccoli into florets and steam it over the lentils for the last 5 minutes.",
+      "Season the chicken with salt and pepper, fry it in the olive oil for 5 minutes per side, then slice it.",
+      "Stir the yoghurt with chopped mint, lemon juice and a little salt.",
+      "Arrange the lentils, broccoli and chicken in a bowl and add the dip on top."
+    ]
+  },
+  {
+    "id": "rec_3578",
+    "title": "Air fryer chicken breast with chickpea pepper salad and rocket",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Sweet paprika",
+      "Chickpeas (drained)",
+      "Red pepper",
+      "Rocket",
+      "Red onion",
+      "Lemon juice",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rub the chicken with half of the olive oil, paprika, salt and pepper.",
+      "Cook in the air fryer at 190 °C for about 14 minutes, turning once.",
+      "Dice the pepper, cut the onion into thin rings and mix with the chickpeas.",
+      "Dress the salad with lemon juice, the remaining olive oil, salt and pepper and fold in the rocket.",
+      "Let the chicken rest for 3 minutes, slice it and serve next to the salad."
+    ]
+  },
+  {
+    "id": "rec_3579",
+    "title": "Chicken lentil soup with leaf spinach, carrot and lemon",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Red lentils (dry)",
+      "Carrot",
+      "Onion",
+      "Leaf spinach",
+      "Vegetable stock",
+      "Lemon juice",
+      "Rapeseed oil",
+      "Ground turmeric",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Chop the onion, dice the carrot and cut the chicken into small cubes.",
+      "Sweat the onion and carrot in the rapeseed oil in a pot for 3 minutes and stir in the turmeric.",
+      "Add the stock and lentils and simmer for 10 minutes.",
+      "Add the chicken cubes and let them cook gently for 8 minutes, then stir in the spinach.",
+      "Season with lemon juice, salt and pepper and serve sprinkled with parsley."
+    ]
+  },
+  {
+    "id": "rec_3580",
+    "title": "Chicken edamame stir-fry with pak choi, carrot and brown rice",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Shelled edamame",
+      "Brown rice (uncooked)",
+      "Pak choi",
+      "Carrot",
+      "Soy sauce",
+      "Ginger",
+      "Sesame oil"
+    ],
+    "instructions": [
+      "Cook the brown rice according to the packet for about 25 minutes.",
+      "Cut the chicken into strips, the carrot into thin sticks and the pak choi into pieces, and grate the ginger.",
+      "Stir-fry the chicken in the sesame oil over high heat for 5 minutes.",
+      "Add the carrot, edamame and ginger for 3 minutes, then add the pak choi and fry for 2 more minutes.",
+      "Deglaze with soy sauce and serve with the rice."
+    ]
+  },
+  {
+    "id": "rec_3581",
+    "title": "Chicken bulgur salad with chickpeas, tomato and parsley",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Bulgur (uncooked)",
+      "Chickpeas (drained)",
+      "Cucumber",
+      "Tomato",
+      "Parsley",
+      "Lemon juice",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Pour boiling water over the bulgur and leave it covered to soak for 10 minutes.",
+      "Season the chicken and fry it in a non-stick pan with half of the oil for 5 minutes per side.",
+      "Dice the cucumber and tomato and finely chop the parsley.",
+      "Mix the bulgur with the vegetables, chickpeas, parsley, lemon juice and the remaining oil.",
+      "Slice the chicken and arrange it on the salad."
+    ]
+  },
+  {
+    "id": "rec_3582",
+    "title": "Oven-baked chicken with Brussels sprouts, sweet potato and mustard yoghurt",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Brussels sprouts",
+      "Sweet potato",
+      "Olive oil",
+      "Greek yoghurt (0.2% fat)",
+      "Medium-hot mustard",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C, halve the Brussels sprouts and cut the sweet potato into cubes.",
+      "Toss the vegetables with the olive oil, salt and pepper and spread them on a tray.",
+      "Season the chicken with paprika and salt, add it to the tray and bake everything for 25 minutes.",
+      "Stir the yoghurt with the mustard and a pinch of salt.",
+      "Slice the chicken and serve with the roasted vegetables and the mustard yoghurt."
+    ]
+  },
+  {
+    "id": "rec_3583",
+    "title": "Chicken wrap with black beans, red cabbage and avocado",
+    "ingredients": [
+      "Wholemeal wrap",
+      "Chicken breast fillet",
+      "Black beans (drained)",
+      "Red cabbage",
+      "Avocado",
+      "Greek yoghurt (0.2% fat)",
+      "Lime juice",
+      "Coriander",
+      "Ground cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the chicken into strips, season with cumin, salt and pepper and fry in a non-stick pan for 6 minutes.",
+      "Rinse the beans and lightly mash them with a fork, finely shred the red cabbage.",
+      "Mash the avocado with lime juice and a little salt.",
+      "Warm the wrap briefly in the pan, fill with yoghurt, beans, cabbage, chicken, avocado and coriander, roll up and cut in half."
+    ]
+  },
+  {
+    "id": "rec_3584",
+    "title": "Chicken chickpea curry with leaf spinach",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Chickpeas (drained)",
+      "Leaf spinach",
+      "Light coconut milk",
+      "Chopped tomatoes (tin)",
+      "Onion",
+      "Ginger",
+      "Curry powder",
+      "Rapeseed oil",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the chicken, finely chop the onion and grate the ginger.",
+      "Brown the chicken in the rapeseed oil for 4 minutes, fry the onion and ginger with it for 2 minutes and dust with curry powder.",
+      "Add the coconut milk, tomatoes and chickpeas and simmer for 12 minutes.",
+      "Stir in the spinach until it wilts and season with salt.",
+      "Serve the curry in a bowl sprinkled with coriander."
+    ]
+  },
+  {
+    "id": "rec_3585",
+    "title": "Chicken buckwheat salad with green beans, cherry tomatoes and light feta",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Buckwheat (uncooked)",
+      "Green beans",
+      "Cherry tomatoes",
+      "Light feta",
+      "Lemon juice",
+      "Olive oil",
+      "Basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Simmer the buckwheat in twice the amount of salted water for 12 minutes and drain.",
+      "Trim the green beans, halve them and cook in salted water for 8 minutes, then rinse in cold water.",
+      "Season the chicken, fry it in a non-stick pan for 5 minutes per side and slice it.",
+      "Mix the buckwheat, beans and halved cherry tomatoes with lemon juice, olive oil, salt and pepper.",
+      "Top with the chicken, crumble the feta over it and sprinkle with basil."
+    ]
+  },
+  {
+    "id": "rec_3586",
+    "title": "Air fryer chicken strips in oat crust with pea mint mash",
+    "ingredients": [
+      "Chicken breast fillet",
+      "Fine rolled oats",
+      "Egg white",
+      "Peas (frozen)",
+      "Mint",
+      "Greek yoghurt (0.2% fat)",
+      "Rapeseed oil",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the chicken into 6 strips and season with salt, pepper and paprika.",
+      "Dip the strips first in the whisked egg white, then coat them in the oats and spray with the rapeseed oil.",
+      "Cook in the air fryer at 190 °C for about 12 minutes until crisp, turning halfway.",
+      "Boil the peas in salted water for 4 minutes, drain and roughly blend with mint, yoghurt, salt and pepper.",
+      "Serve the chicken strips with the pea mash."
+    ]
+  },
+  {
+    "id": "rec_3587",
+    "title": "Turkey sweet potato pan with pinto beans and baby spinach",
+    "ingredients": [
+      "Turkey breast fillet",
+      "Sweet potato",
+      "Pinto beans (drained)",
+      "Baby spinach",
+      "Red onion",
+      "Rapeseed oil",
+      "Sweet paprika",
+      "Ground cumin",
+      "Lime juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the sweet potato into small cubes, the turkey into strips and the onion into wedges.",
+      "Fry the sweet potato in half of the rapeseed oil covered for 8 minutes until almost soft.",
+      "Add the turkey and onion with the remaining oil and fry for 5 minutes, seasoning with paprika, cumin and salt.",
+      "Add the pinto beans, warm for 2 minutes and fold in the baby spinach.",
+      "Season with lime juice and pepper and serve."
+    ]
+  },
+  {
+    "id": "rec_3588",
+    "title": "Sliced turkey with kidney beans, pepper and courgette",
+    "ingredients": [
+      "Turkey breast fillet",
+      "Kidney beans (drained)",
+      "Yellow pepper",
+      "Courgette",
+      "Onion",
+      "Passata",
+      "Rapeseed oil",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the turkey into thin strips and the pepper, courgette and onion into pieces.",
+      "Sear the turkey in the rapeseed oil for 4 minutes and remove it.",
+      "Fry the onion, pepper and courgette in the same pan for 5 minutes.",
+      "Add the passata, kidney beans, paprika and turkey and simmer for 5 minutes.",
+      "Season with salt and pepper and serve."
+    ]
+  },
+  {
+    "id": "rec_3589",
+    "title": "Air fryer turkey patties with chickpea radish salad and dill yoghurt",
+    "ingredients": [
+      "Minced turkey",
+      "Fine rolled oats",
+      "Onion",
+      "Chickpeas (drained)",
+      "Cucumber",
+      "Radishes",
+      "Dill",
+      "Greek yoghurt (0.2% fat)",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Knead the minced turkey with oats, finely chopped onion, salt and pepper and shape 3 flat patties.",
+      "Cook in the air fryer at 190 °C for about 12 minutes, turning halfway.",
+      "Slice the cucumber and radishes and mix them with the chickpeas and lemon juice.",
+      "Stir the yoghurt with chopped dill and a pinch of salt.",
+      "Serve the patties with the salad and dill yoghurt."
+    ]
+  },
+  {
+    "id": "rec_3590",
+    "title": "Turkey breast with white bean tomato ragout and leaf spinach",
+    "ingredients": [
+      "Turkey breast fillet",
+      "White beans (drained)",
+      "Chopped tomatoes (tin)",
+      "Leaf spinach",
+      "Garlic",
+      "Olive oil",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Season the turkey breast and fry it in half of the olive oil for 5 minutes per side, then keep warm.",
+      "Chop the garlic and briefly sweat it in the remaining oil.",
+      "Add the tomatoes and beans and simmer for 8 minutes.",
+      "Fold in the spinach until wilted and season the ragout.",
+      "Slice the turkey, lay it on the ragout and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_3591",
+    "title": "Air fryer turkey skewers with chickpea couscous and cucumber yoghurt",
+    "ingredients": [
+      "Turkey breast fillet",
+      "Red pepper",
+      "Courgette",
+      "Wholemeal couscous (uncooked)",
+      "Chickpeas (drained)",
+      "Greek yoghurt (0.2% fat)",
+      "Cucumber",
+      "Olive oil",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the turkey, pepper and courgette into cubes, thread them alternately onto 3 skewers and brush with olive oil, paprika and salt.",
+      "Cook the skewers in the air fryer at 190 °C for about 12 minutes, turning halfway.",
+      "Pour the same amount of boiling water over the couscous, leave to swell for 5 minutes and mix in the chickpeas.",
+      "Grate the cucumber, squeeze it out and stir it into the yoghurt with salt and pepper.",
+      "Arrange the skewers on the couscous and serve the cucumber yoghurt alongside."
+    ]
+  },
+  {
+    "id": "rec_3592",
+    "title": "Turkey leek pan with peas and wholemeal penne",
+    "ingredients": [
+      "Turkey breast fillet",
+      "Leek",
+      "Peas (frozen)",
+      "Wholemeal penne (uncooked)",
+      "Light cream cheese",
+      "Vegetable stock",
+      "Rapeseed oil",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the penne in salted water until al dente according to the packet.",
+      "Cut the turkey into strips, fry it in the rapeseed oil for 4 minutes, then remove it.",
+      "Halve the leek lengthways, wash it, slice into rings and sweat in the same pan for 4 minutes.",
+      "Stir in the stock, peas and cream cheese, return the turkey and simmer for 3 minutes.",
+      "Toss with the penne, season and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_3593",
+    "title": "Turkey chickpea tagine with carrot, courgette and parsley",
+    "ingredients": [
+      "Turkey breast fillet",
+      "Chickpeas (drained)",
+      "Carrot",
+      "Courgette",
+      "Onion",
+      "Chopped tomatoes (tin)",
+      "Olive oil",
+      "Ras el hanout",
+      "Lemon juice",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the turkey into large cubes, the carrot into slices and the courgette into thick pieces, and chop the onion.",
+      "Brown the turkey in the olive oil in a casserole for 4 minutes, then fry the onion and ras el hanout with it for 2 minutes.",
+      "Add the carrot, tomatoes and 150 ml water and braise covered for 15 minutes.",
+      "Add the courgette and chickpeas and braise for another 8 minutes.",
+      "Season with lemon juice and salt and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_3594",
+    "title": "Beef chilli with black beans and Hokkaido pumpkin",
+    "ingredients": [
+      "Lean minced beef",
+      "Black beans (drained)",
+      "Hokkaido pumpkin",
+      "Chopped tomatoes (tin)",
+      "Onion",
+      "Rapeseed oil",
+      "Ground cumin",
+      "Chilli flakes",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the pumpkin with its skin into small cubes and chop the onion.",
+      "Fry the minced beef in the rapeseed oil until crumbly, then fry the onion with it for 2 minutes.",
+      "Briefly toast the cumin and chilli flakes, then add the pumpkin, tomatoes and 100 ml water.",
+      "Simmer covered for 15 minutes, then let the beans heat through for 5 minutes.",
+      "Season and serve sprinkled with coriander."
+    ]
+  },
+  {
+    "id": "rec_3595",
+    "title": "Ginger beef strips with broccoli, edamame and quinoa",
+    "ingredients": [
+      "Beef rump steak",
+      "Broccoli",
+      "Shelled edamame",
+      "Quinoa (uncooked)",
+      "Soy sauce",
+      "Ginger",
+      "Garlic",
+      "Sesame oil"
+    ],
+    "instructions": [
+      "Rinse the quinoa and cook it in twice the amount of water for 15 minutes.",
+      "Cut the steak across the grain into thin strips, divide the broccoli into small florets and chop the ginger and garlic.",
+      "Sear the beef strips in the sesame oil for 2 minutes and remove them.",
+      "Fry the broccoli, edamame, ginger and garlic with 3 tbsp water for 4 minutes.",
+      "Add the beef and soy sauce, toss briefly and serve with the quinoa."
+    ]
+  },
+  {
+    "id": "rec_3596",
+    "title": "Air fryer beef kofta with bulgur chickpea salad and yoghurt",
+    "ingredients": [
+      "Lean minced beef",
+      "Onion",
+      "Ground cumin",
+      "Bulgur (uncooked)",
+      "Chickpeas (drained)",
+      "Tomato",
+      "Parsley",
+      "Lemon juice",
+      "Olive oil",
+      "Greek yoghurt (0.2% fat)",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Knead the minced beef with finely grated onion, cumin, half of the parsley, salt and pepper and shape 4 long koftas.",
+      "Cook the koftas in the air fryer at 200 °C for about 10 minutes, turning halfway.",
+      "Pour boiling water over the bulgur and leave to swell for 10 minutes.",
+      "Mix the bulgur with the chickpeas, diced tomato, remaining parsley, lemon juice, olive oil and salt.",
+      "Serve the koftas with the salad and the yoghurt."
+    ]
+  },
+  {
+    "id": "rec_3597",
+    "title": "Beef rump steak with white bean rocket salad and cherry tomatoes",
+    "ingredients": [
+      "Beef rump steak",
+      "White beans (drained)",
+      "Rocket",
+      "Cherry tomatoes",
+      "Red onion",
+      "Olive oil",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Take the steak out of the fridge 20 minutes before frying and pat it dry.",
+      "Fry the steak in a very hot pan with half of the oil for 3 minutes per side, season and let it rest for 4 minutes.",
+      "Rinse the beans, halve the cherry tomatoes and cut the onion into thin rings.",
+      "Mix the beans, tomatoes, onion and rocket with lemon juice, the remaining oil, salt and pepper.",
+      "Slice the steak and serve it on the salad."
+    ]
+  },
+  {
+    "id": "rec_3598",
+    "title": "Beef strips with Brussels sprouts, mushrooms and chickpeas",
+    "ingredients": [
+      "Beef rump steak",
+      "Brussels sprouts",
+      "Mushrooms",
+      "Chickpeas (drained)",
+      "Onion",
+      "Rapeseed oil",
+      "Thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Trim and halve the Brussels sprouts and precook them in salted water for 5 minutes, then drain.",
+      "Cut the steak into thin strips, the mushrooms into slices and the onion into strips.",
+      "Sear the beef strips in half of the oil for 2 minutes, salt them and remove.",
+      "Fry the Brussels sprouts, mushrooms and onion in the remaining oil for 6 minutes, then fry the chickpeas and thyme with them for 2 minutes.",
+      "Return the beef, season with salt and pepper and serve."
+    ]
+  },
+  {
+    "id": "rec_3599",
+    "title": "Minced beef pointed cabbage pan with chickpeas and tomato",
+    "ingredients": [
+      "Lean minced beef",
+      "Pointed cabbage",
+      "Chickpeas (drained)",
+      "Chopped tomatoes (tin)",
+      "Onion",
+      "Rapeseed oil",
+      "Sweet paprika",
+      "Ground cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Quarter the pointed cabbage, remove the core and cut it into thin strips, then dice the onion.",
+      "Fry the minced beef in the rapeseed oil until crumbly, then fry the onion, paprika and cumin with it for 2 minutes.",
+      "Add the cabbage and fry for 6 minutes, turning, until soft.",
+      "Stir in the tomatoes and chickpeas and simmer for 5 minutes.",
+      "Season with salt and pepper and serve."
+    ]
+  },
+  {
+    "id": "rec_3600",
+    "title": "Salmon with beluga lentil salad, baby spinach and radishes",
+    "ingredients": [
+      "Salmon fillet",
+      "Beluga lentils (dry)",
+      "Baby spinach",
+      "Radishes",
+      "Cherry tomatoes",
+      "Red onion",
+      "Lemon juice",
+      "Olive oil",
+      "Dill",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the beluga lentils in plenty of water for 20 minutes until al dente and drain.",
+      "Slice the radishes, halve the cherry tomatoes and finely dice the onion.",
+      "Mix the lentils with the vegetables, baby spinach, lemon juice, olive oil, dill, salt and pepper.",
+      "Salt the salmon and fry it skin side down in a non-stick pan for 5 minutes, turn and finish cooking for 2 minutes.",
+      "Serve the salmon on the lentil salad."
+    ]
+  },
+  {
+    "id": "rec_3601",
+    "title": "Air fryer redfish with peas, green beans and dill potatoes",
+    "ingredients": [
+      "Redfish fillet",
+      "Peas (frozen)",
+      "Green beans",
+      "Waxy potatoes",
+      "Olive oil",
+      "Dill",
+      "Lemon juice",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the potatoes into wedges and boil them in salted water for 15 minutes.",
+      "Brush the redfish with half of the olive oil, paprika and salt and cook in the air fryer at 180 °C for about 9 minutes.",
+      "Cook the green beans for 8 minutes and the peas for 3 minutes in salted water and drain.",
+      "Toss the potatoes with the remaining oil and chopped dill.",
+      "Arrange the fish with the vegetables and potatoes and drizzle with lemon juice."
+    ]
+  },
+  {
+    "id": "rec_3602",
+    "title": "Pollock with mustard lentils, carrot and leek",
+    "ingredients": [
+      "Pollock fillet",
+      "Green lentils (dry)",
+      "Carrot",
+      "Leek",
+      "Medium-hot mustard",
+      "Vegetable stock",
+      "Greek yoghurt (0.2% fat)",
+      "Rapeseed oil",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the lentils in plenty of water for 20 minutes until al dente and drain.",
+      "Finely dice the carrot, slice the leek into rings and sweat them in half of the oil for 4 minutes.",
+      "Add the lentils and stock, simmer for 3 minutes and stir in the mustard and yoghurt.",
+      "Salt the pollock and fry it in the remaining oil for 3 minutes per side.",
+      "Spread the mustard lentils on a plate, lay the fish on top and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_3603",
+    "title": "Tuna borlotti salad with egg, cucumber, pepper and tomato",
+    "ingredients": [
+      "Tuna in brine, drained",
+      "Borlotti beans (drained)",
+      "Egg",
+      "Cucumber",
+      "Yellow pepper",
+      "Tomato",
+      "Red onion",
+      "Parsley",
+      "Lemon juice",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Hard-boil the egg for 9 minutes, cool it in cold water, peel and quarter it.",
+      "Rinse the beans, dice the cucumber, pepper and tomato and cut the onion into thin rings.",
+      "Whisk the lemon juice with olive oil, salt and pepper and toss with the beans, vegetables and chopped parsley.",
+      "Flake the tuna and arrange it with the egg quarters on the salad."
+    ]
+  },
+  {
+    "id": "rec_3604",
+    "title": "Prawn quinoa bowl with edamame, mango and red cabbage",
+    "ingredients": [
+      "Prawns (peeled)",
+      "Quinoa (uncooked)",
+      "Shelled edamame",
+      "Mango",
+      "Cucumber",
+      "Red cabbage",
+      "Lime juice",
+      "Sesame oil",
+      "Soy sauce"
+    ],
+    "instructions": [
+      "Rinse the quinoa and cook it in twice the amount of water for 15 minutes.",
+      "Cook the edamame in boiling water for 3 minutes and drain.",
+      "Fry the prawns in half of the sesame oil for 3 minutes until pink.",
+      "Dice the mango and cucumber and finely shred the red cabbage.",
+      "Arrange everything side by side in a bowl and drizzle with lime juice, soy sauce and the remaining sesame oil."
+    ]
+  },
+  {
+    "id": "rec_3605",
+    "title": "Trout fillet on pea barley with dill yoghurt",
+    "ingredients": [
+      "Trout fillet",
+      "Pearl barley (uncooked)",
+      "Peas (frozen)",
+      "Vegetable stock",
+      "Onion",
+      "Dill",
+      "Greek yoghurt (0.2% fat)",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely dice the onion and briefly toast it with the barley in a dry pot.",
+      "Pour in the stock and simmer the barley covered for 25 minutes, adding the peas for the last 4 minutes.",
+      "Salt the trout and fry it skin side down in a non-stick pan for 4 minutes, turn and finish for 1 minute.",
+      "Stir the yoghurt with chopped dill, lemon juice and salt.",
+      "Spread the pea barley on a plate, lay the trout on top and add the dill yoghurt."
+    ]
+  },
+  {
+    "id": "rec_3606",
+    "title": "Air fryer salmon with Hokkaido pumpkin, chickpeas and kale",
+    "ingredients": [
+      "Salmon fillet",
+      "Hokkaido pumpkin",
+      "Chickpeas (drained)",
+      "Kale",
+      "Olive oil",
+      "Lemon juice",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the pumpkin with its skin into wedges and toss with the chickpeas, half of the olive oil, paprika and salt.",
+      "Cook in the air fryer at 190 °C for 12 minutes.",
+      "Salt the salmon, place it on the vegetables and cook for another 9 minutes.",
+      "Strip the kale from its stalks and wilt it in the remaining oil in a pan for 3 minutes.",
+      "Arrange everything and drizzle with lemon juice."
+    ]
+  },
+  {
+    "id": "rec_3607",
+    "title": "Cod in tomato chickpea sauce with leaf spinach",
+    "ingredients": [
+      "Cod fillet",
+      "Chickpeas (drained)",
+      "Chopped tomatoes (tin)",
+      "Leaf spinach",
+      "Garlic",
+      "Olive oil",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Chop the garlic, sweat it briefly in the olive oil in a wide pan and stir in the paprika.",
+      "Add the tomatoes and chickpeas and simmer for 8 minutes.",
+      "Salt the cod, place it in the sauce and let it cook covered for 8 minutes.",
+      "Add the spinach to the sauce next to the fish and let it wilt.",
+      "Season with pepper and serve in a deep plate."
+    ]
+  },
+  {
+    "id": "rec_3608",
+    "title": "Prawn wholemeal spaghetti with broccoli, peas and cherry tomatoes",
+    "ingredients": [
+      "Prawns (peeled)",
+      "Wholemeal spaghetti (uncooked)",
+      "Broccoli",
+      "Peas (frozen)",
+      "Cherry tomatoes",
+      "Garlic",
+      "Olive oil",
+      "Lemon juice",
+      "Chilli flakes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the spaghetti in salted water until al dente according to the packet, adding the broccoli florets and peas 4 minutes before the end.",
+      "Halve the cherry tomatoes and chop the garlic.",
+      "Fry the prawns in the olive oil for 2 minutes, add the garlic, tomatoes and chilli flakes and fry for 2 more minutes.",
+      "Drain the pasta and vegetables, toss them in the pan with lemon juice and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_3609",
+    "title": "Red lentil dal with carrot, leaf spinach and skyr",
+    "ingredients": [
+      "Red lentils (dry)",
+      "Carrot",
+      "Leaf spinach",
+      "Chopped tomatoes (tin)",
+      "Onion",
+      "Ginger",
+      "Curry powder",
+      "Rapeseed oil",
+      "Skyr",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Chop the onion, grate the ginger and finely dice the carrot.",
+      "Sweat the onion, ginger and carrot in the rapeseed oil for 3 minutes and briefly toast the curry powder.",
+      "Add the lentils, tomatoes and 300 ml water and simmer for 15 minutes until the lentils break down.",
+      "Stir in the spinach until it wilts and season with salt.",
+      "Serve the dal in a bowl with a dollop of skyr."
+    ]
+  },
+  {
+    "id": "rec_3610",
+    "title": "Oven frittata with broccoli, peas and cottage cheese",
+    "ingredients": [
+      "Eggs",
+      "Cottage cheese",
+      "Broccoli",
+      "Peas (frozen)",
+      "Spring onions",
+      "Cherry tomatoes",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 190 °C, divide the broccoli into small florets and blanch with the peas in salted water for 3 minutes.",
+      "Whisk the eggs with cottage cheese, salt and pepper and slice the spring onions into rings.",
+      "Brush a small ovenproof pan with the olive oil, spread the vegetables in it and pour over the egg mixture.",
+      "Bake in the oven for 18 minutes until the frittata is set and lightly browned.",
+      "Serve with halved cherry tomatoes."
+    ]
+  },
+  {
+    "id": "rec_3611",
+    "title": "Air fryer lentil cottage cheese patties with cucumber dill salad",
+    "ingredients": [
+      "Red lentils (dry)",
+      "Cottage cheese",
+      "Egg",
+      "Fine rolled oats",
+      "Cucumber",
+      "Baby spinach",
+      "Dill",
+      "Greek yoghurt (0.2% fat)",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the lentils in water for 10 minutes until soft, drain well and let them cool.",
+      "Mix the lentils with cottage cheese, egg, oats, salt and pepper and shape 4 patties.",
+      "Cook the patties in the air fryer at 190 °C for about 14 minutes until golden, carefully turning halfway.",
+      "Thinly slice the cucumber and mix with the baby spinach, yoghurt, chopped dill, lemon juice and salt.",
+      "Serve the patties with the salad."
+    ]
+  },
+  {
+    "id": "rec_3612",
+    "title": "Black bean quinoa bowl with cottage cheese and tomato salsa",
+    "ingredients": [
+      "Quinoa (uncooked)",
+      "Black beans (drained)",
+      "Sweetcorn (drained)",
+      "Tomato",
+      "Yellow pepper",
+      "Cottage cheese",
+      "Lime juice",
+      "Coriander",
+      "Ground cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse the quinoa and cook it in twice the amount of water for 15 minutes.",
+      "Rinse the beans and sweetcorn and warm them with the cumin in a small pot for 3 minutes.",
+      "Finely dice the tomato and pepper and mix with lime juice, chopped coriander and salt into a salsa.",
+      "Arrange the quinoa, beans with sweetcorn, salsa and cottage cheese side by side in a bowl."
+    ]
+  },
+  {
+    "id": "rec_3613",
+    "title": "Wholemeal fusilli with edamame basil cream and cherry tomatoes",
+    "ingredients": [
+      "Wholemeal fusilli (uncooked)",
+      "Shelled edamame",
+      "Basil",
+      "Low-fat quark",
+      "Lemon juice",
+      "Olive oil",
+      "Garlic",
+      "Cherry tomatoes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the fusilli in salted water until al dente according to the packet, adding the edamame for the last 4 minutes.",
+      "Blend a third of the edamame with basil, quark, lemon juice, olive oil, garlic, salt and 3 tbsp pasta water until smooth.",
+      "Halve the cherry tomatoes.",
+      "Toss the pasta and remaining edamame with the cream, fold in the tomatoes and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_3614",
+    "title": "Baked sweet potato with lentil spinach filling and lime skyr",
+    "ingredients": [
+      "Sweet potato",
+      "Green lentils (dry)",
+      "Baby spinach",
+      "Spring onions",
+      "Skyr",
+      "Lime juice",
+      "Light feta",
+      "Ground cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C, wash the sweet potato, prick it several times and bake for 40 minutes until soft.",
+      "Cook the lentils in water for 20 minutes until tender, drain and mix with cumin, salt and the baby spinach until it wilts.",
+      "Stir the skyr with lime juice and a pinch of salt and cut the spring onions into rings.",
+      "Cut the sweet potato open lengthways, fill with the lentil spinach mixture, top with the lime skyr and sprinkle with feta and spring onions."
+    ]
+  },
+  {
+    "id": "rec_3615",
+    "title": "Beluga lentil salad with light feta, cucumber, pepper and mint skyr",
+    "ingredients": [
+      "Beluga lentils (dry)",
+      "Light feta",
+      "Cucumber",
+      "Red pepper",
+      "Red onion",
+      "Mint",
+      "Skyr",
+      "Lemon juice",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the beluga lentils in plenty of water for 20 minutes until al dente, drain and let them cool.",
+      "Dice the cucumber and pepper and finely chop the onion.",
+      "Mix the lentils with the vegetables, lemon juice, olive oil, salt and pepper.",
+      "Stir the skyr with half of the chopped mint.",
+      "Serve the salad with crumbled feta, the remaining mint and the mint skyr."
+    ]
+  },
+  {
+    "id": "rec_3616",
+    "title": "Broccoli chickpea bowl with egg and tahini yoghurt",
+    "ingredients": [
+      "Broccoli",
+      "Chickpeas (drained)",
+      "Eggs",
+      "Red cabbage",
+      "Greek yoghurt (0.2% fat)",
+      "Tahini",
+      "Lemon juice",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C, divide the broccoli into florets and roast with the chickpeas, paprika and salt on a tray for 20 minutes.",
+      "Boil the eggs for 7 minutes, cool in cold water, peel and halve them.",
+      "Finely shred the red cabbage.",
+      "Stir the yoghurt with tahini, lemon juice and a pinch of salt.",
+      "Arrange the broccoli, chickpeas, red cabbage and eggs in a bowl and spoon the tahini yoghurt over."
+    ]
+  },
+  {
+    "id": "rec_3617",
+    "title": "Air fryer ginger tofu with pointed cabbage carrot salad and brown rice",
+    "ingredients": [
+      "Plain tofu",
+      "Soy sauce",
+      "Ginger",
+      "Brown rice (uncooked)",
+      "Pointed cabbage",
+      "Carrot",
+      "Lime juice",
+      "Sesame oil",
+      "Spring onions"
+    ],
+    "instructions": [
+      "Cook the brown rice according to the packet for about 25 minutes.",
+      "Pat the tofu dry, dice it and toss with half of the soy sauce and the grated ginger.",
+      "Cook in the air fryer at 200 °C for about 15 minutes until crisp, shaking now and then.",
+      "Finely shred the pointed cabbage, grate the carrot and mix with lime juice, sesame oil, the remaining soy sauce and spring onions.",
+      "Arrange the rice, salad and tofu together in a bowl."
+    ]
+  },
+  {
+    "id": "rec_3618",
+    "title": "Tempeh chickpea pan with pepper and leaf spinach",
+    "ingredients": [
+      "Tempeh",
+      "Chickpeas (drained)",
+      "Red pepper",
+      "Leaf spinach",
+      "Onion",
+      "Soy sauce",
+      "Rapeseed oil",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the tempeh into thin slices, the pepper into strips and the onion into wedges.",
+      "Fry the tempeh in the rapeseed oil for 3 minutes per side until golden and deglaze with half of the soy sauce.",
+      "Add the onion and pepper and fry for 4 minutes.",
+      "Add the chickpeas, paprika and remaining soy sauce and fry for 2 minutes.",
+      "Fold in the spinach until wilted and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_3619",
+    "title": "Green tofu pea curry with courgette and brown rice",
+    "ingredients": [
+      "Plain tofu",
+      "Peas (frozen)",
+      "Courgette",
+      "Light coconut milk",
+      "Green curry paste (vegan)",
+      "Ginger",
+      "Brown rice (uncooked)",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the brown rice according to the packet for about 25 minutes.",
+      "Dice the tofu, cut the courgette into half moons and grate the ginger.",
+      "Toast the curry paste and ginger in a pot with 3 tbsp coconut milk for 1 minute.",
+      "Add the remaining coconut milk, 100 ml water, courgette and tofu and simmer for 8 minutes, adding the peas for the last 3 minutes.",
+      "Season with salt, sprinkle with coriander and serve with the rice."
+    ]
+  },
+  {
+    "id": "rec_3620",
+    "title": "Stuffed courgettes with soy mince, white beans and tomato",
+    "ingredients": [
+      "Courgette",
+      "Soy mince (dry)",
+      "White beans (drained)",
+      "Passata",
+      "Onion",
+      "Olive oil",
+      "Basil",
+      "Dried oregano",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C, pour 120 ml hot water over the soy mince and leave to soak for 10 minutes.",
+      "Halve the courgettes lengthways, scoop out the flesh with a spoon and chop it.",
+      "Fry the onion and courgette flesh in the olive oil for 3 minutes, add the squeezed soy mince, lightly mashed white beans, half of the tomatoes and oregano and simmer for 5 minutes.",
+      "Fill the courgette halves, place them in a dish with the remaining tomatoes and bake for 25 minutes.",
+      "Serve sprinkled with basil."
+    ]
+  },
+  {
+    "id": "rec_3621",
+    "title": "Cumin tofu on bulgur pilaf with chickpeas and cucumber soy yoghurt",
+    "ingredients": [
+      "Plain tofu",
+      "Ground cumin",
+      "Sweet paprika",
+      "Bulgur (uncooked)",
+      "Chickpeas (drained)",
+      "Tomato",
+      "Onion",
+      "Cucumber",
+      "Soy yoghurt (unsweetened)",
+      "Olive oil",
+      "Mint",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely dice the onion and sweat it in half of the oil for 2 minutes, then add the diced tomato and bulgur.",
+      "Bring to the boil with 90 ml water and a little salt, add the chickpeas and leave covered on low heat for 12 minutes.",
+      "Dice the tofu, season with cumin, paprika and salt and fry in the remaining oil for 8 minutes until crisp all over.",
+      "Grate the cucumber and stir it into the soy yoghurt with chopped mint and salt.",
+      "Arrange the pilaf on a plate, top with the tofu and add the cucumber soy yoghurt."
+    ]
+  },
+  {
+    "id": "rec_3622",
+    "title": "Air fryer tempeh with millet tabbouleh, chickpeas and pomegranate",
+    "ingredients": [
+      "Tempeh",
+      "Soy sauce",
+      "Millet (uncooked)",
+      "Chickpeas (drained)",
+      "Cucumber",
+      "Tomato",
+      "Parsley",
+      "Pomegranate seeds",
+      "Lemon juice",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse the millet with hot water, simmer it in twice the amount of salted water for 10 minutes, then leave to swell for 10 minutes.",
+      "Cut the tempeh into cubes, toss with soy sauce and cook in the air fryer at 190 °C for about 10 minutes until crisp.",
+      "Finely dice the cucumber and tomato and chop the parsley.",
+      "Mix the millet with the vegetables, chickpeas, parsley, lemon juice, olive oil and salt.",
+      "Serve the tabbouleh with the tempeh and sprinkle with pomegranate seeds."
+    ]
+  },
+  {
+    "id": "rec_3623",
+    "title": "Edamame chickpea salad with smoked tofu, carrot and sesame",
+    "ingredients": [
+      "Smoked tofu",
+      "Shelled edamame",
+      "Chickpeas (drained)",
+      "Cucumber",
+      "Carrot",
+      "Spring onions",
+      "Sesame seeds",
+      "Soy sauce",
+      "Lime juice",
+      "Sesame oil"
+    ],
+    "instructions": [
+      "Cook the edamame in boiling water for 3 minutes, rinse in cold water and drain.",
+      "Dice the smoked tofu and cucumber, grate the carrot and cut the spring onions into rings.",
+      "Whisk the soy sauce, lime juice and sesame oil into a dressing.",
+      "Toss all the ingredients with the dressing and sprinkle with sesame seeds."
+    ]
+  },
+  {
+    "id": "rec_3624",
+    "title": "Tofu kidney bean stew with Swiss chard and sweet potato",
+    "ingredients": [
+      "Plain tofu",
+      "Kidney beans (drained)",
+      "Swiss chard",
+      "Sweet potato",
+      "Onion",
+      "Chopped tomatoes (tin)",
+      "Vegetable stock",
+      "Olive oil",
+      "Garlic",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Chop the onion and garlic, dice the sweet potato and cut the chard into strips, keeping stalks and leaves apart.",
+      "Sweat the onion, garlic and chard stalks in the olive oil for 3 minutes and stir in the paprika.",
+      "Add the sweet potato, tomatoes and stock and simmer for 10 minutes.",
+      "Add the tofu cubes, kidney beans and chard leaves and simmer for another 6 minutes.",
+      "Season with salt and pepper and serve."
+    ]
+  },
+  {
+    "id": "rec_3625",
+    "title": "Tofu Brussels sprouts pan with Hokkaido pumpkin and white beans",
+    "ingredients": [
+      "Plain tofu",
+      "Brussels sprouts",
+      "Hokkaido pumpkin",
+      "White beans (drained)",
+      "Onion",
+      "Olive oil",
+      "Soy sauce",
+      "Thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Halve the Brussels sprouts, cut the pumpkin with its skin into small cubes and precook both in salted water for 5 minutes, then drain.",
+      "Dice the tofu and fry it in half of the olive oil for 6 minutes until golden, deglaze with soy sauce and remove.",
+      "Fry the onion, Brussels sprouts and pumpkin in the remaining oil for 6 minutes until lightly browned.",
+      "Add the beans, thyme and tofu, fry for 2 minutes and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_3626",
+    "title": "Cauliflower chickpea soup with smoked tofu cubes",
+    "ingredients": [
+      "Cauliflower",
+      "Chickpeas (drained)",
+      "Smoked tofu",
+      "Onion",
+      "Vegetable stock",
+      "Soy yoghurt (unsweetened)",
+      "Rapeseed oil",
+      "Ground turmeric",
+      "Ground cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Chop the onion, sweat it in half of the rapeseed oil for 3 minutes and briefly toast the turmeric and cumin.",
+      "Add the cauliflower florets, chickpeas and stock and simmer for 15 minutes.",
+      "Blend the soup until smooth and season with salt and pepper.",
+      "Dice the smoked tofu and fry it in the remaining oil for 5 minutes until crisp.",
+      "Serve the soup with a dollop of soy yoghurt and the tofu cubes."
+    ]
   }
 ]
