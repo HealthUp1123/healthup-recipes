@@ -99771,13 +99771,13 @@
       "Mit Dill abschmecken und in einer tiefen Schüssel servieren."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "low-gi",
       "volumenreich"
     ],
     "allergens": [
+      "gluten",
       "ei"
     ]
   },
@@ -99837,12 +99837,12 @@
       "Vollkornorzo in Salzwasser 8 Minuten al dente kochen, abgießen und mit dem Stifado anrichten."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "low-gi"
     ],
     "allergens": [
+      "gluten",
       "sulfite"
     ]
   },
@@ -119473,14 +119473,15 @@
       "Mit Petersilie abschmecken und heiß servieren."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "ballaststoffreich",
       "mediterran",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "id": "rec_1799",
@@ -136518,7 +136519,6 @@
       "Seehechtfilet 6 Minuten in der Sauce garen, mit Petersilie und Orzo anrichten."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "mediterran",
@@ -136526,6 +136526,7 @@
       "low-gi"
     ],
     "allergens": [
+      "gluten",
       "fisch"
     ]
   },
@@ -142928,12 +142929,12 @@
       "Feta zerbröseln, mit Dill, Zitrone, Salz und Pfeffer unterheben und anrichten."
     ],
     "dietTags": [
-      "glutenfrei",
       "high-protein",
       "pescetarisch",
       "low-gi"
     ],
     "allergens": [
+      "gluten",
       "milch",
       "krebstiere",
       "sulfite"
@@ -144391,13 +144392,14 @@
     "dietTags": [
       "vegetarisch",
       "vegan",
-      "glutenfrei",
       "laktosefrei",
       "ballaststoffreich",
       "mediterran",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "id": "rec_2141",
@@ -149069,12 +149071,12 @@
     ],
     "dietTags": [
       "vegetarisch",
-      "glutenfrei",
       "ballaststoffreich",
       "mediterran",
       "low-gi"
     ],
     "allergens": [
+      "gluten",
       "milch"
     ]
   },
@@ -157443,14 +157445,15 @@
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "mediterran",
       "dash",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "id": "rec_2302",
@@ -158217,7 +158220,6 @@
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "ballaststoffreich",
@@ -158225,7 +158227,9 @@
       "dash",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "id": "rec_2312",
@@ -169669,13 +169673,13 @@
       "Mit Feldsalat und Radieschen anrichten, Blätter roh lassen."
     ],
     "dietTags": [
-      "glutenfrei",
       "high-protein",
       "mediterran",
       "dash",
       "low-gi"
     ],
     "allergens": [
+      "gluten",
       "milch",
       "schalenfruechte"
     ]
@@ -178630,11 +178634,11 @@
     ],
     "dietTags": [
       "vegetarisch",
-      "glutenfrei",
       "mediterran",
       "low-gi"
     ],
     "allergens": [
+      "gluten",
       "milch",
       "schalenfruechte"
     ]
@@ -210505,12 +210509,12 @@
     "dietTags": [
       "vegetarisch",
       "vegan",
-      "glutenfrei",
       "laktosefrei",
       "mediterran",
       "low-gi"
     ],
     "allergens": [
+      "gluten",
       "schalenfruechte",
       "sulfite"
     ]
@@ -212755,13 +212759,13 @@
       "Mit Salz, Pfeffer abschmecken und sofort servieren."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "mediterran",
       "low-gi"
     ],
     "allergens": [
+      "gluten",
       "sulfite"
     ]
   },
@@ -227058,7 +227062,6 @@
       "Mit Pfeffer abschmecken und sofort servieren."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "ballaststoffreich",
@@ -227066,7 +227069,9 @@
       "dash",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "id": "rec_3277",
@@ -231441,7 +231446,6 @@
       "Mit Pfeffer abschmecken und sofort servieren."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "ballaststoffreich",
@@ -231449,7 +231453,9 @@
       "dash",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "id": "rec_3334",
@@ -233844,14 +233850,15 @@
       "Mit Pfeffer abschmecken und sofort servieren."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "mediterran",
       "dash",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "id": "rec_3367",
@@ -236712,12 +236719,12 @@
       "Mit Pfeffer abschmecken und sofort servieren."
     ],
     "dietTags": [
-      "glutenfrei",
       "high-protein",
       "mediterran",
       "low-gi"
     ],
     "allergens": [
+      "gluten",
       "milch"
     ]
   },
@@ -237686,7 +237693,6 @@
       "Mit Pfeffer abschmecken und sofort servieren."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "mediterran",
@@ -237694,6 +237700,7 @@
       "low-gi"
     ],
     "allergens": [
+      "gluten",
       "sulfite"
     ]
   },
