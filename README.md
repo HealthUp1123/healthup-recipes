@@ -2,7 +2,7 @@
 
 Remote-Datenspeicher für die Rezeptvorschläge der iOS-App **HealthUp+**. Das Repository dient als Content Delivery Network (CDN): Die App lädt `recipes.json` und die Rezeptbilder zur Laufzeit per HTTPS.
 
-Aktueller Stand: **3600 Rezepte** (siehe `meta.json`, Schema-Version 3).
+Aktueller Stand: **3650 Rezepte** (siehe `meta.json`, Schema-Version 3).
 
 ## Struktur
 
@@ -109,3 +109,4 @@ Die folgenden Tags werden konservativ aus den Zutaten und den Nährwerten **pro 
 - 2026-11-11: 1800 neue Rezepte rec_1727–3526 für den Diät-Ernährungsberater (mediterrane Küche, Low-Carb und Keto, High-Protein vegan und vegetarisch, Fisch, Low-GI und ballaststoffreich, DASH und volumenreich, Paleo und Low-FODMAP, türkisch und nahöstlich, Airfryer und schnelle Gerichte, Frühstück und Snacks, Ost- und Südostasien, DACH-Hausmannskost, lateinamerikanische und afrikanische Küche, Suppen, Salate und Meal-Prep, Desserts und Eis, Protein-Bowls, saisonale Geflügel- und Wildgerichte ohne Wildschwein, dazu Lückenfüller); kein Schweinefleisch; eigene Bilder 1152×864 (höchstens 250 KB), en/tr ergänzt; Allergen `sulfite` bei den neuen Rezepten aus den Zutaten abgeleitet; Korrekturen: Titel und Bildname rec_2858 (Kalbsgeschnetzeltes mit Rösti und Feldsalat), rec_3227 von Hirse auf Buchweizen umgestellt, Zubereitungsschritte rec_2355 ergänzt; insgesamt 3500 Rezepte.
 - 2026-11-12: rec_1472 Doro Wat: Tag low-gi entfernt
 - 2026-11-14: 50 neue Rezepte rec_3577–3626 für den Diät-Ernährungsberater: eiweiß- und ballaststoffreiche Mittag- und Abendessen (Hähnchen, Pute, Rind, Fisch und Garnelen, Hülsenfrüchte, Tofu und Tempeh; 10 aus dem Airfryer; 370–580 kcal, mindestens 31 g Eiweiß und 10 g Ballaststoffe pro Portion); alle `high-protein` und `ballaststoffreich`, dazu u. a. 35 low-GI, 18 mediterran, 9 pescetarisch; 18 vegetarisch (davon 10 vegan); kein Schweinefleisch; eigene Bilder 1152×864 (höchstens 250 KB), en/tr ergänzt; Allergen `sulfite` aus den Zutaten abgeleitet (rec_3582, 3602 Senf; rec_3604, 3608 Garnelen); kein Schemawechsel; insgesamt 3600 Rezepte.
+- 2026-11-15: 50 neue Rezepte rec_3627–3676: vegetarische und vegane internationale Gerichte, Suppen und Salate (Asien 13, Levante/Türkei/Persien 8, Lateinamerika 7, Mittelmeer 9, Afrika 8, Osteuropa/Kaukasus 5; u. a. Parippu, Thenthuk, Laghman, Pho Chay, Musabbaha, Vospapur, Solterito, Revithada, Maneštra, Maafe, Moin Moin, Bob Chorba, Krupnik, Ajapsandali; 340–605 kcal pro Portion); alle vegetarisch (davon 43 vegan), 46 ballaststoffreich, 17 mediterran, 13 low-GI, 8 high-protein; kein Schweinefleisch; eigene Bilder 1152×864 (höchstens 250 KB), en/tr ergänzt; Allergen `sulfite` aus den Zutaten geprüft (keine Treffer); kein Schemawechsel; insgesamt 3650 Rezepte.

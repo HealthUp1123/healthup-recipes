@@ -252053,5 +252053,4133 @@
     "allergens": [
       "soja"
     ]
+  },
+  {
+    "id": "rec_3627",
+    "title": "Parippu – Sri-lankisches Rote-Linsen-Kokos-Dal mit Grünkohl und Vollkornreis",
+    "calories": 590,
+    "protein": 26,
+    "carbs": 81,
+    "fiber": 14,
+    "fat": 14,
+    "servingSizeGrams": 565,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3627_v16_parippu_rote_linsen_kokos_dal_gruenkohl_vollkornreis.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Linsen (trocken)",
+        "amount": "70g"
+      },
+      {
+        "name": "Kokosmilch (light)",
+        "amount": "100 ml"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Grünkohl",
+        "amount": "80g"
+      },
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Kurkuma (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Vollkornreis in der doppelten Menge Wasser 30 Minuten garen.",
+      "Zwiebel und Knoblauch hacken und im Rapsöl 3 Minuten andünsten, Kurkuma und Kreuzkümmel einrühren.",
+      "Linsen, Kokosmilch und 200 ml Wasser zugeben und 15 Minuten sämig köcheln lassen.",
+      "Grünkohl fein schneiden und in den letzten 4 Minuten mitgaren.",
+      "Dal mit Limettensaft, Salz und Pfeffer abschmecken und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3628",
+    "title": "Thenthuk – Tibetische Gemüse-Nudelsuppe mit Tofu und Spinat",
+    "calories": 530,
+    "protein": 31,
+    "carbs": 64,
+    "fiber": 13,
+    "fat": 16,
+    "servingSizeGrams": 945,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3628_v16_thenthuk_tibetische_nudelsuppe_tofu_spinat.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornmehl",
+        "amount": "70g"
+      },
+      {
+        "name": "Tofu (natur)",
+        "amount": "120g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "60g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "80g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "450 ml"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": "15g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Mehl mit 40 ml Wasser und einer Prise Salz zu einem glatten Teig kneten und 15 Minuten ruhen lassen.",
+      "Zwiebel, Knoblauch und Ingwer im Rapsöl 2 Minuten anbraten, Karotte und Tomate in Würfeln zugeben.",
+      "Brühe und Sojasauce angießen, aufkochen und den Tofu in Würfeln zugeben.",
+      "Teig flach ziehen, in kleine Stücke zupfen, direkt in die Suppe geben und 5 Minuten garen.",
+      "Spinat unterrühren, abschmecken und mit Frühlingszwiebeln bestreut servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3629",
+    "title": "Laghman – Uigurische Nudelpfanne mit Tofu, Paprika und grünen Bohnen",
+    "calories": 585,
+    "protein": 32,
+    "carbs": 68,
+    "fiber": 15,
+    "fat": 20,
+    "servingSizeGrams": 640,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3629_v16_laghman_uigurische_nudelpfanne_tofu_paprika_bohnen.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornspaghetti (ungekocht)",
+        "amount": "70g"
+      },
+      {
+        "name": "Tofu (natur)",
+        "amount": "130g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "100g"
+      },
+      {
+        "name": "Grüne Bohnen",
+        "amount": "80g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Chiliflocken",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Spaghetti nach Packungsangabe in Salzwasser bissfest kochen und abgießen.",
+      "Tofu würfeln und im Rapsöl 5 Minuten goldbraun braten, herausnehmen.",
+      "Zwiebel, Knoblauch, Paprikastreifen und halbierte Bohnen 5 Minuten braten, Tomatenmark, Kreuzkümmel und Chili einrühren.",
+      "Tomate würfeln, mit Sojasauce und 50 ml Wasser zugeben und 4 Minuten schmoren.",
+      "Nudeln und Tofu unterheben, abschmecken und heiß servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3630",
+    "title": "Matar Tofu – Erbsen-Tofu-Curry mit Tomate und Basmatireis",
+    "calories": 550,
+    "protein": 33,
+    "carbs": 63,
+    "fiber": 11,
+    "fat": 18,
+    "servingSizeGrams": 640,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3630_v16_matar_tofu_erbsen_tofu_curry_basmati.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur)",
+        "amount": "150g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "120g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Garam Masala",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kurkuma (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Basmatireis in der doppelten Menge Salzwasser 12 Minuten garen.",
+      "Tofu würfeln und in der Hälfte des Rapsöls 5 Minuten anbraten, herausnehmen.",
+      "Zwiebel, Knoblauch und Ingwer im restlichen Öl 3 Minuten dünsten, Garam Masala und Kurkuma kurz mitrösten.",
+      "Tomaten und Erbsen zugeben, 8 Minuten köcheln lassen und den Tofu unterheben.",
+      "Abschmecken, mit Koriander bestreuen und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3631",
+    "title": "Lobia Masala – Augenbohnen-Curry mit Blattspinat und Vollkorn-Chapati",
+    "calories": 495,
+    "protein": 25,
+    "carbs": 73,
+    "fiber": 19,
+    "fat": 10,
+    "servingSizeGrams": 575,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3631_v16_lobia_masala_augenbohnen_curry_spinat_chapati.jpg",
+    "ingredients": [
+      {
+        "name": "Augenbohnen (gekocht)",
+        "amount": "200g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "100g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Vollkorn-Chapati",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Garam Masala",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch fein hacken und im Rapsöl 4 Minuten goldgelb braten.",
+      "Garam Masala und Kreuzkümmel einrühren, Tomaten zugeben und 5 Minuten einkochen.",
+      "Augenbohnen zugeben, 5 Minuten köcheln lassen und den Spinat unterrühren, bis er zusammenfällt.",
+      "Chapati in einer trockenen Pfanne pro Seite 1 Minute erwärmen.",
+      "Curry abschmecken, mit Koriander bestreuen und mit dem Chapati servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3632",
+    "title": "Kootu – Südindisches Mungdal-Kürbis-Gemüse mit Kokos und Hirse",
+    "calories": 545,
+    "protein": 24,
+    "carbs": 83,
+    "fiber": 18,
+    "fat": 12,
+    "servingSizeGrams": 600,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3632_v16_kootu_mungdal_kuerbis_kokos_hirse.jpg",
+    "ingredients": [
+      {
+        "name": "Mungdal (geschälte gelbe Mungbohnen, trocken)",
+        "amount": "60g"
+      },
+      {
+        "name": "Kürbis (Hokkaido)",
+        "amount": "150g"
+      },
+      {
+        "name": "Grüne Bohnen",
+        "amount": "80g"
+      },
+      {
+        "name": "Kokosmilch (light)",
+        "amount": "60 ml"
+      },
+      {
+        "name": "Hirse (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Senfkörner",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Kurkuma (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Mungdal abspülen und mit 300 ml Wasser und Kurkuma 15 Minuten weich kochen.",
+      "Hirse heiß abspülen und in 100 ml Salzwasser 15 Minuten quellen lassen.",
+      "Kürbis würfeln, Bohnen in Stücke schneiden, zum Dal geben und 10 Minuten mitgaren.",
+      "Senfkörner und Kreuzkümmel im Rapsöl anrösten, bis sie springen, mit der Kokosmilch unterrühren.",
+      "Abschmecken, mit Koriander bestreuen und mit der Hirse servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "senf"
+    ]
+  },
+  {
+    "id": "rec_3633",
+    "title": "Misal – Würziges Mungbohnen-Curry aus Maharashtra mit Vollkornbrötchen",
+    "calories": 455,
+    "protein": 22,
+    "carbs": 67,
+    "fiber": 17,
+    "fat": 8,
+    "servingSizeGrams": 440,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3633_v16_misal_mungbohnen_curry_maharashtra_vollkornbroetchen.jpg",
+    "ingredients": [
+      {
+        "name": "Mungbohnen (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Chiliflocken",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Vollkornbrötchen",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Mungbohnen über Nacht einweichen und in frischem Wasser 25 Minuten weich kochen.",
+      "Zwiebel, Knoblauch und Ingwer im Rapsöl 4 Minuten braten, Currypulver und Chili einrühren.",
+      "Tomate würfeln, zugeben und mit den Mungbohnen und 150 ml Wasser 10 Minuten köcheln lassen.",
+      "Mit Limettensaft und Salz abschmecken, mit gehackter roter Zwiebel und Koriander bestreuen.",
+      "Mit dem halbierten, kurz gerösteten Brötchen servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3634",
+    "title": "Kala-Chana-Salat – Indischer Kichererbsensalat mit Gurke, Tomate und Erdnüssen",
+    "calories": 475,
+    "protein": 22,
+    "carbs": 51,
+    "fiber": 18,
+    "fat": 21,
+    "servingSizeGrams": 515,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3634_v16_kala_chana_salat_kichererbsen_gurke_tomate_erdnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Schwarze Kichererbsen (Kala Chana, abgetropft)",
+        "amount": "220g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "120g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Erdnüsse",
+        "amount": "15g"
+      },
+      {
+        "name": "Minze",
+        "amount": "3g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Chaat Masala",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Schwarze Kichererbsen abspülen und gut abtropfen lassen.",
+      "Gurke, Tomate und rote Zwiebel klein würfeln, Minze und Koriander hacken.",
+      "Limettensaft, Olivenöl, Chaat Masala und etwas Salz verrühren.",
+      "Alles mischen, Erdnüsse grob hacken und darüberstreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "erdnuss"
+    ]
+  },
+  {
+    "id": "rec_3635",
+    "title": "Mulligatawny – Vegane Linsen-Apfel-Currysuppe mit Kokosmilch",
+    "calories": 550,
+    "protein": 22,
+    "carbs": 78,
+    "fiber": 13,
+    "fat": 13,
+    "servingSizeGrams": 1015,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3635_v16_mulligatawny_linsen_apfel_currysuppe_kokos.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Linsen (trocken)",
+        "amount": "60g"
+      },
+      {
+        "name": "Apfel",
+        "amount": "80g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "80g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Staudensellerie",
+        "amount": "50g"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Kokosmilch (light)",
+        "amount": "100 ml"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "400 ml"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "30g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel, Karotte, Sellerie und Apfel würfeln, Ingwer reiben.",
+      "Gemüse und Ingwer im Rapsöl 4 Minuten andünsten, Currypulver kurz mitrösten.",
+      "Linsen, Reis und Brühe zugeben und 18 Minuten köcheln lassen.",
+      "Die Hälfte der Suppe pürieren, Kokosmilch einrühren und erhitzen.",
+      "Mit Zitronensaft, Salz und Pfeffer abschmecken und mit Koriander bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "sellerie"
+    ]
+  },
+  {
+    "id": "rec_3636",
+    "title": "Pho Chay – Vietnamesische Gemüse-Reisnudelsuppe mit Tofu und Kräutern",
+    "calories": 510,
+    "protein": 31,
+    "carbs": 67,
+    "fiber": 7,
+    "fat": 12,
+    "servingSizeGrams": 1075,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3636_v16_pho_chay_reisnudelsuppe_tofu_kraeuter.jpg",
+    "ingredients": [
+      {
+        "name": "Reisnudeln (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Tofu (natur)",
+        "amount": "150g"
+      },
+      {
+        "name": "Shiitake",
+        "amount": "60g"
+      },
+      {
+        "name": "Pak Choi",
+        "amount": "100g"
+      },
+      {
+        "name": "Bohnensprossen",
+        "amount": "50g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "500 ml"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "10g"
+      },
+      {
+        "name": "Sternanis, Zimt",
+        "amount": "1 Stern, 1 kleine Stange"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Thai-Basilikum, Koriander",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel halbieren und mit dem Ingwer in einer trockenen Pfanne 5 Minuten rösten.",
+      "Brühe mit Zwiebel, Ingwer, Sternanis, Zimt und Sojasauce 15 Minuten köcheln lassen und abseihen.",
+      "Reisnudeln nach Packungsangabe einweichen, Tofu und Shiitake in Scheiben schneiden.",
+      "Tofu, Pilze und Pak Choi in der Brühe 4 Minuten garen.",
+      "Nudeln in eine Schale geben, Suppe darübergießen und mit Sprossen, Kräutern und Limettensaft servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3637",
+    "title": "Mala-Tofu-Gurkensalat mit Erdnüssen, Koriander und Jasminreis",
+    "calories": 570,
+    "protein": 35,
+    "carbs": 45,
+    "fiber": 6,
+    "fat": 28,
+    "servingSizeGrams": 575,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3637_v16_mala_tofu_gurkensalat_erdnuss_koriander_jasminreis.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur)",
+        "amount": "180g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "200g"
+      },
+      {
+        "name": "Erdnüsse",
+        "amount": "20g"
+      },
+      {
+        "name": "Sesamöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Chili, Szechuanpfeffer",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Koriander",
+        "amount": "5g"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": "15g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Jasminreis (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Jasminreis in der doppelten Menge Wasser 12 Minuten garen.",
+      "Tofu in Würfel schneiden und in einer beschichteten Pfanne ohne Fett 6 Minuten rundum anbraten.",
+      "Gurke mit dem Messerrücken andrücken, in Stücke schneiden und leicht salzen.",
+      "Sesamöl, Sojasauce, gehackten Knoblauch, Szechuanpfeffer, Chili und Limettensaft verrühren und mit Gurke und Tofu mischen.",
+      "Mit Erdnüssen, Koriander und Frühlingszwiebeln bestreuen und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja",
+      "sesam",
+      "erdnuss"
+    ]
+  },
+  {
+    "id": "rec_3638",
+    "title": "Yasai Kare – Japanisches Gemüsecurry mit Tofu, Kürbis und Vollkornreis",
+    "calories": 570,
+    "protein": 29,
+    "carbs": 71,
+    "fiber": 12,
+    "fat": 17,
+    "servingSizeGrams": 885,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3638_v16_yasai_kare_japanisches_gemuesecurry_tofu_kuerbis.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur)",
+        "amount": "130g"
+      },
+      {
+        "name": "Kürbis (Hokkaido)",
+        "amount": "120g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "70g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "40g"
+      },
+      {
+        "name": "Apfel (geraspelt)",
+        "amount": "30g"
+      },
+      {
+        "name": "Vollkornmehl",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "250 ml"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "55g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Vollkornreis in der doppelten Menge Wasser 30 Minuten garen.",
+      "Zwiebel in Spalten, Karotte und Kürbis in Stücke schneiden und im Rapsöl 5 Minuten anbraten.",
+      "Mehl und Currypulver darüberstäuben, kurz anschwitzen und mit Brühe ablöschen.",
+      "Apfel, Sojasauce und Tofu in Würfeln zugeben und 12 Minuten sämig köcheln, Erbsen in den letzten 3 Minuten zugeben.",
+      "Curry neben dem Reis anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3639",
+    "title": "Khao Pad Sapparot – Thai-Ananas-Reis mit Tofu und Cashewkernen",
+    "calories": 600,
+    "protein": 30,
+    "carbs": 68,
+    "fiber": 9,
+    "fat": 22,
+    "servingSizeGrams": 570,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3639_v16_khao_pad_sapparot_ananas_reis_tofu_cashew.jpg",
+    "ingredients": [
+      {
+        "name": "Jasminreis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Tofu (natur)",
+        "amount": "140g"
+      },
+      {
+        "name": "Ananas",
+        "amount": "100g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "50g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "60g"
+      },
+      {
+        "name": "Cashewkerne",
+        "amount": "12g"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": "20g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Jasminreis garen und vollständig abkühlen lassen, am besten vom Vortag verwenden.",
+      "Tofu würfeln und im Rapsöl im Wok 5 Minuten goldbraun braten.",
+      "Knoblauch, Paprikawürfel und Erbsen zugeben und 3 Minuten pfannenrühren.",
+      "Reis, Ananaswürfel, Currypulver und Sojasauce zugeben und 4 Minuten unter Rühren braten.",
+      "Mit gerösteten Cashewkernen, Frühlingszwiebeln und Limettensaft servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3640",
+    "title": "Musabbaha – Warme Kichererbsen mit Tahini, Zitrone und Vollkornpita",
+    "calories": 605,
+    "protein": 25,
+    "carbs": 74,
+    "fiber": 20,
+    "fat": 23,
+    "servingSizeGrams": 390,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3640_v16_musabbaha_warme_kichererbsen_tahini_zitrone_pita.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "220g"
+      },
+      {
+        "name": "Tahini",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "60g"
+      },
+      {
+        "name": "Vollkornpita",
+        "amount": "1 Stück (60g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kichererbsen mit etwas Wasser 5 Minuten erwärmen, abgießen und dabei 3 EL Kochwasser auffangen.",
+      "Tahini mit Zitronensaft, zerdrücktem Knoblauch, Kochwasser und Salz glatt rühren.",
+      "Ein Drittel der Kichererbsen grob zerdrücken und alles mit der Tahinisauce mischen.",
+      "Mit Olivenöl, Kreuzkümmel, Petersilie und Tomatenwürfeln anrichten und mit der warmen Pita servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_3641",
+    "title": "Timman Bagilla – Irakischer Dillreis mit dicken Bohnen und Joghurt",
+    "calories": 475,
+    "protein": 27,
+    "carbs": 72,
+    "fiber": 9,
+    "fat": 8,
+    "servingSizeGrams": 510,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3641_v16_timman_bagilla_dillreis_dicke_bohnen_joghurt.jpg",
+    "ingredients": [
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Dicke Bohnen (gekocht)",
+        "amount": "150g"
+      },
+      {
+        "name": "Dill",
+        "amount": "10g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Kurkuma (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "120g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1/2 Zehe"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Basmatireis waschen und 20 Minuten einweichen.",
+      "Zwiebel fein würfeln und im Rapsöl 4 Minuten glasig dünsten, Kurkuma einrühren.",
+      "Reis, Bohnen, gehackten Dill und 120 ml Wasser zugeben, salzen und zugedeckt 15 Minuten bei kleiner Hitze garen.",
+      "Joghurt mit geriebenem Knoblauch und etwas Salz verrühren und zum Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3642",
+    "title": "Vospapur – Armenische Rote-Linsen-Suppe mit Aprikosen und Bulgur",
+    "calories": 485,
+    "protein": 23,
+    "carbs": 73,
+    "fiber": 14,
+    "fat": 8,
+    "servingSizeGrams": 785,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3642_v16_vospapur_armenische_linsensuppe_aprikosen_bulgur.jpg",
+    "ingredients": [
+      {
+        "name": "Rote Linsen (trocken)",
+        "amount": "60g"
+      },
+      {
+        "name": "Bulgur (ungekocht)",
+        "amount": "30g"
+      },
+      {
+        "name": "Aprikosen (getrocknet, ungeschwefelt)",
+        "amount": "25g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "450 ml"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Minze",
+        "amount": "3g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel würfeln und im Olivenöl 4 Minuten andünsten, Tomatenmark, Paprikapulver und Kreuzkümmel kurz mitrösten.",
+      "Linsen und Brühe zugeben und 12 Minuten köcheln lassen.",
+      "Aprikosen klein schneiden, mit dem Bulgur zugeben und weitere 10 Minuten garen.",
+      "Mit Zitronensaft, Salz und Pfeffer abschmecken und mit Minze bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3643",
+    "title": "Yeşil Mercimek Salatası – Türkischer Linsensalat mit Paprikamark und Walnüssen",
+    "calories": 455,
+    "protein": 22,
+    "carbs": 49,
+    "fiber": 12,
+    "fat": 16,
+    "servingSizeGrams": 440,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3643_v16_yesil_mercimek_salatasi_linsensalat_paprikamark_walnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Berglinsen (trocken)",
+        "amount": "70g"
+      },
+      {
+        "name": "Paprikamark",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "60g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "15g"
+      },
+      {
+        "name": "Walnüsse",
+        "amount": "10g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Chiliflocken",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Linsen in reichlich Wasser 20 Minuten bissfest kochen, abgießen und abkühlen lassen.",
+      "Paprikamark mit Olivenöl, Zitronensaft, Chiliflocken und Salz verrühren.",
+      "Tomate, Paprika und rote Zwiebel fein würfeln, Petersilie hacken.",
+      "Linsen mit Gemüse, Petersilie und Dressing mischen und mit gehackten Walnüssen bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_3644",
+    "title": "Molokhia vegetarisch – Ägyptischer Muskraut-Eintopf mit Kichererbsen und Reis",
+    "calories": 510,
+    "protein": 26,
+    "carbs": 78,
+    "fiber": 14,
+    "fat": 11,
+    "servingSizeGrams": 875,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3644_v16_molokhia_vegetarisch_kichererbsen_reis.jpg",
+    "ingredients": [
+      {
+        "name": "Molokhia (TK, gehackt)",
+        "amount": "200g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "2 Zehen"
+      },
+      {
+        "name": "Koriandersaat (gemahlen)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "350 ml"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Basmatireis in der doppelten Menge Salzwasser 12 Minuten garen.",
+      "Brühe aufkochen, Kichererbsen zugeben und die gefrorene Molokhia darin unter Rühren auftauen lassen.",
+      "Knoblauch hacken und mit der Koriandersaat im Olivenöl 1 Minute goldgelb rösten.",
+      "Knoblauchöl in den Eintopf rühren, 3 Minuten ziehen lassen, nicht mehr kochen.",
+      "Mit Zitronensaft und Salz abschmecken und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3645",
+    "title": "Tabouleh mit Belugalinsen und viel Petersilie",
+    "calories": 425,
+    "protein": 20,
+    "carbs": 51,
+    "fiber": 14,
+    "fat": 12,
+    "servingSizeGrams": 485,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3645_v16_tabouleh_belugalinsen_petersilie.jpg",
+    "ingredients": [
+      {
+        "name": "Belugalinsen (trocken)",
+        "amount": "50g"
+      },
+      {
+        "name": "Bulgur (fein)",
+        "amount": "30g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "60g"
+      },
+      {
+        "name": "Minze",
+        "amount": "10g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "150g"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": "30g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "25g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Belugalinsen in reichlich Wasser 20 Minuten bissfest kochen, abgießen und abkühlen lassen.",
+      "Bulgur mit 50 ml heißem Wasser übergießen und 10 Minuten quellen lassen.",
+      "Petersilie und Minze sehr fein hacken, Tomate und Frühlingszwiebeln klein würfeln.",
+      "Alles mit Zitronensaft, Olivenöl, Salz und Pfeffer mischen und 10 Minuten durchziehen lassen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3646",
+    "title": "Muhammara-Bulgur-Bowl mit Kichererbsen, Gurke und Walnüssen",
+    "calories": 545,
+    "protein": 19,
+    "carbs": 72,
+    "fiber": 18,
+    "fat": 19,
+    "servingSizeGrams": 520,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3646_v16_muhammara_bulgur_bowl_kichererbsen_gurke_walnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Bulgur (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "150g"
+      },
+      {
+        "name": "Walnüsse",
+        "amount": "15g"
+      },
+      {
+        "name": "Paprikamark",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Granatapfelsirup",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Gurke",
+        "amount": "80g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Bulgur mit 100 ml kochendem Salzwasser übergießen und zugedeckt 15 Minuten quellen lassen.",
+      "Paprika im Ofen bei 220 °C 20 Minuten rösten, häuten und zwei Drittel davon grob schneiden.",
+      "Restliche Paprika mit den meisten Walnüssen, Paprikamark, Granatapfelsirup, Olivenöl und Kreuzkümmel zu Muhammara pürieren.",
+      "Bulgur, Kichererbsen, Paprikastücke und Gurkenwürfel in einer Schale anrichten, Muhammara daraufgeben und mit restlichen Walnüssen und Petersilie bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_3647",
+    "title": "Khoresh Karafs vegetarisch – Persischer Sellerie-Kräuter-Eintopf mit gelben Erbsen und Reis",
+    "calories": 475,
+    "protein": 20,
+    "carbs": 77,
+    "fiber": 15,
+    "fat": 8,
+    "servingSizeGrams": 555,
+    "prepTimeMinutes": 45,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3647_v16_khoresh_karafs_sellerie_kraeuter_gelbe_erbsen_reis.jpg",
+    "ingredients": [
+      {
+        "name": "Staudensellerie",
+        "amount": "200g"
+      },
+      {
+        "name": "Gelbe Schälerbsen (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "20g"
+      },
+      {
+        "name": "Minze",
+        "amount": "5g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Kurkuma (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Gelbe Erbsen in 400 ml Wasser 25 Minuten vorkochen.",
+      "Zwiebel würfeln und im Rapsöl mit Kurkuma 4 Minuten anbraten, Sellerie in Stücke schneiden und 5 Minuten mitbraten.",
+      "Petersilie und Minze hacken, kurz mitdünsten und mit den Erbsen samt Kochwasser 15 Minuten schmoren.",
+      "Basmatireis in der doppelten Menge Salzwasser 12 Minuten garen.",
+      "Eintopf mit Zitronensaft und Salz abschmecken und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "sellerie"
+    ]
+  },
+  {
+    "id": "rec_3648",
+    "title": "Calabacitas – Mexikanisches Zucchini-Mais-Gemüse mit schwarzen Bohnen und Feta light",
+    "calories": 480,
+    "protein": 25,
+    "carbs": 62,
+    "fiber": 18,
+    "fat": 15,
+    "servingSizeGrams": 665,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3648_v16_calabacitas_zucchini_mais_schwarze_bohnen_feta.jpg",
+    "ingredients": [
+      {
+        "name": "Zucchini",
+        "amount": "200g"
+      },
+      {
+        "name": "Mais (abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Schwarze Bohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Feta light",
+        "amount": "40g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Maistortillas",
+        "amount": "2 kleine Stück (40g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch hacken und im Rapsöl 3 Minuten andünsten.",
+      "Zucchini würfeln, mit Mais und Kreuzkümmel zugeben und 6 Minuten braten.",
+      "Tomatenwürfel und Bohnen zugeben und 4 Minuten schmoren, salzen und pfeffern.",
+      "Tortillas in einer trockenen Pfanne erwärmen, Gemüse mit zerbröseltem Feta und Koriander bestreuen und dazu servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3649",
+    "title": "Sopa de Tortilla – Mexikanische Tomatensuppe mit Pintobohnen, Avocado und Tortillastreifen",
+    "calories": 415,
+    "protein": 19,
+    "carbs": 51,
+    "fiber": 20,
+    "fat": 15,
+    "servingSizeGrams": 715,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3649_v16_sopa_de_tortilla_tomatensuppe_pintobohnen_avocado.jpg",
+    "ingredients": [
+      {
+        "name": "Passierte Tomaten",
+        "amount": "200 ml"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "250 ml"
+      },
+      {
+        "name": "Pintobohnen (abgetropft)",
+        "amount": "130g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Maistortillas",
+        "amount": "1 Stück (30g)"
+      },
+      {
+        "name": "Avocado",
+        "amount": "40g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 1/2 TL"
+      },
+      {
+        "name": "Chipotle-Pulver, Kreuzkümmel",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Tortilla in feine Streifen schneiden und im Ofen bei 200 °C 8 Minuten knusprig backen.",
+      "Zwiebel und Knoblauch im Rapsöl 3 Minuten andünsten, Chipotle und Kreuzkümmel kurz mitrösten.",
+      "Tomaten und Brühe zugeben, 10 Minuten köcheln lassen und fein pürieren.",
+      "Pintobohnen zugeben und 3 Minuten erwärmen, mit Limettensaft und Salz abschmecken.",
+      "Suppe mit Avocadowürfeln, Tortillastreifen und Koriander servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3650",
+    "title": "Solterito – Peruanischer Bohnen-Mais-Salat mit Feta light und Oliven",
+    "calories": 485,
+    "protein": 30,
+    "carbs": 45,
+    "fiber": 16,
+    "fat": 20,
+    "servingSizeGrams": 565,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3650_v16_solterito_peruanischer_bohnen_mais_salat_feta_oliven.jpg",
+    "ingredients": [
+      {
+        "name": "Dicke Bohnen (gekocht)",
+        "amount": "150g"
+      },
+      {
+        "name": "Edamame (geschält)",
+        "amount": "60g"
+      },
+      {
+        "name": "Mais (abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "120g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Feta light",
+        "amount": "50g"
+      },
+      {
+        "name": "Oliven",
+        "amount": "6 Stück"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Chili",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Dicke Bohnen und Edamame 3 Minuten blanchieren und kalt abschrecken.",
+      "Tomate würfeln, rote Zwiebel fein schneiden und Oliven halbieren.",
+      "Limettensaft mit Olivenöl, Chili, Salz und Pfeffer verrühren.",
+      "Alles mit Mais und Dressing mischen, Feta würfeln und mit Petersilie darüberstreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3651",
+    "title": "Quibebe – Brasilianischer Kürbis-Kichererbsen-Eintopf mit Frühlingszwiebeln und Reis",
+    "calories": 550,
+    "protein": 19,
+    "carbs": 88,
+    "fiber": 17,
+    "fat": 13,
+    "servingSizeGrams": 740,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3651_v16_quibebe_kuerbis_kichererbsen_eintopf_fruehlingszwiebeln_reis.jpg",
+    "ingredients": [
+      {
+        "name": "Kürbis (Hokkaido)",
+        "amount": "250g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": "20g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Basmatireis in der doppelten Menge Salzwasser 12 Minuten garen.",
+      "Zwiebel und Knoblauch im Olivenöl 3 Minuten andünsten, Paprikapulver einrühren.",
+      "Kürbis und Tomate würfeln, zugeben und mit 150 ml Wasser 15 Minuten schmoren.",
+      "Kichererbsen zugeben, 5 Minuten köcheln lassen und den Kürbis leicht zerdrücken.",
+      "Abschmecken, mit Frühlingszwiebeln und Petersilie bestreuen und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3652",
+    "title": "Aguadito – Peruanische Koriander-Reissuppe mit Erbsen, Mais und weißen Bohnen",
+    "calories": 510,
+    "protein": 25,
+    "carbs": 78,
+    "fiber": 19,
+    "fat": 9,
+    "servingSizeGrams": 1050,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3652_v16_aguadito_koriander_reissuppe_erbsen_mais_bohnen.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "30g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "40g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "80g"
+      },
+      {
+        "name": "Mais (abgetropft)",
+        "amount": "60g"
+      },
+      {
+        "name": "Weiße Bohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "450 ml"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Koriander und Spinat mit 100 ml Brühe fein pürieren.",
+      "Zwiebel, Knoblauch und Paprikawürfel im Rapsöl 4 Minuten andünsten.",
+      "Reis und restliche Brühe zugeben und 25 Minuten köcheln lassen.",
+      "Erbsen, Mais, Bohnen und Kräuterpüree zugeben und 5 Minuten ziehen lassen.",
+      "Mit Limettensaft, Salz und Pfeffer abschmecken."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3653",
+    "title": "Tostadas de Lentejas – Knusprige Maistortillas mit Linsen, Rotkohl und Avocado",
+    "calories": 490,
+    "protein": 24,
+    "carbs": 67,
+    "fiber": 17,
+    "fat": 12,
+    "servingSizeGrams": 505,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3653_v16_tostadas_de_lentejas_linsen_rotkohl_avocado.jpg",
+    "ingredients": [
+      {
+        "name": "Maistortillas",
+        "amount": "2 Stück (60g)"
+      },
+      {
+        "name": "Berglinsen (trocken)",
+        "amount": "60g"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": "80g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "50g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "80g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Sojajoghurt (ungesüßt)",
+        "amount": "50g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "3g"
+      },
+      {
+        "name": "Chipotle-Pulver, Kreuzkümmel",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Linsen in reichlich Wasser 20 Minuten weich kochen, abgießen und mit Chipotle, Kreuzkümmel und Salz würzen.",
+      "Tortillas im Ofen bei 200 °C 6 Minuten knusprig backen.",
+      "Rotkohl fein hobeln und mit der Hälfte des Limettensafts und Salz verkneten, Tomate und Zwiebel würfeln.",
+      "Avocado mit restlichem Limettensaft zerdrücken.",
+      "Tostadas mit Avocado, Linsen, Rotkohl, Tomate, Zwiebel, Sojajoghurt und Koriander belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3654",
+    "title": "Habichuelas guisadas – Dominikanischer Rote-Bohnen-Eintopf mit Kürbis und Reis",
+    "calories": 510,
+    "protein": 21,
+    "carbs": 82,
+    "fiber": 19,
+    "fat": 8,
+    "servingSizeGrams": 600,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3654_v16_habichuelas_guisadas_rote_bohnen_kuerbis_reis.jpg",
+    "ingredients": [
+      {
+        "name": "Kidneybohnen (abgetropft)",
+        "amount": "200g"
+      },
+      {
+        "name": "Kürbis (Hokkaido)",
+        "amount": "120g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Koriander",
+        "amount": "5g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Oregano (getrocknet)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Vollkornreis in der doppelten Menge Wasser 30 Minuten garen.",
+      "Zwiebel, Paprika und Knoblauch fein würfeln und im Rapsöl 4 Minuten andünsten.",
+      "Tomatenmark und Oregano einrühren, Kürbis in kleinen Würfeln und 200 ml Wasser zugeben und 12 Minuten köcheln lassen.",
+      "Bohnen zugeben, 8 Minuten sämig einkochen und den Kürbis teilweise zerdrücken.",
+      "Mit Koriander bestreuen und neben dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3655",
+    "title": "Revithada – Ofen-Kichererbsen aus Sifnos mit Zwiebeln, Zitrone und Rosmarin",
+    "calories": 505,
+    "protein": 21,
+    "carbs": 69,
+    "fiber": 19,
+    "fat": 17,
+    "servingSizeGrams": 600,
+    "prepTimeMinutes": 60,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3655_v16_revithada_ofen_kichererbsen_sifnos_zwiebel_zitrone.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "220g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "100g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "15g"
+      },
+      {
+        "name": "Rosmarin, Lorbeer",
+        "amount": "1 Zweig, 1 Blatt"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "200 ml"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "1 Scheibe (50g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 180 °C vorheizen, Zwiebeln in feine Ringe schneiden.",
+      "Kichererbsen, Zwiebeln, Rosmarin, Lorbeer, Olivenöl und Brühe in einer kleinen Auflaufform mischen und salzen.",
+      "Abgedeckt 45 Minuten im Ofen schmoren, bis die Zwiebeln ganz weich sind.",
+      "Mit Zitronensaft, Pfeffer und Petersilie vollenden und mit dem Brot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3656",
+    "title": "Horiatiki mit Kichererbsen – Griechischer Bauernsalat mit Feta light und Oliven",
+    "calories": 425,
+    "protein": 22,
+    "carbs": 36,
+    "fiber": 12,
+    "fat": 21,
+    "servingSizeGrams": 570,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3656_v16_horiatiki_kichererbsen_bauernsalat_feta_oliven.jpg",
+    "ingredients": [
+      {
+        "name": "Tomate",
+        "amount": "150g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "120g"
+      },
+      {
+        "name": "Paprika (gelb)",
+        "amount": "60g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Oliven",
+        "amount": "6 Stück"
+      },
+      {
+        "name": "Feta light",
+        "amount": "60g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Oregano (getrocknet)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Tomaten in Spalten, Gurke in dicke Halbmonde und Paprika in Ringe schneiden.",
+      "Rote Zwiebel in dünne Ringe schneiden und mit Kichererbsen und Oliven zum Gemüse geben.",
+      "Mit Salz, Pfeffer und Olivenöl anmachen.",
+      "Feta als Stück darauflegen und mit Oregano bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3657",
+    "title": "Potaje de Garbanzos – Spanischer Kichererbsen-Eintopf mit Mangold, Kartoffel und Paprika",
+    "calories": 480,
+    "protein": 21,
+    "carbs": 67,
+    "fiber": 19,
+    "fat": 14,
+    "servingSizeGrams": 905,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3657_v16_potaje_de_garbanzos_kichererbsen_mangold_kartoffel.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "200g"
+      },
+      {
+        "name": "Mangold",
+        "amount": "120g"
+      },
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "120g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Lorbeer, Pfeffer",
+        "amount": "1 Blatt"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "350 ml"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel, Knoblauch und Karotte würfeln und im Olivenöl 4 Minuten andünsten.",
+      "Paprikapulver einrühren, Kartoffelwürfel, Lorbeer und Brühe zugeben und 15 Minuten köcheln lassen.",
+      "Kichererbsen und in Streifen geschnittenen Mangold zugeben und 8 Minuten mitgaren.",
+      "Lorbeer entfernen, einige Kichererbsen zerdrücken und abschmecken."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3658",
+    "title": "Insalata di Ceci – Sizilianischer Kichererbsensalat mit Orange, Fenchel und Oliven",
+    "calories": 505,
+    "protein": 19,
+    "carbs": 55,
+    "fiber": 20,
+    "fat": 23,
+    "servingSizeGrams": 535,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3658_v16_insalata_di_ceci_kichererbsen_orange_fenchel_oliven.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "200g"
+      },
+      {
+        "name": "Orange",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Fenchel",
+        "amount": "120g"
+      },
+      {
+        "name": "Oliven",
+        "amount": "6 Stück"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Rucola",
+        "amount": "30g"
+      },
+      {
+        "name": "Pinienkerne",
+        "amount": "10g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Orange schälen, filetieren und den Saft dabei auffangen.",
+      "Fenchel und rote Zwiebel sehr fein hobeln.",
+      "Orangensaft mit Zitronensaft, Olivenöl, Salz und Pfeffer verrühren.",
+      "Kichererbsen, Fenchel, Zwiebel, Oliven und Rucola mit dem Dressing mischen, Orangenfilets und geröstete Pinienkerne darauf verteilen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_3659",
+    "title": "Maneštra – Istrischer Bohnen-Mais-Gemüseeintopf mit Kartoffeln",
+    "calories": 455,
+    "protein": 20,
+    "carbs": 67,
+    "fiber": 17,
+    "fat": 11,
+    "servingSizeGrams": 975,
+    "prepTimeMinutes": 45,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3659_v16_manestra_istrischer_bohnen_mais_eintopf_kartoffel.jpg",
+    "ingredients": [
+      {
+        "name": "Borlottibohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Mais (abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "120g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Staudensellerie",
+        "amount": "40g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "450 ml"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Lorbeer, Pfeffer",
+        "amount": "1 Blatt"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel, Knoblauch, Karotte und Sellerie würfeln und im Olivenöl 5 Minuten andünsten.",
+      "Tomatenmark kurz mitrösten, Kartoffelwürfel, Lorbeer und Brühe zugeben und 15 Minuten köcheln lassen.",
+      "Borlottibohnen und Mais zugeben und weitere 10 Minuten köcheln lassen.",
+      "Einen Teil der Bohnen zerdrücken, abschmecken und mit Petersilie bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "sellerie"
+    ]
+  },
+  {
+    "id": "rec_3660",
+    "title": "Louvi – Zypriotische Augenbohnen mit Mangold, Zitrone und Olivenöl",
+    "calories": 475,
+    "protein": 24,
+    "carbs": 62,
+    "fiber": 18,
+    "fat": 13,
+    "servingSizeGrams": 575,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3660_v16_louvi_zypriotische_augenbohnen_mangold_zitrone.jpg",
+    "ingredients": [
+      {
+        "name": "Augenbohnen (gekocht)",
+        "amount": "220g"
+      },
+      {
+        "name": "Mangold",
+        "amount": "200g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "80g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "20g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "1 Scheibe (40g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Mangold waschen, Stiele in Stücke und Blätter in breite Streifen schneiden.",
+      "Mangoldstiele 3 Minuten in Salzwasser garen, Blätter zugeben und weitere 2 Minuten garen, dann abgießen.",
+      "Augenbohnen erwärmen und mit Mangold, Tomatenwürfeln und gehacktem Knoblauch mischen.",
+      "Mit Zitronensaft, Olivenöl, Salz und Pfeffer anmachen und mit dem Brot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3661",
+    "title": "Kusksu – Maltesische Bohnen-Nudelsuppe mit dicken Bohnen, Erbsen und Ricotta",
+    "calories": 520,
+    "protein": 29,
+    "carbs": 66,
+    "fiber": 17,
+    "fat": 13,
+    "servingSizeGrams": 795,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3661_v16_kusksu_maltesische_bohnen_nudelsuppe_ricotta.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkorn-Orzo (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Dicke Bohnen (gekocht)",
+        "amount": "150g"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "80g"
+      },
+      {
+        "name": "Ricotta",
+        "amount": "50g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "400 ml"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel fein würfeln und im Olivenöl 4 Minuten andünsten, Tomatenmark kurz mitrösten.",
+      "Brühe angießen, aufkochen und den Orzo 8 Minuten darin garen.",
+      "Dicke Bohnen und Erbsen zugeben und 4 Minuten mitgaren.",
+      "Abschmecken, Ricotta als Klecks daraufsetzen und mit Petersilie bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_3662",
+    "title": "Lentilles-du-Puy-Salat mit Ziegenkäse, Rucola und Walnüssen",
+    "calories": 485,
+    "protein": 26,
+    "carbs": 43,
+    "fiber": 11,
+    "fat": 20,
+    "servingSizeGrams": 355,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3662_v16_lentilles_du_puy_salat_ziegenkaese_rucola_walnuss.jpg",
+    "ingredients": [
+      {
+        "name": "Puy-Linsen (trocken)",
+        "amount": "70g"
+      },
+      {
+        "name": "Ziegenkäse (Rolle)",
+        "amount": "30g"
+      },
+      {
+        "name": "Rucola",
+        "amount": "40g"
+      },
+      {
+        "name": "Walnüsse",
+        "amount": "10g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "amount": "20g"
+      },
+      {
+        "name": "Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Thymian",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Linsen mit Thymian in reichlich Wasser 22 Minuten bissfest kochen und abgießen.",
+      "Karotte und rote Zwiebel sehr fein würfeln, Petersilie hacken.",
+      "Lauwarme Linsen mit Gemüse, Petersilie, Zitronensaft, Olivenöl, Salz und Pfeffer mischen.",
+      "Auf Rucola anrichten, Ziegenkäse zerbröseln und mit gerösteten Walnüssen bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "milch",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_3663",
+    "title": "Fregola mit Kichererbsen, Kirschtomaten und Rucola",
+    "calories": 530,
+    "protein": 21,
+    "carbs": 81,
+    "fiber": 14,
+    "fat": 14,
+    "servingSizeGrams": 730,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3663_v16_fregola_kichererbsen_kirschtomaten_rucola.jpg",
+    "ingredients": [
+      {
+        "name": "Fregola sarda",
+        "amount": "60g"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "150g"
+      },
+      {
+        "name": "Rucola",
+        "amount": "30g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "30g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "200 ml"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch hacken und im Olivenöl 3 Minuten andünsten.",
+      "Fregola zugeben, 2 Minuten mitrösten und nach und nach mit der Brühe 12 Minuten risottoartig garen.",
+      "Halbierte Kirschtomaten und Kichererbsen zugeben und 3 Minuten mitgaren.",
+      "Mit Zitronensaft, Salz und Pfeffer abschmecken und den Rucola unterheben."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3664",
+    "title": "Vegane Maafe – Senegalesischer Erdnuss-Eintopf mit Kichererbsen, Süßkartoffel und Hirse",
+    "calories": 590,
+    "protein": 23,
+    "carbs": 90,
+    "fiber": 18,
+    "fat": 15,
+    "servingSizeGrams": 800,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3664_v16_vegane_maafe_erdnuss_eintopf_kichererbsen_suesskartoffel_hirse.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "130g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": "150g"
+      },
+      {
+        "name": "Erdnussmus",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "150 ml"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "5g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "200 ml"
+      },
+      {
+        "name": "Hirse (ungekocht)",
+        "amount": "30g"
+      },
+      {
+        "name": "Chili",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Hirse heiß abspülen und in 70 ml Salzwasser 15 Minuten quellen lassen.",
+      "Zwiebel, Knoblauch und Ingwer hacken und mit 3 EL Brühe in einem Topf 4 Minuten dünsten.",
+      "Süßkartoffel würfeln, mit Tomaten, restlicher Brühe und Chili zugeben und 15 Minuten köcheln lassen.",
+      "Erdnussmus glatt einrühren, Kichererbsen zugeben und 5 Minuten sämig köcheln lassen.",
+      "Abschmecken und mit der Hirse servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "erdnuss"
+    ]
+  },
+  {
+    "id": "rec_3665",
+    "title": "Ewa Agoyin – Nigerianische Augenbohnen mit Paprika-Tomaten-Sauce und Vollkornbrot",
+    "calories": 525,
+    "protein": 23,
+    "carbs": 74,
+    "fiber": 20,
+    "fat": 13,
+    "servingSizeGrams": 550,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3665_v16_ewa_agoyin_augenbohnen_paprika_tomaten_sauce_brot.jpg",
+    "ingredients": [
+      {
+        "name": "Augenbohnen (gekocht)",
+        "amount": "220g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "120g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "80g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "60g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Chiliflocken",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "1 Scheibe (60g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Augenbohnen mit etwas Wasser und Salz erwärmen und mit einer Gabel grob zerdrücken.",
+      "Paprika, Tomate und die Hälfte der Zwiebel grob pürieren.",
+      "Restliche Zwiebel in Ringe schneiden und im Rapsöl 6 Minuten dunkel anbraten, Chili zugeben.",
+      "Püree zugeben und 12 Minuten einkochen, bis die Sauce dick ist, salzen.",
+      "Bohnen mit der Sauce übergießen und mit dem Brot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3666",
+    "title": "Mchuzi wa Maharage – Kenianisches Kidneybohnen-Kokos-Curry mit Vollkornreis",
+    "calories": 545,
+    "protein": 21,
+    "carbs": 79,
+    "fiber": 17,
+    "fat": 14,
+    "servingSizeGrams": 655,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3666_v16_mchuzi_wa_maharage_kidneybohnen_kokos_curry_vollkornreis.jpg",
+    "ingredients": [
+      {
+        "name": "Kidneybohnen (abgetropft)",
+        "amount": "200g"
+      },
+      {
+        "name": "Kokosmilch (light)",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Tomate",
+        "amount": "120g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kurkuma (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Koriander",
+        "amount": "5g"
+      },
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Vollkornreis in der doppelten Menge Wasser 30 Minuten garen.",
+      "Zwiebel und Knoblauch im Rapsöl 4 Minuten goldgelb braten, Currypulver und Kurkuma einrühren.",
+      "Tomate würfeln, zugeben und 5 Minuten zu einer Sauce einkochen.",
+      "Bohnen und Kokosmilch zugeben und 10 Minuten sämig köcheln lassen.",
+      "Abschmecken, mit Koriander bestreuen und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3667",
+    "title": "Moin Moin – Nigerianischer gedämpfter Bohnenkuchen mit Tomaten-Gurken-Salat",
+    "calories": 380,
+    "protein": 20,
+    "carbs": 49,
+    "fiber": 12,
+    "fat": 10,
+    "servingSizeGrams": 570,
+    "prepTimeMinutes": 75,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3667_v16_moin_moin_gedaempfter_bohnenkuchen_tomaten_gurken_salat.jpg",
+    "ingredients": [
+      {
+        "name": "Augenbohnen (getrocknet)",
+        "amount": "70g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "80g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "60 ml"
+      },
+      {
+        "name": "Chili, Kurkuma",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Tomate",
+        "amount": "120g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "100g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Augenbohnen 2 Stunden einweichen, die Häutchen abreiben und abspülen.",
+      "Bohnen mit Paprika, Zwiebel, Brühe, Rapsöl, Chili, Kurkuma und Salz sehr fein pürieren.",
+      "Masse in 2 gefettete hitzefeste Förmchen füllen, abdecken und 45 Minuten über Wasserdampf garen.",
+      "Tomate und Gurke würfeln und mit Zitronensaft, Salz und Pfeffer mischen.",
+      "Bohnenkuchen kurz ruhen lassen, stürzen und mit dem Salat servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich",
+      "volumenreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3668",
+    "title": "Loubia – Marokkanische weiße Bohnen in Tomate mit Kreuzkümmel und Vollkornbrot",
+    "calories": 435,
+    "protein": 22,
+    "carbs": 60,
+    "fiber": 19,
+    "fat": 10,
+    "servingSizeGrams": 540,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3668_v16_loubia_marokkanische_weisse_bohnen_tomate_kreuzkuemmel.jpg",
+    "ingredients": [
+      {
+        "name": "Weiße Bohnen (abgetropft)",
+        "amount": "220g"
+      },
+      {
+        "name": "Gehackte Tomaten (Dose)",
+        "amount": "200g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Koriander, Petersilie",
+        "amount": "5g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "1 Scheibe (50g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch fein hacken und im Olivenöl 4 Minuten andünsten.",
+      "Kreuzkümmel und Paprikapulver kurz mitrösten, Tomaten zugeben und 8 Minuten einkochen.",
+      "Bohnen und 50 ml Wasser zugeben und 10 Minuten sämig köcheln lassen.",
+      "Abschmecken, mit Kräutern bestreuen und mit dem Brot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3669",
+    "title": "Matapa – Mosambikanischer Spinat-Erdnuss-Kokos-Eintopf mit Kichererbsen und Reis",
+    "calories": 600,
+    "protein": 26,
+    "carbs": 68,
+    "fiber": 15,
+    "fat": 24,
+    "servingSizeGrams": 645,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3669_v16_matapa_spinat_erdnuss_kokos_eintopf_kichererbsen_reis.jpg",
+    "ingredients": [
+      {
+        "name": "Blattspinat",
+        "amount": "200g"
+      },
+      {
+        "name": "Erdnüsse",
+        "amount": "25g"
+      },
+      {
+        "name": "Kokosmilch (light)",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Kichererbsen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "45g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Basmatireis in der doppelten Menge Salzwasser 12 Minuten garen.",
+      "Erdnüsse fein mahlen, Zwiebel und Knoblauch hacken.",
+      "Zwiebel, Knoblauch und Spinat mit 50 ml Wasser 5 Minuten zusammenfallen lassen und fein hacken.",
+      "Gemahlene Erdnüsse, Kokosmilch und Kichererbsen zugeben und 10 Minuten unter Rühren sämig köcheln lassen.",
+      "Salzen, pfeffern und mit dem Reis servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "erdnuss"
+    ]
+  },
+  {
+    "id": "rec_3670",
+    "title": "Katogo – Ugandische Kochbananen mit Borlottibohnen in Tomatensauce",
+    "calories": 495,
+    "protein": 17,
+    "carbs": 88,
+    "fiber": 18,
+    "fat": 8,
+    "servingSizeGrams": 615,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3670_v16_katogo_kochbananen_borlottibohnen_tomatensauce.jpg",
+    "ingredients": [
+      {
+        "name": "Kochbanane",
+        "amount": "1 Stück (200g)"
+      },
+      {
+        "name": "Borlottibohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": "60g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kochbanane schälen und in dicke Scheiben schneiden.",
+      "Zwiebel im Rapsöl 4 Minuten andünsten, Tomatenwürfel und Currypulver zugeben und 4 Minuten einkochen.",
+      "Kochbananen und 150 ml Wasser zugeben und zugedeckt 15 Minuten weich schmoren.",
+      "Bohnen und Spinat zugeben, 4 Minuten mitgaren und abschmecken."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_3671",
+    "title": "Adess – Marokkanischer Linseneintopf mit Karotte, Kreuzkümmel und Vollkorncouscous",
+    "calories": 510,
+    "protein": 24,
+    "carbs": 76,
+    "fiber": 16,
+    "fat": 8,
+    "servingSizeGrams": 570,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3671_v16_adess_marokkanischer_linseneintopf_karotte_couscous.jpg",
+    "ingredients": [
+      {
+        "name": "Berglinsen (trocken)",
+        "amount": "60g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "100g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "150 ml"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kurkuma (gemahlen)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Vollkorncouscous (ungekocht)",
+        "amount": "45g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch hacken und im Olivenöl 3 Minuten andünsten, Kreuzkümmel, Paprikapulver und Kurkuma einrühren.",
+      "Linsen, Karottenwürfel, Tomaten und 350 ml Wasser zugeben und 25 Minuten köcheln lassen.",
+      "Couscous mit 70 ml kochendem Salzwasser übergießen, 5 Minuten quellen lassen und auflockern.",
+      "Eintopf abschmecken, mit Koriander bestreuen und mit dem Couscous servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_3672",
+    "title": "Bob Chorba – Bulgarische Bohnensuppe mit Minze und Paprika",
+    "calories": 340,
+    "protein": 19,
+    "carbs": 44,
+    "fiber": 17,
+    "fat": 8,
+    "servingSizeGrams": 915,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3672_v16_bob_chorba_bulgarische_bohnensuppe_minze_paprika.jpg",
+    "ingredients": [
+      {
+        "name": "Weiße Bohnen (abgetropft)",
+        "amount": "200g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "60g"
+      },
+      {
+        "name": "Staudensellerie",
+        "amount": "40g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "100g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "400 ml"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Minze (getrocknet)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel, Karotte, Paprika und Sellerie würfeln und im Rapsöl 5 Minuten andünsten.",
+      "Paprikapulver einrühren, Tomatenwürfel und Brühe zugeben und 10 Minuten köcheln lassen.",
+      "Bohnen zugeben und weitere 10 Minuten köcheln lassen.",
+      "Getrocknete Minze einrühren, salzen und pfeffern."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "ballaststoffreich",
+      "low-gi",
+      "volumenreich"
+    ],
+    "allergens": [
+      "sellerie"
+    ]
+  },
+  {
+    "id": "rec_3673",
+    "title": "Shchi – Russische Weißkohlsuppe mit weißen Bohnen und Dill",
+    "calories": 400,
+    "protein": 21,
+    "carbs": 55,
+    "fiber": 19,
+    "fat": 8,
+    "servingSizeGrams": 1085,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3673_v16_shchi_russische_weisskohlsuppe_weisse_bohnen_dill.jpg",
+    "ingredients": [
+      {
+        "name": "Weißkohl",
+        "amount": "200g"
+      },
+      {
+        "name": "Weiße Bohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "100g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "40g"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "450 ml"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Dill",
+        "amount": "5g"
+      },
+      {
+        "name": "Sojajoghurt (ungesüßt)",
+        "amount": "60g"
+      },
+      {
+        "name": "Lorbeer, Pfeffer",
+        "amount": "1 Blatt"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Karotte würfeln und im Rapsöl 4 Minuten andünsten, Tomatenmark kurz mitrösten.",
+      "Weißkohl in feine Streifen schneiden, mit Kartoffelwürfeln, Lorbeer und Brühe zugeben und 20 Minuten köcheln lassen.",
+      "Bohnen zugeben und 5 Minuten mitgaren, abschmecken.",
+      "Mit einem Klecks Sojajoghurt und gehacktem Dill servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich",
+      "volumenreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_3674",
+    "title": "Lencsefőzelék – Ungarisches Linsengemüse mit Paprika und Ei",
+    "calories": 530,
+    "protein": 30,
+    "carbs": 64,
+    "fiber": 12,
+    "fat": 14,
+    "servingSizeGrams": 705,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3674_v16_lencsefozelek_ungarisches_linsengemuese_paprika_ei.jpg",
+    "ingredients": [
+      {
+        "name": "Berglinsen (trocken)",
+        "amount": "70g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Vollkornmehl",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "6g"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Lorbeer, Pfeffer",
+        "amount": "1 Blatt"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "350 ml"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "10g"
+      },
+      {
+        "name": "Ei (hart gekocht)",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "1 Scheibe (40g)"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Linsen mit Lorbeer in der Brühe 25 Minuten weich kochen.",
+      "Zwiebel fein würfeln und im Rapsöl 4 Minuten glasig dünsten, Knoblauch und Mehl kurz mitschwitzen.",
+      "Paprikapulver einrühren, die Einbrenne unter die Linsen rühren und 5 Minuten sämig köcheln lassen.",
+      "Mit Zitronensaft, Salz und Pfeffer abschmecken, Lorbeer entfernen.",
+      "Mit dem halbierten Ei und dem Brot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_3675",
+    "title": "Krupnik – Polnische Graupensuppe mit Pilzen und weißen Bohnen",
+    "calories": 475,
+    "protein": 23,
+    "carbs": 73,
+    "fiber": 19,
+    "fat": 8,
+    "servingSizeGrams": 1090,
+    "prepTimeMinutes": 45,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3675_v16_krupnik_polnische_graupensuppe_pilze_weisse_bohnen.jpg",
+    "ingredients": [
+      {
+        "name": "Perlgraupen (ungekocht)",
+        "amount": "45g"
+      },
+      {
+        "name": "Champignons",
+        "amount": "120g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "60g"
+      },
+      {
+        "name": "Knollensellerie",
+        "amount": "50g"
+      },
+      {
+        "name": "Lauch",
+        "amount": "50g"
+      },
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "80g"
+      },
+      {
+        "name": "Weiße Bohnen (abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "500 ml"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "5g"
+      },
+      {
+        "name": "Dill",
+        "amount": "5g"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Pilze in Scheiben schneiden und im Rapsöl 5 Minuten anbraten.",
+      "Karotte, Sellerie und Lauch würfeln, zugeben und 3 Minuten mitdünsten.",
+      "Graupen und Brühe zugeben und 25 Minuten köcheln lassen, Kartoffelwürfel nach 10 Minuten zugeben.",
+      "Bohnen zugeben, 5 Minuten erwärmen, abschmecken und mit Dill bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "sellerie"
+    ]
+  },
+  {
+    "id": "rec_3676",
+    "title": "Ajapsandali – Georgischer Auberginen-Gemüse-Eintopf mit Kidneybohnen und Koriander",
+    "calories": 430,
+    "protein": 18,
+    "carbs": 60,
+    "fiber": 22,
+    "fat": 10,
+    "servingSizeGrams": 770,
+    "prepTimeMinutes": 45,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_3676_v16_ajapsandali_auberginen_eintopf_kidneybohnen_koriander.jpg",
+    "ingredients": [
+      {
+        "name": "Aubergine",
+        "amount": "200g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "100g"
+      },
+      {
+        "name": "Tomate",
+        "amount": "150g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "50g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Kidneybohnen (abgetropft)",
+        "amount": "150g"
+      },
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "100g"
+      },
+      {
+        "name": "Koriander",
+        "amount": "5g"
+      },
+      {
+        "name": "Basilikum",
+        "amount": "3g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "8g"
+      },
+      {
+        "name": "Chili",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Aubergine, Paprika, Kartoffel und Tomate in grobe Würfel schneiden, Zwiebel in Spalten.",
+      "Aubergine und Zwiebel im Olivenöl 6 Minuten anbraten.",
+      "Paprika, Kartoffel, Tomate und 100 ml Wasser zugeben und zugedeckt 20 Minuten schmoren.",
+      "Bohnen, gehackten Knoblauch und Chili zugeben und 5 Minuten mitschmoren.",
+      "Mit Salz abschmecken und mit reichlich Koriander und Basilikum bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": []
   }
 ]
