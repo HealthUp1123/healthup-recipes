@@ -71332,5 +71332,1182 @@
       "Füme tofuyu küp doğrayın ve kalan yağda 5 dakika çıtır olana kadar kızartın.",
       "Çorbayı bir kaşık soya yoğurdu ve tofu küpleriyle servis edin."
     ]
+  },
+  {
+    "id": "rec_3627",
+    "title": "Parippu – Kara lahana ve esmer pirinçli Sri Lanka usulü hindistan cevizli kırmızı mercimek",
+    "ingredients": [
+      "Kırmızı mercimek (kuru)",
+      "Light hindistan cevizi sütü",
+      "Soğan",
+      "Sarımsak",
+      "Kara lahana",
+      "Esmer pirinç (pişmemiş)",
+      "Kanola yağı",
+      "Öğütülmüş zerdeçal",
+      "Öğütülmüş kimyon",
+      "Misket limonu suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Esmer pirinci iki katı suda 30 dakika pişirin.",
+      "Soğanı ve sarımsağı doğrayıp kanola yağında 3 dakika soteleyin, zerdeçal ve kimyonu karıştırın.",
+      "Mercimek, hindistan cevizi sütü ve 200 ml suyu ekleyip 15 dakika koyulaşana kadar pişirin.",
+      "Kara lahanayı ince doğrayın ve son 4 dakikada birlikte pişirin.",
+      "Mercimeği misket limonu suyu, tuz ve karabiberle tatlandırıp pirinçle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3628",
+    "title": "Thenthuk – Tofu ve ıspanaklı Tibet usulü sebzeli erişte çorbası",
+    "ingredients": [
+      "Tam buğday unu",
+      "Sade tofu",
+      "Yaprak ıspanak",
+      "Havuç",
+      "Domates",
+      "Soğan",
+      "Sarımsak",
+      "Zencefil",
+      "Sebze suyu",
+      "Soya sosu",
+      "Kanola yağı",
+      "Taze soğan",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Unu 40 ml su ve bir tutam tuzla pürüzsüz bir hamur olacak şekilde yoğurun ve 15 dakika dinlendirin.",
+      "Soğan, sarımsak ve zencefili kanola yağında 2 dakika kavurun, küp doğranmış havuç ve domatesi ekleyin.",
+      "Sebze suyu ve soya sosunu ekleyip kaynatın, küp doğranmış tofuyu ilave edin.",
+      "Hamuru yassı şekilde çekin, küçük parçalar halinde koparıp doğrudan çorbaya atın ve 5 dakika pişirin.",
+      "Ispanağı karıştırın, tatlandırın ve taze soğan serperek servis edin."
+    ]
+  },
+  {
+    "id": "rec_3629",
+    "title": "Laghman – Tofu, biber ve taze fasulyeli Uygur usulü erişte tavası",
+    "ingredients": [
+      "Tam buğday spagetti (pişmemiş)",
+      "Sade tofu",
+      "Kırmızı biber",
+      "Taze fasulye",
+      "Domates",
+      "Soğan",
+      "Sarımsak",
+      "Domates salçası",
+      "Kanola yağı",
+      "Öğütülmüş kimyon",
+      "Pul biber",
+      "Soya sosu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Spagettiyi paket talimatına göre tuzlu suda diri kalacak şekilde haşlayıp süzün.",
+      "Tofuyu küp doğrayın, kanola yağında 5 dakika altın rengi olana kadar kızartıp kenara alın.",
+      "Soğan, sarımsak, şerit biber ve ikiye bölünmüş fasulyeyi 5 dakika kavurun, salça, kimyon ve pul biberi karıştırın.",
+      "Domatesi küp doğrayın, soya sosu ve 50 ml suyla ekleyip 4 dakika pişirin.",
+      "Erişte ve tofuyu ekleyip karıştırın, tatlandırın ve sıcak servis edin."
+    ]
+  },
+  {
+    "id": "rec_3630",
+    "title": "Matar tofu – Domatesli bezelye ve tofu körisi, basmati pirinci ile",
+    "ingredients": [
+      "Sade tofu",
+      "Bezelye (dondurulmuş)",
+      "Doğranmış domates (konserve)",
+      "Soğan",
+      "Sarımsak",
+      "Zencefil",
+      "Basmati pirinç (pişmemiş)",
+      "Kanola yağı",
+      "Garam masala",
+      "Öğütülmüş zerdeçal",
+      "Kişniş",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Basmati pirincini iki katı tuzlu suda 12 dakika pişirin.",
+      "Tofuyu küp doğrayın, kanola yağının yarısında 5 dakika kızartıp kenara alın.",
+      "Soğan, sarımsak ve zencefili kalan yağda 3 dakika soteleyin, garam masala ve zerdeçalı kısaca kavurun.",
+      "Domates ve bezelyeyi ekleyip 8 dakika pişirin ve tofuyu ilave edin.",
+      "Tatlandırın, kişniş serpin ve pirinçle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3631",
+    "title": "Lobia masala – Yaprak ıspanaklı börülce körisi, tam buğday çapati ile",
+    "ingredients": [
+      "Haşlanmış börülce",
+      "Yaprak ıspanak",
+      "Doğranmış domates (konserve)",
+      "Soğan",
+      "Sarımsak",
+      "Tam buğday chapati",
+      "Kanola yağı",
+      "Garam masala",
+      "Öğütülmüş kimyon",
+      "Kişniş",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğanı ve sarımsağı ince doğrayıp kanola yağında 4 dakika altın rengi olana kadar kavurun.",
+      "Garam masala ve kimyonu karıştırın, domatesi ekleyip 5 dakika koyulaştırın.",
+      "Börülceyi ekleyip 5 dakika pişirin ve ıspanağı söndürene kadar karıştırın.",
+      "Çapatiyi kuru bir tavada her iki tarafını 1 dakika ısıtın.",
+      "Köriyi tatlandırın, kişniş serpin ve çapatiyle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3632",
+    "title": "Kootu – Hindistan cevizli ve darılı Güney Hindistan usulü maş fasulyesi ve balkabağı yemeği",
+    "ingredients": [
+      "Maş fasulyesi içi (sarı, kuru)",
+      "Hokkaido balkabağı",
+      "Taze fasulye",
+      "Light hindistan cevizi sütü",
+      "Darı (pişmemiş)",
+      "Kanola yağı",
+      "Hardal tohumu",
+      "Öğütülmüş kimyon",
+      "Öğütülmüş zerdeçal",
+      "Kişniş",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Maş fasulyesini durulayın ve 300 ml su ve zerdeçalla 15 dakika yumuşayana kadar haşlayın.",
+      "Darıyı sıcak suyla durulayın ve 100 ml tuzlu suda 15 dakika pişirin.",
+      "Balkabağını küp doğrayın, fasulyeyi parçalara kesin, mercimeğe ekleyip 10 dakika pişirin.",
+      "Hardal tohumlarını ve kimyonu kanola yağında patlayana kadar kavurun ve hindistan cevizi sütüyle birlikte karıştırın.",
+      "Tatlandırın, kişniş serpin ve darıyla servis edin."
+    ]
+  },
+  {
+    "id": "rec_3633",
+    "title": "Misal – Tam buğday ekmekli Maharashtra usulü baharatlı maş fasulyesi körisi",
+    "ingredients": [
+      "Maş fasulyesi (pişmemiş)",
+      "Soğan",
+      "Domates",
+      "Sarımsak",
+      "Zencefil",
+      "Kanola yağı",
+      "Köri tozu",
+      "Pul biber",
+      "Tam buğday sandviç ekmeği",
+      "Kırmızı soğan",
+      "Misket limonu suyu",
+      "Kişniş",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Maş fasulyesini bir gece önceden ıslatın ve taze suda 25 dakika yumuşayana kadar haşlayın.",
+      "Soğan, sarımsak ve zencefili kanola yağında 4 dakika kavurun, köri tozu ve pul biberi karıştırın.",
+      "Domatesi küp doğrayıp ekleyin, maş fasulyesi ve 150 ml suyla 10 dakika pişirin.",
+      "Misket limonu suyu ve tuzla tatlandırın, doğranmış kırmızı soğan ve kişniş serpin.",
+      "İkiye bölünmüş ve kısaca kızartılmış ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3634",
+    "title": "Kala chana salatası – Salatalık, domates ve yer fıstıklı Hint usulü nohut salatası",
+    "ingredients": [
+      "Siyah nohut (kala chana, süzülmüş)",
+      "Salatalık",
+      "Domates",
+      "Kırmızı soğan",
+      "Yer fıstığı",
+      "Nane",
+      "Kişniş",
+      "Misket limonu suyu",
+      "Zeytinyağı",
+      "Chaat masala",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Siyah nohutu durulayın ve iyice süzün.",
+      "Salatalık, domates ve kırmızı soğanı küçük küpler halinde doğrayın, naneyi ve kişnişi kıyın.",
+      "Misket limonu suyu, zeytinyağı, chaat masala ve biraz tuzu çırpın.",
+      "Hepsini karıştırın, yer fıstıklarını iri kıyıp üzerine serpin."
+    ]
+  },
+  {
+    "id": "rec_3635",
+    "title": "Mulligatawny – Hindistan cevizi sütlü vegan mercimek ve elma köri çorbası",
+    "ingredients": [
+      "Kırmızı mercimek (kuru)",
+      "Elma",
+      "Havuç",
+      "Soğan",
+      "Sap kereviz",
+      "Zencefil",
+      "Light hindistan cevizi sütü",
+      "Sebze suyu",
+      "Basmati pirinç (pişmemiş)",
+      "Kanola yağı",
+      "Köri tozu",
+      "Limon suyu",
+      "Kişniş",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğan, havuç, sap kereviz ve elmayı küp doğrayın, zencefili rendeleyin.",
+      "Sebzeleri ve zencefili kanola yağında 4 dakika soteleyin, köri tozunu kısaca kavurun.",
+      "Mercimek, pirinç ve sebze suyunu ekleyip 18 dakika pişirin.",
+      "Çorbanın yarısını püre haline getirin, hindistan cevizi sütünü karıştırıp ısıtın.",
+      "Limon suyu, tuz ve karabiberle tatlandırıp kişniş serpin."
+    ]
+  },
+  {
+    "id": "rec_3636",
+    "title": "Pho chay – Tofu ve otlu Vietnam usulü sebzeli pirinç eriştesi çorbası",
+    "ingredients": [
+      "Pirinç eriştesi (pişmemiş)",
+      "Sade tofu",
+      "Shiitake",
+      "Pak choi (Çin lahanası)",
+      "Fasulye filizi",
+      "Sebze suyu",
+      "Soğan",
+      "Zencefil",
+      "Yıldız anason, tarçın",
+      "Soya sosu",
+      "Misket limonu suyu",
+      "Tay fesleğeni, kişniş",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğanı ikiye bölün ve zencefille birlikte kuru bir tavada 5 dakika kavurun.",
+      "Sebze suyunu soğan, zencefil, yıldız anason, tarçın ve soya sosuyla 15 dakika kaynatıp süzün.",
+      "Pirinç eriştesini paket talimatına göre ıslatın, tofu ve shiitakeyi dilimleyin.",
+      "Tofu, mantar ve pak choiyi et suyunda 4 dakika pişirin.",
+      "Erişteyi bir kaseye koyun, çorbayı üzerine dökün ve filiz, otlar ve misket limonu suyuyla servis edin."
+    ]
+  },
+  {
+    "id": "rec_3637",
+    "title": "Yer fıstığı, kişniş ve yasemin pirinçli mala tofu salatalık salatası",
+    "ingredients": [
+      "Sade tofu",
+      "Salatalık",
+      "Yer fıstığı",
+      "Susam yağı",
+      "Soya sosu",
+      "Sarımsak",
+      "Acı biber, Sichuan biberi",
+      "Kişniş",
+      "Taze soğan",
+      "Misket limonu suyu",
+      "Jasmin pirinç (pişmemiş)",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yasemin pirincini iki katı suda 12 dakika pişirin.",
+      "Tofuyu küp doğrayın ve yapışmaz tavada yağsız olarak her tarafını 6 dakika kızartın.",
+      "Salatalığı bıçağın sırtıyla ezin, parçalara kesin ve hafifçe tuzlayın.",
+      "Susam yağı, soya sosu, doğranmış sarımsak, Sichuan biberi, pul biber ve misket limonu suyunu çırpın, salatalık ve tofuyla karıştırın.",
+      "Yer fıstığı, kişniş ve taze soğan serpin ve pirinçle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3638",
+    "title": "Yasai kare – Tofu, balkabağı ve esmer pirinçli Japon usulü sebze körisi",
+    "ingredients": [
+      "Sade tofu",
+      "Hokkaido balkabağı",
+      "Havuç",
+      "Soğan",
+      "Bezelye (dondurulmuş)",
+      "Rendelenmiş elma",
+      "Tam buğday unu",
+      "Kanola yağı",
+      "Köri tozu",
+      "Sebze suyu",
+      "Soya sosu",
+      "Esmer pirinç (pişmemiş)",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Esmer pirinci iki katı suda 30 dakika pişirin.",
+      "Soğanı dilimler, havucu ve balkabağını parçalar halinde kesip kanola yağında 5 dakika kavurun.",
+      "Un ve köri tozunu üzerine serpin, kısaca kavurun ve sebze suyuyla söndürün.",
+      "Elma, soya sosu ve küp doğranmış tofuyu ekleyip 12 dakika koyulaşana kadar pişirin, bezelyeyi son 3 dakikada ekleyin.",
+      "Köriyi pirincin yanında servis edin."
+    ]
+  },
+  {
+    "id": "rec_3639",
+    "title": "Khao pad sapparot – Tofu ve kaju fıstıklı Tayland usulü ananaslı pilav",
+    "ingredients": [
+      "Jasmin pirinç (pişmemiş)",
+      "Sade tofu",
+      "Ananas",
+      "Bezelye (dondurulmuş)",
+      "Kırmızı biber",
+      "Kaju",
+      "Taze soğan",
+      "Sarımsak",
+      "Kanola yağı",
+      "Soya sosu",
+      "Köri tozu",
+      "Misket limonu suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yasemin pirincini pişirin ve tamamen soğumaya bırakın, tercihen bir gün önceden pişmiş pirinç kullanın.",
+      "Tofuyu küp doğrayın ve wokta kanola yağında 5 dakika altın rengi olana kadar kızartın.",
+      "Sarımsak, küp biber ve bezelyeyi ekleyip 3 dakika karıştırarak kavurun.",
+      "Pirinç, küp ananas, köri tozu ve soya sosunu ekleyip karıştırarak 4 dakika kavurun.",
+      "Kavrulmuş kaju, taze soğan ve misket limonu suyuyla servis edin."
+    ]
+  },
+  {
+    "id": "rec_3640",
+    "title": "Musabbaha – Tahin, limon ve tam buğday pideli ılık nohut",
+    "ingredients": [
+      "Nohut (süzülmüş)",
+      "Tahin",
+      "Limon suyu",
+      "Sarımsak",
+      "Zeytinyağı",
+      "Öğütülmüş kimyon",
+      "Maydanoz",
+      "Domates",
+      "Tam buğday pita",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Nohutu biraz suyla 5 dakika ısıtın, süzün ve pişirme suyundan 3 yemek kaşığı ayırın.",
+      "Tahini limon suyu, ezilmiş sarımsak, pişirme suyu ve tuzla pürüzsüz olana kadar karıştırın.",
+      "Nohutun üçte birini iri ezin ve hepsini tahin sosuyla karıştırın.",
+      "Zeytinyağı, kimyon, maydanoz ve küp domatesle süsleyin ve sıcak pideyle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3641",
+    "title": "Timman bagilla – Bakla ve yoğurtlu Irak usulü dereotlu pilav",
+    "ingredients": [
+      "Basmati pirinç (pişmemiş)",
+      "Haşlanmış bakla",
+      "Dereotu",
+      "Soğan",
+      "Kanola yağı",
+      "Öğütülmüş zerdeçal",
+      "Süzme yoğurt (%0,2 yağ)",
+      "Sarımsak",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Basmati pirincini yıkayın ve 20 dakika ıslatın.",
+      "Soğanı ince doğrayın, kanola yağında 4 dakika şeffaflaşana kadar soteleyin ve zerdeçalı karıştırın.",
+      "Pirinç, bakla, kıyılmış dereotu ve 120 ml suyu ekleyin, tuzlayın ve kapağı kapalı kısık ateşte 15 dakika pişirin.",
+      "Yoğurdu rendelenmiş sarımsak ve biraz tuzla karıştırıp pilavla servis edin."
+    ]
+  },
+  {
+    "id": "rec_3642",
+    "title": "Vospapur – Kayısı ve bulgurlu Ermeni usulü kırmızı mercimek çorbası",
+    "ingredients": [
+      "Kırmızı mercimek (kuru)",
+      "Bulgur (pişmemiş)",
+      "Kuru kayısı (kükürtsüz)",
+      "Soğan",
+      "Domates salçası",
+      "Sebze suyu",
+      "Zeytinyağı",
+      "Tatlı toz biber",
+      "Öğütülmüş kimyon",
+      "Nane",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğanı küp doğrayıp zeytinyağında 4 dakika soteleyin, salça, toz biber ve kimyonu kısaca kavurun.",
+      "Mercimek ve sebze suyunu ekleyip 12 dakika pişirin.",
+      "Kayısıları küçük doğrayın, bulgurla birlikte ekleyip 10 dakika daha pişirin.",
+      "Limon suyu, tuz ve karabiberle tatlandırıp nane serpin."
+    ]
+  },
+  {
+    "id": "rec_3643",
+    "title": "Yeşil mercimek salatası – Biber salçası ve cevizli Türk usulü yeşil mercimek salatası",
+    "ingredients": [
+      "Yeşil mercimek (kuru)",
+      "Biber salçası",
+      "Domates",
+      "Kırmızı soğan",
+      "Kırmızı biber",
+      "Maydanoz",
+      "Ceviz",
+      "Zeytinyağı",
+      "Limon suyu",
+      "Pul biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Mercimeği bol suda 20 dakika diri kalacak şekilde haşlayın, süzün ve soğumaya bırakın.",
+      "Biber salçasını zeytinyağı, limon suyu, pul biber ve tuzla karıştırın.",
+      "Domates, biber ve kırmızı soğanı ince doğrayın, maydanozu kıyın.",
+      "Mercimeği sebzeler, maydanoz ve sosla karıştırıp kıyılmış ceviz serpin."
+    ]
+  },
+  {
+    "id": "rec_3644",
+    "title": "Vejetaryen molohiya – Nohut ve pirinçli Mısır usulü molohiya yemeği",
+    "ingredients": [
+      "Molohiya (dondurulmuş, kıyılmış)",
+      "Nohut (süzülmüş)",
+      "Sarımsak",
+      "Öğütülmüş kişniş tohumu",
+      "Sebze suyu",
+      "Zeytinyağı",
+      "Basmati pirinç (pişmemiş)",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Basmati pirincini iki katı tuzlu suda 12 dakika pişirin.",
+      "Sebze suyunu kaynatın, nohutu ekleyin ve dondurulmuş molohiyayı karıştırarak içinde çözdürün.",
+      "Sarımsağı kıyın ve öğütülmüş kişniş tohumuyla zeytinyağında 1 dakika altın rengi olana kadar kavurun.",
+      "Sarımsaklı yağı yemeğe karıştırın ve kaynatmadan 3 dakika demlendirin.",
+      "Limon suyu ve tuzla tatlandırıp pirinçle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3645",
+    "title": "Beluga mercimekli ve bol maydanozlu tabule",
+    "ingredients": [
+      "Beluga mercimeği (kuru)",
+      "İnce bulgur",
+      "Maydanoz",
+      "Nane",
+      "Domates",
+      "Taze soğan",
+      "Limon suyu",
+      "Zeytinyağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Beluga mercimeğini bol suda 20 dakika diri kalacak şekilde haşlayın, süzün ve soğumaya bırakın.",
+      "Bulgurun üzerine 50 ml sıcak su dökün ve 10 dakika şişmeye bırakın.",
+      "Maydanoz ve naneyi çok ince kıyın, domates ve taze soğanı küçük doğrayın.",
+      "Hepsini limon suyu, zeytinyağı, tuz ve karabiberle karıştırıp 10 dakika dinlendirin."
+    ]
+  },
+  {
+    "id": "rec_3646",
+    "title": "Nohut, salatalık ve cevizli muhammara bulgur kasesi",
+    "ingredients": [
+      "Bulgur (pişmemiş)",
+      "Nohut (süzülmüş)",
+      "Kırmızı biber",
+      "Ceviz",
+      "Biber salçası",
+      "Nar ekşisi",
+      "Salatalık",
+      "Maydanoz",
+      "Zeytinyağı",
+      "Öğütülmüş kimyon",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Bulgurun üzerine 100 ml kaynar tuzlu su dökün ve kapağı kapalı 15 dakika şişmeye bırakın.",
+      "Biberi fırında 220 °C sıcaklıkta 20 dakika közleyin, kabuğunu soyun ve üçte ikisini iri doğrayın.",
+      "Kalan biberi cevizin çoğu, biber salçası, nar ekşisi, zeytinyağı ve kimyonla püre haline getirip muhammara yapın.",
+      "Bulgur, nohut, biber parçaları ve küp salatalığı bir kaseye yerleştirin, muhammarayı ekleyin ve kalan ceviz ve maydanozu serpin."
+    ]
+  },
+  {
+    "id": "rec_3647",
+    "title": "Vejetaryen khoresh karafs – Sarı bezelye ve pirinçli İran usulü sap kereviz ve ot yahnisi",
+    "ingredients": [
+      "Sap kereviz",
+      "Sarı bezelye (pişmemiş)",
+      "Maydanoz",
+      "Nane",
+      "Soğan",
+      "Kanola yağı",
+      "Öğütülmüş zerdeçal",
+      "Limon suyu",
+      "Basmati pirinç (pişmemiş)",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Sarı bezelyeyi 400 ml suda 25 dakika ön haşlayın.",
+      "Soğanı küp doğrayın ve zerdeçalla kanola yağında 4 dakika kavurun, sap kerevizi parçalara kesip 5 dakika daha kavurun.",
+      "Maydanoz ve naneyi kıyın, kısaca soteleyin ve bezelye ve pişirme suyuyla 15 dakika pişirin.",
+      "Basmati pirincini iki katı tuzlu suda 12 dakika pişirin.",
+      "Yahniyi limon suyu ve tuzla tatlandırıp pirinçle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3648",
+    "title": "Calabacitas – Siyah fasulye ve light feta peynirli Meksika usulü kabak ve mısır",
+    "ingredients": [
+      "Kabak",
+      "Mısır (süzülmüş)",
+      "Siyah fasulye (süzülmüş)",
+      "Domates",
+      "Soğan",
+      "Sarımsak",
+      "Kanola yağı",
+      "Öğütülmüş kimyon",
+      "Light beyaz peynir (feta)",
+      "Kişniş",
+      "Mısır tortillası",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğanı ve sarımsağı doğrayıp kanola yağında 3 dakika soteleyin.",
+      "Kabağı küp doğrayın, mısır ve kimyonla birlikte ekleyip 6 dakika kavurun.",
+      "Küp domates ve fasulyeyi ekleyip 4 dakika pişirin, tuz ve karabiberle tatlandırın.",
+      "Tortillaları kuru tavada ısıtın, sebzelerin üzerine ufalanmış feta ve kişniş serpin ve birlikte servis edin."
+    ]
+  },
+  {
+    "id": "rec_3649",
+    "title": "Sopa de tortilla – Pinto fasulyesi, avokado ve tortilla şeritli Meksika usulü domates çorbası",
+    "ingredients": [
+      "Süzme domates",
+      "Sebze suyu",
+      "Pinto fasulyesi (süzülmüş)",
+      "Soğan",
+      "Sarımsak",
+      "Mısır tortillası",
+      "Avokado",
+      "Misket limonu suyu",
+      "Kişniş",
+      "Kanola yağı",
+      "Chipotle tozu, kimyon",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Tortillayı ince şeritler halinde kesin ve fırında 200 °C sıcaklıkta 8 dakika çıtır olana kadar pişirin.",
+      "Soğan ve sarımsağı kanola yağında 3 dakika soteleyin, chipotle ve kimyonu kısaca kavurun.",
+      "Domates ve sebze suyunu ekleyip 10 dakika pişirin ve pürüzsüz olana kadar püre haline getirin.",
+      "Pinto fasulyesini ekleyip 3 dakika ısıtın, misket limonu suyu ve tuzla tatlandırın.",
+      "Çorbayı küp avokado, tortilla şeritleri ve kişnişle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3650",
+    "title": "Solterito – Light feta peyniri ve zeytinli Peru usulü bakla ve mısır salatası",
+    "ingredients": [
+      "Haşlanmış bakla",
+      "Ayıklanmış edamame",
+      "Mısır (süzülmüş)",
+      "Domates",
+      "Kırmızı soğan",
+      "Light beyaz peynir (feta)",
+      "Zeytin",
+      "Maydanoz",
+      "Misket limonu suyu",
+      "Zeytinyağı",
+      "Acı biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Bakla ve edamameyi 3 dakika haşlayın ve soğuk suyla soğutun.",
+      "Domatesi küp doğrayın, kırmızı soğanı ince kesin ve zeytinleri ikiye bölün.",
+      "Misket limonu suyunu zeytinyağı, acı biber, tuz ve karabiberle çırpın.",
+      "Hepsini mısır ve sosla karıştırın, fetayı küp doğrayıp maydanozla birlikte üzerine serpin."
+    ]
+  },
+  {
+    "id": "rec_3651",
+    "title": "Quibebe – Taze soğan ve pirinçli Brezilya usulü balkabağı ve nohut yahnisi",
+    "ingredients": [
+      "Hokkaido balkabağı",
+      "Nohut (süzülmüş)",
+      "Soğan",
+      "Sarımsak",
+      "Domates",
+      "Zeytinyağı",
+      "Basmati pirinç (pişmemiş)",
+      "Taze soğan",
+      "Maydanoz",
+      "Tatlı toz biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Basmati pirincini iki katı tuzlu suda 12 dakika pişirin.",
+      "Soğan ve sarımsağı zeytinyağında 3 dakika soteleyin ve toz biberi karıştırın.",
+      "Balkabağı ve domatesi küp doğrayıp ekleyin ve 150 ml suyla 15 dakika pişirin.",
+      "Nohutu ekleyip 5 dakika pişirin ve balkabağını hafifçe ezin.",
+      "Tatlandırın, taze soğan ve maydanoz serpin ve pirinçle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3652",
+    "title": "Aguadito – Bezelye, mısır ve beyaz fasulyeli Peru usulü kişnişli pirinç çorbası",
+    "ingredients": [
+      "Esmer pirinç (pişmemiş)",
+      "Kişniş",
+      "Yaprak ıspanak",
+      "Bezelye (dondurulmuş)",
+      "Mısır (süzülmüş)",
+      "Beyaz fasulye (süzülmüş)",
+      "Kırmızı biber",
+      "Soğan",
+      "Sarımsak",
+      "Sebze suyu",
+      "Kanola yağı",
+      "Misket limonu suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Kişniş ve ıspanağı 100 ml sebze suyuyla pürüzsüz olana kadar püre haline getirin.",
+      "Soğan, sarımsak ve küp biberi kanola yağında 4 dakika soteleyin.",
+      "Pirinç ve kalan sebze suyunu ekleyip 25 dakika pişirin.",
+      "Bezelye, mısır, fasulye ve ot püresini ekleyip 5 dakika demlendirin.",
+      "Misket limonu suyu, tuz ve karabiberle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3653",
+    "title": "Tostadas de lentejas – Mercimek, kırmızı lahana ve avokadolu çıtır mısır tortillaları",
+    "ingredients": [
+      "Mısır tortillası",
+      "Yeşil mercimek (kuru)",
+      "Kırmızı lahana",
+      "Avokado",
+      "Domates",
+      "Kırmızı soğan",
+      "Soya yoğurdu (şekersiz)",
+      "Misket limonu suyu",
+      "Kişniş",
+      "Chipotle tozu, kimyon",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Mercimeği bol suda 20 dakika yumuşayana kadar haşlayın, süzün ve chipotle, kimyon ve tuzla tatlandırın.",
+      "Tortillaları fırında 200 °C sıcaklıkta 6 dakika çıtır olana kadar pişirin.",
+      "Kırmızı lahanayı ince doğrayın ve limon suyunun yarısı ve tuzla ovun, domates ve soğanı küp doğrayın.",
+      "Avokadoyu kalan misket limonu suyuyla ezin.",
+      "Tostadaların üzerine avokado, mercimek, kırmızı lahana, domates, soğan, soya yoğurdu ve kişniş koyun."
+    ]
+  },
+  {
+    "id": "rec_3654",
+    "title": "Habichuelas guisadas – Balkabağı ve pirinçli Dominik usulü kırmızı fasulye yahnisi",
+    "ingredients": [
+      "Kırmızı fasulye (süzülmüş)",
+      "Hokkaido balkabağı",
+      "Kırmızı biber",
+      "Soğan",
+      "Sarımsak",
+      "Domates salçası",
+      "Kişniş",
+      "Kanola yağı",
+      "Kuru kekik",
+      "Esmer pirinç (pişmemiş)",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Esmer pirinci iki katı suda 30 dakika pişirin.",
+      "Soğan, biber ve sarımsağı ince doğrayıp kanola yağında 4 dakika soteleyin.",
+      "Salça ve kekiği karıştırın, küçük küp doğranmış balkabağı ve 200 ml suyu ekleyip 12 dakika pişirin.",
+      "Fasulyeyi ekleyip 8 dakika koyulaşana kadar pişirin ve balkabağını kısmen ezin.",
+      "Kişniş serpin ve pirincin yanında servis edin."
+    ]
+  },
+  {
+    "id": "rec_3655",
+    "title": "Revithada – Soğan, limon ve biberiyeli Sifnos usulü fırın nohut",
+    "ingredients": [
+      "Nohut (süzülmüş)",
+      "Soğan",
+      "Zeytinyağı",
+      "Limon suyu",
+      "Biberiye, defne",
+      "Sebze suyu",
+      "Maydanoz",
+      "Tam buğday ekmeği",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Fırını 180 °C sıcaklığa ısıtın ve soğanları ince halkalar halinde kesin.",
+      "Nohut, soğan, biberiye, defne, zeytinyağı ve sebze suyunu küçük bir fırın kabında karıştırıp tuzlayın.",
+      "Üzeri kapalı olarak fırında 45 dakika, soğanlar tamamen yumuşayana kadar pişirin.",
+      "Limon suyu, karabiber ve maydanozla tamamlayıp ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3656",
+    "title": "Nohutlu horiatiki – Light feta peyniri ve zeytinli Yunan köy salatası",
+    "ingredients": [
+      "Domates",
+      "Salatalık",
+      "Sarı biber",
+      "Kırmızı soğan",
+      "Zeytin",
+      "Light beyaz peynir (feta)",
+      "Nohut (süzülmüş)",
+      "Zeytinyağı",
+      "Kuru kekik",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Domatesleri dilimler, salatalığı kalın yarım aylar ve biberi halkalar halinde kesin.",
+      "Kırmızı soğanı ince halkalar halinde kesin ve nohut ve zeytinle birlikte sebzelere ekleyin.",
+      "Tuz, karabiber ve zeytinyağıyla tatlandırın.",
+      "Fetayı tek parça halinde üzerine koyun ve kekik serpin."
+    ]
+  },
+  {
+    "id": "rec_3657",
+    "title": "Potaje de garbanzos – Pazı, patates ve toz biberli İspanyol usulü nohut yahnisi",
+    "ingredients": [
+      "Nohut (süzülmüş)",
+      "Pazı",
+      "Patates (sert, haşlamalık)",
+      "Havuç",
+      "Soğan",
+      "Sarımsak",
+      "Tatlı toz biber",
+      "Defne, karabiber",
+      "Sebze suyu",
+      "Zeytinyağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğan, sarımsak ve havucu küp doğrayıp zeytinyağında 4 dakika soteleyin.",
+      "Toz biberi karıştırın, küp patates, defne ve sebze suyunu ekleyip 15 dakika pişirin.",
+      "Nohutu ve şeritler halinde kesilmiş pazıyı ekleyip 8 dakika pişirin.",
+      "Defneyi çıkarın, birkaç nohutu ezin ve tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3658",
+    "title": "Insalata di ceci – Portakal, rezene ve zeytinli Sicilya usulü nohut salatası",
+    "ingredients": [
+      "Nohut (süzülmüş)",
+      "Portakal",
+      "Rezene",
+      "Zeytin",
+      "Kırmızı soğan",
+      "Roka",
+      "Çam fıstığı",
+      "Zeytinyağı",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Portakalı soyun, dilimlerine ayırın ve suyunu toplayın.",
+      "Rezene ve kırmızı soğanı çok ince dilimleyin.",
+      "Portakal suyunu limon suyu, zeytinyağı, tuz ve karabiberle çırpın.",
+      "Nohut, rezene, soğan, zeytin ve rokayı sosla karıştırın, portakal dilimlerini ve kavrulmuş çam fıstığını üzerine dağıtın."
+    ]
+  },
+  {
+    "id": "rec_3659",
+    "title": "Maneštra – Patatesli İstria usulü fasulye, mısır ve sebze yahnisi",
+    "ingredients": [
+      "Barbunya fasulyesi (süzülmüş)",
+      "Mısır (süzülmüş)",
+      "Patates (sert, haşlamalık)",
+      "Havuç",
+      "Sap kereviz",
+      "Soğan",
+      "Sarımsak",
+      "Domates salçası",
+      "Sebze suyu",
+      "Zeytinyağı",
+      "Defne, karabiber",
+      "Maydanoz",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğan, sarımsak, havuç ve sap kerevizi küp doğrayıp zeytinyağında 5 dakika soteleyin.",
+      "Salçayı kısaca kavurun, küp patates, defne ve sebze suyunu ekleyip 15 dakika pişirin.",
+      "Barbunya ve mısırı ekleyip 10 dakika daha pişirin.",
+      "Fasulyenin bir kısmını ezin, tatlandırın ve maydanoz serpin."
+    ]
+  },
+  {
+    "id": "rec_3660",
+    "title": "Louvi – Pazı, limon ve zeytinyağlı Kıbrıs usulü börülce",
+    "ingredients": [
+      "Haşlanmış börülce",
+      "Pazı",
+      "Domates",
+      "Sarımsak",
+      "Limon suyu",
+      "Zeytinyağı",
+      "Tam buğday ekmeği",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Pazıyı yıkayın, saplarını parçalara ve yapraklarını geniş şeritlere kesin.",
+      "Pazı saplarını tuzlu suda 3 dakika haşlayın, yaprakları ekleyip 2 dakika daha pişirin ve süzün.",
+      "Börülceyi ısıtın ve pazı, küp domates ve kıyılmış sarımsakla karıştırın.",
+      "Limon suyu, zeytinyağı, tuz ve karabiberle tatlandırıp ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3661",
+    "title": "Kusksu – Bakla, bezelye ve ricottalı Malta usulü fasulyeli şehriye çorbası",
+    "ingredients": [
+      "Tam buğday arpa şehriye (pişmemiş)",
+      "Haşlanmış bakla",
+      "Bezelye (dondurulmuş)",
+      "Ricotta",
+      "Soğan",
+      "Domates salçası",
+      "Sebze suyu",
+      "Zeytinyağı",
+      "Maydanoz",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğanı ince doğrayıp zeytinyağında 4 dakika soteleyin, salçayı kısaca kavurun.",
+      "Sebze suyunu ekleyip kaynatın ve arpa şehriyeyi içinde 8 dakika pişirin.",
+      "Bakla ve bezelyeyi ekleyip 4 dakika pişirin.",
+      "Tatlandırın, ricottayı bir kaşık halinde üzerine koyun ve maydanoz serpin."
+    ]
+  },
+  {
+    "id": "rec_3662",
+    "title": "Keçi peyniri, roka ve cevizli Puy mercimeği salatası",
+    "ingredients": [
+      "Puy mercimeği (kuru)",
+      "Keçi peyniri (rulo)",
+      "Roka",
+      "Ceviz",
+      "Havuç",
+      "Kırmızı soğan",
+      "Maydanoz",
+      "Zeytinyağı",
+      "Limon suyu",
+      "Kekik",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Mercimeği kekikle birlikte bol suda 22 dakika diri kalacak şekilde haşlayıp süzün.",
+      "Havuç ve kırmızı soğanı çok ince doğrayın, maydanozu kıyın.",
+      "Ilık mercimeği sebzeler, maydanoz, limon suyu, zeytinyağı, tuz ve karabiberle karıştırın.",
+      "Rokanın üzerine yerleştirin, keçi peynirini ufalayın ve kavrulmuş ceviz serpin."
+    ]
+  },
+  {
+    "id": "rec_3663",
+    "title": "Nohut, çeri domates ve rokalı fregola",
+    "ingredients": [
+      "Fregola sarda",
+      "Nohut (süzülmüş)",
+      "Çeri domates",
+      "Roka",
+      "Soğan",
+      "Sarımsak",
+      "Zeytinyağı",
+      "Sebze suyu",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğanı ve sarımsağı doğrayıp zeytinyağında 3 dakika soteleyin.",
+      "Fregolayı ekleyip 2 dakika kavurun ve sebze suyunu azar azar ekleyerek risotto gibi 12 dakika pişirin.",
+      "İkiye bölünmüş çeri domates ve nohutu ekleyip 3 dakika pişirin.",
+      "Limon suyu, tuz ve karabiberle tatlandırın ve rokayı ekleyin."
+    ]
+  },
+  {
+    "id": "rec_3664",
+    "title": "Vegan maafe – Nohut, tatlı patates ve darılı Senegal usulü yer fıstığı yahnisi",
+    "ingredients": [
+      "Nohut (süzülmüş)",
+      "Tatlı patates",
+      "Fıstık ezmesi",
+      "Süzme domates",
+      "Soğan",
+      "Sarımsak",
+      "Zencefil",
+      "Sebze suyu",
+      "Darı (pişmemiş)",
+      "Acı biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Darıyı sıcak suyla durulayın ve 70 ml tuzlu suda 15 dakika pişirin.",
+      "Soğan, sarımsak ve zencefili doğrayın ve bir tencerede 3 yemek kaşığı sebze suyuyla 4 dakika soteleyin.",
+      "Tatlı patatesi küp doğrayın, domates, kalan sebze suyu ve acı biberle ekleyip 15 dakika pişirin.",
+      "Yer fıstığı ezmesini pürüzsüz olana kadar karıştırın, nohutu ekleyin ve 5 dakika koyulaşana kadar pişirin.",
+      "Tatlandırıp darıyla servis edin."
+    ]
+  },
+  {
+    "id": "rec_3665",
+    "title": "Ewa agoyin – Biber ve domates soslu Nijerya usulü börülce, tam buğday ekmeği ile",
+    "ingredients": [
+      "Haşlanmış börülce",
+      "Kırmızı biber",
+      "Domates",
+      "Soğan",
+      "Kanola yağı",
+      "Pul biber",
+      "Tam buğday ekmeği",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Börülceyi biraz su ve tuzla ısıtın ve çatalla iri ezin.",
+      "Biber, domates ve soğanın yarısını iri püre haline getirin.",
+      "Kalan soğanı halkalar halinde kesin ve kanola yağında 6 dakika koyu renk alana kadar kavurun, pul biberi ekleyin.",
+      "Püreyi ekleyip sos koyulaşana kadar 12 dakika pişirin ve tuzlayın.",
+      "Sosu fasulyenin üzerine dökün ve ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3666",
+    "title": "Mchuzi wa maharage – Esmer pirinçli Kenya usulü hindistan cevizli kırmızı fasulye körisi",
+    "ingredients": [
+      "Kırmızı fasulye (süzülmüş)",
+      "Light hindistan cevizi sütü",
+      "Domates",
+      "Soğan",
+      "Sarımsak",
+      "Kanola yağı",
+      "Köri tozu",
+      "Öğütülmüş zerdeçal",
+      "Kişniş",
+      "Esmer pirinç (pişmemiş)",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Esmer pirinci iki katı suda 30 dakika pişirin.",
+      "Soğan ve sarımsağı kanola yağında 4 dakika altın rengi olana kadar kavurun, köri tozu ve zerdeçalı karıştırın.",
+      "Domatesi küp doğrayıp ekleyin ve 5 dakika sos kıvamına gelene kadar pişirin.",
+      "Fasulye ve hindistan cevizi sütünü ekleyip 10 dakika kremamsı olana kadar pişirin.",
+      "Tatlandırın, kişniş serpin ve pirinçle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3667",
+    "title": "Moin moin – Domates salatalık salatalı Nijerya usulü buharda fasulye keki",
+    "ingredients": [
+      "Börülce (kuru)",
+      "Kırmızı biber",
+      "Soğan",
+      "Kanola yağı",
+      "Sebze suyu",
+      "Acı biber, zerdeçal",
+      "Domates",
+      "Salatalık",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Börülceyi 2 saat ıslatın, kabuklarını ovarak çıkarın ve durulayın.",
+      "Fasulyeyi biber, soğan, sebze suyu, kanola yağı, acı biber, zerdeçal ve tuzla çok ince püre haline getirin.",
+      "Karışımı 2 yağlanmış ısıya dayanıklı kalıba dökün, üzerini kapatın ve 45 dakika buharda pişirin.",
+      "Domates ve salatalığı küp doğrayın, limon suyu, tuz ve karabiberle karıştırın.",
+      "Fasulye keklerini kısa süre dinlendirin, kalıptan çıkarın ve salatayla servis edin."
+    ]
+  },
+  {
+    "id": "rec_3668",
+    "title": "Loubia – Kimyonlu domates soslu Fas usulü beyaz fasulye, tam buğday ekmeği ile",
+    "ingredients": [
+      "Beyaz fasulye (süzülmüş)",
+      "Doğranmış domates (konserve)",
+      "Soğan",
+      "Sarımsak",
+      "Zeytinyağı",
+      "Öğütülmüş kimyon",
+      "Tatlı toz biber",
+      "Kişniş, maydanoz",
+      "Tam buğday ekmeği",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğanı ve sarımsağı ince doğrayıp zeytinyağında 4 dakika soteleyin.",
+      "Kimyon ve toz biberi kısaca kavurun, domatesi ekleyip 8 dakika pişirin.",
+      "Fasulye ve 50 ml suyu ekleyip 10 dakika koyulaşana kadar pişirin.",
+      "Tatlandırın, otları serpin ve ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3669",
+    "title": "Matapa – Nohut ve pirinçli Mozambik usulü ıspanak, yer fıstığı ve hindistan cevizi yahnisi",
+    "ingredients": [
+      "Yaprak ıspanak",
+      "Yer fıstığı",
+      "Light hindistan cevizi sütü",
+      "Nohut (süzülmüş)",
+      "Soğan",
+      "Sarımsak",
+      "Basmati pirinç (pişmemiş)",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Basmati pirincini iki katı tuzlu suda 12 dakika pişirin.",
+      "Yer fıstıklarını ince öğütün, soğan ve sarımsağı doğrayın.",
+      "Soğan, sarımsak ve ıspanağı 50 ml suyla 5 dakika söndürün ve ince kıyın.",
+      "Öğütülmüş yer fıstığı, hindistan cevizi sütü ve nohutu ekleyip karıştırarak 10 dakika koyulaşana kadar pişirin.",
+      "Tuz ve karabiberle tatlandırıp pirinçle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3670",
+    "title": "Katogo – Domates soslu barbunya fasulyeli Uganda usulü pişirme muz",
+    "ingredients": [
+      "Pişirme muzu",
+      "Barbunya fasulyesi (süzülmüş)",
+      "Domates",
+      "Soğan",
+      "Yaprak ıspanak",
+      "Kanola yağı",
+      "Köri tozu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Pişirme muzunu soyun ve kalın dilimler halinde kesin.",
+      "Soğanı kanola yağında 4 dakika soteleyin, küp domates ve köri tozunu ekleyip 4 dakika pişirin.",
+      "Pişirme muzunu ve 150 ml suyu ekleyip kapağı kapalı 15 dakika yumuşayana kadar pişirin.",
+      "Fasulye ve ıspanağı ekleyip 4 dakika pişirin ve tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3671",
+    "title": "Adess – Havuç, kimyon ve tam buğday kuskuslu Fas usulü mercimek yahnisi",
+    "ingredients": [
+      "Yeşil mercimek (kuru)",
+      "Havuç",
+      "Süzme domates",
+      "Soğan",
+      "Sarımsak",
+      "Zeytinyağı",
+      "Öğütülmüş kimyon",
+      "Tatlı toz biber",
+      "Öğütülmüş zerdeçal",
+      "Tam buğday kuskus (pişmemiş)",
+      "Kişniş",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğanı ve sarımsağı doğrayıp zeytinyağında 3 dakika soteleyin, kimyon, toz biber ve zerdeçalı karıştırın.",
+      "Mercimek, küp havuç, domates ve 350 ml suyu ekleyip 25 dakika pişirin.",
+      "Kuskusun üzerine 70 ml kaynar tuzlu su dökün, 5 dakika şişmeye bırakın ve çatalla kabartın.",
+      "Yahniyi tatlandırın, kişniş serpin ve kuskusla servis edin."
+    ]
+  },
+  {
+    "id": "rec_3672",
+    "title": "Bob chorba – Naneli ve biberli Bulgar usulü fasulye çorbası",
+    "ingredients": [
+      "Beyaz fasulye (süzülmüş)",
+      "Havuç",
+      "Soğan",
+      "Kırmızı biber",
+      "Sap kereviz",
+      "Domates",
+      "Sebze suyu",
+      "Kanola yağı",
+      "Tatlı toz biber",
+      "Kuru nane",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğan, havuç, biber ve sap kerevizi küp doğrayıp kanola yağında 5 dakika soteleyin.",
+      "Toz biberi karıştırın, küp domates ve sebze suyunu ekleyip 10 dakika pişirin.",
+      "Fasulyeyi ekleyip 10 dakika daha pişirin.",
+      "Kuru naneyi karıştırın, tuz ve karabiberle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_3673",
+    "title": "Shchi – Beyaz fasulye ve dereotlu Rus usulü beyaz lahana çorbası",
+    "ingredients": [
+      "Beyaz lahana",
+      "Beyaz fasulye (süzülmüş)",
+      "Patates (sert, haşlamalık)",
+      "Havuç",
+      "Soğan",
+      "Domates salçası",
+      "Sebze suyu",
+      "Kanola yağı",
+      "Dereotu",
+      "Soya yoğurdu (şekersiz)",
+      "Defne, karabiber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğan ve havucu küp doğrayıp kanola yağında 4 dakika soteleyin, salçayı kısaca kavurun.",
+      "Beyaz lahanayı ince şeritler halinde kesin, küp patates, defne ve sebze suyuyla ekleyip 20 dakika pişirin.",
+      "Fasulyeyi ekleyip 5 dakika pişirin ve tatlandırın.",
+      "Bir kaşık soya yoğurdu ve kıyılmış dereotuyla servis edin."
+    ]
+  },
+  {
+    "id": "rec_3674",
+    "title": "Lencsefőzelék – Toz biber ve yumurtalı Macar usulü mercimek yemeği",
+    "ingredients": [
+      "Yeşil mercimek (kuru)",
+      "Soğan",
+      "Sarımsak",
+      "Tam buğday unu",
+      "Kanola yağı",
+      "Tatlı toz biber",
+      "Defne, karabiber",
+      "Sebze suyu",
+      "Limon suyu",
+      "Haşlanmış yumurta",
+      "Tam buğday ekmeği",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Mercimeği defneyle birlikte sebze suyunda 25 dakika yumuşayana kadar haşlayın.",
+      "Soğanı ince doğrayıp kanola yağında 4 dakika şeffaflaşana kadar soteleyin, sarımsak ve unu kısaca kavurun.",
+      "Toz biberi karıştırın, meyaneyi mercimeğe ekleyin ve 5 dakika koyulaşana kadar pişirin.",
+      "Limon suyu, tuz ve karabiberle tatlandırın ve defneyi çıkarın.",
+      "İkiye bölünmüş yumurta ve ekmekle servis edin."
+    ]
+  },
+  {
+    "id": "rec_3675",
+    "title": "Krupnik – Mantar ve beyaz fasulyeli Polonya usulü arpa çorbası",
+    "ingredients": [
+      "İnci arpa (pişmemiş)",
+      "Mantar",
+      "Havuç",
+      "Kök kereviz",
+      "Pırasa",
+      "Patates (sert, haşlamalık)",
+      "Beyaz fasulye (süzülmüş)",
+      "Sebze suyu",
+      "Kanola yağı",
+      "Dereotu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Mantarları dilimleyin ve kanola yağında 5 dakika kavurun.",
+      "Havuç, kök kereviz ve pırasayı küp doğrayın, ekleyip 3 dakika soteleyin.",
+      "Arpa ve sebze suyunu ekleyip 25 dakika pişirin, küp patatesi 10 dakika sonra ekleyin.",
+      "Fasulyeyi ekleyip 5 dakika ısıtın, tatlandırın ve dereotu serpin."
+    ]
+  },
+  {
+    "id": "rec_3676",
+    "title": "Ajapsandali – Kırmızı fasulye ve kişnişli Gürcü usulü patlıcanlı sebze yahnisi",
+    "ingredients": [
+      "Patlıcan",
+      "Kırmızı biber",
+      "Domates",
+      "Soğan",
+      "Sarımsak",
+      "Kırmızı fasulye (süzülmüş)",
+      "Patates (sert, haşlamalık)",
+      "Kişniş",
+      "Fesleğen",
+      "Zeytinyağı",
+      "Acı biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Patlıcan, biber, patates ve domatesi iri küpler halinde, soğanı dilimler halinde kesin.",
+      "Patlıcan ve soğanı zeytinyağında 6 dakika kavurun.",
+      "Biber, patates, domates ve 100 ml suyu ekleyip kapağı kapalı 20 dakika pişirin.",
+      "Fasulye, kıyılmış sarımsak ve acı biberi ekleyip 5 dakika pişirin.",
+      "Tuzla tatlandırın ve bol kişniş ve fesleğen serpin."
+    ]
   }
 ]
