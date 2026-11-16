@@ -83358,5 +83358,956 @@
       "Peel and slice the kiwi.",
       "Put the cream into a bowl and top with the kiwi and coconut chips."
     ]
+  },
+  {
+    "id": "rec_4227",
+    "title": "Cottage cheese plate with nectarine, blackberries and pumpkin seeds",
+    "ingredients": [
+      "Cottage cheese",
+      "Nectarine",
+      "Blackberries",
+      "Pumpkin seeds",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Wash and stone the nectarine and cut it into thin wedges, briefly rinse the blackberries.",
+      "Put the cottage cheese on a plate and arrange the fruit next to it.",
+      "Toast the pumpkin seeds in a dry pan for 2 minutes, scatter them over and dust with cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4228",
+    "title": "Smoked salmon and cucumber plate with skyr dill cream and crispbread",
+    "ingredients": [
+      "Smoked salmon",
+      "Skyr",
+      "Cucumber",
+      "Crispbread",
+      "Lemon juice",
+      "Dill, lemon zest, pepper"
+    ],
+    "instructions": [
+      "Stir the skyr with chopped dill, lemon juice, a little lemon zest and pepper until smooth.",
+      "Wash the cucumber and cut it into thin slices.",
+      "Arrange the loosely folded smoked salmon on a plate with the cucumber slices, skyr dill cream and the 2 crispbread slices."
+    ]
+  },
+  {
+    "id": "rec_4229",
+    "title": "Tomato and spinach scrambled eggs on rye bread",
+    "ingredients": [
+      "Eggs",
+      "Spinach",
+      "Tomato",
+      "Rye bread",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the tomato and whisk the eggs with salt and pepper.",
+      "Heat the oil in a pan and sweat the spinach and tomato for 2 minutes until the spinach wilts.",
+      "Pour in the eggs and let them set slowly over medium heat for 2 to 3 minutes into creamy scrambled eggs.",
+      "Toast the rye bread if you like and pile the scrambled eggs on top."
+    ]
+  },
+  {
+    "id": "rec_4230",
+    "title": "Soy yoghurt with plums, pea protein and walnuts",
+    "ingredients": [
+      "Soy yoghurt (plain, unsweetened)",
+      "Pea protein (unflavoured)",
+      "Plums",
+      "Walnuts",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Stir the soy yoghurt with the pea protein in a bowl until smooth.",
+      "Wash, halve and stone the plums.",
+      "Top the yoghurt with the plums and roughly broken walnuts and dust with cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4231",
+    "title": "Turkey breast avocado toast with radishes and cucumber",
+    "ingredients": [
+      "Wholemeal toast",
+      "Avocado",
+      "Sliced turkey breast",
+      "Radishes",
+      "Cucumber",
+      "Lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Toast the bread until golden.",
+      "Mash the avocado with the lemon juice, salt and pepper and spread it on both slices of toast.",
+      "Cut the radishes and cucumber into thin slices.",
+      "Lay the turkey breast on the avocado and top with the radish and cucumber slices."
+    ]
+  },
+  {
+    "id": "rec_4232",
+    "title": "Quark with grapefruit, orange and pistachios",
+    "ingredients": [
+      "Low-fat quark",
+      "Grapefruit",
+      "Orange",
+      "Pistachios",
+      "Honey",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Stir the quark with the vanilla and 2 tbsp water until creamy and spoon it into a bowl.",
+      "Peel the grapefruit and orange with a knife and cut out the segments between the membranes.",
+      "Lay the segments on the quark, chop the pistachios and scatter them over, then drizzle with the honey."
+    ]
+  },
+  {
+    "id": "rec_4233",
+    "title": "Tofu scramble with peppers and spring onions",
+    "ingredients": [
+      "Firm plain tofu",
+      "Red pepper",
+      "Spring onions",
+      "Cherry tomatoes",
+      "Rapeseed oil",
+      "Turmeric, kala namak",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the pepper, slice the spring onions into rings and halve the cherry tomatoes.",
+      "Heat the oil in a pan, fry the pepper and tomatoes for 3 minutes and push the tomatoes to the side.",
+      "Crumble in the tofu with your hands, season with turmeric, kala namak and pepper and fry for 4 minutes, stirring.",
+      "Fold in the spring onions and serve everything together on a plate."
+    ]
+  },
+  {
+    "id": "rec_4234",
+    "title": "Egg white omelette with mushrooms, cherry tomatoes and chives",
+    "ingredients": [
+      "Egg white",
+      "Egg",
+      "Mushrooms",
+      "Cherry tomatoes",
+      "Olive oil",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the mushrooms and halve the cherry tomatoes.",
+      "Heat the oil in a non-stick pan, fry the mushrooms for 3 minutes until golden, then remove.",
+      "Whisk the egg whites with the egg, salt and pepper, pour into the pan and let set over medium heat for 3 to 4 minutes.",
+      "Put the mushrooms on one half, fold the omelette over and serve with the tomatoes and chives."
+    ]
+  },
+  {
+    "id": "rec_4235",
+    "title": "Skyr with kiwi, banana and linseed",
+    "ingredients": [
+      "Skyr",
+      "Kiwi",
+      "Banana",
+      "Ground linseed"
+    ],
+    "instructions": [
+      "Stir the skyr until smooth and spoon it into a bowl.",
+      "Peel the kiwi and cut it into slices, and slice the banana too.",
+      "Arrange the fruit on the skyr and sprinkle with the linseed."
+    ]
+  },
+  {
+    "id": "rec_4236",
+    "title": "Cottage cheese crispbread with cucumber, tomato and chives",
+    "ingredients": [
+      "Crispbread",
+      "Cottage cheese",
+      "Cucumber",
+      "Tomato",
+      "Chives, pepper"
+    ],
+    "instructions": [
+      "Cut the cucumber and tomato into thin slices and snip the chives into fine rings.",
+      "Spread the cottage cheese evenly over the 3 crispbread slices.",
+      "Top with the cucumber and tomato, sprinkle with chives and pepper and eat straight away."
+    ]
+  },
+  {
+    "id": "rec_4237",
+    "title": "Chocolate protein porridge with raspberries",
+    "ingredients": [
+      "Rolled oats",
+      "Milk (1.5%)",
+      "Whey protein (chocolate)",
+      "Cocoa",
+      "Raspberries"
+    ],
+    "instructions": [
+      "Bring the oats and milk to the boil in a small pan and simmer for 3 to 4 minutes, stirring, until creamy.",
+      "Take the pan off the heat, stir in the protein powder and cocoa and loosen with a splash of water if needed.",
+      "Spoon into a bowl and top with the raspberries."
+    ]
+  },
+  {
+    "id": "rec_4238",
+    "title": "Fried eggs on wholegrain toast with avocado and cherry tomatoes",
+    "ingredients": [
+      "Wholemeal toast",
+      "Eggs",
+      "Avocado",
+      "Cherry tomatoes",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Heat the oil in a pan, crack in the 2 eggs and fry over medium heat for 3 to 4 minutes until the whites are set.",
+      "Meanwhile toast the bread and slice the avocado.",
+      "Halve the cherry tomatoes and season lightly with salt.",
+      "Top the toast with the avocado, place a fried egg on each slice, season with pepper and serve with the tomatoes."
+    ]
+  },
+  {
+    "id": "rec_4239",
+    "title": "Skyr with grated apple, cinnamon and hazelnuts",
+    "ingredients": [
+      "Skyr",
+      "Apple",
+      "Hazelnuts",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Wash, quarter and core the apple and coarsely grate it with the skin on.",
+      "Spoon the skyr into a bowl and spread the grated apple on top.",
+      "Roughly chop the hazelnuts, scatter them over and dust with cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4240",
+    "title": "Chicken breast slices on wholegrain bread with cucumber and pepper strips",
+    "ingredients": [
+      "Wholemeal bread",
+      "Light cream cheese",
+      "Sliced chicken breast",
+      "Cucumber",
+      "Red pepper",
+      "Chives, pepper"
+    ],
+    "instructions": [
+      "Spread the 2 slices of bread thinly with the cream cheese.",
+      "Slice the cucumber and cut the pepper into strips.",
+      "Top the bread with the chicken breast and cucumber, sprinkle with chives and pepper and serve with the pepper strips."
+    ]
+  },
+  {
+    "id": "rec_4241",
+    "title": "Caprese breakfast bread with egg",
+    "ingredients": [
+      "Egg",
+      "Wholemeal bread",
+      "Tomato",
+      "Light mozzarella",
+      "Olive oil",
+      "Balsamic vinegar",
+      "Basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Hard-boil the egg in boiling water for 8 minutes, cool under cold water and peel.",
+      "Meanwhile slice the tomato and mozzarella.",
+      "Top the bread with alternating tomato and mozzarella slices and lay the sliced egg on top.",
+      "Drizzle with the olive oil and balsamic vinegar, season with salt and pepper and top with basil."
+    ]
+  },
+  {
+    "id": "rec_4242",
+    "title": "Pistachio protein ice cream with skyr",
+    "ingredients": [
+      "Skyr",
+      "Pistachios",
+      "Banana",
+      "Honey",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Grind half of the pistachios very finely in a mini chopper, roughly chop the rest and set aside.",
+      "Blend the skyr, ground pistachios, banana, honey and vanilla until smooth.",
+      "Pour the mixture into a freezer-safe tub and freeze for at least 12 hours.",
+      "Let the block soften for 10 minutes, break it into pieces and blend in a food processor until creamy.",
+      "Spoon into a bowl and sprinkle with the chopped pistachios."
+    ]
+  },
+  {
+    "id": "rec_4243",
+    "title": "Peanut chocolate protein ice cream with banana",
+    "ingredients": [
+      "Banana",
+      "Soy yoghurt (plain, unsweetened)",
+      "Pea protein (unflavoured)",
+      "Peanut butter",
+      "Cocoa"
+    ],
+    "instructions": [
+      "Slice three quarters of the banana and freeze for at least 4 hours, keeping the rest for decoration.",
+      "Let the frozen banana soften for 5 minutes, then blend with the soy yoghurt, pea protein and cocoa in a food processor for 1 to 2 minutes until creamy.",
+      "Spoon into a bowl, swirl the slightly warmed peanut butter over the top and add the remaining banana slices."
+    ]
+  },
+  {
+    "id": "rec_4244",
+    "title": "Crispy air fryer broccoli florets with sriracha skyr dip",
+    "ingredients": [
+      "Broccoli",
+      "Olive oil",
+      "Nutritional yeast flakes",
+      "Skyr",
+      "Sriracha",
+      "Garlic powder, paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Divide the broccoli into small florets, wash and pat dry well.",
+      "Toss the florets with the oil, yeast flakes, garlic powder, paprika and salt.",
+      "Roast in the air fryer at 190 degrees for 10 to 12 minutes until crispy, shaking halfway through.",
+      "Stir the skyr with the sriracha and serve as a dip."
+    ]
+  },
+  {
+    "id": "rec_4245",
+    "title": "Air fryer halloumi fries with pomegranate and yoghurt mint dip",
+    "ingredients": [
+      "Halloumi",
+      "Cornflour",
+      "Pomegranate seeds",
+      "Yoghurt (1.5 % fat)",
+      "Mint, paprika"
+    ],
+    "instructions": [
+      "Cut the halloumi into finger-thick sticks, pat dry and dust all over with a thin layer of cornflour and paprika.",
+      "Cook in the air fryer at 200 degrees for 8 to 10 minutes until golden, turning halfway through.",
+      "Stir the yoghurt with finely chopped mint.",
+      "Arrange the halloumi fries, scatter with pomegranate seeds and mint and serve with the dip."
+    ]
+  },
+  {
+    "id": "rec_4246",
+    "title": "Air fryer chicken nuggets in almond crumb with yoghurt dip",
+    "ingredients": [
+      "Chicken breast",
+      "Egg white",
+      "Almond flour",
+      "Yoghurt (1.5 % fat)",
+      "Mustard",
+      "Paprika, garlic powder",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the chicken breast into about 8 bite-sized pieces and season with salt, paprika and garlic powder.",
+      "Dip the pieces first in the whisked egg white, then in the almond flour, pressing it on well.",
+      "Cook in the air fryer at 200 degrees for 10 to 12 minutes until golden and cooked through, turning halfway.",
+      "Stir the yoghurt with the mustard, salt and pepper and serve as a dip."
+    ]
+  },
+  {
+    "id": "rec_4247",
+    "title": "Green protein smoothie with spinach, pineapple and whey",
+    "ingredients": [
+      "Spinach",
+      "Pineapple",
+      "Banana",
+      "Whey protein (vanilla)",
+      "Water",
+      "Lime juice"
+    ],
+    "instructions": [
+      "Peel the pineapple and cut it into pieces, keeping a small wedge for the rim, and wash the spinach.",
+      "Put all the ingredients into a blender and blend for about 45 seconds until creamy.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_4248",
+    "title": "Coffee banana protein shake",
+    "ingredients": [
+      "Espresso (cooled)",
+      "Milk (1.5%)",
+      "Banana",
+      "Whey protein (vanilla)",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Make the espresso and let it cool completely, then peel the banana and break it into pieces.",
+      "Put all the ingredients into a blender and blend for about 45 seconds until creamy.",
+      "Pour into a large glass, dust with cinnamon and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_4249",
+    "title": "Blueberry beetroot smoothie with soy protein",
+    "ingredients": [
+      "Blueberries",
+      "Cooked beetroot",
+      "Soy drink (unsweetened)",
+      "Unsweetened soy protein",
+      "Banana"
+    ],
+    "instructions": [
+      "Roughly dice the beetroot and set aside a few blueberries for the top.",
+      "Put all the ingredients into a blender and blend for about 45 seconds until creamy.",
+      "Pour into a large glass, top with the reserved blueberries and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_4250",
+    "title": "Mango turmeric shake with skyr and ginger",
+    "ingredients": [
+      "Mango",
+      "Skyr",
+      "Milk (1.5%)",
+      "Ginger",
+      "Turmeric, black pepper"
+    ],
+    "instructions": [
+      "Peel the mango, cut the flesh off the stone and roughly dice it, then peel the ginger.",
+      "Put all the ingredients into a blender and blend for about 45 seconds until creamy.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_4251",
+    "title": "Mocha cream with silken tofu and orange segments",
+    "ingredients": [
+      "Silken tofu",
+      "Cocoa",
+      "Espresso (cooled)",
+      "Maple syrup",
+      "Unsweetened soy protein",
+      "Orange",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Drain the silken tofu and blend with the cocoa, espresso, maple syrup, soy protein and vanilla for 1 minute until smooth.",
+      "Spoon the cream into a dessert glass and chill for at least 30 minutes.",
+      "Peel the orange with a knife, cut out the segments and place them on the cream before serving."
+    ]
+  },
+  {
+    "id": "rec_4252",
+    "title": "Cheesecake quark cream with warm plum compote",
+    "ingredients": [
+      "Low-fat quark",
+      "Lemon juice",
+      "Honey",
+      "Plums",
+      "Vanilla, lemon zest (organic)",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Stir the quark with the lemon juice, lemon zest, vanilla and half of the honey until creamy and spoon into a dessert glass.",
+      "Stone and quarter the plums and simmer with 2 tbsp water, the remaining honey and the cinnamon for 5 to 6 minutes until soft.",
+      "Spoon the warm compote over the quark cream and serve straight away."
+    ]
+  },
+  {
+    "id": "rec_4253",
+    "title": "Air fryer pear with cinnamon walnut crumble and skyr",
+    "ingredients": [
+      "Pear",
+      "Rolled oats",
+      "Walnuts",
+      "Maple syrup",
+      "Skyr",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Halve the pear lengthwise and scoop out the core with a spoon.",
+      "Mix the oats, chopped walnuts, maple syrup and cinnamon and press into the pear halves.",
+      "Bake in the air fryer at 180 degrees for 12 to 14 minutes until the pear is soft and the crumble golden.",
+      "Serve with the skyr and dust with a little cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4254",
+    "title": "Air fryer edamame with chilli lime salt",
+    "ingredients": [
+      "Shelled edamame (frozen)",
+      "Olive oil",
+      "Lime",
+      "Chilli flakes, lime zest (organic)",
+      "Sea salt"
+    ],
+    "instructions": [
+      "Thaw the edamame and pat them thoroughly dry.",
+      "Toss with the oil and roast in the air fryer at 200 degrees for 12 to 14 minutes until crispy, shaking 2 times.",
+      "Mix the lime zest with the sea salt and chilli flakes, sprinkle over the hot edamame and serve with a lime wedge."
+    ]
+  },
+  {
+    "id": "rec_4255",
+    "title": "Mango coconut frozen yoghurt bark with raspberries",
+    "ingredients": [
+      "Skyr",
+      "Maple syrup",
+      "Mango",
+      "Raspberries",
+      "Desiccated coconut",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Stir the skyr with the maple syrup and vanilla until smooth and spread about 1 cm thick on a small board lined with baking paper.",
+      "Cut the mango into small cubes and scatter over with the raspberries and desiccated coconut, pressing lightly.",
+      "Freeze for at least 3 hours, then break into irregular pieces and enjoy straight away."
+    ]
+  },
+  {
+    "id": "rec_4256",
+    "title": "Cottage cheese cherry ice cream with almonds",
+    "ingredients": [
+      "Cottage cheese",
+      "Cherries (frozen, pitted)",
+      "Maple syrup",
+      "Almonds",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Blend the cottage cheese with the maple syrup, vanilla and two thirds of the cherries until very smooth, then roughly chop the remaining cherries and fold them in.",
+      "Pour the mixture into a freezer-safe tub and freeze for at least 12 hours.",
+      "Let the block soften for 10 minutes, break it into pieces and blend in a food processor until creamy.",
+      "Spoon into a bowl and sprinkle with chopped almonds."
+    ]
+  },
+  {
+    "id": "rec_4257",
+    "title": "Beef burrito bowl with paprika rice and pinto beans",
+    "ingredients": [
+      "Basmati rice",
+      "Lean minced beef",
+      "Pinto beans (drained)",
+      "Red pepper",
+      "Sweetcorn (drained)",
+      "Tomato",
+      "Cheddar",
+      "Olive oil",
+      "Smoked paprika, cumin",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the rice to the boil with 1 tsp paprika and twice its volume of water and cook covered for 12 minutes.",
+      "Fry the beef mince in hot oil until crumbly, season with cumin, paprika, salt and pepper and cook through for 6 to 8 minutes.",
+      "Warm the pinto beans and sweetcorn in a small pan and dice the pepper and tomato.",
+      "Arrange the rice, mince, beans, sweetcorn and vegetables side by side in a large bowl and sprinkle with grated cheddar and coriander."
+    ]
+  },
+  {
+    "id": "rec_4258",
+    "title": "Salmon with mashed sweet potato and broccoli",
+    "ingredients": [
+      "Salmon fillet",
+      "Sweet potato",
+      "Broccoli",
+      "Milk (1.5%)",
+      "Olive oil",
+      "Nutmeg, dill",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel and dice the sweet potato and boil in salted water for 12 to 15 minutes until soft.",
+      "Divide the broccoli into florets and steam above the pan for the last 5 minutes.",
+      "Salt the salmon and fry in hot oil skin side down for 4 minutes, then 2 to 3 minutes on the other side until cooked.",
+      "Drain the sweet potato, mash with the warm milk, nutmeg, salt and pepper and serve with the salmon and broccoli."
+    ]
+  },
+  {
+    "id": "rec_4259",
+    "title": "Chicken penne with tomato cottage cheese sauce and spinach",
+    "ingredients": [
+      "Wholewheat penne (uncooked)",
+      "Chicken breast",
+      "Passata",
+      "Cottage cheese",
+      "Spinach",
+      "Onion",
+      "Garlic",
+      "Olive oil",
+      "Oregano, basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the penne in salted water until al dente according to the packet instructions.",
+      "Salt the chicken breast and fry in half of the oil for 5 to 6 minutes on each side until cooked through, then slice.",
+      "Sweat the onion and garlic in the remaining oil, add the passata and oregano and simmer for 5 minutes, then stir in the cottage cheese and blend until smooth.",
+      "Let the spinach wilt in the sauce, toss in the penne and serve topped with the chicken and basil."
+    ]
+  },
+  {
+    "id": "rec_4260",
+    "title": "Turkey stroganoff with mushrooms, gherkin and brown rice",
+    "ingredients": [
+      "Brown rice",
+      "Turkey breast, sliced into strips",
+      "Mushrooms",
+      "Onion",
+      "Pickled gherkin",
+      "Sour cream (10% fat)",
+      "Mustard",
+      "Rapeseed oil",
+      "Sweet paprika, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the brown rice in salted water according to the packet instructions for 25 minutes.",
+      "Sear the turkey strips in half of the oil for 4 to 5 minutes until cooked through, season with salt and remove.",
+      "Fry the onion and mushrooms in the remaining oil for 5 minutes, stir in the paprika, mustard, soured cream and 50 ml water and bring briefly to the boil.",
+      "Fold in the turkey and the gherkin cut into strips, season to taste and serve with the rice and parsley."
+    ]
+  },
+  {
+    "id": "rec_4261",
+    "title": "Beef steak with roast potatoes, herb quark and green beans",
+    "ingredients": [
+      "Waxy potatoes",
+      "Beef steak",
+      "Green beans",
+      "Low-fat quark",
+      "Olive oil",
+      "Chives, parsley",
+      "Rosemary, paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Wash the potatoes, cut into wedges, toss with half of the oil, rosemary, paprika and salt and bake at 220 degrees for 30 to 35 minutes until golden.",
+      "Stir the quark with the chopped herbs, salt, pepper and 1 tbsp water until creamy.",
+      "Cook the green beans in salted water for 7 to 8 minutes.",
+      "Pat the steak dry and fry in the remaining oil for 3 to 4 minutes on each side, rest for 5 minutes, season and serve sliced with the potatoes, beans and quark."
+    ]
+  },
+  {
+    "id": "rec_4262",
+    "title": "Lentil ragout with wholewheat spaghetti, aubergine and feta",
+    "ingredients": [
+      "Brown lentils (dry)",
+      "Wholemeal pasta (uncooked)",
+      "Aubergine",
+      "Passata",
+      "Onion",
+      "Garlic",
+      "Feta",
+      "Olive oil",
+      "Oregano, basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the lentils to the boil with 300 ml water and simmer for 20 minutes until just tender.",
+      "Dice the aubergine and fry with the onion and garlic in the oil for 6 to 8 minutes.",
+      "Add the passata, lentils and oregano, season with salt and pepper and simmer for 10 minutes until thick.",
+      "Cook the spaghetti according to the packet instructions, top with the ragout and sprinkle with crumbled feta and basil."
+    ]
+  },
+  {
+    "id": "rec_4263",
+    "title": "Tuna steak with wild rice, mango salsa and edamame",
+    "ingredients": [
+      "Wild rice",
+      "Tuna steak",
+      "Mango",
+      "Red onion",
+      "Lime juice",
+      "Shelled edamame (frozen)",
+      "Olive oil",
+      "Coriander, chilli",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the wild rice in salted water according to the packet for 25 to 30 minutes, adding the edamame for the last 4 minutes.",
+      "Finely dice the mango and red onion and mix with the lime juice, half of the oil, chopped coriander, chilli and salt to make the salsa.",
+      "Pat the tuna dry, season and sear in the remaining oil for 1 to 2 minutes on each side so it stays pink inside.",
+      "Slice the tuna and serve with the wild rice, edamame and mango salsa."
+    ]
+  },
+  {
+    "id": "rec_4264",
+    "title": "Chicken thigh peanut curry with basmati",
+    "ingredients": [
+      "Basmati rice",
+      "Chicken thighs (skinless, boneless)",
+      "Peanut butter",
+      "Light coconut milk",
+      "Red pepper",
+      "Spinach",
+      "Curry paste (vegan)",
+      "Onion",
+      "Unsalted peanuts",
+      "Coriander"
+    ],
+    "instructions": [
+      "Bring the basmati rice to the boil with twice its volume of salted water and cook covered for 12 minutes.",
+      "Dice the chicken thighs and brown with the onion in a pan without oil for 5 minutes, then briefly fry the curry paste with them.",
+      "Add the coconut milk, peanut butter, 100 ml water and pepper strips and simmer for 10 minutes until the meat is cooked through.",
+      "Stir in the spinach until wilted and serve the curry with the rice, chopped peanuts and coriander."
+    ]
+  },
+  {
+    "id": "rec_4265",
+    "title": "Green shakshuka with chickpeas, feta and wholegrain bread",
+    "ingredients": [
+      "Eggs",
+      "Chickpeas (drained)",
+      "Spinach",
+      "Courgette",
+      "Spring onions",
+      "Feta",
+      "Wholemeal bread",
+      "Olive oil",
+      "Cumin, chilli flakes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the zucchini, slice the spring onions into rings and fry both in the oil in a pan for 4 minutes.",
+      "Add the chickpeas and cumin, wilt the spinach in batches, and season with salt and pepper.",
+      "Make three wells, crack in the 3 eggs and cook covered over low heat for 6 to 8 minutes until the whites are set.",
+      "Sprinkle with crumbled feta and chilli flakes and serve with the wholegrain bread."
+    ]
+  },
+  {
+    "id": "rec_4266",
+    "title": "Tempeh peanut bowl with rice and edamame",
+    "ingredients": [
+      "Brown rice",
+      "Tempeh",
+      "Shelled edamame (frozen)",
+      "Peanut butter",
+      "Tamari (gluten-free)",
+      "Carrot",
+      "Cucumber",
+      "Lime juice",
+      "Toasted sesame oil",
+      "Sesame, chilli"
+    ],
+    "instructions": [
+      "Cook the brown rice according to the packet for 25 minutes, adding the edamame for the last 4 minutes.",
+      "Cut the tempeh into cubes, mix with half of the tamari and fry in the sesame oil for 6 to 8 minutes until golden.",
+      "Stir the peanut butter with the remaining tamari, lime juice, chilli and 2 tbsp warm water into a sauce.",
+      "Cut the carrot into fine strips and the cucumber into slices and arrange everything with the rice, tempeh and edamame in a bowl, topped with the sauce and sesame."
+    ]
+  },
+  {
+    "id": "rec_4267",
+    "title": "Chicken bulgur box with peppers, parsley and lemon tahini",
+    "ingredients": [
+      "Bulgur",
+      "Chicken breast",
+      "Red pepper",
+      "Cucumber",
+      "Flat-leaf parsley",
+      "Tahini",
+      "Lemon juice",
+      "Olive oil",
+      "Cumin, paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Pour 120 ml boiling salted water over the bulgur and leave covered to swell for 15 minutes.",
+      "Season the chicken breast with cumin, paprika and salt, fry in the oil for 5 to 6 minutes on each side until cooked through and slice.",
+      "Dice the pepper and cucumber, chop the parsley and mix with the bulgur, then stir the tahini with the lemon juice and 2 tbsp water until smooth.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 4 days.",
+      "Take the dressing separately in a small screw-top jar.",
+      "Eat cold straight from the container, mixing in the dressing just before eating."
+    ]
+  },
+  {
+    "id": "rec_4268",
+    "title": "Yellow split pea dal with carrots and basmati",
+    "ingredients": [
+      "Yellow split peas (dry)",
+      "Carrots",
+      "Onion",
+      "Garlic",
+      "Passata",
+      "Light coconut milk",
+      "Basmati rice",
+      "Rapeseed oil",
+      "Turmeric, cumin, garam masala",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse the split peas and bring to the boil with 400 ml water and the turmeric, then simmer for 35 to 40 minutes until soft.",
+      "Fry the onion, garlic and diced carrots in the oil with the cumin and garam masala for 5 minutes, add the passata and coconut milk, stir into the dal and simmer for another 10 minutes.",
+      "Bring the basmati rice to the boil with twice its volume of salted water and cook covered for 12 minutes.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 4 days.",
+      "To eat, reheat covered in the microwave for 2 to 3 minutes until piping hot, stirring once.",
+      "Sprinkle with fresh coriander before eating."
+    ]
+  },
+  {
+    "id": "rec_4269",
+    "title": "Turkey taco box with rice, sweetcorn and bean salad",
+    "ingredients": [
+      "Basmati rice",
+      "Minced turkey",
+      "Kidney beans (drained)",
+      "Sweetcorn (drained)",
+      "Red pepper",
+      "Tomato",
+      "Lime juice",
+      "Yoghurt (1.5 % fat)",
+      "Olive oil",
+      "Cumin, chilli, oregano, garlic",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the rice to the boil with twice its volume of salted water and cook covered for 12 minutes.",
+      "Fry the turkey mince in the oil until crumbly, season with cumin, chilli, oregano, garlic and salt and cook through for 6 to 8 minutes.",
+      "Dice the pepper and tomato and mix with the beans, sweetcorn, lime juice, salt and pepper into a bean salad.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 4 days.",
+      "Take the yoghurt separately in a small screw-top jar.",
+      "Reheat the rice and turkey in the microwave for 2 minutes until piping hot, eat the bean salad cold alongside and top with the yoghurt."
+    ]
+  },
+  {
+    "id": "rec_4270",
+    "title": "Lentil salad with feta, beetroot and walnuts",
+    "ingredients": [
+      "Beluga lentils (dry)",
+      "Cooked beetroot",
+      "Feta",
+      "Walnuts",
+      "Rocket",
+      "Apple cider vinegar",
+      "Olive oil",
+      "Mustard",
+      "Thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the beluga lentils in plenty of water for 20 to 25 minutes until just tender, drain and let cool.",
+      "Whisk the cider vinegar, mustard, oil, thyme, salt and pepper into a dressing and mix it into the lentils.",
+      "Dice the beetroot and fold it in, then roughly crumble the feta and walnuts over the top.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 4 days.",
+      "Pack the rocket separately and mix it in just before eating, then enjoy cold."
+    ]
+  },
+  {
+    "id": "rec_4271",
+    "title": "Soba noodle salad with salmon, edamame and sesame",
+    "ingredients": [
+      "Soba noodles (uncooked)",
+      "Salmon fillet",
+      "Shelled edamame (frozen)",
+      "Cucumber",
+      "Carrot",
+      "Soy sauce",
+      "Rice vinegar",
+      "Toasted sesame oil",
+      "Sesame seeds",
+      "Ginger, chilli"
+    ],
+    "instructions": [
+      "Bake the salmon at 180 degrees for 12 to 15 minutes until cooked, let cool and flake into large pieces.",
+      "Cook the soba noodles according to the packet, adding the edamame for the last 3 minutes, then rinse everything under cold water.",
+      "Cut the cucumber and carrot into fine strips, stir the soy sauce, rice vinegar, sesame oil, grated ginger and chilli together and toss with the noodles and vegetables.",
+      "Lay the salmon on top and sprinkle with sesame seeds.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 3 days.",
+      "Eat cold straight from the container."
+    ]
+  },
+  {
+    "id": "rec_4272",
+    "title": "Salmon with spinach cream cheese sauce and zucchini",
+    "ingredients": [
+      "Salmon fillet",
+      "Spinach",
+      "Full-fat cream cheese",
+      "Whipping cream (30% fat)",
+      "Courgette",
+      "Olive oil",
+      "Garlic",
+      "Nutmeg, lemon zest",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the zucchini into half-moons and fry in half of the oil for 6 to 8 minutes until golden, season with salt and keep warm.",
+      "Salt the salmon and fry in the remaining oil skin side down for 4 minutes, then 2 to 3 minutes on the other side until cooked.",
+      "Finely chop the garlic and wilt it with the spinach in the pan, stir in the cream cheese and cream and simmer with nutmeg, lemon zest, salt and pepper for 2 minutes until creamy.",
+      "Spoon the sauce onto a plate, place the salmon on top and serve with the zucchini."
+    ]
+  },
+  {
+    "id": "rec_4273",
+    "title": "Chicken thighs with lemon garlic butter and asparagus",
+    "ingredients": [
+      "Chicken thighs with skin (boneless)",
+      "Butter",
+      "Green asparagus",
+      "Lemon juice",
+      "Garlic",
+      "Thyme, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Season the chicken thighs with salt and pepper and lay them skin side down in a cold pan, then fry over medium heat for 12 minutes until crisp.",
+      "Turn and fry for another 6 to 8 minutes until the meat is cooked through.",
+      "Fry the asparagus in the pan juices next to the meat for 5 to 6 minutes.",
+      "Let the butter foam briefly with the chopped garlic, thyme and lemon juice, pour over the meat and asparagus and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_4274",
+    "title": "Grilled halloumi with zucchini, olives and mint oil",
+    "ingredients": [
+      "Halloumi",
+      "Courgette",
+      "Black olives",
+      "Olive oil",
+      "Rocket",
+      "Lemon juice",
+      "Mint",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the zucchini lengthwise, brush with a third of the oil and cook in a grill pan for 2 to 3 minutes on each side.",
+      "Cut the halloumi into 4 slices and grill without oil for 2 minutes on each side until golden.",
+      "Finely chop the mint and stir with the remaining oil, lemon juice and a pinch of salt into a mint oil.",
+      "Arrange the zucchini, halloumi, olives and rocket and drizzle with the mint oil."
+    ]
+  },
+  {
+    "id": "rec_4275",
+    "title": "Beef and broccoli skillet with cheddar and spring onions",
+    "ingredients": [
+      "Lean minced beef",
+      "Broccoli",
+      "Cheddar",
+      "Whipping cream (30% fat)",
+      "Spring onions",
+      "Olive oil",
+      "Smoked paprika, garlic powder",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Divide the broccoli into small florets, pre-cook in a little salted water for 3 minutes and drain.",
+      "Fry the beef mince in the oil in an ovenproof pan until crumbly, season with paprika, garlic powder, salt and pepper and cook through for 6 to 8 minutes.",
+      "Fold in the broccoli and cream, scatter the grated cheddar over and let it melt covered for 2 to 3 minutes.",
+      "Sprinkle with spring onion rings and serve in the pan."
+    ]
+  },
+  {
+    "id": "rec_4276",
+    "title": "Yellow tofu curry with coconut and cauliflower rice",
+    "ingredients": [
+      "Firm plain tofu",
+      "Coconut milk (full-fat)",
+      "Finely grated cauliflower",
+      "Coconut oil",
+      "Lime juice",
+      "Turmeric, cumin, ginger",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Pat the tofu dry, dice it and fry in half of the coconut oil for 8 to 10 minutes until golden all over, then season with salt.",
+      "Briefly toast the turmeric, cumin and ginger with it, pour in the coconut milk and simmer for 5 minutes until thick, then season with the lime juice.",
+      "Fry the cauliflower in the remaining coconut oil in a second pan for 4 to 5 minutes and season with salt.",
+      "Serve the curry next to the cauliflower rice and sprinkle with coriander."
+    ]
   }
 ]
