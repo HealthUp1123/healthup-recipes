@@ -94489,5 +94489,1024 @@
       "Fry the skewers in a dry griddle pan for 8 minutes, turning.",
       "Stir the parsley, garlic, oil, apple cider vinegar, pea protein, oregano, chilli flakes and 2 tbsp water into a chimichurri and spoon over the skewers."
     ]
+  },
+  {
+    "id": "rec_4777",
+    "title": "Parsnip and pear cream soup with roasted chickpeas",
+    "ingredients": [
+      "Parsnip",
+      "Pear",
+      "Onion",
+      "Vegetable stock",
+      "Chickpeas (drained)",
+      "Olive oil",
+      "Pumpkin seeds",
+      "Smoked paprika, thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C. Pat the chickpeas dry, toss with half of the oil and the paprika and roast for 20 minutes until crispy.",
+      "Peel and dice the parsnips and pear, chop the onion and sweat in the remaining oil for 3 minutes.",
+      "Add the parsnips and pear, pour in the stock and simmer covered for 15 minutes until soft.",
+      "Blend until smooth, season with salt, pepper and thyme and serve sprinkled with the chickpeas and pumpkin seeds."
+    ]
+  },
+  {
+    "id": "rec_4778",
+    "title": "Sweet potato and black bean soup with avocado and cumin",
+    "ingredients": [
+      "Black beans (drained)",
+      "Sweet potato",
+      "Passata",
+      "Onion",
+      "Garlic",
+      "Vegetable stock",
+      "Avocado",
+      "Lime",
+      "Olive oil",
+      "Cumin, chilli",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Chop the onion and garlic and sweat in the oil for 3 minutes, briefly toasting the cumin and chilli with them.",
+      "Peel and dice the sweet potato, add with the tomatoes and stock and simmer for 12 minutes.",
+      "Add the beans, simmer for 5 more minutes and roughly blend a third of the soup so it becomes thick.",
+      "Season with salt and pepper and serve with diced avocado, coriander and a lime wedge."
+    ]
+  },
+  {
+    "id": "rec_4779",
+    "title": "Beetroot and lentil stew with horseradish yoghurt and dill",
+    "ingredients": [
+      "Beetroot (raw)",
+      "Brown lentils (dry)",
+      "Carrot",
+      "Onion",
+      "Vegetable stock",
+      "Yoghurt (1.5%)",
+      "Horseradish (freshly grated)",
+      "Olive oil",
+      "Caraway, dill",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel and dice the beetroot and carrot, chop the onion and sweat in the oil for 3 minutes.",
+      "Add the vegetables, lentils, caraway and stock and simmer covered for 25 minutes until the lentils and beetroot are tender.",
+      "Stir the yoghurt with the horseradish and a pinch of salt.",
+      "Season the stew with salt and pepper and serve with a dollop of horseradish yoghurt and dill."
+    ]
+  },
+  {
+    "id": "rec_4780",
+    "title": "Chicken and wild rice soup with mushrooms and thyme",
+    "ingredients": [
+      "Chicken breast",
+      "Wild rice",
+      "Mushrooms",
+      "Carrot",
+      "Celery",
+      "Leek",
+      "Chicken stock",
+      "Olive oil",
+      "Thyme, bay leaf",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the wild rice to the boil in the stock with the bay leaf and simmer covered for 20 minutes.",
+      "Slice the carrot, celery and leek, quarter the mushrooms and fry in the oil for 4 minutes.",
+      "Add the vegetables and the whole chicken breast to the soup and simmer gently for 15 minutes until the chicken is cooked through.",
+      "Remove the chicken, shred with two forks, return to the pan and season with thyme, salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_4781",
+    "title": "Brussels sprout winter salad with beluga lentils, apple and walnuts",
+    "ingredients": [
+      "Brussels sprouts",
+      "Beluga lentils (dry)",
+      "Apple (red)",
+      "Walnuts",
+      "Olive oil",
+      "Apple cider vinegar",
+      "Medium-hot mustard",
+      "Maple syrup",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the beluga lentils in plenty of water for 20 minutes until al dente, drain and let cool.",
+      "Trim the Brussels sprouts and shave into fine strips with a sharp knife or mandoline and cut the apple into thin wedges.",
+      "Whisk the oil, vinegar, mustard, maple syrup, salt and pepper and massage into the Brussels sprouts for 1 minute.",
+      "Fold in the lentils and apple and serve sprinkled with roughly chopped walnuts."
+    ]
+  },
+  {
+    "id": "rec_4782",
+    "title": "Kale winter salad with roasted sweet potato, pomegranate and feta",
+    "ingredients": [
+      "Kale (fresh)",
+      "Sweet potato",
+      "Chickpeas (drained)",
+      "Pomegranate seeds",
+      "Feta",
+      "Olive oil",
+      "Lemon juice",
+      "Cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 210 °C. Dice the sweet potato, toss with half of the oil and the cumin and roast for 25 minutes.",
+      "Strip the kale from the stalks, tear into small pieces and massage with the remaining oil, lemon juice and salt for 2 minutes until soft.",
+      "Fold the chickpeas and warm sweet potato into the kale and season with pepper.",
+      "Serve sprinkled with pomegranate seeds and crumbled feta."
+    ]
+  },
+  {
+    "id": "rec_4783",
+    "title": "Red cabbage and orange salad with chicken breast and pecans",
+    "ingredients": [
+      "Chicken breast",
+      "Red cabbage",
+      "Orange",
+      "Lamb's lettuce",
+      "Pecans",
+      "Olive oil",
+      "Apple cider vinegar",
+      "Medium-hot mustard",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely shred the red cabbage and massage with the vinegar, half of the oil and salt for 2 minutes.",
+      "Salt the chicken breast and fry in the remaining oil for 5 to 6 minutes on each side until cooked through, then slice.",
+      "Segment the orange, catch the juice and mix it into the red cabbage with the mustard and pepper.",
+      "Arrange the red cabbage with the lamb's lettuce and orange segments, top with the chicken and sprinkle with pecans."
+    ]
+  },
+  {
+    "id": "rec_4784",
+    "title": "Fennel and cannellini soup with lemon zest",
+    "ingredients": [
+      "White beans (cannellini, drained)",
+      "Fennel",
+      "Onion",
+      "Garlic",
+      "Vegetable stock",
+      "Lemon (juice and zest)",
+      "Olive oil",
+      "Rosemary",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Trim the fennel, set the fronds aside and chop the bulb. Chop the onion and garlic.",
+      "Sweat the onion, garlic and fennel in half of the oil with the rosemary for 5 minutes.",
+      "Add the beans and stock and simmer for 15 minutes, then blend two thirds of the soup until creamy.",
+      "Season with lemon juice, salt and pepper and serve with lemon zest, fennel fronds and the remaining oil."
+    ]
+  },
+  {
+    "id": "rec_4785",
+    "title": "Coconut fish soup with cod, sweet potato and spinach",
+    "ingredients": [
+      "Cod fillet",
+      "Sweet potato",
+      "Spinach",
+      "Light coconut milk",
+      "Vegetable stock",
+      "Ginger (fresh)",
+      "Onion",
+      "Lime",
+      "Turmeric, chilli",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely chop the onion and ginger and sweat with the turmeric in a pan with 2 tbsp of the stock for 2 minutes.",
+      "Dice the sweet potato, add with the stock and coconut milk and simmer for 10 minutes.",
+      "Cut the cod into large pieces, add to the soup and poach for 5 minutes, adding the spinach for the last minute.",
+      "Season with salt and lime juice and serve with chilli, coriander and a lime wedge."
+    ]
+  },
+  {
+    "id": "rec_4786",
+    "title": "Beef and swede stew with carrots and marjoram",
+    "ingredients": [
+      "Beef (shoulder, lean)",
+      "Rutabaga",
+      "Carrot",
+      "Potato (waxy)",
+      "Onion",
+      "Beef stock",
+      "Rapeseed oil",
+      "Marjoram, bay leaf",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the beef into cubes and brown well all over in the oil for 5 minutes, briefly frying the chopped onion with it.",
+      "Pour in the stock, add the bay leaf and braise covered for 50 minutes.",
+      "Peel and dice the swede, carrot and potato, add and cook for another 25 minutes until everything is tender.",
+      "Season with marjoram, salt and pepper and serve sprinkled with parsley."
+    ]
+  },
+  {
+    "id": "rec_4787",
+    "title": "Jerusalem artichoke and chestnut soup with hazelnuts and thyme",
+    "ingredients": [
+      "Jerusalem artichoke",
+      "Chestnuts (pre-cooked)",
+      "Onion",
+      "Vegetable stock",
+      "Soy drink (unsweetened)",
+      "Hazelnuts",
+      "Olive oil",
+      "Thyme, nutmeg",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Scrub or peel the Jerusalem artichokes thoroughly and slice, chop the onion.",
+      "Sweat the onion in the oil for 3 minutes, add the Jerusalem artichokes and 50 g of the chestnuts, pour in the stock and simmer for 20 minutes until soft.",
+      "Add the soy drink and blend everything until smooth, then season with nutmeg, thyme, salt and pepper.",
+      "Roughly chop the hazelnuts and remaining chestnuts, toast in a dry pan for 2 minutes and sprinkle over the soup."
+    ]
+  },
+  {
+    "id": "rec_4788",
+    "title": "Celeriac and apple cream soup with lupin beans and chives",
+    "ingredients": [
+      "Celeriac",
+      "Apple (green)",
+      "Lupins (cooked)",
+      "Onion",
+      "Vegetable stock",
+      "Soy drink (unsweetened)",
+      "Olive oil",
+      "Chives, nutmeg",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel and dice the celeriac, dice 100 g of the apple and cut the rest into fine matchsticks. Chop the onion.",
+      "Sweat the onion in the oil for 3 minutes, add the celeriac and diced apple, pour in the stock and simmer for 20 minutes until soft.",
+      "Add the soy drink and half of the lupin beans and blend everything very smoothly, then season with nutmeg, salt and pepper.",
+      "Serve topped with the remaining lupin beans, apple matchsticks and chives."
+    ]
+  },
+  {
+    "id": "rec_4789",
+    "title": "Chana saag with ginger, tomatoes and brown rice",
+    "ingredients": [
+      "Chickpeas (drained)",
+      "Spinach",
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Ginger (fresh)",
+      "Brown rice",
+      "Rapeseed oil",
+      "Garam masala, cumin, turmeric",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the brown rice to the boil with twice its volume of water and cook covered for 30 minutes.",
+      "Chop the onion, garlic and half of the ginger and fry in the oil for 4 minutes, toasting the spices with them for 1 minute.",
+      "Dice the tomato and add with the spinach, let wilt and roughly blend with a splash of water.",
+      "Add the chickpeas, simmer for 8 minutes, season with salt and serve with the rice, the remaining ginger strips and coriander."
+    ]
+  },
+  {
+    "id": "rec_4790",
+    "title": "Squash and bean tacos with red cabbage lime slaw",
+    "ingredients": [
+      "Corn tortillas (small)",
+      "Hokkaido pumpkin",
+      "Black beans (drained)",
+      "Red cabbage",
+      "Avocado",
+      "Lime",
+      "Olive oil",
+      "Cumin, smoked paprika, chilli",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 210 °C. Dice the squash, toss with half of the oil and the spices and roast for 20 minutes.",
+      "Finely shred the red cabbage and massage with the juice of half a lime, the remaining oil and salt.",
+      "Warm the beans in a small pan and lightly mash, and warm the tortillas in a dry pan for 30 seconds on each side.",
+      "Fill the tortillas with beans, squash, red cabbage slaw, avocado slices and coriander and serve with a lime wedge."
+    ]
+  },
+  {
+    "id": "rec_4791",
+    "title": "Freekeh tabbouleh with pomegranate, cucumber and chickpeas",
+    "ingredients": [
+      "Uncooked freekeh",
+      "Chickpeas (drained)",
+      "Cucumber",
+      "Tomato",
+      "Pomegranate seeds",
+      "Flat-leaf parsley",
+      "Lemon juice",
+      "Olive oil",
+      "Mint, sumac",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the freekeh to the boil with three times its volume of salted water and simmer for 20 minutes, then drain and let cool.",
+      "Finely dice the cucumber and tomato and chop the parsley and mint.",
+      "Stir together the lemon juice, oil, sumac, salt and pepper.",
+      "Mix the freekeh, chickpeas, vegetables and herbs with the dressing and serve sprinkled with pomegranate seeds."
+    ]
+  },
+  {
+    "id": "rec_4792",
+    "title": "Kabocha nimono with adzuki beans, tofu and brown rice",
+    "ingredients": [
+      "Kabocha squash",
+      "Adzuki beans (cooked)",
+      "Firm plain tofu",
+      "Brown rice",
+      "Tamari (gluten-free)",
+      "Ginger (fresh)",
+      "Maple syrup",
+      "Sesame seeds",
+      "Spring onion",
+      "Water"
+    ],
+    "instructions": [
+      "Bring the brown rice to the boil with twice its volume of water and cook covered for 30 minutes.",
+      "Deseed the squash and cut into wedges with the skin on, cut the ginger into thin strips and dice the tofu.",
+      "Bring the water, tamari, maple syrup and ginger to the boil, add the squash and simmer gently covered for 12 minutes.",
+      "Add the adzuki beans and tofu, let them simmer for 5 minutes and serve with the rice, sesame and spring onion rings."
+    ]
+  },
+  {
+    "id": "rec_4793",
+    "title": "Azifa – Ethiopian lentil salad with mustard, green chilli and tomato",
+    "ingredients": [
+      "Brown lentils (dry)",
+      "Red onion",
+      "Tomato",
+      "Green chilli",
+      "Medium-hot mustard",
+      "Lemon (juice and zest)",
+      "Olive oil",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the lentils in plenty of water for 20 to 25 minutes until al dente, drain and let cool until lukewarm.",
+      "Finely dice the onion and tomato, cut the chilli into thin rings and chop the parsley.",
+      "Whisk together the mustard, lemon juice, oil, salt and pepper.",
+      "Mix the lentils with the vegetables, chilli and dressing, leave to marinate for 10 minutes and serve with a lemon wedge."
+    ]
+  },
+  {
+    "id": "rec_4794",
+    "title": "Fasolakia – Greek green beans with white beans, tomatoes and feta",
+    "ingredients": [
+      "Green beans",
+      "White beans (drained)",
+      "Potato (waxy)",
+      "Passata",
+      "Onion",
+      "Garlic",
+      "Feta",
+      "Olive oil",
+      "Dill, oregano",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Chop the onion and garlic and sweat in the oil for 4 minutes.",
+      "Trim and halve the green beans, dice the potato and add both with the tomatoes, oregano and 100 ml water.",
+      "Braise covered for 25 minutes until the beans and potato are tender, adding the white beans for the last 5 minutes.",
+      "Season with salt and pepper and serve with crumbled feta and dill."
+    ]
+  },
+  {
+    "id": "rec_4795",
+    "title": "Urad dal with kidney beans, yoghurt and brown rice",
+    "ingredients": [
+      "Urad beans (black lentils, dry)",
+      "Kidney beans (drained)",
+      "Passata",
+      "Onion",
+      "Garlic",
+      "Ginger (fresh)",
+      "Yoghurt (1.5%)",
+      "Brown rice",
+      "Butter",
+      "Garam masala, cumin, chilli",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Soak the urad beans overnight, drain and cook in fresh water for 35 minutes until soft. Cook the brown rice for 30 minutes alongside.",
+      "Chop the onion, garlic and ginger and fry in the butter for 4 minutes, toasting the spices with them for 1 minute.",
+      "Add the tomatoes, urad beans and kidney beans and simmer for 10 minutes until creamy, mashing some of the beans.",
+      "Season with salt and serve with a dollop of yoghurt, coriander and the rice."
+    ]
+  },
+  {
+    "id": "rec_4796",
+    "title": "Maghmour – Lebanese eggplant and chickpea stew with bulgur",
+    "ingredients": [
+      "Aubergine",
+      "Chickpeas (drained)",
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Bulgur (uncooked)",
+      "Olive oil",
+      "Mint, allspice, cinnamon",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the eggplant into large cubes, salt and fry all over in the oil for 6 minutes.",
+      "Chop the onion and garlic, add with the allspice and cinnamon and fry for 2 minutes.",
+      "Dice the tomatoes, add with the chickpeas and 100 ml water and braise covered for 25 minutes.",
+      "Pour 100 ml boiling salted water over the bulgur and leave to swell for 10 minutes, then serve with the stew and mint."
+    ]
+  },
+  {
+    "id": "rec_4797",
+    "title": "Tinga de pollo with black beans and brown rice",
+    "ingredients": [
+      "Chicken breast",
+      "Black beans (drained)",
+      "Passata",
+      "Onion",
+      "Garlic",
+      "Brown rice",
+      "Avocado",
+      "Rapeseed oil",
+      "Chipotle, oregano, cumin",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the brown rice to the boil with twice its volume of water and cook covered for 30 minutes.",
+      "Poach the chicken breast in lightly salted water for 15 minutes until cooked through, then shred with two forks.",
+      "Slice the onion and fry with the garlic in the oil for 4 minutes, add the tomatoes, chipotle, oregano and cumin and simmer for 5 minutes.",
+      "Warm the chicken in the sauce, heat the beans separately and arrange everything with the rice, diced avocado and coriander."
+    ]
+  },
+  {
+    "id": "rec_4798",
+    "title": "Sri Lankan style pumpkin and lentil curry with curry leaves and brown rice",
+    "ingredients": [
+      "Red lentils (dry)",
+      "Hokkaido pumpkin",
+      "Spinach",
+      "Light coconut milk",
+      "Onion",
+      "Garlic",
+      "Brown rice",
+      "Rapeseed oil",
+      "Curry leaves, turmeric, cumin, chilli flakes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the brown rice to the boil with twice its volume of water and cook covered for 30 minutes.",
+      "Chop the onion and garlic and fry with the curry leaves, turmeric and cumin in the oil for 3 minutes.",
+      "Dice the pumpkin, add with the lentils, coconut milk and 250 ml water and simmer for 15 minutes until the lentils and pumpkin are soft.",
+      "Stir in the spinach, season with salt and serve the curry with the rice and chilli flakes."
+    ]
+  },
+  {
+    "id": "rec_4799",
+    "title": "Overnight oats with pear, cardamom and walnuts",
+    "ingredients": [
+      "Rolled oats",
+      "Skyr",
+      "Milk (1.5%)",
+      "Pear",
+      "Walnuts",
+      "Cardamom, cinnamon"
+    ],
+    "instructions": [
+      "Stir the oats, skyr, milk and cardamom together in a jar and refrigerate covered overnight.",
+      "In the morning wash, core and finely dice the pear.",
+      "Top the oats with the pear and sprinkle with roughly chopped walnuts and cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4800",
+    "title": "Chickpea flour pancake with courgette and cherry tomatoes",
+    "ingredients": [
+      "Chickpea flour",
+      "Courgette",
+      "Cherry tomatoes",
+      "Spring onion",
+      "Soy yoghurt (plain, unsweetened)",
+      "Rapeseed oil",
+      "Water",
+      "Turmeric, cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Whisk the chickpea flour with the water, turmeric, cumin and salt until smooth and stir in the coarsely grated courgette.",
+      "Spread the batter in the hot oil in a non-stick pan and cook for 3 minutes on each side until golden brown.",
+      "Halve the cherry tomatoes and slice the spring onion into rings.",
+      "Serve the pancake with the tomatoes, spring onion, a dollop of soy yoghurt and pepper."
+    ]
+  },
+  {
+    "id": "rec_4801",
+    "title": "Persimmon cinnamon quark with puffed quinoa and pecans",
+    "ingredients": [
+      "Low-fat quark",
+      "Persimmon",
+      "Puffed quinoa",
+      "Pecans",
+      "Milk (1.5%)",
+      "Cinnamon, vanilla"
+    ],
+    "instructions": [
+      "Stir the quark with the milk, vanilla and a pinch of cinnamon until smooth and spoon into a bowl.",
+      "Wash the persimmon, remove the stalk and cut into thin wedges.",
+      "Arrange the persimmon wedges, puffed quinoa and pecans on the quark and dust with cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4802",
+    "title": "Salmon scrambled eggs on pumpernickel with chives",
+    "ingredients": [
+      "Eggs",
+      "Smoked salmon",
+      "Pumpernickel",
+      "Cucumber",
+      "Olive oil",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Whisk the eggs with salt and pepper and cook in the oil over medium heat for 3 minutes, stirring, until creamy and set.",
+      "Slice the cucumber thinly and cut the chives into fine rolls.",
+      "Spoon the scrambled eggs onto the pumpernickel slices, top with the salmon, sprinkle with chives and serve with the cucumber slices."
+    ]
+  },
+  {
+    "id": "rec_4803",
+    "title": "Skyr bowl with pomegranate, mandarin and hazelnuts",
+    "ingredients": [
+      "Skyr",
+      "Mandarins",
+      "Pomegranate seeds",
+      "Hazelnuts",
+      "Honey"
+    ],
+    "instructions": [
+      "Stir the skyr until smooth and spoon into a bowl.",
+      "Peel the mandarins and divide into segments, then roughly chop the hazelnuts.",
+      "Arrange the mandarins, pomegranate seeds and hazelnuts on the skyr and drizzle with honey."
+    ]
+  },
+  {
+    "id": "rec_4804",
+    "title": "Smoked tofu scramble on bread with cherry tomatoes and chives",
+    "ingredients": [
+      "Smoked tofu",
+      "Wholemeal bread",
+      "Cherry tomatoes",
+      "Rapeseed oil",
+      "Turmeric, chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Crumble the smoked tofu coarsely with a fork.",
+      "Fry in the hot oil with the turmeric, salt and pepper for 4 minutes, stirring, until golden yellow.",
+      "Halve the cherry tomatoes and toast the bread if you like.",
+      "Spoon the scramble onto the bread, top with the tomatoes and sprinkle with chives."
+    ]
+  },
+  {
+    "id": "rec_4805",
+    "title": "Cottage cheese and pear toast with walnuts and honey",
+    "ingredients": [
+      "Wholemeal toast",
+      "Cottage cheese",
+      "Pear",
+      "Walnuts",
+      "Honey",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Toast the bread slices until golden brown.",
+      "Core the pear and slice thinly, then chop the walnuts.",
+      "Spread the toast with cottage cheese, top with the pear slices, sprinkle with walnuts and cinnamon and drizzle with honey."
+    ]
+  },
+  {
+    "id": "rec_4806",
+    "title": "Pepper and feta omelette with baby spinach and oregano",
+    "ingredients": [
+      "Eggs",
+      "Feta",
+      "Baby spinach",
+      "Red pepper",
+      "Olive oil",
+      "Oregano",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely dice the pepper and fry in the oil in a non-stick pan for 2 minutes, then add the spinach and let it wilt.",
+      "Whisk the eggs with the oregano, salt and pepper, pour over the vegetables and cook over medium heat for 3 minutes until set.",
+      "Crumble the feta over it, fold the omelette and serve straight away."
+    ]
+  },
+  {
+    "id": "rec_4807",
+    "title": "Protein semolina pudding with sour cherries and cinnamon",
+    "ingredients": [
+      "Durum wheat semolina",
+      "Milk (1.5%)",
+      "Low-fat quark",
+      "Sour cherries (jar, drained)",
+      "Maple syrup",
+      "Cinnamon, vanilla"
+    ],
+    "instructions": [
+      "Bring the milk to the boil with the vanilla, sprinkle in the semolina and simmer for 3 minutes, stirring, until thick.",
+      "Take the pan off the heat and stir in the quark and maple syrup until smooth.",
+      "Spoon into a bowl, top with the sour cherries and dust with cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4808",
+    "title": "Millet porridge with cinnamon apple, almonds and soy drink",
+    "ingredients": [
+      "Millet flakes",
+      "Soy drink (unsweetened)",
+      "Pea protein (unflavoured)",
+      "Apple",
+      "Flaked almonds",
+      "Maple syrup",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Bring the millet flakes to the boil with the soy drink and simmer for 4 minutes, stirring, until creamy.",
+      "Take off the heat and stir in the pea protein until smooth.",
+      "Dice the apple and meanwhile steam in a small pan with cinnamon and 1 tbsp water for 3 minutes until soft.",
+      "Spoon the porridge into a bowl, top with the cinnamon apple and flaked almonds and drizzle with maple syrup."
+    ]
+  },
+  {
+    "id": "rec_4809",
+    "title": "Baked apple quark ice cream with flaked almonds",
+    "ingredients": [
+      "Low-fat quark",
+      "Apple",
+      "Honey",
+      "Flaked almonds",
+      "Cinnamon, vanilla"
+    ],
+    "instructions": [
+      "Core and dice the apple and bake with cinnamon in a small dish at 200 °C for 15 minutes until soft, then let cool.",
+      "Blend two thirds of the baked apple with the quark, honey and vanilla until smooth and fold in the rest.",
+      "Pour the mixture into a freezer-safe tub and freeze for at least 12 hours.",
+      "Let the block soften for 10 minutes, break it into pieces and blend in a food processor until creamy.",
+      "Scoop into a bowl and sprinkle with toasted flaked almonds and cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4810",
+    "title": "Carrot and mandarin smoothie with soy skyr and turmeric",
+    "ingredients": [
+      "Carrot",
+      "Mandarins",
+      "Plain soy skyr",
+      "Ginger (fresh)",
+      "Water",
+      "Turmeric"
+    ],
+    "instructions": [
+      "Peel and roughly chop the carrot and peel the mandarins.",
+      "Put all the ingredients into a blender and blend for about 45 seconds until creamy.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_4811",
+    "title": "Air fryer Brussels sprouts with parmesan and lemon",
+    "ingredients": [
+      "Brussels sprouts",
+      "Olive oil",
+      "Vegetarian hard cheese (parmesan style)",
+      "Lemon (juice and zest)",
+      "Garlic powder",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Trim and halve the Brussels sprouts and toss with the oil, garlic powder, salt and pepper.",
+      "Roast in the air fryer at 190 °C for 12 to 14 minutes until crispy, shaking halfway through.",
+      "Drizzle with lemon juice while hot and sprinkle with finely grated hard cheese and lemon zest."
+    ]
+  },
+  {
+    "id": "rec_4812",
+    "title": "Air fryer plum crumble with walnuts",
+    "ingredients": [
+      "Plums",
+      "Rolled oats",
+      "Walnuts",
+      "Maple syrup",
+      "Rapeseed oil",
+      "Skyr",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Halve and stone the plums and place cut side up in a small air fryer safe dish.",
+      "Rub the oats, chopped walnuts, maple syrup, oil and cinnamon together into a crumble and scatter over the plums.",
+      "Bake in the air fryer at 180 °C for 10 to 12 minutes until the crumble is golden brown.",
+      "Let cool briefly and serve with a dollop of skyr and cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4813",
+    "title": "Chestnut cocoa cream with silken tofu and dark chocolate shavings",
+    "ingredients": [
+      "Silken tofu",
+      "Chestnuts (pre-cooked)",
+      "Unsweetened cocoa powder",
+      "Maple syrup",
+      "Dark chocolate (85%)",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Set one chestnut aside and roughly chop the rest.",
+      "Drain the silken tofu and blend with the chestnuts, cocoa, maple syrup and vanilla until very smooth and airy.",
+      "Spoon into a dessert glass and chill for at least 30 minutes.",
+      "Garnish with grated chocolate and the whole chestnut."
+    ]
+  },
+  {
+    "id": "rec_4814",
+    "title": "Mandarin frozen yoghurt made with skyr and pistachios",
+    "ingredients": [
+      "Skyr",
+      "Mandarins",
+      "Honey",
+      "Pistachios (chopped)",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Peel the mandarins, set two segments aside and blend the rest with the skyr, honey and vanilla until smooth.",
+      "Pour the mixture into a freezer-safe tub and freeze for at least 12 hours.",
+      "Let the block soften for 10 minutes, break it into pieces and blend in a food processor until creamy.",
+      "Scoop into a bowl and garnish with the pistachios and mandarin segments."
+    ]
+  },
+  {
+    "id": "rec_4815",
+    "title": "Green kiwi spinach shake with pea protein",
+    "ingredients": [
+      "Kiwi",
+      "Baby spinach",
+      "Banana",
+      "Soy drink (unsweetened)",
+      "Pea protein (unflavoured)"
+    ],
+    "instructions": [
+      "Peel the kiwis and cut into pieces, setting one thin slice aside for the rim of the glass.",
+      "Put all the ingredients into a blender and blend for about 45 seconds until creamy.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_4816",
+    "title": "Gingerbread chia pudding with orange segments and almonds",
+    "ingredients": [
+      "Chia seeds",
+      "Soy yoghurt (plain, unsweetened)",
+      "Soy drink (unsweetened)",
+      "Orange (segments)",
+      "Flaked almonds",
+      "Maple syrup",
+      "Gingerbread spice, cinnamon"
+    ],
+    "instructions": [
+      "Stir together the chia seeds, soy yoghurt, soy drink, maple syrup and gingerbread spice, leave to swell for 5 minutes and stir again.",
+      "Pour into a glass and leave to set in the fridge for at least 2 hours or overnight.",
+      "Segment the orange, arrange the segments on the pudding and sprinkle with flaked almonds and cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4817",
+    "title": "Creamy cheddar broccoli soup with chicken strips",
+    "ingredients": [
+      "Broccoli",
+      "Chicken breast",
+      "Cheddar",
+      "Whipping cream (30% fat)",
+      "Chicken stock",
+      "Butter",
+      "Nutmeg",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Poach the chicken breast in the stock for 15 minutes until cooked through, then remove and pull into thin strips.",
+      "Divide the broccoli into florets, set a few small ones aside, sweat the rest in the butter for 2 minutes and cook in the stock for 8 minutes until soft.",
+      "Add the cream, blend until smooth, stir in half of the grated cheddar and cook the remaining florets in it for 3 minutes.",
+      "Add the chicken strips, season with nutmeg, salt and pepper and serve sprinkled with the remaining cheddar."
+    ]
+  },
+  {
+    "id": "rec_4818",
+    "title": "Duck breast with Brussels sprouts and walnut butter",
+    "ingredients": [
+      "Duck breast (skin on)",
+      "Brussels sprouts",
+      "Walnuts",
+      "Butter",
+      "Thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Score the duck skin in a diamond pattern, salt and place skin side down in a cold pan, heat slowly and fry for 8 minutes until crispy.",
+      "Turn over, fry for another 4 minutes and leave to rest in foil for 5 minutes.",
+      "Halve the Brussels sprouts and fry in the duck fat for 6 minutes until golden, add the butter, chopped walnuts and thyme and toss for 1 minute.",
+      "Slice the duck breast, season with pepper and serve with the walnut Brussels sprouts."
+    ]
+  },
+  {
+    "id": "rec_4819",
+    "title": "Trout with almond butter, spinach and cauliflower purée",
+    "ingredients": [
+      "Trout fillet (skin on)",
+      "Cauliflower",
+      "Spinach",
+      "Flaked almonds",
+      "Butter",
+      "Whipping cream (30% fat)",
+      "Garlic",
+      "Nutmeg, lemon zest",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Divide the cauliflower into florets, boil in salted water for 12 minutes until soft, drain and blend smoothly with the cream, nutmeg and salt.",
+      "Wilt the spinach with the chopped garlic in a pan for 2 minutes and season with salt.",
+      "Salt the trout and fry in half of the butter skin side down for 4 minutes, then 1 minute on the other side until cooked.",
+      "Foam the remaining butter with the almonds until golden, pour over the trout with the lemon zest and serve with the purée and spinach."
+    ]
+  },
+  {
+    "id": "rec_4820",
+    "title": "Shirataki noodles with tofu, baby pak choi and peanut sauce",
+    "ingredients": [
+      "Shirataki noodles, drained",
+      "Firm plain tofu",
+      "Baby pak choi",
+      "Peanut butter (unsweetened)",
+      "Peanuts (roasted, unsalted)",
+      "Tamari (gluten-free)",
+      "Rapeseed oil",
+      "Toasted sesame oil",
+      "Lime",
+      "Chilli, ginger"
+    ],
+    "instructions": [
+      "Rinse the shirataki noodles thoroughly and dry-fry in a pan without fat for 3 minutes, then remove.",
+      "Dice the tofu and fry in the rapeseed oil for 6 minutes until golden all over, frying the halved pak choi with it for 2 minutes.",
+      "Stir the peanut butter with the tamari, sesame oil, ginger, lime juice and 3 tbsp warm water until smooth.",
+      "Add the noodles and sauce to the pan, toss briefly and serve with chopped peanuts, chilli and a lime wedge."
+    ]
+  },
+  {
+    "id": "rec_4821",
+    "title": "Lamb fillet with rosemary butter and creamed savoy cabbage",
+    "ingredients": [
+      "Lamb fillet",
+      "Savoy cabbage",
+      "Whipping cream (30% fat)",
+      "Butter",
+      "Pine nuts",
+      "Garlic",
+      "Rosemary, nutmeg",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the savoy cabbage into thin strips, sweat in a third of the butter for 3 minutes, add the cream and braise covered for 8 minutes until soft, then season with nutmeg, salt and pepper.",
+      "Toast the pine nuts in a dry pan for 2 minutes until golden and set aside.",
+      "Salt the lamb fillet and fry all over in a third of the butter for 6 to 8 minutes until pink inside, then leave to rest for 3 minutes.",
+      "Foam the remaining butter with the chopped garlic and rosemary, slice the lamb, drizzle with the rosemary butter and serve with the creamed cabbage and pine nuts."
+    ]
+  },
+  {
+    "id": "rec_4822",
+    "title": "Meal prep box with tikka chicken, chickpea rice and cucumber salad",
+    "ingredients": [
+      "Chicken breast",
+      "Yoghurt (1.5%)",
+      "Brown rice",
+      "Chickpeas (drained)",
+      "Cucumber",
+      "Tomato",
+      "Rapeseed oil",
+      "Tikka spice, garlic",
+      "Mint",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the chicken breast and marinate with 30 g of the yoghurt, tikka spice, garlic and salt for at least 15 minutes. Cook the brown rice for 30 minutes alongside.",
+      "Fry the chicken in the hot oil for 8 to 10 minutes until well browned all over and cooked through.",
+      "Mix the chickpeas into the rice, dice the cucumber and tomato and stir the remaining yoghurt with mint and salt.",
+      "Pack the chicken, chickpea rice and cucumber salad side by side into a container and spoon the mint yoghurt on top.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 3 days.",
+      "At the office eat cold or reheat covered in the microwave for 2 to 3 minutes until piping hot."
+    ]
+  },
+  {
+    "id": "rec_4823",
+    "title": "Meal prep box with beef kofta, bulgur and cucumber tomato salad",
+    "ingredients": [
+      "Lean minced beef",
+      "Bulgur (uncooked)",
+      "Cucumber",
+      "Tomato",
+      "Red onion",
+      "Yoghurt (1.5%)",
+      "Olive oil",
+      "Cumin, paprika, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Knead the beef mince with some of the finely chopped onion, cumin, paprika, salt and pepper and shape into 4 oblong kofta.",
+      "Fry the kofta in the oil on all sides for 8 to 10 minutes until cooked through.",
+      "Pour 120 ml boiling salted water over the bulgur, leave to swell for 10 minutes and mix with parsley.",
+      "Dice the cucumber, tomato and remaining onion, pack everything into a container and spoon the yoghurt on top.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 3 days.",
+      "At the office eat cold or reheat covered in the microwave for 2 to 3 minutes until piping hot."
+    ]
+  },
+  {
+    "id": "rec_4824",
+    "title": "Meal prep box with teriyaki glazed tempeh, buckwheat and carrot broccoli",
+    "ingredients": [
+      "Tempeh",
+      "Buckwheat (whole)",
+      "Broccoli",
+      "Carrot",
+      "Tamari (gluten-free)",
+      "Maple syrup",
+      "Ginger (fresh)",
+      "Rapeseed oil",
+      "Sesame seeds"
+    ],
+    "instructions": [
+      "Bring the buckwheat to the boil with twice its volume of salted water and cook covered for 12 minutes.",
+      "Divide the broccoli into florets, cut the carrot into thin strips and steam both for 4 minutes.",
+      "Slice the tempeh and fry in the oil for 3 minutes on each side, add the tamari, maple syrup and grated ginger and glaze for 1 minute.",
+      "Pack the tempeh, buckwheat and vegetables side by side into a container and sprinkle with sesame.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 4 days.",
+      "To eat, reheat covered in the microwave for 2 to 3 minutes until piping hot, stirring once."
+    ]
+  },
+  {
+    "id": "rec_4825",
+    "title": "Meal prep box with salmon, quinoa, beetroot and lamb's lettuce",
+    "ingredients": [
+      "Salmon fillet",
+      "Quinoa (uncooked)",
+      "Beetroot (pre-cooked)",
+      "Lamb's lettuce",
+      "Walnuts",
+      "Olive oil",
+      "Apple cider vinegar",
+      "Medium-hot mustard",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse the quinoa with hot water and simmer with twice its volume of salted water for 12 minutes, then let the steam escape.",
+      "Salt the salmon and bake in the oven at 200 °C for 12 to 14 minutes until cooked.",
+      "Dice the beetroot and stir the oil, vinegar, mustard, salt and pepper into a dressing and pour into a small screw-top jar.",
+      "Pack the salmon, quinoa, beetroot, lamb's lettuce and walnuts side by side into a container.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 3 days.",
+      "Eat cold straight from the container, mixing in the dressing just before eating."
+    ]
+  },
+  {
+    "id": "rec_4826",
+    "title": "Meal prep box with turkey mince chili and roasted sweet potato",
+    "ingredients": [
+      "Minced turkey",
+      "Black beans (drained)",
+      "Sweet potato",
+      "Passata",
+      "Red pepper",
+      "Sweetcorn (drained)",
+      "Onion",
+      "Rapeseed oil",
+      "Cumin, smoked paprika, chilli",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 210 °C. Dice the sweet potato, toss with half of the oil and salt and roast for 25 minutes.",
+      "Fry the turkey mince with the chopped onion in the remaining oil for 6 minutes until crumbly and cooked through, briefly toasting the spices with it.",
+      "Dice the pepper and add with the tomatoes, beans and sweetcorn, simmer for 15 minutes until thick and season.",
+      "Pack the chili and sweet potato side by side into a container and sprinkle with coriander.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 4 days.",
+      "To eat, reheat covered in the microwave for 2 to 3 minutes until piping hot, stirring once."
+    ]
   }
 ]
