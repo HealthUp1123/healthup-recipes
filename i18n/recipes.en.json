@@ -97458,5 +97458,1023 @@
       "Crumble the tofu coarsely with your hands, add it to the pan with the turmeric and nutritional yeast and fry for 5 minutes, turning.",
       "Warm the halved cherry tomatoes through for 1 minute, season with kala namak and pepper and sprinkle with spring onion."
     ]
+  },
+  {
+    "id": "rec_4927",
+    "title": "Teriyaki salmon bowl with jasmine rice, edamame and cucumber",
+    "ingredients": [
+      "Salmon fillet (skinless)",
+      "Jasmine rice (uncooked)",
+      "Shelled edamame (frozen)",
+      "Cucumber",
+      "Soy sauce",
+      "Honey",
+      "Ginger (fresh)",
+      "Sesame seeds",
+      "Spring onions"
+    ],
+    "instructions": [
+      "Cook the rice according to the packet instructions for about 15 minutes, adding the edamame for the last 4 minutes.",
+      "Stir the soy sauce, honey and grated ginger with 2 tbsp of water.",
+      "Cut the salmon into cubes, fry in a non-stick pan for 5 minutes on all sides, pour in the sauce and glaze for 1 minute.",
+      "Put the rice and edamame into a bowl, arrange the salmon and cucumber slices on top and sprinkle with sesame and spring onions."
+    ]
+  },
+  {
+    "id": "rec_4928",
+    "title": "Chicken and egg fried rice with peas, carrot and spring onions",
+    "ingredients": [
+      "Chicken breast",
+      "Jasmine rice (uncooked)",
+      "Eggs",
+      "Peas (frozen)",
+      "Carrot",
+      "Soy sauce",
+      "Rapeseed oil",
+      "Spring onions",
+      "Ginger (fresh)",
+      "Garlic"
+    ],
+    "instructions": [
+      "Cook the rice according to the packet instructions for about 15 minutes, spread it on a plate and let it cool, or use rice from the day before.",
+      "Dice the chicken and fry in 5 g of the oil for 5 minutes until cooked through, then remove.",
+      "Heat the remaining oil, fry the diced carrot, peas, ginger and garlic for 3 minutes, add the rice and stir-fry vigorously for 3 minutes.",
+      "Push the rice to the side, add the beaten eggs to the centre and let them set, then mix in the chicken and soy sauce and sprinkle with spring onions."
+    ]
+  },
+  {
+    "id": "rec_4929",
+    "title": "Peri-peri chicken breast with rosemary potatoes and corn and pepper salad",
+    "ingredients": [
+      "Chicken breast",
+      "Waxy potatoes",
+      "Sweetcorn (drained)",
+      "Red pepper",
+      "Red onion",
+      "Lime",
+      "Olive oil",
+      "Smoked paprika, chilli flakes, garlic powder",
+      "Rosemary",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 210 °C. Quarter the potatoes, toss with 5 g of the oil, rosemary and salt and roast for 35 minutes.",
+      "Rub the chicken with 5 g of the oil, paprika, chilli flakes, garlic powder and salt and add it to the potatoes on the tray after 15 minutes, baking for 20 minutes until cooked through.",
+      "Finely dice the pepper and onion and mix with the corn, lime juice, remaining oil, salt and pepper to make the salad.",
+      "Slice the chicken and serve with the potatoes and salad."
+    ]
+  },
+  {
+    "id": "rec_4930",
+    "title": "Beef pljeskavica with ajvar, oven potatoes and coleslaw",
+    "ingredients": [
+      "Lean minced beef",
+      "Onion",
+      "Ajvar",
+      "Waxy potatoes",
+      "White cabbage",
+      "Vinegar",
+      "Rapeseed oil",
+      "Paprika powder, caraway",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 210 °C. Cut the potatoes into wedges, toss with 5 g of the oil, paprika and salt and bake for 35 minutes.",
+      "Finely shred the cabbage, knead well with the vinegar, 5 g of the oil, caraway and salt and leave to marinate.",
+      "Knead the beef mince with the finely chopped onion, salt and pepper and shape into one large flat patty.",
+      "Fry the pljeskavica in the remaining oil for 4 minutes per side until cooked through and serve with the ajvar, potatoes and coleslaw."
+    ]
+  },
+  {
+    "id": "rec_4931",
+    "title": "Chicken and sweet potato chilli with kidney beans and yoghurt",
+    "ingredients": [
+      "Chicken breast",
+      "Sweet potato",
+      "Kidney beans (cooked, drained)",
+      "Passata",
+      "Red pepper",
+      "Onion",
+      "Garlic",
+      "Greek yoghurt (0.2% fat)",
+      "Rapeseed oil",
+      "Cumin, chilli powder, smoked paprika",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the chicken into small cubes and brown in 5 g of the oil for 5 minutes, then remove.",
+      "Dice the onion, garlic, pepper and sweet potato, fry in the remaining oil for 4 minutes and toast the spices with them for 1 minute.",
+      "Add the passata, kidney beans and 100 ml of water and simmer covered for 15 minutes until the sweet potato is tender.",
+      "Return the chicken to the pot and simmer for 3 minutes until cooked through, season with salt and serve with the yoghurt and coriander."
+    ]
+  },
+  {
+    "id": "rec_4932",
+    "title": "Tuna and tomato penne with olives, capers and rocket",
+    "ingredients": [
+      "Wholemeal penne (uncooked)",
+      "Tuna in brine, drained",
+      "Passata",
+      "Black olives",
+      "Capers",
+      "Rocket",
+      "Parmesan",
+      "Olive oil",
+      "Garlic",
+      "Oregano, chilli flakes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the penne in salted water according to the packet instructions for about 10 minutes until al dente.",
+      "Sweat the garlic in the oil, add the passata, oregano and chilli flakes and simmer for 5 minutes.",
+      "Fold in the tuna, halved olives and capers, heat for 2 minutes and season with salt and pepper.",
+      "Mix in the penne, transfer to a plate and top with the rocket and shaved parmesan."
+    ]
+  },
+  {
+    "id": "rec_4933",
+    "title": "Tempeh peanut curry with broccoli and brown rice",
+    "ingredients": [
+      "Tempeh",
+      "Brown rice (uncooked)",
+      "Broccoli",
+      "Peanut butter (unsweetened)",
+      "Light coconut milk",
+      "Tamari (gluten-free)",
+      "Ginger (fresh)",
+      "Lime",
+      "Curry powder, turmeric"
+    ],
+    "instructions": [
+      "Cook the brown rice according to the packet instructions for about 30 minutes.",
+      "Dice the tempeh and toast it in a non-stick pan without fat for 5 minutes until golden.",
+      "Stir the coconut milk, peanut butter, tamari, grated ginger and spices with 50 ml of water until smooth, add to the tempeh with the broccoli florets and simmer for 6 minutes.",
+      "Season with lime juice and serve with the rice."
+    ]
+  },
+  {
+    "id": "rec_4934",
+    "title": "Matar paneer with peas, tomatoes and basmati rice",
+    "ingredients": [
+      "Paneer",
+      "Peas (frozen)",
+      "Passata",
+      "Basmati rice (uncooked)",
+      "Onion",
+      "Ginger (fresh)",
+      "Garlic",
+      "Rapeseed oil",
+      "Garam masala, turmeric, cumin",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the rice according to the packet instructions for about 15 minutes.",
+      "Dice the paneer and fry it in a non-stick pan without fat for 4 minutes until golden on all sides, then remove.",
+      "Finely chop the onion, ginger and garlic and sweat in the oil for 4 minutes, briefly toast the spices, add the passata and simmer for 5 minutes.",
+      "Add the peas and paneer, let it simmer gently for 4 minutes, season with salt and serve with coriander and the rice."
+    ]
+  },
+  {
+    "id": "rec_4935",
+    "title": "Garlic prawns with lentil pasta, cherry tomatoes and rocket",
+    "ingredients": [
+      "Prawns (peeled, raw)",
+      "Red lentil pasta (uncooked)",
+      "Cherry tomatoes",
+      "Rocket",
+      "Olive oil",
+      "Garlic",
+      "Lemon",
+      "Chilli flakes",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the lentil pasta in salted water according to the packet instructions for about 8 minutes and drain.",
+      "Slice the garlic and sweat it with the chilli flakes in the oil for 1 minute.",
+      "Add the prawns and fry for 2 minutes per side until pink and cooked through, toss the halved cherry tomatoes in for 2 minutes.",
+      "Mix in the pasta, season with lemon juice, parsley, salt and pepper and serve topped with the rocket."
+    ]
+  },
+  {
+    "id": "rec_4936",
+    "title": "Beef steak burrito bowl with black beans, corn and pico de gallo",
+    "ingredients": [
+      "Beef steak (rump)",
+      "Brown rice (uncooked)",
+      "Black beans (cooked, drained)",
+      "Sweetcorn (drained)",
+      "Tomato",
+      "Red onion",
+      "Avocado",
+      "Lime",
+      "Rapeseed oil",
+      "Cumin, paprika",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the brown rice according to the packet instructions for about 30 minutes.",
+      "Finely dice the tomato and onion and mix with coriander, lime juice and salt to make pico de gallo.",
+      "Season the steak with cumin, paprika, salt and pepper, fry in the oil for 3 to 4 minutes per side and rest for 5 minutes. Briefly warm the beans and corn.",
+      "Arrange the rice, beans, corn, pico de gallo and avocado slices in a bowl and top with the steak cut into strips."
+    ]
+  },
+  {
+    "id": "rec_4937",
+    "title": "Harissa chicken thighs with roasted chickpeas, peppers and couscous",
+    "ingredients": [
+      "Chicken thighs (skinless, boneless)",
+      "Chickpeas (cooked, drained)",
+      "Red pepper",
+      "Wholegrain couscous (dry)",
+      "Harissa",
+      "Greek yoghurt (0.2% fat)",
+      "Olive oil",
+      "Lemon",
+      "Cumin",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 210 °C. Rub the chicken thighs with the harissa, 5 g of the oil and salt.",
+      "Toss the chickpeas and pepper strips with the remaining oil and cumin, place on a tray with the chicken and bake for 25 minutes until the chicken is cooked through.",
+      "Pour 150 ml of boiling salted water over the couscous, leave to swell for 5 minutes and fluff up with lemon juice and parsley.",
+      "Arrange the couscous, chickpeas, peppers and chicken and serve with a dollop of yoghurt."
+    ]
+  },
+  {
+    "id": "rec_4938",
+    "title": "Udon stir-fry with turkey strips, pak choi and egg",
+    "ingredients": [
+      "Turkey breast",
+      "Udon noodles (dried)",
+      "Pak choi",
+      "Carrot",
+      "Egg",
+      "Soy sauce",
+      "Ginger (fresh)",
+      "Toasted sesame oil",
+      "Spring onions"
+    ],
+    "instructions": [
+      "Cook the udon noodles according to the packet instructions for about 8 minutes, drain and rinse under cold water.",
+      "Cut the turkey into thin strips and fry in the sesame oil for 5 minutes until cooked through.",
+      "Cut the carrot into strips and the pak choi into pieces and fry with the ginger for 3 minutes.",
+      "Add the noodles and soy sauce, crack the egg in at the side, let it set while stirring and sprinkle everything with spring onions."
+    ]
+  },
+  {
+    "id": "rec_4939",
+    "title": "Skyr with kiwi, mango and puffed quinoa",
+    "ingredients": [
+      "Skyr",
+      "Kiwi",
+      "Mango",
+      "Puffed quinoa",
+      "Lime zest"
+    ],
+    "instructions": [
+      "Stir the skyr until smooth and put it into a shallow bowl.",
+      "Peel the kiwi and cut it into slices, cut the mango into small cubes.",
+      "Spread the fruit over the skyr and sprinkle with the puffed quinoa and a little lime zest."
+    ]
+  },
+  {
+    "id": "rec_4940",
+    "title": "Wholegrain wrap with scrambled eggs, baby spinach and feta",
+    "ingredients": [
+      "Wholemeal wrap",
+      "Eggs",
+      "Baby spinach",
+      "Cherry tomatoes",
+      "Feta",
+      "Chilli flakes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Whisk the eggs with salt and pepper and let them set into creamy scrambled eggs in a non-stick pan over medium heat for 2 minutes.",
+      "Warm the wrap in a dry pan for 30 seconds per side.",
+      "Top the wrap with baby spinach, scrambled eggs, quartered cherry tomatoes and crumbled feta, sprinkle with chilli flakes, roll up and cut in half."
+    ]
+  },
+  {
+    "id": "rec_4941",
+    "title": "Mediterranean breakfast plate with hummus, egg, tomato and cucumber",
+    "ingredients": [
+      "Hummus",
+      "Eggs",
+      "Tomato",
+      "Cucumber",
+      "Black olives",
+      "Paprika, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the eggs in boiling water for 8 minutes until just set, cool under cold water and peel.",
+      "Slice the tomato and cucumber and season with salt and pepper.",
+      "Spread the hummus on the plate, dust with paprika and arrange with the halved eggs, vegetables, olives and parsley."
+    ]
+  },
+  {
+    "id": "rec_4942",
+    "title": "Strawberry quark with oats and pumpkin seeds",
+    "ingredients": [
+      "Low-fat quark",
+      "Strawberries (fresh or frozen, thawed)",
+      "Rolled oats",
+      "Pumpkin seeds",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Mash half of the strawberries with a fork and stir with the quark, vanilla and 2 tbsp of water until smooth.",
+      "Halve the remaining strawberries.",
+      "Put the strawberry quark into a bowl and top with the oats, halved strawberries and pumpkin seeds."
+    ]
+  },
+  {
+    "id": "rec_4943",
+    "title": "Leek and tomato omelette with cottage cheese and chives",
+    "ingredients": [
+      "Eggs",
+      "Egg white",
+      "Leek",
+      "Cherry tomatoes",
+      "Cottage cheese",
+      "Rapeseed oil",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the leek into fine rings and fry in the oil for 3 minutes until soft, then fry the halved cherry tomatoes with it for 1 minute.",
+      "Whisk the eggs and egg whites with salt and pepper, pour over the vegetables and let set covered over medium heat for 3 minutes.",
+      "Spoon the cottage cheese onto one half, fold the omelette over and serve sprinkled with chives."
+    ]
+  },
+  {
+    "id": "rec_4944",
+    "title": "Soy skyr with peach, raspberries and walnuts",
+    "ingredients": [
+      "Plain soy skyr",
+      "Peach (fresh or canned without sugar)",
+      "Raspberries (fresh or frozen)",
+      "Walnuts",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Stir the soy skyr until smooth and put it into a shallow bowl.",
+      "Cut the peach into wedges and spread over the skyr with the raspberries.",
+      "Roughly chop the walnuts, scatter them over and dust with cinnamon."
+    ]
+  },
+  {
+    "id": "rec_4945",
+    "title": "Blueberry oat bran smoothie with quark and cinnamon",
+    "ingredients": [
+      "Blueberries (frozen)",
+      "Low-fat quark",
+      "Oat bran",
+      "Milk (1.5%)",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Let the blueberries thaw for 5 minutes.",
+      "Put them into a blender with the quark, oat bran, milk and cinnamon and blend for about 45 seconds until creamy.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_4946",
+    "title": "Cottage cheese with watermelon, cucumber, mint and pumpkin seeds",
+    "ingredients": [
+      "Cottage cheese",
+      "Watermelon",
+      "Cucumber",
+      "Pumpkin seeds",
+      "Lime",
+      "Mint",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the watermelon and cucumber into bite-sized cubes.",
+      "Put the cottage cheese into a shallow bowl and spread the melon and cucumber on top.",
+      "Finish with lime juice, pumpkin seeds, torn mint and a little pepper."
+    ]
+  },
+  {
+    "id": "rec_4947",
+    "title": "Wholegrain bread with tuna skyr spread, tomato and cress",
+    "ingredients": [
+      "Wholemeal bread",
+      "Tuna in brine, drained",
+      "Skyr",
+      "Tomato",
+      "Mustard",
+      "Lemon",
+      "Cress",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Mix the tuna with the skyr, mustard, lemon juice, salt and pepper with a fork until creamy.",
+      "Spread the tuna cream over the bread slices.",
+      "Slice the tomato, lay it on the bread and sprinkle with cress and pepper."
+    ]
+  },
+  {
+    "id": "rec_4948",
+    "title": "Wholegrain toast with hummus, smoked tofu and cucumber",
+    "ingredients": [
+      "Wholemeal toast",
+      "Hummus",
+      "Smoked tofu",
+      "Cucumber",
+      "Radishes",
+      "Chilli flakes, sesame",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Toast the bread until golden and spread with the hummus.",
+      "Cut the smoked tofu into thin slices and fry in a non-stick pan without fat for 2 minutes per side.",
+      "Slice the cucumber and radishes, arrange on the toast with the tofu and season with chilli flakes, salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_4949",
+    "title": "Pear and tahini ice cream with cocoa nibs and soy skyr",
+    "ingredients": [
+      "Pear",
+      "Plain soy skyr",
+      "Tahini",
+      "Maple syrup",
+      "Cocoa nibs",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Peel, core and dice the pear and blend finely with the soy skyr, tahini, maple syrup and cinnamon.",
+      "Pour the mixture into a freezer-safe tub and freeze for at least 12 hours.",
+      "Let the block soften for 10 minutes, break it into pieces and blend in a food processor until creamy.",
+      "Spoon into a bowl and serve sprinkled with cocoa nibs."
+    ]
+  },
+  {
+    "id": "rec_4950",
+    "title": "Peanut and date shake with skyr and cinnamon",
+    "ingredients": [
+      "Skyr",
+      "Milk (1.5%)",
+      "Dates (pitted)",
+      "Peanut butter (unsweetened)",
+      "Ice cubes",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Roughly chop the dates.",
+      "Put all the ingredients into a blender and blend for about 45 seconds until creamy.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_4951",
+    "title": "Ajitama – Japanese soy-marinated eggs with cucumber sesame salad",
+    "ingredients": [
+      "Eggs",
+      "Soy sauce",
+      "Rice vinegar",
+      "Cucumber",
+      "Sesame seeds",
+      "Toasted sesame oil",
+      "Chilli flakes"
+    ],
+    "instructions": [
+      "Cook the eggs in boiling water for 7 minutes, plunge into iced water and peel.",
+      "Stir the soy sauce with half of the rice vinegar and 3 tbsp of water and marinate the eggs in it covered in the fridge for at least 2 hours, turning once.",
+      "Cut the cucumber into thin slices and mix with the remaining rice vinegar, sesame oil, sesame seeds and chilli flakes.",
+      "Halve the eggs and serve with the cucumber salad."
+    ]
+  },
+  {
+    "id": "rec_4952",
+    "title": "Crispy oven-roasted cinnamon chickpeas with cocoa",
+    "ingredients": [
+      "Chickpeas (cooked, drained)",
+      "Rapeseed oil",
+      "Maple syrup",
+      "Unsweetened cocoa",
+      "Cinnamon",
+      "Salt"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C. Pat the chickpeas thoroughly dry and remove any loose skins.",
+      "Toss with the oil and a pinch of salt and roast on a tray for 25 minutes until crispy, turning once.",
+      "Toss the hot chickpeas with the maple syrup, cinnamon and cocoa and roast for another 5 minutes.",
+      "Leave to cool on the tray so they turn crunchy."
+    ]
+  },
+  {
+    "id": "rec_4953",
+    "title": "Banana skyr bites with dark chocolate coating and peanuts",
+    "ingredients": [
+      "Banana",
+      "Skyr",
+      "Dark chocolate (85%)",
+      "Unsalted peanuts"
+    ],
+    "instructions": [
+      "Cut the banana into 8 thick slices, top each with a dollop of skyr and freeze on baking paper for 1 hour.",
+      "Melt the chocolate over a warm water bath and finely chop the peanuts.",
+      "Dip the frozen bites halfway into the chocolate, sprinkle with peanuts and freeze for another 10 minutes."
+    ]
+  },
+  {
+    "id": "rec_4954",
+    "title": "Mango coconut nice cream with lime and pea protein",
+    "ingredients": [
+      "Mango (frozen)",
+      "Plain soy skyr",
+      "Pea protein (unflavoured)",
+      "Light coconut milk",
+      "Lime"
+    ],
+    "instructions": [
+      "Let the mango thaw for 5 minutes.",
+      "Blend with the soy skyr, pea protein, coconut milk, lime juice and a little lime zest in a food processor for 1 to 2 minutes until creamy, scraping down in between.",
+      "Spoon into a bowl straight away or freeze for another 30 minutes for a firmer texture."
+    ]
+  },
+  {
+    "id": "rec_4955",
+    "title": "Chicken and cucumber skewers with yoghurt dill dip",
+    "ingredients": [
+      "Chicken breast",
+      "Cucumber",
+      "Cherry tomatoes",
+      "Greek yoghurt (0.2% fat)",
+      "Rapeseed oil",
+      "Lemon",
+      "Dill",
+      "Paprika, garlic powder",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the chicken into bite-sized cubes, toss with the oil, paprika, garlic powder and salt and fry in a pan for 6 minutes on all sides until cooked through.",
+      "Cut the cucumber into thick cubes and thread alternately with the chicken and cherry tomatoes onto 4 small skewers.",
+      "Stir the yoghurt with chopped dill, lemon juice, salt and pepper and serve as a dip."
+    ]
+  },
+  {
+    "id": "rec_4956",
+    "title": "Raspberry coconut ice lollies with coconut yoghurt",
+    "ingredients": [
+      "Raspberries (fresh or frozen)",
+      "Coconut yoghurt",
+      "Soy yoghurt (plain, unsweetened)",
+      "Maple syrup"
+    ],
+    "instructions": [
+      "Blend the raspberries finely with the maple syrup.",
+      "Stir the coconut yoghurt and soy yoghurt until smooth and layer alternately with the raspberry purée in the moulds, marbling lightly with a skewer.",
+      "Pour the mixture into 2 ice lolly moulds, insert the sticks and freeze for at least 6 hours.",
+      "Briefly hold the moulds under warm water and release the lollies."
+    ]
+  },
+  {
+    "id": "rec_4957",
+    "title": "Chicken thighs with herb cream cheese spinach and pine nuts",
+    "ingredients": [
+      "Chicken thighs with skin (boneless)",
+      "Leaf spinach",
+      "Full-fat cream cheese",
+      "Pine nuts",
+      "Butter",
+      "Garlic",
+      "Thyme, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Season the chicken thighs with salt and pepper and fry skin side down in a cold pan over medium heat for 12 minutes until crispy, then turn and cook for 8 minutes until cooked through.",
+      "Toast the pine nuts in a dry pan for 2 minutes until golden.",
+      "Sweat the garlic in the butter, let the spinach wilt for 2 minutes, stir in the cream cheese and herbs and season with salt and pepper.",
+      "Put the creamed spinach on a plate, place the chicken thighs on top and sprinkle with the pine nuts."
+    ]
+  },
+  {
+    "id": "rec_4958",
+    "title": "Aubergine and mozzarella stacks with basil oil and pine nuts",
+    "ingredients": [
+      "Aubergine",
+      "Mozzarella",
+      "Olive oil",
+      "Pine nuts",
+      "Garlic",
+      "Basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 220 °C. Cut the aubergine into 6 slices, season with salt, brush with 5 g of the oil and bake on a tray for 15 minutes, turning once.",
+      "Cut the mozzarella into 4 slices and stack alternately with the aubergine slices into 2 towers, then bake for 5 minutes.",
+      "Blend the basil finely with the garlic, remaining oil and a pinch of salt, and toast the pine nuts in a dry pan until golden.",
+      "Drizzle the stacks with the basil oil, sprinkle with the pine nuts and pepper and serve."
+    ]
+  },
+  {
+    "id": "rec_4959",
+    "title": "Smoked salmon cucumber rolls with herb cream cheese and capers",
+    "ingredients": [
+      "Smoked salmon",
+      "Cucumber",
+      "Full-fat cream cheese",
+      "Avocado",
+      "Capers",
+      "Olive oil",
+      "Lemon",
+      "Dill",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Use a vegetable peeler to cut the cucumber lengthways into 8 thin strips.",
+      "Stir the cream cheese with chopped dill, lemon juice and pepper and spread thinly over the cucumber strips.",
+      "Top with the smoked salmon, roll up and sprinkle with the capers.",
+      "Cut the avocado into wedges, season with the oil, salt and pepper and arrange next to the rolls."
+    ]
+  },
+  {
+    "id": "rec_4960",
+    "title": "Goat cheese and spinach omelette with walnuts",
+    "ingredients": [
+      "Eggs",
+      "Goat cheese (log)",
+      "Baby spinach",
+      "Walnuts",
+      "Butter",
+      "Thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Whisk the eggs with salt, pepper and thyme and roughly chop the walnuts.",
+      "Wilt the spinach in the butter for 1 minute, pour the eggs over and let them set over medium heat for 3 minutes.",
+      "Spread the goat cheese in slices on top, let it melt covered for 2 minutes, fold the omelette and serve sprinkled with the walnuts."
+    ]
+  },
+  {
+    "id": "rec_4961",
+    "title": "Cauliflower cheddar gratin with eggs and chives",
+    "ingredients": [
+      "Cauliflower",
+      "Cheddar (grated)",
+      "Eggs",
+      "Whipping cream (30% fat)",
+      "Nutmeg, mustard powder",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C. Divide the cauliflower into florets and parboil in salted water for 5 minutes, then drain well.",
+      "Whisk the eggs with the cream, nutmeg, mustard powder, salt, pepper and half of the cheddar.",
+      "Put the cauliflower into a small baking dish, pour the egg mixture over and sprinkle with the remaining cheddar.",
+      "Bake for 20 minutes until golden and serve sprinkled with chives."
+    ]
+  },
+  {
+    "id": "rec_4962",
+    "title": "Goose breast with cauliflower butter purée and lamb's lettuce",
+    "ingredients": [
+      "Goose breast (skinless)",
+      "Cauliflower",
+      "Butter",
+      "Whipping cream (30% fat)",
+      "Lamb's lettuce",
+      "Olive oil",
+      "Nutmeg, thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Divide the cauliflower into florets and cook in salted water for 12 minutes until soft, then drain well.",
+      "Season the goose breast with salt and pepper and fry in 5 g of the oil with thyme for 5 minutes per side, then rest for 5 minutes.",
+      "Blend the cauliflower finely with 20 g of the butter, the cream, nutmeg and salt.",
+      "Dress the lamb's lettuce with the remaining oil, salt and pepper. Slice the goose breast, drizzle with the remaining butter and serve with the purée and salad."
+    ]
+  },
+  {
+    "id": "rec_4963",
+    "title": "Crispy tofu cubes on avocado cucumber salad with peanuts",
+    "ingredients": [
+      "Firm plain tofu",
+      "Avocado",
+      "Cucumber",
+      "Unsalted peanuts",
+      "Rapeseed oil",
+      "Toasted sesame oil",
+      "Tamari (gluten-free)",
+      "Lime",
+      "Chilli flakes",
+      "Coriander"
+    ],
+    "instructions": [
+      "Pat the tofu dry, dice it and fry in the rapeseed oil over medium heat for 8 minutes until crispy on all sides, then deglaze with half of the tamari.",
+      "Dice the avocado and cucumber and mix with the sesame oil, remaining tamari, lime juice and chilli flakes.",
+      "Roughly chop the peanuts.",
+      "Put the salad into a bowl, top with the tofu and sprinkle with the peanuts and coriander."
+    ]
+  },
+  {
+    "id": "rec_4964",
+    "title": "Rump steak with creamy mushrooms and garlic spinach",
+    "ingredients": [
+      "Rump steak",
+      "Butter",
+      "Mushrooms",
+      "Baby spinach",
+      "Crème fraîche",
+      "Olive oil",
+      "Garlic",
+      "Thyme, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Pat the steak dry and fry in 5 g of the oil for 3 to 4 minutes per side, add 10 g of the butter and the thyme, baste the steak, season with salt and pepper and rest for 5 minutes.",
+      "Slice the mushrooms and fry in the remaining oil for 4 minutes, stir in the crème fraîche and season with parsley, salt and pepper.",
+      "Sweat the garlic in the remaining butter, add the spinach and let it wilt for 1 minute, then season with salt.",
+      "Slice the steak and serve with the creamy mushrooms and garlic spinach."
+    ]
+  },
+  {
+    "id": "rec_4965",
+    "title": "Meal prep box with turkey kofta, millet and pepper yoghurt dip",
+    "ingredients": [
+      "Minced turkey",
+      "Millet (uncooked)",
+      "Red pepper",
+      "Cucumber",
+      "Greek yoghurt (0.2% fat)",
+      "Ajvar",
+      "Red onion",
+      "Rapeseed oil",
+      "Cumin, paprika, dried mint",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse the millet with hot water, simmer in 120 ml of salted water for 10 minutes and leave to swell for 10 minutes.",
+      "Knead the turkey mince with the finely chopped onion, parsley, cumin, paprika, salt and pepper, shape into 6 oblong kofta and fry in the oil for 8 minutes on all sides until cooked through.",
+      "Stir the yoghurt with the ajvar and dried mint. Cut the pepper and cucumber into strips.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 4 days.",
+      "At the office eat cold or reheat covered in the microwave for 2 to 3 minutes until piping hot."
+    ]
+  },
+  {
+    "id": "rec_4966",
+    "title": "Meal prep box with paprika chicken, buckwheat and red cabbage apple salad",
+    "ingredients": [
+      "Chicken breast",
+      "Buckwheat (uncooked)",
+      "Red cabbage",
+      "Apple",
+      "Walnuts",
+      "Olive oil",
+      "Apple cider vinegar",
+      "Paprika (sweet and smoked)",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Simmer the buckwheat in 100 ml of salted water for 12 minutes and leave to swell for 5 minutes.",
+      "Finely shred the red cabbage, cut the apple into sticks and knead well with the cider vinegar, 5 g of the oil, salt and pepper, then roughly chop the walnuts and mix them in.",
+      "Rub the chicken with the paprika, remaining oil and salt and fry in a pan for 5 minutes per side until cooked through, then slice.",
+      "Mix the buckwheat with parsley and fill into a container with the chicken and red cabbage salad.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 4 days.",
+      "Eat cold straight from the container, mixing in the dressing just before eating."
+    ]
+  },
+  {
+    "id": "rec_4967",
+    "title": "Meal prep box with red lentil spinach dal and basmati rice",
+    "ingredients": [
+      "Red lentils (uncooked)",
+      "Basmati rice (uncooked)",
+      "Baby spinach",
+      "Passata",
+      "Onion",
+      "Light coconut milk",
+      "Ginger (fresh)",
+      "Garlic",
+      "Rapeseed oil",
+      "Turmeric, cumin, garam masala",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the rice according to the packet instructions for about 15 minutes.",
+      "Finely chop the onion, ginger and garlic and sweat in the oil for 3 minutes, toasting the spices with them for 1 minute.",
+      "Add the lentils, passata and 250 ml of water and simmer for 15 minutes until thick, then stir in the coconut milk and spinach and season with salt.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 4 days.",
+      "To eat, reheat covered in the microwave for 2 to 3 minutes until piping hot, stirring once."
+    ]
+  },
+  {
+    "id": "rec_4968",
+    "title": "Pasta salad box with tuna, white beans, rocket and lemon dressing",
+    "ingredients": [
+      "Wholemeal fusilli (uncooked)",
+      "Tuna in brine, drained",
+      "White beans (cooked, drained)",
+      "Cherry tomatoes",
+      "Rocket",
+      "Red onion",
+      "Olive oil",
+      "Lemon",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the fusilli in salted water according to the packet instructions for about 10 minutes until al dente, rinse under cold water and drain.",
+      "Halve the cherry tomatoes, finely dice the onion and mix with the pasta, beans and flaked tuna.",
+      "Stir the oil with the lemon juice, lemon zest, parsley, salt and pepper.",
+      "Fill the salad into a container, place the rocket on top and take the dressing separately in a small screw-top jar.",
+      "Eat cold straight from the container, mixing in the dressing just before eating.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 3 days."
+    ]
+  },
+  {
+    "id": "rec_4969",
+    "title": "Meal prep box with beef strips, herb potato salad and green beans",
+    "ingredients": [
+      "Beef steak (rump)",
+      "Waxy potatoes",
+      "Green beans",
+      "Red onion",
+      "Mustard",
+      "Vinegar",
+      "Olive oil",
+      "Parsley, chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the potatoes in their skins in salted water for 20 minutes, adding the green beans for the last 7 minutes, then drain and let cool a little.",
+      "Stir the mustard, vinegar, 5 g of the oil, finely diced onion, herbs, salt and pepper together, slice the potatoes and mix with the beans and dressing.",
+      "Fry the steak in the remaining oil for 3 minutes per side, season with salt and pepper, rest for 5 minutes and cut into strips.",
+      "Fill the potato salad and beef strips into a container.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 3 days.",
+      "Eat cold straight from the container, mixing in the dressing just before eating."
+    ]
+  },
+  {
+    "id": "rec_4970",
+    "title": "Meal prep box with roast chicken, pearl barley and root vegetables",
+    "ingredients": [
+      "Chicken breast",
+      "Pearl barley (uncooked)",
+      "Carrot",
+      "Parsnip",
+      "Celeriac",
+      "Olive oil",
+      "Mustard",
+      "Thyme, rosemary",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Simmer the pearl barley in 200 ml of salted water for 30 minutes until tender and drain. Preheat the oven to 200 °C.",
+      "Cut the carrot, parsnip and celeriac into sticks, toss with 5 g of the oil, thyme, rosemary and salt and roast for 30 minutes.",
+      "Brush the chicken with the mustard, remaining oil, salt and pepper and add it to the vegetables after 10 minutes, baking for 20 minutes until cooked through.",
+      "Slice the chicken and fill into a container with the barley, vegetables and parsley.",
+      "Let cool, pack into an airtight container and keep in the fridge for up to 4 days.",
+      "To eat, reheat covered in the microwave for 2 to 3 minutes until piping hot, stirring once."
+    ]
+  },
+  {
+    "id": "rec_4971",
+    "title": "Pinakbet – Filipino vegetable stew with squash, okra and tofu",
+    "ingredients": [
+      "Firm plain tofu",
+      "Hokkaido pumpkin",
+      "Okra",
+      "Aubergine",
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Ginger (fresh)",
+      "Tamari (gluten-free)",
+      "Rapeseed oil",
+      "Jasmine rice (uncooked)",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the rice according to the packet instructions for about 15 minutes. Dice the tofu and fry in a non-stick pan without fat for 6 minutes until golden.",
+      "Chop the onion, garlic and ginger and sweat in the oil in a pot for 3 minutes, add the diced tomato and cook for 3 minutes until it breaks down.",
+      "Dice the squash and aubergine, halve the okra, add with the tamari and 100 ml of water and braise covered for 15 minutes until the vegetables are tender.",
+      "Fold in the tofu, season with pepper and serve with the rice."
+    ]
+  },
+  {
+    "id": "rec_4972",
+    "title": "Pipián verde – Mexican pumpkin seed sauce with chickpeas, courgette and rice",
+    "ingredients": [
+      "Pumpkin seeds",
+      "Chickpeas (cooked, drained)",
+      "Courgette",
+      "Tomatillos (tinned, drained)",
+      "Green chilli",
+      "Onion",
+      "Garlic",
+      "Vegetable stock",
+      "Brown rice (uncooked)",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the brown rice according to the packet instructions for about 30 minutes.",
+      "Toast the pumpkin seeds in a dry pan for 3 minutes until they pop, setting 1 tbsp aside for sprinkling.",
+      "Blend the remaining pumpkin seeds finely with the tomatillos, chilli, onion, garlic, a handful of coriander and the stock, then simmer in a pot for 5 minutes until thick.",
+      "Dice the courgette and cook with the chickpeas in the sauce for 8 minutes, season with salt and serve with the rice, remaining pumpkin seeds and coriander."
+    ]
+  },
+  {
+    "id": "rec_4973",
+    "title": "Imam bayildi – braised aubergine with tomatoes, onions and white beans",
+    "ingredients": [
+      "Aubergine",
+      "Tomato",
+      "Onion",
+      "White beans (cooked, drained)",
+      "Olive oil",
+      "Garlic",
+      "Lemon",
+      "Cinnamon, paprika",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 190 °C. Halve the aubergine lengthways, score the flesh in a criss-cross pattern, season with salt and brush with 5 g of the oil.",
+      "Cut the onion into strips and sweat with the garlic in the remaining oil for 8 minutes until soft, add the diced tomatoes, cinnamon and paprika and reduce for 5 minutes.",
+      "Mix half of the beans into the filling, pile it onto the aubergine halves, put the remaining beans with 50 ml of water into the dish and braise covered for 35 minutes.",
+      "Drizzle with lemon juice and serve lukewarm sprinkled with parsley."
+    ]
+  },
+  {
+    "id": "rec_4974",
+    "title": "Thoran – Keralan white cabbage coconut stir-fry with mung beans and brown rice",
+    "ingredients": [
+      "White cabbage",
+      "Carrot",
+      "Desiccated coconut",
+      "Moong dal (uncooked)",
+      "Brown rice (uncooked)",
+      "Rapeseed oil",
+      "Green chilli",
+      "Mustard seeds, curry leaves, turmeric",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the brown rice according to the packet instructions for about 30 minutes. Cook the mung dal in 200 ml of water for 15 minutes until al dente and drain.",
+      "Heat the mustard seeds in the oil until they pop and fry the curry leaves and chopped chilli with them for 30 seconds.",
+      "Finely shred the cabbage, grate the carrot and add with the turmeric and salt, stir-frying for 6 minutes until al dente.",
+      "Fold in the mung dal and grated coconut, warm for 2 minutes and serve with the rice."
+    ]
+  },
+  {
+    "id": "rec_4975",
+    "title": "Tempeh rendang with brown rice and cucumber",
+    "ingredients": [
+      "Tempeh",
+      "Light coconut milk",
+      "Lemongrass",
+      "Ginger (fresh)",
+      "Onion",
+      "Garlic",
+      "Chilli",
+      "Tamari (gluten-free)",
+      "Brown rice (uncooked)",
+      "Cucumber",
+      "Turmeric, coriander seeds, cinnamon"
+    ],
+    "instructions": [
+      "Cook the brown rice according to the packet instructions for about 30 minutes.",
+      "Blend the onion, garlic, ginger, chilli and the white part of the lemongrass with the spices and 2 tbsp of water to a paste and toast it in a pan for 3 minutes.",
+      "Dice the tempeh, add with the coconut milk and tamari and reduce uncovered for 20 minutes, stirring occasionally, until the sauce is thick and dark.",
+      "Serve with the rice and cucumber slices."
+    ]
+  },
+  {
+    "id": "rec_4976",
+    "title": "Shogayaki-style ginger soy chunks with Chinese cabbage and carrot",
+    "ingredients": [
+      "Soy chunks (dry)",
+      "Napa cabbage",
+      "Carrot",
+      "Onion",
+      "Ginger (fresh)",
+      "Tamari (gluten-free)",
+      "Toasted sesame oil",
+      "Rice vinegar",
+      "Water",
+      "Spring onions"
+    ],
+    "instructions": [
+      "Soak the soy chunks in 200 ml of hot water for 10 minutes and squeeze out well.",
+      "Finely grate the ginger and stir with the tamari and rice vinegar, then marinate the soy chunks in it for 5 minutes.",
+      "Fry the soy chunks in the sesame oil for 4 minutes until browned, add the onion cut into strips, the carrot cut into sticks and the Chinese cabbage cut into strips and fry for 4 minutes.",
+      "Add the remaining marinade, glaze briefly and serve sprinkled with spring onions."
+    ]
   }
 ]
