@@ -102396,5 +102396,981 @@
       "Süzme domatesi ve kekiği ekleyin, 8 dakika kaynatın ve tuzlayın.",
       "Kabağı spiralle erişte haline getirin, sosla 1 dakika çevirin ve besin mayası ve fesleğenle servis edin."
     ]
+  },
+  {
+    "id": "rec_5177",
+    "title": "Böğürtlenli, incirli ve antep fıstıklı skyr kasesi",
+    "ingredients": [
+      "Skyr",
+      "Böğürtlen",
+      "Taze incir",
+      "Antep fıstığı (doğranmış)",
+      "Tarçın"
+    ],
+    "instructions": [
+      "Skyrı pürüzsüz olana kadar karıştırın ve sığ bir kaseye koyun.",
+      "İncirleri yıkayıp dilimler halinde kesin, böğürtlenleri durulayın.",
+      "Meyveleri skyrın üzerine yayın ve doğranmış antep fıstığı ile bir tutam tarçın serpin."
+    ]
+  },
+  {
+    "id": "rec_5178",
+    "title": "Alabaş, turp ve tam buğday ekmekli tuzlu süzme peynir",
+    "ingredients": [
+      "Lor peyniri (cottage)",
+      "Alabaş",
+      "Turp",
+      "Tam buğday ekmeği",
+      "Frenk soğanı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Alabaşı soyup ince çubuklar halinde kesin, turpları ince dilimleyin.",
+      "Süzme peyniri tuz, karabiber ve ince kıyılmış frenk soğanıyla karıştırın ve bir tabağa koyun.",
+      "Alabaşı ve turpları yanına dizin ve tam buğday ekmeği dilimiyle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5179",
+    "title": "Mantarlı, bebek ıspanaklı ve tam çavdar ekmekli çırpılmış yumurta",
+    "ingredients": [
+      "Yumurta",
+      "Yumurta akı",
+      "Mantar",
+      "Bebek ıspanak",
+      "Tam tahıllı çavdar ekmeği",
+      "Kanola yağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Mantarları dilimleyin ve yapışmaz tavada yağda 3 dakika kızartın.",
+      "Yumurtaları ve yumurta aklarını tuz ve karabiberle çırpın, bebek ıspanağı mantarlara ekleyin ve kısaca söndürün.",
+      "Yumurta karışımını dökün ve orta ateşte karıştırarak 2 dakika kremsi kıvamda pişirin.",
+      "Çırpılmış yumurtayı tam çavdar ekmeğiyle birlikte bir tabağa yerleştirin."
+    ]
+  },
+  {
+    "id": "rec_5180",
+    "title": "Otlu skyr kremalı, domatesli ve yumurtalı gevrek ekmek",
+    "ingredients": [
+      "Tam tahıllı gevrek ekmek",
+      "Skyr",
+      "Haşlanmış yumurta",
+      "Domates",
+      "Salatalık",
+      "Maydanoz, frenk soğanı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Skyrı doğranmış maydanoz, frenk soğanı, tuz ve karabiberle karıştırarak otlu bir krem hazırlayın.",
+      "Domatesi ve salatalığı dilimleyin, yumurtayı soyup dilimleyin.",
+      "Gevrek ekmeklere bolca otlu krem sürün ve üzerine domates, salatalık ve yumurta dizin."
+    ]
+  },
+  {
+    "id": "rec_5181",
+    "title": "Papayalı, misket limonlu ve kenevir tohumlu soya skyr",
+    "ingredients": [
+      "Sade soya skyr",
+      "Papaya",
+      "Kenevir tohumu (kabuksuz)",
+      "Misket limonu suyu",
+      "Misket limonu kabuğu rendesi"
+    ],
+    "instructions": [
+      "Papayayı soyun, çekirdeklerini çıkarın, küp doğrayın ve üzerine misket limonu suyu gezdirin.",
+      "Soya skyrı pürüzsüz olana kadar karıştırın ve sığ bir kaseye koyun.",
+      "Papayayı üzerine yayın ve kenevir tohumu ile misket limonu kabuğu rendesi serpin."
+    ]
+  },
+  {
+    "id": "rec_5182",
+    "title": "Pazılı, domatesli ve süzme peynirli yumurta akı omleti",
+    "ingredients": [
+      "Yumurta akı",
+      "Yumurta",
+      "Pazı",
+      "Domates",
+      "Lor peyniri (cottage)",
+      "Zeytinyağı",
+      "Küçük hindistan cevizi",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Pazıyı şeritler halinde kesin ve yapışmaz tavada yağda 2 dakika soteleyin, domatesi küp doğrayın.",
+      "Yumurta aklarını ve yumurtayı tuz, karabiber ve muskatla çırpın ve pazının üzerine dökün.",
+      "Kapağı kapalı şekilde orta ateşte 4 dakika pişirin.",
+      "Süzme peyniri ve domates küplerini bir yarısına koyun, omleti katlayın ve servis edin."
+    ]
+  },
+  {
+    "id": "rec_5183",
+    "title": "Portakallı, narlı ve bademli Yunan yoğurdu",
+    "ingredients": [
+      "Süzme yoğurt (%0,2 yağ)",
+      "Portakal",
+      "Nar taneleri",
+      "Kıyılmış badem",
+      "Tarçın"
+    ],
+    "instructions": [
+      "Portakalı soyun, beyaz zarını çıkarın ve meyveyi dilimler veya filetolar halinde kesin.",
+      "Yoğurdu sığ bir kaseye koyun ve portakal parçalarını üzerine yayın.",
+      "Nar taneleri, doğranmış badem ve bir tutam tarçın serpin."
+    ]
+  },
+  {
+    "id": "rec_5184",
+    "title": "Pancarlı ve yaban turplu skyrlı füme alabalık ekmeği",
+    "ingredients": [
+      "Tam tahıllı çavdar ekmeği",
+      "Füme alabalık fileto",
+      "Skyr",
+      "Yaban turpu (taze rendelenmiş)",
+      "Haşlanmış pancar",
+      "Kuzu kulağı salatası",
+      "Dereotu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Skyrı yaban turpu, tuz ve karabiberle karıştırın.",
+      "Pancarı ince dilimleyin, alabalık filetosunu parçalara ayırın.",
+      "Ekmeğe yaban turplu skyrın yarısını sürün, üzerine pancar, alabalık ve dereotu koyun ve kuzu kulağı salatası ile kalan skyrla servis edin."
+    ]
+  },
+  {
+    "id": "rec_5185",
+    "title": "Vişneli çikolatalı protein yulaf lapası",
+    "ingredients": [
+      "İnce yulaf ezmesi",
+      "Yarım yağlı süt (%1,5 yağ)",
+      "Peynir altı suyu proteini (vanilyalı)",
+      "Şekersiz kakao tozu",
+      "Kiraz (dondurulmuş, çekirdeksiz)"
+    ],
+    "instructions": [
+      "Yulafı süt ve kakaoyla küçük bir tencerede kaynatın ve karıştırarak 4 dakika kremsi olana kadar pişirin.",
+      "Vişneleri küçük bir tavada suyunu salana kadar 3 dakika ısıtın.",
+      "Tencereyi ocaktan alın ve protein tozunu pürüzsüz olana kadar karıştırın.",
+      "Yulaf lapasını bir kaseye alın ve sıcak vişnelerle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5186",
+    "title": "Domatesli, rokalı ve süzme peynirli hindi göğsü tam buğday ekmeği",
+    "ingredients": [
+      "Tam buğday ekmeği",
+      "Lor peyniri (cottage)",
+      "Dilimlenmiş hindi göğsü",
+      "Domates",
+      "Roka",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Ekmeğe süzme peyniri sürün.",
+      "Domatesi dilimleyin ve tuz ve karabiberle tatlandırın.",
+      "Ekmeğin üzerine roka, hindi göğsü ve domates dilimlerini koyun ve servis edin."
+    ]
+  },
+  {
+    "id": "rec_5187",
+    "title": "Sahanda yumurtalı, domates kişniş salsalı ve salatalıklı fasulye kahvaltı tabağı",
+    "ingredients": [
+      "Siyah fasulye (süzülmüş)",
+      "Yumurta",
+      "Domates",
+      "Kırmızı soğan",
+      "Salatalık",
+      "Misket limonu suyu",
+      "Kanola yağı",
+      "Kişniş",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Domatesi ve soğanı ince doğrayın ve doğranmış kişniş, misket limonu suyu ve tuzla karıştırarak salsa hazırlayın.",
+      "Fasulyeleri küçük bir tencerede 2 yemek kaşığı suyla 3 dakika ısıtın ve tuz ve karabiberle tatlandırın.",
+      "Yumurtaları yapışmaz tavada yağda 3 dakika sahanda pişirin.",
+      "Fasulyeleri, yumurtaları, salsayı ve salatalık dilimlerini bir tabağa yerleştirin."
+    ]
+  },
+  {
+    "id": "rec_5188",
+    "title": "Kabaklı, çeri domatesli ve besin mayalı zerdeçallı tofu çırpması",
+    "ingredients": [
+      "Sade sert tofu",
+      "Kabak",
+      "Çeri domates",
+      "Besin mayası pulu",
+      "Kanola yağı",
+      "Zerdeçal, toz biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Kabağı küçük küpler halinde doğrayın ve tavada yağda 3 dakika kızartın.",
+      "Tofuyu elinizle tavaya ufalayın, zerdeçal, toz biber, tuz ve karabiberle tatlandırın ve 3 dakika kızartın.",
+      "İkiye bölünmüş çeri domatesleri ve besin mayasını ekleyin, 1 dakika ısıtın ve servis edin."
+    ]
+  },
+  {
+    "id": "rec_5189",
+    "title": "Badem dilimli kayısılı skyr nice cream",
+    "ingredients": [
+      "Kayısı",
+      "Skyr",
+      "Badem dilimleri",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Kayısıların çekirdeklerini çıkarın, parçalara ayırın ve en az 4 saat dondurun.",
+      "Donmuş kayısıları 5 dakika yumuşamaya bırakın ve skyr ve vanilyayla mutfak robotunda 1 ila 2 dakika kremsi olana kadar çekin.",
+      "Badem dilimlerini kuru tavada 2 dakika altın rengi olana kadar kavurun.",
+      "Nice creamı bir kaseye alın ve badem dilimleri serperek hemen servis edin."
+    ]
+  },
+  {
+    "id": "rec_5190",
+    "title": "Portakallı ve kakao çekirdekli kakaolu ipeksi tofu musu",
+    "ingredients": [
+      "İpek tofu",
+      "Bitter çikolata (%85)",
+      "Şekersiz kakao tozu",
+      "Akçaağaç şurubu",
+      "Portakal",
+      "Kakao kırığı",
+      "Portakal kabuğu rendesi"
+    ],
+    "instructions": [
+      "Çikolatayı iri doğrayın ve ılık su banyosunda eritin.",
+      "İpeksi tofuyu eritilmiş çikolata, kakao, akçaağaç şurubu ve portakal kabuğu rendesiyle blenderda 1 dakika pürüzsüz olana kadar çekin.",
+      "Musu bir tatlı kasesine alın ve en az 1 saat buzdolabında soğutun.",
+      "Portakalı filetolayın, dilimleri musun üzerine koyun ve kakao çekirdeği serpin."
+    ]
+  },
+  {
+    "id": "rec_5191",
+    "title": "Muzlu hindistan cevizli matcha protein shake",
+    "ingredients": [
+      "Soya içeceği (şekersiz)",
+      "Light hindistan cevizi sütü",
+      "Bezelye proteini (aromasız)",
+      "Matcha tozu",
+      "Muz (dondurulmuş)",
+      "Buz küpleri"
+    ],
+    "instructions": [
+      "Tüm malzemeleri blendera koyun ve yaklaşık 45 saniye kremsi olana kadar çekin.",
+      "Tadına bakın ve gerekirse biraz soğuk soya içeceğiyle inceltin.",
+      "Büyük bir bardağa dökün ve hemen için."
+    ]
+  },
+  {
+    "id": "rec_5192",
+    "title": "Naneli ve soya skyrlı kivi salatalık smoothie",
+    "ingredients": [
+      "Kivi",
+      "Salatalık",
+      "Sade soya skyr",
+      "Bebek ıspanak",
+      "Misket limonu suyu",
+      "Nane",
+      "Su"
+    ],
+    "instructions": [
+      "Kivileri soyup dörde bölün, salatalığı iri parçalar halinde kesin.",
+      "Tüm malzemeleri blendera koyun ve yaklaşık 45 saniye kremsi olana kadar çekin.",
+      "Büyük bir bardağa dökün ve hemen için."
+    ]
+  },
+  {
+    "id": "rec_5193",
+    "title": "Vişneli çikolatalı protein çubuk dondurma",
+    "ingredients": [
+      "Skyr",
+      "Kiraz (dondurulmuş, çekirdeksiz)",
+      "Şekersiz kakao tozu",
+      "Akçaağaç şurubu",
+      "Bitter çikolata (%85)"
+    ],
+    "instructions": [
+      "Vişneleri 10 dakika çözülmeye bırakın ve iri doğrayın.",
+      "Skyrı kakao ve akçaağaç şurubuyla pürüzsüz olana kadar karıştırın, vişneleri ve ince doğranmış çikolatayı ekleyin.",
+      "Karışımı 2 adet dondurma kalıbına dökün, çubukları takın ve en az 6 saat dondurun.",
+      "Kalıpları kısa süre ılık suya tutun ve dondurmaları çıkarın."
+    ]
+  },
+  {
+    "id": "rec_5194",
+    "title": "Çilekli ve vanilyalı süzme peynir dondurması",
+    "ingredients": [
+      "Lor peyniri (cottage)",
+      "Çilek (dondurulmuş)",
+      "Akçaağaç şurubu",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Süzme peyniri akçaağaç şurubu, vanilya ve 100 g çilekle blenderda 1 dakika tamamen pürüzsüz olana kadar çekin.",
+      "Karışımı dondurucuya uygun bir kaba dökün ve en az 12 saat dondurun.",
+      "Bloğu 10 dakika yumuşamaya bırakın, parçalara ayırın ve mutfak robotunda kremsi olana kadar çekin.",
+      "Kalan çilekleri çözülmeye bırakın, parçalara ayırın ve dondurmanın üzerine yayın."
+    ]
+  },
+  {
+    "id": "rec_5195",
+    "title": "Armutlu kakuleli kefir shake",
+    "ingredients": [
+      "Kefir",
+      "Armut",
+      "Skyr",
+      "İnce yulaf ezmesi",
+      "Kakule",
+      "Buz küpleri"
+    ],
+    "instructions": [
+      "Armudu dörde bölün, çekirdeğini çıkarın ve iri parçalar halinde kesin.",
+      "Tüm malzemeleri blendera koyun ve yaklaşık 45 saniye kremsi olana kadar çekin.",
+      "Büyük bir bardağa dökün ve hemen için."
+    ]
+  },
+  {
+    "id": "rec_5196",
+    "title": "Skyrlı kızılcık portakal smoothie",
+    "ingredients": [
+      "Turna yemişi (taze)",
+      "Portakal",
+      "Muz",
+      "Skyr",
+      "Su"
+    ],
+    "instructions": [
+      "Portakalı soyup parçalara ayırın, muzu dilimleyin.",
+      "Tüm malzemeleri blendera koyun ve yaklaşık 45 saniye kremsi olana kadar çekin.",
+      "Büyük bir bardağa dökün ve hemen için."
+    ]
+  },
+  {
+    "id": "rec_5197",
+    "title": "Antep fıstıklı ahududulu hindistan cevizli chia puding",
+    "ingredients": [
+      "Chia tohumu",
+      "Light hindistan cevizi sütü",
+      "Sade soya skyr",
+      "Ahududu",
+      "Antep fıstığı (doğranmış)",
+      "Akçaağaç şurubu"
+    ],
+    "instructions": [
+      "Chia tohumlarını hindistan cevizi sütü, soya skyr ve akçaağaç şurubuyla karıştırın, 10 dakika şişmeye bırakın ve tekrar karıştırın.",
+      "Üzerini kapatın ve en az 4 saat veya bir gece buzdolabında koyulaşmaya bırakın.",
+      "Ahududuların yarısını çatalla ezin ve pudinge karıştırın.",
+      "Bir bardağa alın ve kalan ahududular ve doğranmış antep fıstığıyla süsleyin."
+    ]
+  },
+  {
+    "id": "rec_5198",
+    "title": "Kavrulmuş yulaflı frenk üzümlü lor kreması",
+    "ingredients": [
+      "Yağsız quark peyniri",
+      "Kırmızı frenk üzümü",
+      "Yulaf ezmesi",
+      "Akçaağaç şurubu",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Yulafı kuru tavada 3 dakika altın rengi olana kadar kavurun ve soğumaya bırakın.",
+      "Loru akçaağaç şurubu, vanilya ve 2 yemek kaşığı suyla kremsi olana kadar karıştırın.",
+      "Frenk üzümlerini saplarından ayırın ve yarısını kremaya ekleyin.",
+      "Kremayı bir tatlı kasesine alın ve kalan frenk üzümleri ve yulafı serpin."
+    ]
+  },
+  {
+    "id": "rec_5199",
+    "title": "Bademli brokoli ve limonlu tereyağı ile fırında somon",
+    "ingredients": [
+      "Somon fileto",
+      "Brokoli",
+      "Badem dilimleri",
+      "Tereyağı",
+      "Limon",
+      "Sarımsak",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Fırını 200 °C'ye ısıtın. Somonu tuzlayıp karabiberleyin ve küçük bir fırın kabında 14 dakika pişirin.",
+      "Brokoliyi çiçeklerine ayırın, tuzlu suda 4 dakika diri kalacak şekilde haşlayın ve süzün.",
+      "Tereyağını doğranmış sarımsakla tavada köpürtün, badem dilimlerini içinde 2 dakika altın rengi olana kadar kavurun ve brokoliyi kısaca çevirin.",
+      "Somonu bademli brokoliyle birlikte yerleştirin ve üzerine limon suyu ve tavadaki tereyağını gezdirin."
+    ]
+  },
+  {
+    "id": "rec_5200",
+    "title": "Mozzarellalı patlıcanlı dana kıymalı fırın yemeği",
+    "ingredients": [
+      "Patlıcan",
+      "Dana kıyma (%15 yağ)",
+      "Mozzarella",
+      "Süzme domates",
+      "Zeytinyağı",
+      "Sarımsak",
+      "Kekik, fesleğen",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Fırını 200 °C'ye ısıtın. Patlıcanı 1 cm kalınlığında dilimleyin, 10 g yağ sürün, tuzlayın ve tepside 15 dakika pişirin.",
+      "Dana kıymayı kalan yağda tane tane kavurun, sarımsak ve süzme domatesi ekleyin ve kekik, tuz ve karabiberle 5 dakika pişirin.",
+      "Patlıcanı ve kıyma sosunu küçük bir fırın kabına sırayla dizin ve üzerine mozzarella dilimleri koyun.",
+      "Peynir altın rengi olana kadar fırında 15 dakika pişirin ve fesleğenle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5201",
+    "title": "Pazı, zeytin ve çam fıstıklı hellim",
+    "ingredients": [
+      "Hellim",
+      "Pazı",
+      "Zeytin (Kalamata)",
+      "Çam fıstığı",
+      "Zeytinyağı",
+      "Limon",
+      "Sarımsak",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Çam fıstıklarını kuru tavada 2 dakika altın rengi olana kadar kavurun ve çıkarın.",
+      "Hellimi 4 dilime kesin ve tavada yağsız olarak her iki tarafını 2 dakika altın rengi olana kadar kızartın.",
+      "Pazıyı şeritler halinde kesin ve sarımsakla yağda 3 dakika soteleyin, zeytinleri ekleyin ve limon suyu, tuz ve karabiberle tatlandırın.",
+      "Pazıyı bir tabağa koyun, hellimi üzerine yerleştirin ve çam fıstığı serpin."
+    ]
+  },
+  {
+    "id": "rec_5202",
+    "title": "Tereyağlı Savoy lahanası ve hardallı tavada uskumru",
+    "ingredients": [
+      "Uskumru fileto (derili)",
+      "Kıvırcık lahana",
+      "Tereyağı",
+      "Krema (%30 yağ)",
+      "Orta acı hardal",
+      "Kekik, muskat",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Savoy lahanasını ince şeritler halinde kesin ve bir tencerede 10 g tereyağı ve 3 yemek kaşığı suyla kapağı kapalı 8 dakika pişirin.",
+      "Krema ve hardalı ekleyin, muskat, tuz ve karabiberle tatlandırın ve kapağı açık 2 dakika koyulaştırın.",
+      "Uskumru filetolarını tuzlayın ve kalan tereyağında kekikle derili tarafı altta 3 dakika çıtır olana kadar kızartın, çevirip 1 dakika daha pişirin.",
+      "Hardallı lahanayı bir tabağa yerleştirin ve uskumruyu üzerine koyun."
+    ]
+  },
+  {
+    "id": "rec_5203",
+    "title": "Ispanaklı ve kişnişli fıstık hindistan cevizi soslu tofu",
+    "ingredients": [
+      "Sade sert tofu",
+      "Yaprak ıspanak",
+      "Yer fıstığı ezmesi (şekersiz)",
+      "Hindistan cevizi sütü (tam yağlı)",
+      "Kanola yağı",
+      "Tamari (glutensiz)",
+      "Zencefil",
+      "Kişniş, pul biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Tofuyu küp doğrayın ve tavada yağda her tarafı 6 dakika altın rengi olana kadar kızartın.",
+      "Fıstık ezmesini hindistan cevizi sütü, tamari, rendelenmiş zencefil ve 3 yemek kaşığı suyla pürüzsüz olana kadar karıştırın.",
+      "Sosu tofunun üzerine dökün, 2 dakika pişirin ve ıspanağı içinde söndürün.",
+      "Kişniş ve pul biber serperek servis edin."
+    ]
+  },
+  {
+    "id": "rec_5204",
+    "title": "Fırında kekikli keçi peynirli mantar",
+    "ingredients": [
+      "İri kültür mantarı",
+      "Keçi peyniri (rulo)",
+      "Ceviz",
+      "Zeytinyağı",
+      "Sarımsak",
+      "Kekik",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Fırını 200 °C'ye ısıtın. Mantarların saplarını çevirerek çıkarın ve ince kıyın.",
+      "Kıyılmış sapları ufalanmış keçi peyniri, doğranmış ceviz, sarımsak ve kekikle karıştırın ve mantar başlarına doldurun.",
+      "Mantarları tepsiye dizin, üzerine yağ gezdirin ve peynir altın rengi olana kadar 15 dakika pişirin."
+    ]
+  },
+  {
+    "id": "rec_5205",
+    "title": "Füme alabalıklı avokado yumurta kayıkları",
+    "ingredients": [
+      "Avokado",
+      "Haşlanmış yumurta",
+      "Füme alabalık fileto",
+      "Krem fraiş",
+      "Limon suyu",
+      "Frenk soğanı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Avokadoyu ikiye bölün, çekirdeğini çıkarın ve üzerine limon suyu gezdirin.",
+      "Yumurtayı soyup ince doğrayın, alabalığı ayıklayın ve ikisini krem fraiche, frenk soğanı, tuz ve karabiberle karıştırın.",
+      "Karışımı avokado yarımlarına doldurun ve hemen servis edin."
+    ]
+  },
+  {
+    "id": "rec_5206",
+    "title": "Dağ peynirli kremalı karnabahar pırasa çorbası",
+    "ingredients": [
+      "Karnabahar",
+      "Pırasa",
+      "Sebze suyu",
+      "Krema (%30 yağ)",
+      "Rendelenmiş dağ peyniri",
+      "Tereyağı",
+      "Kabak çekirdeği",
+      "Küçük hindistan cevizi",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Pırasayı halkalar halinde doğrayın ve tereyağında 3 dakika soteleyin.",
+      "Karnabaharı çiçeklerine ayırın, et suyuyla birlikte ekleyin ve kapağı kapalı 15 dakika yumuşayana kadar pişirin.",
+      "Kremayı ve 30 g dağ peynirini ekleyin, pürüzsüz olana kadar blenderdan geçirin ve muskat, tuz ve karabiberle tatlandırın.",
+      "Kabak çekirdeklerini kuru tavada 2 dakika kavurun ve kalan peynirle birlikte çorbanın üzerine serpin."
+    ]
+  },
+  {
+    "id": "rec_5207",
+    "title": "Maydanozlu sarımsaklı tereyağı ve yeşil kuşkonmazlı rumpsteak",
+    "ingredients": [
+      "Rump steak",
+      "Yeşil kuşkonmaz",
+      "Tereyağı",
+      "Zeytinyağı",
+      "Sarımsak",
+      "Maydanoz",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Yumuşak tereyağını ince kıyılmış maydanoz, ezilmiş sarımsak ve bir tutam tuzla karıştırın ve soğutun.",
+      "Rumpsteaki kurulayın ve sıcak tavada 5 g yağda her iki tarafını 3 ila 4 dakika kızartın, ardından 5 dakika dinlendirin.",
+      "Kuşkonmazın odunsu uçlarını kesin ve kalan yağda 5 dakika kızartın, tuz ve karabiberle tatlandırın.",
+      "Steaki dilimleyin, kuşkonmazla birlikte yerleştirin ve otlu tereyağını üzerinde eritin."
+    ]
+  },
+  {
+    "id": "rec_5208",
+    "title": "Frenk soğanlı ekşi kremalı karnabahar peynir köftesi",
+    "ingredients": [
+      "Karnabahar",
+      "Yumurta",
+      "Çedar peyniri (rendelenmiş)",
+      "Badem unu",
+      "Schmand (ekşi krema)",
+      "Zeytinyağı",
+      "Frenk soğanı, toz biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Fırını 200 °C'ye ısıtın. Karnabaharı ince rendeleyin ve bir bezle iyice sıkın.",
+      "Karnabaharı yumurta, çedar, badem unu, toz biber, tuz ve karabiberle karıştırın ve yağ sürülmüş pişirme kağıdının üzerine 6 yassı köfte şekli verin.",
+      "Fırında 20 dakika altın rengi olana kadar pişirin, 12 dakika sonra bir kez çevirin.",
+      "Ekşi kremayı ince kıyılmış frenk soğanı ve tuzla karıştırın ve köftelerle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5209",
+    "title": "Kırmızı lahanalı, havuçlu ve susam soslu tavuklu karabuğday kutusu",
+    "ingredients": [
+      "Tavuk göğsü",
+      "Karabuğday (pişmemiş)",
+      "Kırmızı lahana",
+      "Havuç",
+      "Tamari (glutensiz)",
+      "Kavrulmuş susam yağı",
+      "Pirinç sirkesi",
+      "Susam",
+      "Zencefil",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Karabuğdayı iki katı tuzlu suda 12 dakika pişirin, süzün ve soğumaya bırakın.",
+      "Tavuk göğsünü tuzlayıp karabiberleyin ve yağsız yapışmaz tavada her iki tarafını 6 dakika iyice pişirin, soğutun ve şeritler halinde kesin.",
+      "Kırmızı lahanayı ince doğrayın, havucu iri rendeleyin. Tamari, susam yağı, pirinç sirkesi ve rendelenmiş zencefili karıştırarak sos hazırlayın.",
+      "Karabuğdayı, sebzeleri ve tavuğu yan yana bir kaba koyun, susam serpin ve buzdolabında 3 güne kadar saklayın.",
+      "Sosu ayrı küçük bir vidalı kavanozda yanınıza alın."
+    ]
+  },
+  {
+    "id": "rec_5210",
+    "title": "Elmalı, beyaz peynirli ve hardal soslu mercimek karalahana salatası",
+    "ingredients": [
+      "Yeşil mercimek (kuru)",
+      "Kara lahana (taze)",
+      "Elma",
+      "Beyaz peynir",
+      "Kırmızı soğan",
+      "Zeytinyağı",
+      "Orta acı hardal",
+      "Elma sirkesi",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Mercimekleri bol suda 20 dakika diri kalacak şekilde haşlayın, süzün ve soğumaya bırakın.",
+      "Karalahanayı saplarından ayırın, ince doğrayın ve bir tutam tuzla 1 dakika yumuşayana kadar ovun.",
+      "Elmayı küp doğrayın, soğanı ince kıyın ve mercimek ve karalahana ile karıştırın. Yağ, hardal ve sirkeyi karıştırarak sos hazırlayın.",
+      "Salatayı bir kaba koyun, üzerine beyaz peyniri ufalayın ve buzdolabında 4 güne kadar saklayın.",
+      "Kaptan soğuk yiyin, sosu yemeden hemen önce karıştırın."
+    ]
+  },
+  {
+    "id": "rec_5211",
+    "title": "Bulgur, kabak ve beyaz peynir soslu limonlu kekikli hindi",
+    "ingredients": [
+      "Hindi göğsü",
+      "Bulgur (pişmemiş)",
+      "Kabak",
+      "Light beyaz peynir (feta)",
+      "Süzme yoğurt (%0,2 yağ)",
+      "Zeytinyağı",
+      "Limon suyu",
+      "Sarımsak",
+      "Kekik",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Hindi göğsünü küp doğrayın ve 5 g yağ, limon suyunun yarısı, kekik, tuz ve karabiberle karıştırın.",
+      "Bulgurun üzerine iki katı kaynar tuzlu su dökün ve kapağı kapalı 15 dakika şişmeye bırakın.",
+      "Hindiyi kalan yağda 6 dakika iyice pişirin, kabak küplerini ekleyin ve 3 dakika daha kızartın.",
+      "Beyaz peyniri yoğurt, ezilmiş sarımsak ve kalan limon suyuyla ezin ve sos olarak ayrı bir kaba koyun.",
+      "Bulguru, hindiyi ve kabağı bir kaba koyun, soğumaya bırakın ve buzdolabında 3 güne kadar saklayın.",
+      "Ofiste soğuk yiyin veya üzeri kapalı şekilde mikrodalgada 2 ila 3 dakika iyice ısıtın."
+    ]
+  },
+  {
+    "id": "rec_5212",
+    "title": "Esmer pirinçli, salatalıklı ve edamameli gochujang tofu kutusu",
+    "ingredients": [
+      "Sade sert tofu",
+      "Esmer pirinç (pişmemiş)",
+      "Ayıklanmış edamame (dondurulmuş)",
+      "Salatalık",
+      "Havuç",
+      "Gochujang",
+      "Kanola yağı",
+      "Susam",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Esmer pirinci paket talimatına göre yaklaşık 25 dakika pişirin ve soğumaya bırakın.",
+      "Tofuyu küp doğrayın ve yağda 6 dakika altın rengi olana kadar kızartın, gochujangı 2 yemek kaşığı suyla karıştırın ve tofuyu içinde 1 dakika sırlayın.",
+      "Edamameyi kaynar suda 3 dakika haşlayın, salatalığı ve havucu ince çubuklar halinde kesin.",
+      "Pirinci, tofuyu, edamameyi ve sebzeleri bir kaba koyun, susam serpin ve buzdolabında 3 güne kadar saklayın.",
+      "Ofiste soğuk yiyin veya üzeri kapalı şekilde mikrodalgada 2 ila 3 dakika iyice ısıtın."
+    ]
+  },
+  {
+    "id": "rec_5213",
+    "title": "Nohutlu, salatalıklı ve naneli tam buğday kuskus salatası",
+    "ingredients": [
+      "Tam buğday kuskus (pişmemiş)",
+      "Nohut (süzülmüş)",
+      "Salatalık",
+      "Domates",
+      "Maydanoz",
+      "Nane",
+      "Zeytinyağı",
+      "Limon suyu",
+      "Kimyon",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Kuskusun üzerine 90 ml kaynar tuzlu su dökün, kapağı kapalı 5 dakika şişmeye bırakın ve çatalla kabartın.",
+      "Salatalığı ve domatesi küp doğrayın, maydanoz ve naneyi ince kıyın.",
+      "Kuskusu nohut, sebzeler, otlar, yağ, limon suyu, kimyon, tuz ve karabiberle karıştırın.",
+      "Bir kaba koyun, buzdolabında 4 güne kadar saklayın ve soğuk yiyin."
+    ]
+  },
+  {
+    "id": "rec_5214",
+    "title": "Yeşil fasulyeli ve hardallı dereotlu soslu somon patates kutusu",
+    "ingredients": [
+      "Somon fileto (derisiz)",
+      "Patates (sert, haşlamalık)",
+      "Taze fasulye",
+      "Süzme yoğurt (%0,2 yağ)",
+      "Orta acı hardal",
+      "Dereotu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Patatesleri kabuklarıyla tuzlu suda 18 dakika haşlayın, son 6 dakikada fasulyeleri ekleyin, süzün ve soğumaya bırakın.",
+      "Fırını 200 °C'ye ısıtın, somonu tuzlayıp karabiberleyin ve 12 dakika pişirin.",
+      "Yoğurdu hardal, doğranmış dereotu ve bir tutam tuzla karıştırın ve ayrı bir kaba koyun.",
+      "İkiye bölünmüş patatesleri, fasulyeleri ve somonu bir kaba koyun ve buzdolabında 3 güne kadar saklayın.",
+      "Soğuk yiyin veya üzeri kapalı şekilde mikrodalgada 2 ila 3 dakika ısıtın, sosu daha sonra ekleyin."
+    ]
+  },
+  {
+    "id": "rec_5215",
+    "title": "Yasemin pirinçli ve zencefilli dana brokoli kutusu",
+    "ingredients": [
+      "Dana biftek (but)",
+      "Brokoli",
+      "Jasmin pirinç (pişmemiş)",
+      "Tamari (glutensiz)",
+      "Zencefil",
+      "Sarımsak",
+      "Mısır nişastası",
+      "Kanola yağı",
+      "Taze soğan"
+    ],
+    "instructions": [
+      "Yasemin pirincini paket talimatına göre yaklaşık 12 dakika pişirin.",
+      "Dana etini ince şeritler halinde kesin ve nişasta ve 5 g tamariyle karıştırın, brokoliyi küçük çiçeklere ayırın.",
+      "Eti kızgın yağda 2 dakika yüksek ateşte kızartın ve çıkarın. Brokoliyi zencefil, sarımsak ve 4 yemek kaşığı suyla 4 dakika pişirin, eti ve kalan tamariyi ekleyin.",
+      "Pirinci ve dana brokoliyi bir kaba koyun, taze soğan serpin, soğumaya bırakın ve buzdolabında 3 güne kadar saklayın.",
+      "Yemeden önce üzeri kapalı şekilde mikrodalgada 2 ila 3 dakika iyice ısıtın ve bir kez karıştırın."
+    ]
+  },
+  {
+    "id": "rec_5216",
+    "title": "Ton balıklı, kapari ve domatesli mercimek makarnası salatası",
+    "ingredients": [
+      "Kırmızı mercimek makarnası (pişmemiş)",
+      "Kendi suyunda ton balığı, süzülmüş",
+      "Çeri domates",
+      "Kapari",
+      "Roka",
+      "Kırmızı soğan",
+      "Zeytinyağı",
+      "Limon suyu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Mercimek makarnasını paket talimatına göre tuzlu suda yaklaşık 7 dakika haşlayın, süzün, soğuk sudan geçirin ve suyunu süzdürün.",
+      "Çeri domatesleri ikiye bölün, soğanı ince doğrayın ve ton balığını ayıklayın.",
+      "Makarnayı domates, soğan, ton balığı, kapari, yağ, limon suyu, tuz ve karabiberle karıştırın ve bir kaba koyun.",
+      "Rokayı üstüne koyun, buzdolabında 3 güne kadar saklayın ve soğuk yiyin."
+    ]
+  },
+  {
+    "id": "rec_5217",
+    "title": "Sai bhaji – Esmer pirinçli Sindh usulü ıspanaklı mercimekli sebze",
+    "ingredients": [
+      "Sarı mercimek (pişmemiş)",
+      "Yaprak ıspanak",
+      "Patates (sert, haşlamalık)",
+      "Domates",
+      "Soğan",
+      "Zencefil",
+      "Sarımsak",
+      "Esmer pirinç (pişmemiş)",
+      "Kanola yağı",
+      "Kimyon, zerdeçal, pul biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Esmer pirinci paket talimatına göre yaklaşık 25 dakika pişirin.",
+      "Soğanı, zencefili ve sarımsağı ince kıyın ve yağda kimyonla 3 dakika kavurun.",
+      "Mercimek, küp doğranmış patates, domates, zerdeçal, acı biber ve 300 ml suyu ekleyin ve kapağı kapalı 20 dakika pişirin.",
+      "Ispanağı iri doğrayın, ekleyin ve 5 dakika daha pişirin, ardından hafifçe ezin ve tuzlayın.",
+      "Sai bhajiyi esmer pirinçle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5218",
+    "title": "Patlıcanlı, domatesli masoor dal ve tam buğday çapati",
+    "ingredients": [
+      "Kırmızı mercimek (pişmemiş)",
+      "Patlıcan",
+      "Domates",
+      "Soğan",
+      "Sarımsak",
+      "Kanola yağı",
+      "Tam buğday chapati",
+      "Garam masala, zerdeçal, kimyon",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Patlıcanı küp doğrayın ve bir tencerede yağda 5 dakika kızartın.",
+      "Soğanı ve sarımsağı ince kıyın, ekleyin ve kimyon ve zerdeçalla 2 dakika kavurun.",
+      "Mercimek, küp doğranmış domates ve 350 ml suyu ekleyin ve 15 dakika koyulaşana kadar pişirin.",
+      "Garam masala ve tuzla tatlandırın ve kuru tavada ısıtılmış çapatiyle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5219",
+    "title": "Diri ak pwa nwa – Siyah fasulyeli ve kekikli Haiti pilavı",
+    "ingredients": [
+      "Esmer pirinç (pişmemiş)",
+      "Siyah fasulye (süzülmüş)",
+      "Yeşil biber",
+      "Soğan",
+      "Sarımsak",
+      "Light hindistan cevizi sütü",
+      "Kanola yağı",
+      "Misket limonu suyu",
+      "Kekik, yenibahar",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soğanı, biberi ve sarımsağı ince doğrayın ve yağda 4 dakika kavurun.",
+      "Pirinç, kekik ve yenibaharı ekleyin, hindistan cevizi sütü ve 200 ml su ekleyin ve kapağı kapalı 25 dakika pişirin.",
+      "Fasulyeleri ekleyin ve pirinç suyunu çekene kadar 5 dakika daha pişirin.",
+      "Misket limonu suyu, tuz ve karabiberle tatlandırın ve servis edin."
+    ]
+  },
+  {
+    "id": "rec_5220",
+    "title": "Usal – Hindistan cevizli ve darılı Maharashtra maş fasulyesi körisi",
+    "ingredients": [
+      "Maş fasulyesi (kuru)",
+      "Domates",
+      "Soğan",
+      "Hindistan cevizi rendesi",
+      "Darı (pişmemiş)",
+      "Kanola yağı",
+      "Sarımsak",
+      "Hardal tohumu, köri yaprağı, zerdeçal",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Maş fasulyelerini bol suda 25 dakika yumuşayana kadar haşlayın ve süzün, 150 ml pişirme suyunu ayırın.",
+      "Darıyı 100 ml tuzlu suyla kaynatın ve kapağı kapalı 15 dakika şişmeye bırakın.",
+      "Hardal tohumlarını ve köri yapraklarını tohumlar patlayana kadar yağda kavurun, soğan, sarımsak ve domatesi ekleyin ve 5 dakika pişirin.",
+      "Maş fasulyelerini, hindistan cevizi rendesini, zerdeçalı ve pişirme suyunu ekleyin, 5 dakika pişirin, tuzlayın ve darıyla servis edin."
+    ]
+  },
+  {
+    "id": "rec_5221",
+    "title": "Avial – Börülceli Kerala usulü hindistan cevizli yoğurtlu sebze",
+    "ingredients": [
+      "Börülce (haşlanmış, süzülmüş)",
+      "Havuç",
+      "Taze fasulye",
+      "Hokkaido balkabağı",
+      "Hindistan cevizi rendesi",
+      "Sade yoğurt (%3,5 yağ)",
+      "Hindistan cevizi yağı",
+      "Köri yaprağı, kimyon, zerdeçal, acı biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Havucu, fasulyeyi ve balkabağını eşit uzunlukta çubuklar halinde kesin ve zerdeçal ve 150 ml tuzlu suyla kapağı kapalı 10 dakika diri kalacak şekilde pişirin.",
+      "Hindistan cevizi rendesini kimyon, acı biber ve 3 yemek kaşığı suyla havanda veya blenderda iri bir macun haline getirin.",
+      "Börülceyi ve hindistan cevizi macununu sebzelere ekleyin ve 3 dakika ısıtın, ocaktan alın ve yoğurdu karıştırın.",
+      "Köri yapraklarını hindistan cevizi yağında 30 saniye çıtır olana kadar kızartın ve avialın üzerine dökün."
+    ]
+  },
+  {
+    "id": "rec_5222",
+    "title": "Havuçlu, nohutlu ve esmer pirinçli vejetaryen plov",
+    "ingredients": [
+      "Esmer pirinç (pişmemiş)",
+      "Nohut (süzülmüş)",
+      "Havuç",
+      "Soğan",
+      "Sarımsak",
+      "Kanola yağı",
+      "Kuru üzüm",
+      "Kimyon, kişniş tohumu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Havuçları uzun ince çubuklar halinde kesin, soğanı yarım halkalar halinde doğrayın.",
+      "Soğanı ağır bir tencerede yağda 5 dakika altın rengi olana kadar kavurun, havuç ve kimyonu ekleyin ve 5 dakika daha kavurun.",
+      "Nohut, kuru üzüm, kişniş tohumu ve tuzu ekleyin, pirinci üzerine serpin ve karıştırmadan 200 ml su dökün.",
+      "Soyulmamış sarımsak dişlerini pirincin içine bastırın ve kapağı kapalı kısık ateşte 35 dakika pişirin, servis etmeden önce hafifçe karıştırın."
+    ]
+  },
+  {
+    "id": "rec_5223",
+    "title": "Vejetaryen lagman – Biberli, fasulyeli ve domatesli Uygur usulü tam buğday makarna",
+    "ingredients": [
+      "Tam buğday spagetti (pişmemiş)",
+      "Kırmızı fasulye (süzülmüş)",
+      "Kırmızı biber",
+      "Domates",
+      "Soğan",
+      "Sarımsak",
+      "Domates salçası",
+      "Sebze suyu",
+      "Kanola yağı",
+      "Kimyon, pul biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Tam buğday spagettiyi paket talimatına göre tuzlu suda yaklaşık 9 dakika haşlayın ve süzün.",
+      "Soğanı, biberi ve sarımsağı şeritler halinde kesin ve yağda 5 dakika yüksek ateşte kavurun.",
+      "Salça, kimyon ve pul biberi 1 dakika kavurun, küp doğranmış domates, fasulye ve et suyunu ekleyin ve 8 dakika koyulaştırın.",
+      "Makarnayı derin bir kaseye koyun ve sebze sosunu üzerine yayın."
+    ]
+  },
+  {
+    "id": "rec_5224",
+    "title": "Vejetaryen fasolka po bretońsku – Füme tofulu domates soslu Polonya usulü fasulye",
+    "ingredients": [
+      "Beyaz fasulye (süzülmüş)",
+      "Füme tofu",
+      "Süzme domates",
+      "Soğan",
+      "Domates salçası",
+      "Tam tahıllı çavdar ekmeği",
+      "Kanola yağı",
+      "Mercanköşk, tütsülenmiş toz biber, defne yaprağı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Füme tofuyu küçük küpler halinde kesin ve yağda 4 dakika çıtır olana kadar kızartın.",
+      "Küp doğranmış soğanı ekleyin ve 3 dakika daha kavurun, salçayı ve toz biberi 1 dakika kavurun.",
+      "Süzme domates, fasulye, defne ve mercanköşkünü ekleyin, 15 dakika koyulaşana kadar pişirin ve tuz ve karabiberle tatlandırın.",
+      "Derin bir kaseye alın ve tam çavdar ekmeğiyle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5225",
+    "title": "Kenchinjiru – Edamameli Japon kök sebze tofu çorbası",
+    "ingredients": [
+      "Sade sert tofu",
+      "Ayıklanmış edamame (dondurulmuş)",
+      "Daikon turpu",
+      "Havuç",
+      "Shiitake",
+      "Pırasa",
+      "Kavrulmuş susam yağı",
+      "Tamari (glutensiz)",
+      "Wakame (kurutulmuş)",
+      "Sebze suyu"
+    ],
+    "instructions": [
+      "Daikonu ve havucu ince yarım aylar halinde, şitakeyi dilimler halinde ve pırasayı halkalar halinde kesin.",
+      "Sebzeleri ve mantarları bir tencerede susam yağında 4 dakika kavurun, tofuyu elinizle ufalayarak ekleyin ve 2 dakika daha kavurun.",
+      "Et suyunu ekleyin ve daikon yumuşayana kadar kapağı kapalı 15 dakika pişirin.",
+      "Edamame ve wakameyi ekleyin, 3 dakika demlenmeye bırakın ve tamariyle tatlandırın."
+    ]
+  },
+  {
+    "id": "rec_5226",
+    "title": "Barbunyalı, turşulu ve biberli vejetaryen solyanka",
+    "ingredients": [
+      "Kırmızı fasulye (süzülmüş)",
+      "Füme tofu",
+      "Kırmızı biber",
+      "Salatalık turşusu",
+      "Soğan",
+      "Domates salçası",
+      "Süzme domates",
+      "Sebze suyu",
+      "Light ekşi krema",
+      "Kanola yağı",
+      "Toz biber, defne yaprağı, dereotu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Füme tofuyu küp doğrayın ve bir tencerede yağda 4 dakika kavurun, soğanı ve biberi şeritler halinde kesin, ekleyin ve 4 dakika daha kavurun.",
+      "Salçayı ve toz biberi 1 dakika kavurun, süzme domates ve et suyuyla söndürün ve defne yaprağını ekleyin.",
+      "Turşuları şeritler halinde kesin, fasulyelerle birlikte ekleyin ve 15 dakika pişirin, ardından tuz ve karabiberle tatlandırın.",
+      "Bir çorba kasesine alın ve bir kaşık ekşi krema ve dereotu ile servis edin."
+    ]
   }
 ]
