@@ -395005,5 +395005,3310 @@
       "milch",
       "ei"
     ]
+  },
+  {
+    "id": "rec_5677",
+    "title": "Clementinen-Zimt-Polentabrei mit Sojaprotein",
+    "calories": 315,
+    "protein": 32,
+    "carbs": 33,
+    "fiber": 4,
+    "fat": 5,
+    "servingSizeGrams": 450,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5677_d27_clementinen_zimt_polentabrei_sojaprotein.jpg",
+    "ingredients": [
+      {
+        "name": "Polenta",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "28g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "180 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "40 ml"
+      },
+      {
+        "name": "Clementine",
+        "amount": "1 große"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Polenta mit 150 ml Sojadrink, 40 ml Wasser und der Hälfte des Zimts aufkochen und unter Rühren 5 Minuten köcheln lassen.",
+      "Sojaprotein mit den restlichen 30 ml Sojadrink glatt rühren und unter den Brei ziehen.",
+      "Clementine schälen und in Spalten teilen.",
+      "Brei in eine Schale füllen, mit den Clementinenspalten belegen und mit dem restlichen Zimt bestäuben."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "volumenreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5678",
+    "title": "Physalis-Mandel-Quinoabrei mit Sojaprotein",
+    "calories": 335,
+    "protein": 35,
+    "carbs": 27,
+    "fiber": 5,
+    "fat": 8,
+    "servingSizeGrams": 365,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5678_d27_physalis_mandel_quinoabrei_sojaprotein.jpg",
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "28g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "180 ml"
+      },
+      {
+        "name": "Physalis",
+        "amount": "ca. 14 Stück"
+      },
+      {
+        "name": "Mandeln (gehobelt)",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Quinoa heiß abspülen, mit 150 ml Sojadrink aufkochen und zugedeckt bei kleiner Hitze 15 Minuten quellen lassen.",
+      "Sojaprotein mit den restlichen 30 ml Sojadrink glatt rühren und unter den Brei ziehen.",
+      "Physalis aus den Hüllen lösen, waschen und halbieren. Mandeln in einer Pfanne ohne Fett goldbraun rösten.",
+      "Brei in eine Schale füllen, mit Physalis belegen und mit den Mandeln bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5679",
+    "title": "Stachelbeer-Vanille-Buchweizen-Pancakes mit Soja-Skyr",
+    "calories": 325,
+    "protein": 31,
+    "carbs": 27,
+    "fiber": 5,
+    "fat": 10,
+    "servingSizeGrams": 305,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5679_d27_stachelbeer_vanille_buchweizen_pancakes.jpg",
+    "ingredients": [
+      {
+        "name": "Buchweizenmehl",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "23g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "90 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "80g"
+      },
+      {
+        "name": "Stachelbeeren",
+        "amount": "80g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Vanille (gemahlen)",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Buchweizenmehl, Erbsenprotein, Backpulver und Vanille mischen und mit dem Sojadrink zu einem glatten Teig verrühren.",
+      "Stachelbeeren mit dem Ahornsirup in einem kleinen Topf 3 Minuten erwärmen, bis einige aufplatzen.",
+      "Eine beschichtete Pfanne mit Rapsöl auspinseln und aus dem Teig 4 kleine Pancakes von jeder Seite 2 Minuten backen.",
+      "Pancakes stapeln, mit Soja-Skyr und den warmen Stachelbeeren servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5680",
+    "title": "Zwetschgen-Mohn-Hirseflocken-Waffeln mit Soja-Skyr",
+    "calories": 345,
+    "protein": 31,
+    "carbs": 30,
+    "fiber": 5,
+    "fat": 10,
+    "servingSizeGrams": 305,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5680_d27_zwetschgen_mohn_hirseflocken_waffeln.jpg",
+    "ingredients": [
+      {
+        "name": "Hirseflocken",
+        "amount": "2 1/2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "24g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "80 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "70g"
+      },
+      {
+        "name": "Zwetschgen",
+        "amount": "3 Stück"
+      },
+      {
+        "name": "Mohn",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kokosöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Hirseflocken im Mixer fein mahlen und mit Sojaprotein, Mohn und Backpulver mischen.",
+      "Sojadrink unterrühren und den Teig 5 Minuten quellen lassen. Zwetschgen entsteinen und in Spalten schneiden.",
+      "Waffeleisen mit Kokosöl auspinseln und aus dem Teig 2 Waffeln je 4 Minuten goldbraun backen.",
+      "Waffeln mit Soja-Skyr und den Zwetschgenspalten anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5681",
+    "title": "Litschi-Himbeer-Reisflockenbrei mit Erbsenprotein",
+    "calories": 320,
+    "protein": 31,
+    "carbs": 34,
+    "fiber": 6,
+    "fat": 6,
+    "servingSizeGrams": 360,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5681_d27_litschi_himbeer_reisflockenbrei.jpg",
+    "ingredients": [
+      {
+        "name": "Reisflocken",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "28g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "180 ml"
+      },
+      {
+        "name": "Litschis",
+        "amount": "6 Stück"
+      },
+      {
+        "name": "Himbeeren",
+        "amount": "50g"
+      }
+    ],
+    "instructions": [
+      "Reisflocken mit 150 ml Sojadrink aufkochen und unter Rühren 4 Minuten köcheln lassen.",
+      "Erbsenprotein mit den restlichen 30 ml Sojadrink glatt rühren und unter den Brei ziehen.",
+      "Litschis schälen, halbieren und entkernen. Himbeeren verlesen.",
+      "Brei in eine Schale füllen und mit Litschis und Himbeeren belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5682",
+    "title": "Feigen-Sesam-Amaranth-Porridge mit Sojaprotein",
+    "calories": 345,
+    "protein": 34,
+    "carbs": 30,
+    "fiber": 6,
+    "fat": 8,
+    "servingSizeGrams": 405,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5682_d27_feigen_sesam_amaranth_porridge.jpg",
+    "ingredients": [
+      {
+        "name": "Amaranth",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "28g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "180 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "50 ml"
+      },
+      {
+        "name": "Feigen (frisch)",
+        "amount": "2 kleine"
+      },
+      {
+        "name": "Sesam",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Amaranth mit 150 ml Sojadrink und 50 ml Wasser aufkochen und zugedeckt bei kleiner Hitze 20 Minuten quellen lassen.",
+      "Sojaprotein mit den restlichen 30 ml Sojadrink glatt rühren und unter den Brei ziehen.",
+      "Feigen in Viertel schneiden. Sesam in einer Pfanne ohne Fett goldbraun rösten.",
+      "Porridge in eine Schale füllen, mit den 8 Feigenvierteln belegen und mit Sesam bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_5683",
+    "title": "Sanddorn-Bananen-Hirsebrei mit Sojaprotein",
+    "calories": 340,
+    "protein": 32,
+    "carbs": 35,
+    "fiber": 5,
+    "fat": 7,
+    "servingSizeGrams": 360,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5683_d27_sanddorn_bananen_hirsebrei_sojaprotein.jpg",
+    "ingredients": [
+      {
+        "name": "Hirse",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "28g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "180 ml"
+      },
+      {
+        "name": "Sanddornpüree (ungesüßt)",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Banane",
+        "amount": "1/2"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Vanille (gemahlen)",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Hirse heiß abspülen und mit 150 ml Sojadrink und Vanille aufkochen. Zugedeckt bei kleiner Hitze 15 Minuten quellen lassen.",
+      "Sojaprotein mit den restlichen 30 ml Sojadrink glatt rühren und unter den Brei ziehen.",
+      "Sanddornpüree mit dem Ahornsirup verrühren. Banane in Scheiben schneiden.",
+      "Brei in eine Schale füllen, mit Bananenscheiben belegen und das Sanddornpüree darüberträufeln."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5684",
+    "title": "Aprikosen-Zimt-Reismehl-Crêpes mit Soja-Skyr",
+    "calories": 340,
+    "protein": 31,
+    "carbs": 30,
+    "fiber": 4,
+    "fat": 10,
+    "servingSizeGrams": 365,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5684_d27_aprikosen_zimt_reismehl_crepes.jpg",
+    "ingredients": [
+      {
+        "name": "Reismehl",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "22g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "100g"
+      },
+      {
+        "name": "Aprikosen",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Reismehl, Erbsenprotein, die Hälfte des Zimts und Sojadrink glatt verquirlen und 10 Minuten quellen lassen.",
+      "Aprikosen entsteinen und in dünne Spalten schneiden.",
+      "Eine beschichtete Pfanne mit Rapsöl auspinseln und aus dem Teig 2 dünne Crêpes von jeder Seite 1 bis 2 Minuten backen.",
+      "Crêpes mit Soja-Skyr bestreichen, mit Aprikosen belegen, zusammenklappen und mit dem restlichen Zimt bestäuben."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5685",
+    "title": "Blutorangen-Kakao-Teffbrei mit Erbsenprotein",
+    "calories": 335,
+    "protein": 34,
+    "carbs": 33,
+    "fiber": 7,
+    "fat": 6,
+    "servingSizeGrams": 460,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5685_d27_blutorangen_kakao_teffbrei.jpg",
+    "ingredients": [
+      {
+        "name": "Teff",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "28g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "170 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "50 ml"
+      },
+      {
+        "name": "Kakaopulver (ungesüßt)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Blutorange",
+        "amount": "1"
+      }
+    ],
+    "instructions": [
+      "Teff mit 140 ml Sojadrink, 50 ml Wasser und dem Kakao aufkochen und bei kleiner Hitze unter gelegentlichem Rühren 15 Minuten quellen lassen.",
+      "Erbsenprotein mit den restlichen 30 ml Sojadrink glatt rühren und unter den Brei ziehen.",
+      "Blutorange schälen und mit einem scharfen Messer die Filets herauslösen.",
+      "Brei in eine Schale füllen und die Blutorangenfilets darauf verteilen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "dash",
+      "low-gi",
+      "volumenreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5686",
+    "title": "Wassermelonen-Limetten-Skyrbowl mit Quinoapops",
+    "calories": 330,
+    "protein": 34,
+    "carbs": 28,
+    "fiber": 4,
+    "fat": 8,
+    "servingSizeGrams": 470,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5686_d27_wassermelonen_limetten_skyrbowl_quinoapops.jpg",
+    "ingredients": [
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "230g"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "18g"
+      },
+      {
+        "name": "Wassermelone",
+        "amount": "1 Scheibe"
+      },
+      {
+        "name": "Limette",
+        "amount": "1/2"
+      },
+      {
+        "name": "Gepuffter Quinoa",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Schale der Limettenhälfte fein abreiben und den Saft auspressen.",
+      "Soja-Skyr mit Sojaprotein, Ahornsirup und der Hälfte des Limettenabriebs glatt rühren und in eine flache Schale geben.",
+      "Wassermelone entkernen, würfeln und mit dem Limettensaft mischen.",
+      "Melonenwürfel auf der Skyrcreme verteilen und mit gepufftem Quinoa und dem restlichen Abrieb bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "volumenreich",
+      "quick-win"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5687",
+    "title": "Mango-Kardamom-Buchweizen-Waffeln mit Soja-Skyr",
+    "calories": 340,
+    "protein": 31,
+    "carbs": 32,
+    "fiber": 5,
+    "fat": 9,
+    "servingSizeGrams": 285,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5687_d27_mango_kardamom_buchweizen_waffeln.jpg",
+    "ingredients": [
+      {
+        "name": "Buchweizenmehl",
+        "amount": "3 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "24g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "80 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "70g"
+      },
+      {
+        "name": "Mango",
+        "amount": "80g"
+      },
+      {
+        "name": "Kokosöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Kardamom (gemahlen)",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Buchweizenmehl, Erbsenprotein, Backpulver und Kardamom mischen.",
+      "Sojadrink unterrühren und den Teig 5 Minuten quellen lassen. Mango schälen und in kleine Würfel schneiden.",
+      "Waffeleisen mit Kokosöl auspinseln und aus dem Teig 2 Waffeln je 4 Minuten goldbraun backen.",
+      "Waffeln mit Soja-Skyr und den Mangowürfeln anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5688",
+    "title": "Heidelbeer-Zitronen-Maisgrieß-Pancakes mit Soja-Skyr",
+    "calories": 330,
+    "protein": 31,
+    "carbs": 28,
+    "fiber": 6,
+    "fat": 9,
+    "servingSizeGrams": 405,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5688_d27_heidelbeer_zitronen_maisgriess_pancakes.jpg",
+    "ingredients": [
+      {
+        "name": "Maisgrieß (fein)",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "24g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "100 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "80g"
+      },
+      {
+        "name": "Heidelbeeren",
+        "amount": "80g"
+      },
+      {
+        "name": "Zitrone",
+        "amount": "1/4"
+      },
+      {
+        "name": "Kokosöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Schale des Zitronenviertels fein abreiben. Maisgrieß, Erbsenprotein, Backpulver und Abrieb mit dem Sojadrink verrühren und 10 Minuten quellen lassen.",
+      "Ein Drittel der Heidelbeeren unter den Teig heben.",
+      "Eine beschichtete Pfanne mit Kokosöl auspinseln und aus dem Teig 4 kleine Pancakes von jeder Seite 2 Minuten backen.",
+      "Soja-Skyr mit dem Saft des Zitronenviertels verrühren. Pancakes stapeln und mit der Skyrcreme und den restlichen Heidelbeeren servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5689",
+    "title": "Pfirsich-Kokos-Quinoaflocken-Muffins mit Sojaprotein",
+    "calories": 340,
+    "protein": 32,
+    "carbs": 30,
+    "fiber": 5,
+    "fat": 10,
+    "servingSizeGrams": 250,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5689_d27_pfirsich_kokos_quinoaflocken_muffins.jpg",
+    "ingredients": [
+      {
+        "name": "Quinoaflocken",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "30g"
+      },
+      {
+        "name": "Apfelmus (ungesüßt)",
+        "amount": "3 EL"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "50g"
+      },
+      {
+        "name": "Pfirsich",
+        "amount": "1/2"
+      },
+      {
+        "name": "Kokosraspel",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 180 °C Ober-/Unterhitze vorheizen und 2 Muffinförmchen aus Papier in ein Muffinblech setzen.",
+      "Quinoaflocken, Sojaprotein und Backpulver mischen. Apfelmus, Soja-Skyr und Rapsöl unterrühren.",
+      "Pfirsich entsteinen und klein würfeln, zwei Drittel unter den Teig heben. Teig auf die 2 Förmchen verteilen.",
+      "Mit den restlichen Pfirsichwürfeln und den Kokosraspeln bestreuen und 22 Minuten goldbraun backen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_5690",
+    "title": "Birnen-Kakao-Overnight-Quinoaflocken mit Soja-Skyr",
+    "calories": 335,
+    "protein": 33,
+    "carbs": 28,
+    "fiber": 7,
+    "fat": 9,
+    "servingSizeGrams": 365,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5690_d27_birnen_kakao_overnight_quinoaflocken.jpg",
+    "ingredients": [
+      {
+        "name": "Quinoaflocken",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "120g"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "20g"
+      },
+      {
+        "name": "Kakaopulver (ungesüßt)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Birne",
+        "amount": "1/2 große"
+      }
+    ],
+    "instructions": [
+      "Quinoaflocken mit Sojadrink, Sojaprotein und Kakao in einem Glas glatt verrühren.",
+      "Zugedeckt über Nacht, mindestens 6 Stunden, in den Kühlschrank stellen.",
+      "Birne entkernen und klein würfeln.",
+      "Soja-Skyr als Schicht auf die Quinoaflocken geben und mit den Birnenwürfeln belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5691",
+    "title": "Brombeer-Zitronen-Buchweizen-Crêpes mit Soja-Skyr",
+    "calories": 345,
+    "protein": 34,
+    "carbs": 28,
+    "fiber": 8,
+    "fat": 10,
+    "servingSizeGrams": 360,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5691_d27_brombeer_zitronen_buchweizen_crepes.jpg",
+    "ingredients": [
+      {
+        "name": "Buchweizenmehl",
+        "amount": "2 1/2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "22g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "100g"
+      },
+      {
+        "name": "Brombeeren",
+        "amount": "80g"
+      },
+      {
+        "name": "Zitrone",
+        "amount": "1/4"
+      },
+      {
+        "name": "Kokosöl",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Buchweizenmehl, Sojaprotein und Sojadrink glatt verquirlen und 10 Minuten quellen lassen.",
+      "Schale des Zitronenviertels fein abreiben, Saft auspressen und beides unter den Soja-Skyr rühren.",
+      "Eine beschichtete Pfanne mit Kokosöl auspinseln und aus dem Teig 2 dünne Crêpes von jeder Seite 1 bis 2 Minuten backen.",
+      "Crêpes mit der Zitronen-Skyrcreme und den Brombeeren füllen und einrollen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-gi"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5692",
+    "title": "Ananas-Kokos-Reismehl-Pancakes mit Soja-Skyr",
+    "calories": 345,
+    "protein": 31,
+    "carbs": 29,
+    "fiber": 4,
+    "fat": 11,
+    "servingSizeGrams": 320,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5692_d27_ananas_kokos_reismehl_pancakes.jpg",
+    "ingredients": [
+      {
+        "name": "Reismehl",
+        "amount": "1 1/2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "26g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "90 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "80g"
+      },
+      {
+        "name": "Ananas",
+        "amount": "100g"
+      },
+      {
+        "name": "Kokosraspel",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kokosöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Reismehl, Erbsenprotein, Backpulver und die Hälfte der Kokosraspel mischen und mit dem Sojadrink zu einem glatten Teig verrühren.",
+      "Ananas schälen und in kleine Würfel schneiden.",
+      "Eine beschichtete Pfanne mit Kokosöl auspinseln und aus dem Teig 4 kleine Pancakes von jeder Seite 2 Minuten backen.",
+      "Pancakes stapeln, mit Soja-Skyr und Ananaswürfeln belegen und mit den restlichen Kokosraspeln bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_5693",
+    "title": "Apfel-Zimt-Quinoaflocken-Waffeln mit Soja-Skyr",
+    "calories": 345,
+    "protein": 32,
+    "carbs": 30,
+    "fiber": 5,
+    "fat": 9,
+    "servingSizeGrams": 285,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5693_d27_apfel_zimt_quinoaflocken_waffeln.jpg",
+    "ingredients": [
+      {
+        "name": "Quinoaflocken",
+        "amount": "3 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "24g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "80 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "70g"
+      },
+      {
+        "name": "Apfel",
+        "amount": "1/2"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Quinoaflocken im Mixer fein mahlen und mit Sojaprotein, Backpulver und der Hälfte des Zimts mischen.",
+      "Sojadrink unterrühren und den Teig 5 Minuten quellen lassen. Apfel entkernen und in dünne Spalten schneiden.",
+      "Waffeleisen mit Rapsöl auspinseln und aus dem Teig 2 Waffeln je 4 Minuten goldbraun backen.",
+      "Waffeln mit Soja-Skyr und Apfelspalten anrichten und mit dem restlichen Zimt bestäuben."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5694",
+    "title": "Erdbeer-Minz-Teffbrei mit Erbsenprotein",
+    "calories": 300,
+    "protein": 32,
+    "carbs": 27,
+    "fiber": 6,
+    "fat": 6,
+    "servingSizeGrams": 445,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5694_d27_erdbeer_minz_teffbrei_erbsenprotein.jpg",
+    "ingredients": [
+      {
+        "name": "Teff",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "28g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "170 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "50 ml"
+      },
+      {
+        "name": "Erdbeeren",
+        "amount": "6 Stück"
+      },
+      {
+        "name": "Pfefferminze",
+        "amount": "6 Blätter"
+      }
+    ],
+    "instructions": [
+      "Teff mit 140 ml Sojadrink und 50 ml Wasser aufkochen und bei kleiner Hitze unter gelegentlichem Rühren 15 Minuten quellen lassen.",
+      "Erbsenprotein mit den restlichen 30 ml Sojadrink glatt rühren und unter den Brei ziehen.",
+      "Erdbeeren waschen, den Kelch entfernen und in Scheiben schneiden. Minzblätter in feine Streifen schneiden.",
+      "Brei in eine Schale füllen, mit den Erdbeerscheiben belegen und mit der Minze bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "dash",
+      "low-gi",
+      "volumenreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5695",
+    "title": "Himbeer-Pistazien-Overnight-Buchweizen mit Soja-Skyr",
+    "calories": 340,
+    "protein": 34,
+    "carbs": 25,
+    "fiber": 11,
+    "fat": 9,
+    "servingSizeGrams": 405,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5695_d27_himbeer_pistazien_overnight_buchweizen.jpg",
+    "ingredients": [
+      {
+        "name": "Buchweizen",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "120g"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "20g"
+      },
+      {
+        "name": "Himbeeren",
+        "amount": "80g"
+      },
+      {
+        "name": "Pistazien",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Buchweizen gründlich abspülen und mit dem Sojadrink zugedeckt über Nacht im Kühlschrank einweichen.",
+      "Soja-Skyr mit Erbsenprotein glatt rühren.",
+      "Die Hälfte der Himbeeren mit einer Gabel zerdrücken. Pistazien grob hacken.",
+      "Buchweizen, zerdrückte Himbeeren und Skyrcreme in ein Glas schichten und mit den restlichen Himbeeren und Pistazien toppen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5696",
+    "title": "Nektarinen-Vanille-Chiapudding mit Erbsenprotein",
+    "calories": 310,
+    "protein": 32,
+    "carbs": 16,
+    "fiber": 8,
+    "fat": 11,
+    "servingSizeGrams": 375,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5696_d27_nektarinen_vanille_chiapudding.jpg",
+    "ingredients": [
+      {
+        "name": "Chiasamen",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "100g"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "22g"
+      },
+      {
+        "name": "Nektarine",
+        "amount": "1"
+      },
+      {
+        "name": "Vanille (gemahlen)",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Chiasamen mit dem Sojadrink verrühren und zugedeckt mindestens 4 Stunden oder über Nacht im Kühlschrank quellen lassen.",
+      "Soja-Skyr mit Erbsenprotein und Vanille glatt rühren.",
+      "Nektarine entsteinen und in kleine Würfel schneiden.",
+      "Chiapudding und Vanille-Skyrcreme in ein Glas schichten und mit den Nektarinenwürfeln toppen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb",
+      "dash",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5697",
+    "title": "Kiwi-Kokos-Quinoabrei mit Sojaprotein",
+    "calories": 345,
+    "protein": 34,
+    "carbs": 29,
+    "fiber": 7,
+    "fat": 9,
+    "servingSizeGrams": 385,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5697_d27_kiwi_kokos_quinoabrei_sojaprotein.jpg",
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "28g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "180 ml"
+      },
+      {
+        "name": "Kiwi",
+        "amount": "1"
+      },
+      {
+        "name": "Kokosraspel",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Quinoa heiß abspülen, mit 150 ml Sojadrink aufkochen und zugedeckt bei kleiner Hitze 15 Minuten quellen lassen.",
+      "Sojaprotein mit den restlichen 30 ml Sojadrink glatt rühren und unter den Brei ziehen.",
+      "Kiwi schälen und in Scheiben schneiden. Kokosraspel in einer Pfanne ohne Fett hellbraun rösten.",
+      "Brei in eine Schale füllen, mit den Kiwischeiben belegen und mit Kokosraspeln bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-gi"
+    ],
+    "allergens": [
+      "soja",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_5698",
+    "title": "Pfirsich-Himbeer-Hirsebrei mit Sojaprotein",
+    "calories": 325,
+    "protein": 33,
+    "carbs": 32,
+    "fiber": 8,
+    "fat": 6,
+    "servingSizeGrams": 425,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5698_d27_pfirsich_himbeer_hirsebrei_sojaprotein.jpg",
+    "ingredients": [
+      {
+        "name": "Hirse",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "28g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "180 ml"
+      },
+      {
+        "name": "Pfirsich",
+        "amount": "1 kleiner"
+      },
+      {
+        "name": "Himbeeren",
+        "amount": "40g"
+      }
+    ],
+    "instructions": [
+      "Hirse heiß abspülen, mit 150 ml Sojadrink aufkochen und zugedeckt bei kleiner Hitze 15 Minuten quellen lassen.",
+      "Sojaprotein mit den restlichen 30 ml Sojadrink glatt rühren und unter den Brei ziehen.",
+      "Pfirsich entsteinen und in dünne Spalten schneiden. Himbeeren verlesen.",
+      "Brei in eine Schale füllen und mit Pfirsichspalten und Himbeeren belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "dash",
+      "volumenreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5699",
+    "title": "Kaki-Ingwer-Buchweizen-Pancakes mit Soja-Skyr",
+    "calories": 340,
+    "protein": 31,
+    "carbs": 31,
+    "fiber": 6,
+    "fat": 9,
+    "servingSizeGrams": 320,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5699_d27_kaki_ingwer_buchweizen_pancakes.jpg",
+    "ingredients": [
+      {
+        "name": "Buchweizenmehl",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "23g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "90 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "80g"
+      },
+      {
+        "name": "Kaki",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Ingwer (frisch)",
+        "amount": "1 cm"
+      },
+      {
+        "name": "Kokosöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Ingwer schälen und sehr fein reiben. Buchweizenmehl, Sojaprotein, Backpulver und Ingwer mischen und mit dem Sojadrink zu einem glatten Teig verrühren.",
+      "Kaki waschen, den Stielansatz entfernen und in kleine Würfel schneiden.",
+      "Eine beschichtete Pfanne mit Kokosöl auspinseln und aus dem Teig 4 kleine Pancakes von jeder Seite 2 Minuten backen.",
+      "Pancakes stapeln und mit Soja-Skyr und den Kakiwürfeln servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5700",
+    "title": "Granatapfel-Vanille-Overnight-Reisflocken mit Soja-Skyr",
+    "calories": 340,
+    "protein": 31,
+    "carbs": 34,
+    "fiber": 5,
+    "fat": 8,
+    "servingSizeGrams": 345,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5700_d27_granatapfel_vanille_overnight_reisflocken.jpg",
+    "ingredients": [
+      {
+        "name": "Reisflocken",
+        "amount": "2 1/2 EL"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "120g"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "20g"
+      },
+      {
+        "name": "Granatapfelkerne",
+        "amount": "4 EL"
+      },
+      {
+        "name": "Vanille (gemahlen)",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Reisflocken mit Sojadrink und Vanille in einem Glas verrühren und zugedeckt über Nacht, mindestens 6 Stunden, in den Kühlschrank stellen.",
+      "Soja-Skyr mit Erbsenprotein glatt rühren.",
+      "Skyrcreme als Schicht auf die Reisflocken geben.",
+      "Mit den Granatapfelkernen bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5701",
+    "title": "Bananen-Sesam-Reismehl-Crêpes mit Soja-Skyr",
+    "calories": 335,
+    "protein": 31,
+    "carbs": 31,
+    "fiber": 4,
+    "fat": 9,
+    "servingSizeGrams": 285,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5701_d27_bananen_sesam_reismehl_crepes.jpg",
+    "ingredients": [
+      {
+        "name": "Reismehl",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "24g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "100 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "80g"
+      },
+      {
+        "name": "Banane",
+        "amount": "1/2"
+      },
+      {
+        "name": "Sesam",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Kokosöl",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Reismehl, Erbsenprotein und Sojadrink glatt verquirlen und 10 Minuten quellen lassen. Sesam in einer Pfanne ohne Fett goldbraun rösten.",
+      "Eine beschichtete Pfanne mit Kokosöl auspinseln und aus dem Teig 2 dünne Crêpes von jeder Seite 1 bis 2 Minuten backen.",
+      "Banane in Scheiben schneiden.",
+      "Crêpes mit Soja-Skyr bestreichen, mit Bananenscheiben belegen, zusammenklappen und mit Sesam bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_5702",
+    "title": "Mango-Limetten-Overnight-Hirseflocken mit Soja-Skyr",
+    "calories": 335,
+    "protein": 32,
+    "carbs": 32,
+    "fiber": 5,
+    "fat": 8,
+    "servingSizeGrams": 370,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5702_d27_mango_limetten_overnight_hirseflocken.jpg",
+    "ingredients": [
+      {
+        "name": "Hirseflocken",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "120g"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "20g"
+      },
+      {
+        "name": "Mango",
+        "amount": "80g"
+      },
+      {
+        "name": "Limette",
+        "amount": "1/2"
+      }
+    ],
+    "instructions": [
+      "Hirseflocken mit dem Sojadrink in einem Glas verrühren und zugedeckt über Nacht, mindestens 6 Stunden, in den Kühlschrank stellen.",
+      "Schale der Limettenhälfte fein abreiben und den Saft auspressen. Soja-Skyr mit Erbsenprotein, Limettensaft und der Hälfte des Abriebs glatt rühren.",
+      "Mango schälen und in kleine Würfel schneiden.",
+      "Skyrcreme auf die Hirseflocken schichten, mit Mangowürfeln belegen und mit dem restlichen Abrieb bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5703",
+    "title": "Herzhafter Amaranthbrei mit Kürbis, Grünkohl und Räuchertofu",
+    "calories": 345,
+    "protein": 31,
+    "carbs": 22,
+    "fiber": 7,
+    "fat": 13,
+    "servingSizeGrams": 465,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5703_d27_herzhafter_amaranthbrei_kuerbis_gruenkohl_raeuchertofu.jpg",
+    "ingredients": [
+      {
+        "name": "Amaranth",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "180 ml"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "13g"
+      },
+      {
+        "name": "Hefeflocken",
+        "amount": "5g"
+      },
+      {
+        "name": "Hokkaido-Kürbis",
+        "amount": "1 Spalte"
+      },
+      {
+        "name": "Grünkohl",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Räuchertofu",
+        "amount": "70g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Amaranth mit der Gemüsebrühe aufkochen und zugedeckt bei kleiner Hitze 20 Minuten quellen lassen. Erbsenprotein und Hefeflocken einrühren, bis der Brei cremig ist.",
+      "Kürbis entkernen und in kleine Würfel schneiden. Grünkohl von den Stielen zupfen und klein schneiden. Räuchertofu würfeln.",
+      "Kürbis und Tofu im Olivenöl 6 Minuten goldbraun braten, Grünkohl zugeben und 2 Minuten mitbraten. Mit Salz und Pfeffer würzen.",
+      "Brei in eine Schale füllen und die Kürbis-Tofu-Mischung darauf verteilen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "volumenreich"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5704",
+    "title": "Kichererbsen-Waffeln mit Kräuter-Soja-Skyr und Radieschen",
+    "calories": 285,
+    "protein": 30,
+    "carbs": 18,
+    "fiber": 5,
+    "fat": 10,
+    "servingSizeGrams": 290,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5704_d27_kichererbsen_waffeln_kraeuter_sojaskyr_radieschen.jpg",
+    "ingredients": [
+      {
+        "name": "Kichererbsenmehl",
+        "amount": "3 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "18g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "70 ml"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "120g"
+      },
+      {
+        "name": "Radieschen",
+        "amount": "4 Stück"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kichererbsenmehl, Erbsenprotein, Backpulver und eine Prise Salz mit 70 ml Wasser glatt rühren und 10 Minuten quellen lassen.",
+      "Waffeleisen mit Rapsöl auspinseln und aus dem Teig 2 Waffeln je 5 Minuten goldbraun backen.",
+      "Schnittlauch in Röllchen schneiden und mit Salz und Pfeffer unter den Soja-Skyr rühren. Radieschen in dünne Scheiben schneiden.",
+      "Waffeln mit dem Kräuter-Skyr bestreichen und mit Radieschenscheiben belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb",
+      "low-gi"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5705",
+    "title": "Herzhafter Hirsebrei mit Edamame, Zucchini und Sesam",
+    "calories": 330,
+    "protein": 31,
+    "carbs": 25,
+    "fiber": 8,
+    "fat": 12,
+    "servingSizeGrams": 450,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5705_d27_herzhafter_hirsebrei_edamame_zucchini_sesam.jpg",
+    "ingredients": [
+      {
+        "name": "Hirse",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "170 ml"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "18g"
+      },
+      {
+        "name": "Edamame (geschält, TK)",
+        "amount": "90g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "1/2 kleine"
+      },
+      {
+        "name": "Sesamöl (geröstet)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Sesam",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Tamari (glutenfrei)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Frühlingszwiebel",
+        "amount": "1"
+      }
+    ],
+    "instructions": [
+      "Hirse heiß abspülen, mit der Gemüsebrühe aufkochen und zugedeckt bei kleiner Hitze 15 Minuten quellen lassen. Erbsenprotein einrühren.",
+      "Zucchini in kleine Würfel, Frühlingszwiebel in feine Ringe schneiden. Sesam in einer Pfanne ohne Fett goldbraun rösten und herausnehmen.",
+      "Zucchini und Edamame im Sesamöl 4 Minuten braten und mit Tamari ablöschen.",
+      "Brei in eine Schale füllen, das Gemüse darauf verteilen und mit Sesam und Frühlingszwiebel bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "volumenreich"
+    ],
+    "allergens": [
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_5706",
+    "title": "Herzhafter Teffbrei mit Tomaten, Lupinen und Basilikum",
+    "calories": 295,
+    "protein": 32,
+    "carbs": 23,
+    "fiber": 8,
+    "fat": 7,
+    "servingSizeGrams": 425,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5706_d27_herzhafter_teffbrei_tomaten_lupinen_basilikum.jpg",
+    "ingredients": [
+      {
+        "name": "Teff",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "160 ml"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "16g"
+      },
+      {
+        "name": "Hefeflocken",
+        "amount": "5g"
+      },
+      {
+        "name": "Lupinen (gekocht)",
+        "amount": "80g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "7 Stück"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Basilikum",
+        "amount": "4 Blätter"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Teff mit der Gemüsebrühe aufkochen und bei kleiner Hitze unter gelegentlichem Rühren 15 Minuten quellen lassen.",
+      "Erbsenprotein und Hefeflocken einrühren und mit Salz und Pfeffer abschmecken.",
+      "Kirschtomaten halbieren und mit den Lupinen im Olivenöl 3 Minuten braten, bis die Tomaten weich werden.",
+      "Brei in eine Schale füllen, Tomaten und Lupinen darauf verteilen und mit Basilikumblättern belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-gi",
+      "volumenreich"
+    ],
+    "allergens": [
+      "lupinen"
+    ]
+  },
+  {
+    "id": "rec_5707",
+    "title": "Tahin-Zimt-Proteinkugeln mit Sesam",
+    "calories": 265,
+    "protein": 30,
+    "carbs": 11,
+    "fiber": 3,
+    "fat": 10,
+    "servingSizeGrams": 90,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5707_d27_tahin_zimt_proteinkugeln_sesam.jpg",
+    "ingredients": [
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "30g"
+      },
+      {
+        "name": "Tahin",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Datteln (entsteint)",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "30g"
+      },
+      {
+        "name": "Sesam",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Datteln sehr fein hacken. Sesam in einer Pfanne ohne Fett goldbraun rösten und abkühlen lassen.",
+      "Sojaprotein, Tahin, Datteln, Soja-Skyr und Zimt zu einer formbaren Masse verkneten.",
+      "Masse zu 6 Kugeln rollen und im gerösteten Sesam wälzen.",
+      "Mindestens 30 Minuten kalt stellen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb"
+    ],
+    "allergens": [
+      "sesam",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5708",
+    "title": "Aprikosen-Mandel-Proteinriegel",
+    "calories": 300,
+    "protein": 31,
+    "carbs": 17,
+    "fiber": 4,
+    "fat": 12,
+    "servingSizeGrams": 100,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5708_d27_aprikosen_mandel_proteinriegel.jpg",
+    "ingredients": [
+      {
+        "name": "Aprikosen (getrocknet)",
+        "amount": "3 Stück"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "28g"
+      },
+      {
+        "name": "Mandelmehl",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Quinoaflocken",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "30g"
+      },
+      {
+        "name": "Mandeln",
+        "amount": "6 Stück"
+      }
+    ],
+    "instructions": [
+      "Aprikosen sehr fein hacken, Mandeln grob hacken.",
+      "Sojaprotein, Mandelmehl, Quinoaflocken, Aprikosen und Soja-Skyr zu einer festen Masse verkneten.",
+      "Masse auf Backpapier zu einem Rechteck drücken, mit den gehackten Mandeln bestreuen und diese leicht andrücken.",
+      "Mindestens 1 Stunde kalt stellen und in 2 Riegel schneiden."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5709",
+    "title": "Lupinen-Edamame-Dip mit Gurken- und Paprikasticks",
+    "calories": 270,
+    "protein": 32,
+    "carbs": 17,
+    "fiber": 10,
+    "fat": 7,
+    "servingSizeGrams": 345,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5709_d27_lupinen_edamame_dip_gemuesesticks.jpg",
+    "ingredients": [
+      {
+        "name": "Lupinen (gekocht)",
+        "amount": "80g"
+      },
+      {
+        "name": "Edamame (geschält, TK)",
+        "amount": "80g"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "10g"
+      },
+      {
+        "name": "Zitrone",
+        "amount": "1/4"
+      },
+      {
+        "name": "Salatgurke",
+        "amount": "1/3"
+      },
+      {
+        "name": "Rote Paprika",
+        "amount": "1/2"
+      },
+      {
+        "name": "Kreuzkümmel (gemahlen)",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Edamame in einer abgedeckten Schüssel in der Mikrowelle 2 Minuten erhitzen und abkühlen lassen.",
+      "Saft des Zitronenviertels auspressen. Edamame, Lupinen, Erbsenprotein, Zitronensaft, Kreuzkümmel, Salz und Pfeffer fein pürieren.",
+      "Gurke und Paprika in fingerdicke Sticks schneiden.",
+      "Dip in ein Schälchen füllen und mit den Gemüsesticks servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "ballaststoffreich",
+      "low-carb",
+      "low-gi"
+    ],
+    "allergens": [
+      "soja",
+      "lupinen"
+    ]
+  },
+  {
+    "id": "rec_5710",
+    "title": "Schoko-Haselnuss-Proteinkugeln",
+    "calories": 265,
+    "protein": 31,
+    "carbs": 13,
+    "fiber": 5,
+    "fat": 9,
+    "servingSizeGrams": 100,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5710_d27_schoko_haselnuss_proteinkugeln.jpg",
+    "ingredients": [
+      {
+        "name": "Haselnüsse",
+        "amount": "8 Stück"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "30g"
+      },
+      {
+        "name": "Kakaopulver (ungesüßt)",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "40g"
+      },
+      {
+        "name": "Datteln (entsteint)",
+        "amount": "2 Stück"
+      }
+    ],
+    "instructions": [
+      "Haselnüsse in einer Pfanne ohne Fett rösten und sehr fein hacken. Datteln sehr fein hacken.",
+      "Sojaprotein, die Hälfte des Kakaos, Haselnüsse, Datteln und Soja-Skyr zu einer formbaren Masse verkneten.",
+      "Masse zu 6 Kugeln rollen und im restlichen Kakao wälzen.",
+      "Mindestens 30 Minuten kalt stellen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5711",
+    "title": "Heidelbeer-Zitronen-Proteineis am Stiel",
+    "calories": 280,
+    "protein": 32,
+    "carbs": 19,
+    "fiber": 7,
+    "fat": 8,
+    "servingSizeGrams": 340,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5711_d27_heidelbeer_zitronen_proteineis_stiel.jpg",
+    "ingredients": [
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "200g"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "20g"
+      },
+      {
+        "name": "Heidelbeeren",
+        "amount": "100g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Zitrone",
+        "amount": "1/4"
+      }
+    ],
+    "instructions": [
+      "Schale des Zitronenviertels fein abreiben und den Saft auspressen. Soja-Skyr mit Erbsenprotein, Ahornsirup, Zitronensaft und -abrieb glatt rühren.",
+      "Heidelbeeren mit einer Gabel grob zerdrücken und locker unter die Creme ziehen, sodass Schlieren entstehen.",
+      "Die Masse in 2 Eis-am-Stiel-Formen füllen, Stiele einstecken und mindestens 6 Stunden einfrieren.",
+      "Vor dem Servieren 5 Minuten bei Raumtemperatur antauen lassen und aus den Formen lösen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5712",
+    "title": "Apfel-Zimt-Tassenkuchen aus Buchweizenmehl",
+    "calories": 260,
+    "protein": 30,
+    "carbs": 25,
+    "fiber": 4,
+    "fat": 3,
+    "servingSizeGrams": 190,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5712_d27_apfel_zimt_buchweizen_tassenkuchen.jpg",
+    "ingredients": [
+      {
+        "name": "Buchweizenmehl",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "29g"
+      },
+      {
+        "name": "Apfelmus (ungesüßt)",
+        "amount": "2 1/2 EL"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "50g"
+      },
+      {
+        "name": "Apfel",
+        "amount": "1/4"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Apfel entkernen und klein würfeln.",
+      "Buchweizenmehl, Sojaprotein, Backpulver und Zimt in einer großen Tasse mischen. Apfelmus und Soja-Skyr glatt unterrühren und zwei Drittel der Apfelwürfel unterheben.",
+      "In der Mikrowelle bei 800 Watt 90 Sekunden garen und 1 Minute ruhen lassen.",
+      "Mit den restlichen Apfelwürfeln belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5713",
+    "title": "Erdbeer-Seidentofu-Mousse mit Pistazien",
+    "calories": 275,
+    "protein": 31,
+    "carbs": 16,
+    "fiber": 4,
+    "fat": 10,
+    "servingSizeGrams": 355,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5713_d27_erdbeer_seidentofu_mousse_pistazien.jpg",
+    "ingredients": [
+      {
+        "name": "Seidentofu",
+        "amount": "200g"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "24g"
+      },
+      {
+        "name": "Erdbeeren",
+        "amount": "6 Stück"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Pistazien",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Erdbeeren waschen und den Kelch entfernen. Eine Erdbeere in Scheiben schneiden und beiseitelegen.",
+      "Restliche Erdbeeren mit Seidentofu, Erbsenprotein und Ahornsirup sehr fein pürieren.",
+      "In ein Dessertglas füllen und mindestens 1 Stunde kalt stellen.",
+      "Pistazien fein hacken. Mousse mit den Erdbeerscheiben und Pistazien garnieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb",
+      "dash",
+      "volumenreich"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5714",
+    "title": "Ofen-Tofuwürfel mit Sesamkruste und Tamari-Limetten-Dip",
+    "calories": 325,
+    "protein": 31,
+    "carbs": 9,
+    "fiber": 3,
+    "fat": 18,
+    "servingSizeGrams": 250,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5714_d27_ofen_tofuwuerfel_sesamkruste_tamari_dip.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "220g"
+      },
+      {
+        "name": "Sesam",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Speisestärke",
+        "amount": "1 1/2 TL"
+      },
+      {
+        "name": "Tamari (glutenfrei)",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Limette",
+        "amount": "1/2"
+      },
+      {
+        "name": "Paprikapulver (edelsüß)",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200 °C Ober-/Unterhitze vorheizen und ein Blech mit Backpapier auslegen. Tofu gut trocken tupfen und in 16 Würfel schneiden.",
+      "Tofuwürfel mit der Hälfte der Tamari mischen, dann in Speisestärke, Paprikapulver und Sesam wenden.",
+      "Auf dem Blech verteilen und 25 Minuten backen, nach der Hälfte der Zeit wenden.",
+      "Saft der Limettenhälfte mit der restlichen Tamari verrühren und als Dip zu den Tofuwürfeln servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb"
+    ],
+    "allergens": [
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_5715",
+    "title": "Sauerkirsch-Seidentofu-Pudding mit Kakaonibs",
+    "calories": 295,
+    "protein": 31,
+    "carbs": 20,
+    "fiber": 4,
+    "fat": 10,
+    "servingSizeGrams": 320,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5715_d27_sauerkirsch_seidentofu_pudding_kakaonibs.jpg",
+    "ingredients": [
+      {
+        "name": "Seidentofu",
+        "amount": "200g"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "24g"
+      },
+      {
+        "name": "Sauerkirschen (entsteint)",
+        "amount": "80g"
+      },
+      {
+        "name": "Datteln (entsteint)",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Kakaonibs",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Einige Sauerkirschen zum Garnieren beiseitelegen. Dattel grob hacken.",
+      "Seidentofu, Erbsenprotein, restliche Sauerkirschen und Dattel im Mixer sehr fein pürieren.",
+      "In ein Dessertglas füllen und mindestens 1 Stunde kalt stellen.",
+      "Mit den beiseitegelegten Sauerkirschen und den Kakaonibs garnieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5716",
+    "title": "Kürbis-Zimt-Proteinmuffins",
+    "calories": 270,
+    "protein": 30,
+    "carbs": 22,
+    "fiber": 4,
+    "fat": 6,
+    "servingSizeGrams": 205,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5716_d27_kuerbis_zimt_proteinmuffins.jpg",
+    "ingredients": [
+      {
+        "name": "Hokkaido-Kürbis",
+        "amount": "1 Spalte"
+      },
+      {
+        "name": "Quinoaflocken",
+        "amount": "1 1/2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "28g"
+      },
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "50g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Backpulver (glutenfrei)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Kürbis entkernen, fein raspeln und leicht ausdrücken. Backofen auf 180 °C Ober-/Unterhitze vorheizen und 2 Muffinförmchen aus Papier in ein Muffinblech setzen.",
+      "Quinoaflocken, Erbsenprotein, Backpulver und Zimt mischen. Kürbis, Soja-Skyr und Ahornsirup unterrühren.",
+      "Teig auf die 2 Förmchen verteilen und mit den Kürbiskernen bestreuen.",
+      "22 Minuten backen, bis die Muffins goldbraun sind, und kurz abkühlen lassen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5717",
+    "title": "Erdbeer-Chia-Hirseflockenbrei mit Tofu und Erbsenprotein",
+    "calories": 315,
+    "protein": 33,
+    "carbs": 20,
+    "fiber": 6,
+    "fat": 11,
+    "servingSizeGrams": 395,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5717_d27_erdbeer_chia_hirseflockenbrei_tofu.jpg",
+    "ingredients": [
+      {
+        "name": "Hirseflocken",
+        "amount": "2 1/2 EL"
+      },
+      {
+        "name": "Chiasamen",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "26g"
+      },
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "60g"
+      },
+      {
+        "name": "Mandeldrink (ungesüßt)",
+        "amount": "220 ml"
+      },
+      {
+        "name": "Erdbeeren",
+        "amount": "5 Stück"
+      },
+      {
+        "name": "Vanille (gemahlen)",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Hirseflocken und Chiasamen mit 160 ml Mandeldrink und Vanille aufkochen und unter Rühren 3 Minuten köcheln lassen.",
+      "Tofu mit den restlichen 60 ml Mandeldrink und dem Erbsenprotein glatt pürieren und unter den Brei rühren.",
+      "Erdbeeren waschen, den Kelch entfernen und in Scheiben schneiden.",
+      "Brei in eine Schale füllen und mit den Erdbeerscheiben belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb",
+      "low-fodmap",
+      "volumenreich"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5718",
+    "title": "Ananas-Minz-Teffbrei mit Tofu und Erbsenprotein",
+    "calories": 325,
+    "protein": 33,
+    "carbs": 27,
+    "fiber": 5,
+    "fat": 9,
+    "servingSizeGrams": 465,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5718_d27_ananas_minz_teffbrei_tofu.jpg",
+    "ingredients": [
+      {
+        "name": "Teff",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "26g"
+      },
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "60g"
+      },
+      {
+        "name": "Mandeldrink (ungesüßt)",
+        "amount": "220 ml"
+      },
+      {
+        "name": "Ananas",
+        "amount": "100g"
+      },
+      {
+        "name": "Pfefferminze",
+        "amount": "6 Blätter"
+      }
+    ],
+    "instructions": [
+      "Teff mit 160 ml Mandeldrink aufkochen und bei kleiner Hitze unter gelegentlichem Rühren 15 Minuten quellen lassen.",
+      "Tofu mit den restlichen 60 ml Mandeldrink und dem Erbsenprotein glatt pürieren und unter den Brei rühren.",
+      "Ananas schälen und in kleine Würfel schneiden. Minzblätter in feine Streifen schneiden und unter die Ananas mischen.",
+      "Brei in eine Schale füllen und mit der Minz-Ananas belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-fodmap",
+      "volumenreich"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5719",
+    "title": "Heidelbeer-Zimt-Buchweizenbrei mit Tofu und Erbsenprotein",
+    "calories": 320,
+    "protein": 33,
+    "carbs": 24,
+    "fiber": 9,
+    "fat": 9,
+    "servingSizeGrams": 460,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5719_d27_heidelbeer_zimt_buchweizenbrei_tofu.jpg",
+    "ingredients": [
+      {
+        "name": "Buchweizen",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "26g"
+      },
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "60g"
+      },
+      {
+        "name": "Mandeldrink (ungesüßt)",
+        "amount": "220 ml"
+      },
+      {
+        "name": "Heidelbeeren",
+        "amount": "100g"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Buchweizen heiß abspülen, mit 160 ml Mandeldrink und dem Zimt aufkochen und zugedeckt bei kleiner Hitze 15 Minuten quellen lassen.",
+      "Tofu mit den restlichen 60 ml Mandeldrink und dem Erbsenprotein glatt pürieren und unter den Brei rühren.",
+      "Heidelbeeren verlesen und waschen.",
+      "Brei in eine Schale füllen und mit den Heidelbeeren belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-fodmap",
+      "low-gi",
+      "volumenreich"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5720",
+    "title": "Papaya-Limetten-Polentabrei mit Tofu und Erbsenprotein",
+    "calories": 330,
+    "protein": 32,
+    "carbs": 31,
+    "fiber": 5,
+    "fat": 9,
+    "servingSizeGrams": 530,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "timeOfDay": [
+      "morning",
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5720_d27_papaya_limetten_polentabrei_tofu.jpg",
+    "ingredients": [
+      {
+        "name": "Polenta",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Erbsenprotein (neutral)",
+        "amount": "26g"
+      },
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "60g"
+      },
+      {
+        "name": "Mandeldrink (ungesüßt)",
+        "amount": "220 ml"
+      },
+      {
+        "name": "Papaya",
+        "amount": "1/4"
+      },
+      {
+        "name": "Limette",
+        "amount": "1/4"
+      }
+    ],
+    "instructions": [
+      "Polenta mit 160 ml Mandeldrink aufkochen und unter Rühren 5 Minuten köcheln lassen.",
+      "Tofu mit den restlichen 60 ml Mandeldrink und dem Erbsenprotein glatt pürieren und unter den Brei rühren.",
+      "Papaya schälen, entkernen und würfeln. Schale des Limettenviertels fein abreiben und den Saft über die Papaya träufeln.",
+      "Brei in eine Schale füllen, mit der Papaya belegen und mit dem Limettenabrieb bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "dash",
+      "low-fodmap",
+      "volumenreich"
+    ],
+    "allergens": [
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5721",
+    "title": "Brokkoli-Emmentaler-Eiermuffins mit Thymian",
+    "calories": 455,
+    "protein": 31,
+    "carbs": 5,
+    "fiber": 2,
+    "fat": 34,
+    "servingSizeGrams": 295,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5721_d27_brokkoli_emmentaler_eiermuffins_thymian.jpg",
+    "ingredients": [
+      {
+        "name": "Eier (Größe M)",
+        "amount": "3 Stück"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "4 Röschen"
+      },
+      {
+        "name": "Emmentaler (vegetarisch, mit mikrobiellem Lab)",
+        "amount": "25g"
+      },
+      {
+        "name": "Sahne",
+        "amount": "1 1/2 EL"
+      },
+      {
+        "name": "Butter",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Thymian (getrocknet)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 180 °C Ober-/Unterhitze vorheizen und 3 Mulden eines Muffinblechs mit der Butter einfetten.",
+      "Brokkoli in sehr kleine Röschen teilen und Emmentaler reiben.",
+      "Eier mit Sahne, Thymian, Salz und Pfeffer verquirlen, Brokkoli und zwei Drittel des Käses unterrühren und auf die 3 Mulden verteilen.",
+      "Mit dem restlichen Käse bestreuen und 20 Minuten backen, bis die Muffins gestockt und goldbraun sind."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_5722",
+    "title": "Mangold-Ziegenfrischkäse-Frittata mit Pinienkernen",
+    "calories": 440,
+    "protein": 28,
+    "carbs": 4,
+    "fiber": 1,
+    "fat": 34,
+    "servingSizeGrams": 290,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5722_d27_mangold_ziegenfrischkaese_frittata_pinienkerne.jpg",
+    "ingredients": [
+      {
+        "name": "Eier (Größe M)",
+        "amount": "3 Stück"
+      },
+      {
+        "name": "Mangold",
+        "amount": "2 Blätter"
+      },
+      {
+        "name": "Ziegenfrischkäse",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Butter",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Pinienkerne",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Mangold waschen, die Stiele in feine Streifen und die Blätter grob schneiden. Pinienkerne in einer Pfanne ohne Fett goldbraun rösten und herausnehmen.",
+      "Mangoldstiele in der Butter in einer ofenfesten Pfanne 3 Minuten braten, Blätter zugeben und 1 Minute zusammenfallen lassen.",
+      "Eier mit Salz und Pfeffer verquirlen, über den Mangold gießen und den Ziegenfrischkäse in kleinen Klecksen darauf verteilen.",
+      "Bei niedriger Hitze 5 Minuten stocken lassen, unter dem Backofengrill 3 Minuten goldbraun überbacken und mit den Pinienkernen bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch",
+      "ei",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_5723",
+    "title": "Rührei mit grünem Spargel und Kerbel",
+    "calories": 385,
+    "protein": 23,
+    "carbs": 3,
+    "fiber": 2,
+    "fat": 30,
+    "servingSizeGrams": 275,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5723_d27_ruehrei_gruener_spargel_kerbel.jpg",
+    "ingredients": [
+      {
+        "name": "Eier (Größe M)",
+        "amount": "3 Stück"
+      },
+      {
+        "name": "Grüner Spargel",
+        "amount": "4 Stangen"
+      },
+      {
+        "name": "Sahne",
+        "amount": "1 1/2 EL"
+      },
+      {
+        "name": "Butter",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Kerbel",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Spargel im unteren Drittel schälen, die Enden abschneiden und die Stangen schräg in 3 cm lange Stücke schneiden.",
+      "Spargel in der Butter bei mittlerer Hitze 4 Minuten bissfest braten und mit Salz und Pfeffer würzen.",
+      "Eier mit der Sahne verquirlen, zum Spargel geben und bei niedriger Hitze unter langsamem Rühren 3 Minuten cremig stocken lassen.",
+      "Mit gehacktem Kerbel bestreuen und sofort servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_5724",
+    "title": "Lauch-Bergkäse-Omelett",
+    "calories": 410,
+    "protein": 29,
+    "carbs": 3,
+    "fiber": 1,
+    "fat": 30,
+    "servingSizeGrams": 250,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5724_d27_lauch_bergkaese_omelett.jpg",
+    "ingredients": [
+      {
+        "name": "Eier (Größe M)",
+        "amount": "3 Stück"
+      },
+      {
+        "name": "Lauch",
+        "amount": "1/4 Stange"
+      },
+      {
+        "name": "Bergkäse (vegetarisch, mit mikrobiellem Lab)",
+        "amount": "25g"
+      },
+      {
+        "name": "Butter",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Muskat",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Lauch putzen, gründlich waschen und in feine Ringe schneiden. Bergkäse reiben.",
+      "Lauch in der Hälfte der Butter 4 Minuten weich dünsten und herausnehmen.",
+      "Eier mit Muskat, Salz und Pfeffer verquirlen, in der restlichen Butter bei niedriger Hitze 3 Minuten stocken lassen.",
+      "Lauch und Bergkäse auf eine Hälfte geben, das Omelett zusammenklappen und 1 Minute ziehen lassen, bis der Käse schmilzt."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_5725",
+    "title": "Paneer-Spinat-Eierpfanne mit Kreuzkümmel",
+    "calories": 400,
+    "protein": 26,
+    "carbs": 3,
+    "fiber": 1,
+    "fat": 31,
+    "servingSizeGrams": 240,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5725_d27_paneer_spinat_eierpfanne_kreuzkuemmel.jpg",
+    "ingredients": [
+      {
+        "name": "Eier (Größe M)",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Paneer",
+        "amount": "60g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "2 Handvoll"
+      },
+      {
+        "name": "Ghee",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Kreuzkümmel (ganz)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Paneer in 8 Würfel schneiden.",
+      "Kreuzkümmel im Ghee 30 Sekunden anrösten, Paneer zugeben und 3 Minuten rundum goldbraun braten.",
+      "Spinat zugeben und 1 Minute zusammenfallen lassen, mit Salz und Pfeffer würzen.",
+      "Eier verquirlen, darübergießen und zugedeckt bei niedriger Hitze 3 Minuten stocken lassen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_5726",
+    "title": "Gebackene Avocado mit Ei und Cheddar",
+    "calories": 460,
+    "protein": 22,
+    "carbs": 4,
+    "fiber": 10,
+    "fat": 38,
+    "servingSizeGrams": 270,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5726_d27_gebackene_avocado_ei_cheddar.jpg",
+    "ingredients": [
+      {
+        "name": "Avocado",
+        "amount": "1"
+      },
+      {
+        "name": "Eier (Größe M)",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Cheddar (mit mikrobiellem Lab)",
+        "amount": "20g"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Avocado halbieren, den Kern entfernen und die Mulden mit einem Löffel etwas vergrößern.",
+      "Die 2 Avocadohälften in eine kleine Auflaufform setzen und je ein Ei in die Mulde gleiten lassen. Mit Salz und Pfeffer würzen.",
+      "Cheddar reiben, darüberstreuen und 15 Minuten backen, bis das Eiweiß gestockt ist.",
+      "Mit Schnittlauchröllchen bestreuen und warm servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "ballaststoffreich",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
+    ]
   }
 ]
