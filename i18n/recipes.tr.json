@@ -104423,5 +104423,932 @@
       "Karabuğday, sebzeler ve tempehi yan yana bir kaba koyun ve buzdolabında 4 güne kadar saklayın.",
       "Sosu ayrı küçük bir vidalı kavanozda yanınıza alın."
     ]
+  },
+  {
+    "id": "rec_5277",
+    "title": "Soya skyr ve bezelye proteinli tarçınlı çörek usulü gece yulafı",
+    "ingredients": [
+      "Glutensiz yulaf",
+      "Sade soya skyr",
+      "Bezelye proteini (aromasız)",
+      "Soya içeceği (şekersiz)",
+      "Elma",
+      "Tarçın",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Yulafı, bezelye proteinini, tarçını ve vanilyayı bir kavanozda karıştırın.",
+      "Soya içeceğini ve soya skyrın yarısını topak kalmayana kadar karıştırın.",
+      "Kavanozu kapatın ve gece boyunca, en az 6 saat buzdolabında bekletin.",
+      "Elmayı ince doğrayın, kalan soya skyrı üstüne kat olarak koyun, elma ve bir tutam tarçın serpin."
+    ]
+  },
+  {
+    "id": "rec_5278",
+    "title": "Portakal dilimli ve bezelye proteinli antep fıstıklı kakuleli chia puding",
+    "ingredients": [
+      "Chia tohumu",
+      "Bezelye proteini (aromasız)",
+      "Soya içeceği (şekersiz)",
+      "Portakal",
+      "Antep fıstığı",
+      "Kakule"
+    ],
+    "instructions": [
+      "Chia tohumlarını, bezelye proteinini ve kakuleyi soya içeceğiyle bir kavanozda pürüzsüz olana kadar çırpın.",
+      "10 dakika sonra tekrar karıştırın ve üzeri kapalı en az 4 saat soğutun.",
+      "Portakalı soyun ve dilimlerini keskin bir bıçakla çıkarın.",
+      "Pudingi portakal dilimleri ve doğranmış antep fıstığıyla süsleyin."
+    ]
+  },
+  {
+    "id": "rec_5279",
+    "title": "Kirazlı, kakaolu ve bezelye proteinli Kara Orman usulü darı gevreği lapası",
+    "ingredients": [
+      "Darı gevreği",
+      "Bezelye proteini (aromasız)",
+      "Soya içeceği (şekersiz)",
+      "Kiraz (çekirdeksiz, dondurulmuş)",
+      "Şekersiz kakao",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Darı gevreğini soya içeceğiyle küçük bir tencerede kaynatın ve karıştırarak 3 dakika şişirin.",
+      "Ocaktan alın, bezelye proteini, kakao ve vanilyayı 3 yemek kaşığı suyla pürüzsüz karıştırın ve ekleyin.",
+      "Kirazları küçük bir tavada biraz suyu çıkana kadar 3 dakika ısıtın.",
+      "Lapayı bir kaseye alın ve ılık kirazları üzerine yayın."
+    ]
+  },
+  {
+    "id": "rec_5280",
+    "title": "Yaban mersinli ve vanilyalı soya skyrlı kırmızı mercimek pankeki",
+    "ingredients": [
+      "Kırmızı mercimek (kuru)",
+      "Şekersiz soya proteini",
+      "Sade soya skyr",
+      "Yaban mersini",
+      "Kanola yağı",
+      "Kabartma tozu, vanilya"
+    ],
+    "instructions": [
+      "Kırmızı mercimekleri 4 saat ıslatın, süzün ve soya proteini, kabartma tozu ve 80 ml suyla pürüzsüz olana kadar çekin.",
+      "Yapışmaz bir tavayı kanola yağıyla yağlayın ve hamurdan 4 küçük pankek pişirin, her tarafı 2 ila 3 dakika.",
+      "Soya skyrı vanilyayla karıştırın.",
+      "Pankekleri üst üste dizin, vanilyalı skyr ve yaban mersiniyle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5281",
+    "title": "Çilekli, yer fıstığı ezmeli ve soya skyrlı PB&J gece yulafı",
+    "ingredients": [
+      "Glutensiz yulaf",
+      "Sade soya skyr",
+      "Bezelye proteini (aromasız)",
+      "Soya içeceği (şekersiz)",
+      "Çilek",
+      "Yer fıstığı ezmesi (şekersiz)"
+    ],
+    "instructions": [
+      "Yulafı, bezelye proteinini, soya içeceğini ve soya skyrı bir kavanozda karıştırın.",
+      "Çileklerin yarısını çatalla iri bir püre haline getirin ve üstüne kat olarak koyun.",
+      "Kavanozu kapatın ve gece boyunca, en az 6 saat buzdolabında bekletin.",
+      "Kalan çilekleri dilimleyin, yulafın üzerine dizin ve yer fıstığı ezmesini gezdirin."
+    ]
+  },
+  {
+    "id": "rec_5282",
+    "title": "Kuru üzümlü, tarçınlı ve soya proteinli elmalı strudel usulü kinoa lapası",
+    "ingredients": [
+      "Kinoa (pişmemiş)",
+      "Şekersiz soya proteini",
+      "Soya içeceği (şekersiz)",
+      "Elma",
+      "Kuru üzüm",
+      "Tarçın"
+    ],
+    "instructions": [
+      "Kinoayı sıcak suyla durulayın ve soya içeceği ve 100 ml suyla kapağı kapalı 15 dakika pişirin.",
+      "Elmayı küp doğrayın ve kuru üzüm, tarçın ve 2 yemek kaşığı suyla 4 dakika yumuşayana kadar buğulayın.",
+      "Soya proteinini 3 yemek kaşığı suyla pürüzsüz karıştırın ve kinoaya ekleyin.",
+      "Lapayı bir kaseye alın ve tarçınlı elmaları üzerine yayın."
+    ]
+  },
+  {
+    "id": "rec_5283",
+    "title": "Cevizli ve ipeksi tofulu muzlu kek usulü fırın yulafı",
+    "ingredients": [
+      "Glutensiz yulaf",
+      "İpek tofu",
+      "Bezelye proteini (aromasız)",
+      "Muz",
+      "Ceviz",
+      "Kabartma tozu, tarçın"
+    ],
+    "instructions": [
+      "Fırını 180 °C’ye ısıtın.",
+      "Yulafı, ipeksi tofuyu, bezelye proteinini, muzun yarısını, kabartma tozunu, tarçını ve 40 ml suyu pürüzsüz olana kadar çekin.",
+      "Küçük bir fırın kabına dökün, kalan muz dilimleri ve cevizle süsleyin.",
+      "20 dakika altın kahverengi olana kadar pişirin ve kısa süre soğutun."
+    ]
+  },
+  {
+    "id": "rec_5284",
+    "title": "Soya proteinli ve tarçınlı tahinli hurmalı gece yulafı",
+    "ingredients": [
+      "Glutensiz yulaf",
+      "Şekersiz soya proteini",
+      "Soya içeceği (şekersiz)",
+      "Hurma (çekirdeksiz)",
+      "Tahin",
+      "Tarçın"
+    ],
+    "instructions": [
+      "Hurmaları ince doğrayın ve yulaf, soya proteini ve tarçınla bir kavanozda karıştırın.",
+      "Soya içeceğini pürüzsüz olana kadar karıştırın.",
+      "Kavanozu kapatın ve gece boyunca, en az 6 saat buzdolabında bekletin.",
+      "Sabah karıştırın ve tahiniyi üzerine ince bir çizgi halinde gezdirin."
+    ]
+  },
+  {
+    "id": "rec_5285",
+    "title": "Espressolu, kakaolu ve kirazlı mocha protein puding",
+    "ingredients": [
+      "Şekersiz soya proteini",
+      "Soya içeceği (şekersiz)",
+      "Espresso (soğutulmuş)",
+      "Şekersiz kakao",
+      "Agar agar",
+      "Kiraz (çekirdeksiz, dondurulmuş)"
+    ],
+    "instructions": [
+      "Soya içeceğini agar agar ile çırpın, kaynatın ve karıştırarak 2 dakika pişirin.",
+      "Ocaktan alın, espresso, soya proteini ve kakaoyu pürüzsüz olana kadar kuvvetlice çırpın.",
+      "Bir bardağa dökün ve buzdolabında en az 2 saat donmaya bırakın.",
+      "Kirazları çözdürün ve servis etmeden önce pudingin üzerine koyun."
+    ]
+  },
+  {
+    "id": "rec_5286",
+    "title": "Soya proteinli ve ılık erikli tarçınlı sütlaç usulü pirinç lapası",
+    "ingredients": [
+      "Sütlaçlık pirinç (kısa taneli pirinç)",
+      "Şekersiz soya proteini",
+      "Soya içeceği (şekersiz)",
+      "Mürdüm eriği",
+      "Tarçın"
+    ],
+    "instructions": [
+      "Pirinci soya içeceği ve 150 ml suyla kaynatın ve ara sıra karıştırarak kısık ateşte 25 dakika şişirin.",
+      "Eriklerin çekirdeklerini çıkarın, dörde bölün ve tarçının yarısı ve 2 yemek kaşığı suyla 4 dakika yumuşayana kadar buğulayın.",
+      "Soya proteinini 4 yemek kaşığı suyla pürüzsüz karıştırın ve sıcak pirince ekleyin.",
+      "Pirinç lapasını bir kaseye alın, erikleri üzerine koyun ve kalan tarçını serpin."
+    ]
+  },
+  {
+    "id": "rec_5287",
+    "title": "Patlatılmış amarantlı şeftali zencefilli soya skyr kasesi",
+    "ingredients": [
+      "Sade soya skyr",
+      "Bezelye proteini (aromasız)",
+      "Şeftali",
+      "Patlatılmış amarant",
+      "Zencefil (taze)"
+    ],
+    "instructions": [
+      "Soya skyrı bezelye proteini ve rendelenmiş zencefille pürüzsüz olana kadar karıştırın.",
+      "Şeftaliyi ikiye bölün, çekirdeğini çıkarın ve ince dilimler halinde kesin.",
+      "Skyrı sığ bir kaseye yayın, şeftali dilimleriyle süsleyin ve patlatılmış amarant serpin."
+    ]
+  },
+  {
+    "id": "rec_5288",
+    "title": "Armutlu ve bezelye proteinli chai baharatlı amarant lapası",
+    "ingredients": [
+      "Pişmemiş amarant",
+      "Bezelye proteini (aromasız)",
+      "Soya içeceği (şekersiz)",
+      "Armut",
+      "Chai baharatı (tarçın, kakule, zencefil, karanfil)"
+    ],
+    "instructions": [
+      "Amarantı soya içeceği, 120 ml su ve chai baharatıyla kaynatın ve kapağı kapalı 20 dakika pişirin.",
+      "Bezelye proteinini 4 yemek kaşığı suyla pürüzsüz karıştırın ve lapaya ekleyin.",
+      "Armudu ince dilimler halinde kesin.",
+      "Lapayı bir kaseye alın ve armut dilimleriyle süsleyin."
+    ]
+  },
+  {
+    "id": "rec_5289",
+    "title": "Soya skyrlı ve hindistan cevizli mango çarkıfelekli gece kinoası",
+    "ingredients": [
+      "Kinoa (pişmemiş)",
+      "Sade soya skyr",
+      "Şekersiz soya proteini",
+      "Mango",
+      "Çarkıfelek",
+      "Hindistan cevizi rendesi"
+    ],
+    "instructions": [
+      "Kinoayı sıcak suyla durulayın, 80 ml suda kapağı kapalı 12 dakika pişirin ve soğumaya bırakın.",
+      "Kinoayı soya skyr ve soya proteiniyle bir kavanozda karıştırın.",
+      "Mangoyu küp doğrayıp üstüne dizin, çarkıfeleği ikiye bölün ve içini üzerine kaşıklayın.",
+      "Hindistan cevizi rendesi serpin, kapatın ve gece boyunca soğutun."
+    ]
+  },
+  {
+    "id": "rec_5290",
+    "title": "Soya skyrlı karabuğday gevrekli baharatlı armut bircher",
+    "ingredients": [
+      "Karabuğday gevreği",
+      "Sade soya skyr",
+      "Şekersiz soya proteini",
+      "Soya içeceği (şekersiz)",
+      "Armut",
+      "Tarçın, karanfil, kakule"
+    ],
+    "instructions": [
+      "Karabuğday gevreğini soya skyr, soya proteini, soya içeceği ve baharatlarla karıştırın.",
+      "Armudun yarısını iri rendeleyin ve ekleyin.",
+      "Üzeri kapalı en az 30 dakika veya gece boyunca soğutun.",
+      "Kalan armudu ince dilimler halinde kesin ve bircherin üzerine dizin."
+    ]
+  },
+  {
+    "id": "rec_5291",
+    "title": "Kivili ve bezelye proteinli hindistan cevizli matcha darı lapası",
+    "ingredients": [
+      "Darı (pişmemiş)",
+      "Bezelye proteini (aromasız)",
+      "Soya içeceği (şekersiz)",
+      "Light hindistan cevizi sütü",
+      "Kivi",
+      "Matcha tozu"
+    ],
+    "instructions": [
+      "Darıyı sıcak suyla durulayın ve soya içeceği, hindistan cevizi sütü ve 80 ml suyla kapağı kapalı 15 dakika pişirin.",
+      "Bezelye proteini ve matchayı 4 yemek kaşığı suyla pürüzsüz karıştırın ve lapaya ekleyin.",
+      "Kiviyi soyun ve dilimleyin.",
+      "Lapayı bir kaseye alın ve kivi dilimleriyle süsleyin."
+    ]
+  },
+  {
+    "id": "rec_5292",
+    "title": "Kırmızı frenk üzümlü vanilyalı nohut unlu protein waffle",
+    "ingredients": [
+      "Nohut unu",
+      "Bezelye proteini (aromasız)",
+      "Soya içeceği (şekersiz)",
+      "Soya yoğurdu (sade, şekersiz)",
+      "Kırmızı frenk üzümü",
+      "Kanola yağı",
+      "Kabartma tozu, vanilya"
+    ],
+    "instructions": [
+      "Nohut ununu, bezelye proteinini, kabartma tozunu ve vanilyayı karıştırın ve soya içeceğiyle koyu bir hamur yapın.",
+      "Waffle makinesini kanola yağıyla yağlayın ve 2 waffle’ı her biri 4 dakika altın kahverengi olana kadar pişirin.",
+      "Kırmızı frenk üzümlerini saplarından ayırın.",
+      "Waffle’ları soya yoğurdu ve kırmızı frenk üzümüyle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5293",
+    "title": "Tofu dolgulu ve naneli soya yoğurtlu moong dal chilla",
+    "ingredients": [
+      "Moong dal (pişmemiş)",
+      "Bezelye proteini (aromasız)",
+      "Sade sert tofu",
+      "Soya yoğurdu (sade, şekersiz)",
+      "Domates",
+      "Soğan",
+      "Kanola yağı",
+      "Kimyon, zerdeçal, zencefil",
+      "Nane",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Mung dalı 4 saat ıslatın, süzün ve bezelye proteini, zerdeçal, zencefil, biraz tuz ve 80 ml suyla pürüzsüz olana kadar çekin.",
+      "Tofuyu ufalayın, domates ve soğanı ince doğrayın ve kimyonla bir tavada 4 dakika kavurun.",
+      "Tavayı kanola yağıyla yağlayın ve hamurdan 2 ince chilla pişirin, her tarafı 2 dakika.",
+      "Soya yoğurdunu doğranmış naneyle karıştırın.",
+      "Chillaları tofu harcıyla doldurun, katlayın ve naneli yoğurtla servis edin."
+    ]
+  },
+  {
+    "id": "rec_5294",
+    "title": "Biberli İspanyol usulü patatesli tofu tortilla",
+    "ingredients": [
+      "Patates",
+      "Sade sert tofu",
+      "Nohut unu",
+      "Bezelye proteini (aromasız)",
+      "Kırmızı biber",
+      "Soğan",
+      "Zeytinyağı",
+      "Zerdeçal",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Patatesi soyun, ince dilimleyin ve soğan ve biberle küçük yapışmaz bir tavada zeytinyağı ve 3 yemek kaşığı suyla kapağı kapalı 10 dakika yumuşayana kadar pişirin.",
+      "Tofuyu nohut unu, bezelye proteini, zerdeçal, tuz ve 80 ml suyla pürüzsüz olana kadar çekin.",
+      "Karışımı sebzelerin üzerine dökün ve kapağı kapalı kısık ateşte 10 dakika pişmeye bırakın.",
+      "Bir tabak yardımıyla çevirin, 4 dakika daha kızartın ve 4 parçaya kesin."
+    ]
+  },
+  {
+    "id": "rec_5295",
+    "title": "Mısır tortilla şeritli, biberli ve domates salsalı tofu migas",
+    "ingredients": [
+      "Sade sert tofu",
+      "Mısır tortillası",
+      "Yeşil biber",
+      "Domates",
+      "Besin mayası pulu",
+      "Misket limonu suyu",
+      "Kimyon, zerdeçal, acı biber",
+      "Kişniş",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Tortillayı ince şeritler halinde kesin ve yağsız yapışmaz tavada 3 dakika çıtır olana kadar kavurun, sonra çıkarın.",
+      "Domatesleri küp doğrayın ve misket limonu suyu, kişniş ve tuzla karıştırarak salsa yapın.",
+      "Biberi küp doğrayıp 3 dakika kavurun, tofuyu ufalayarak ekleyin, kimyon, zerdeçal, acı biber ve besin mayasıyla tatlandırıp 5 dakika kavurun.",
+      "Tortilla şeritlerini ekleyin ve salsa ile servis edin."
+    ]
+  },
+  {
+    "id": "rec_5296",
+    "title": "Tofu çırpmalı, domatesli ve rokalı kırmızı mercimek dürümü",
+    "ingredients": [
+      "Kırmızı mercimek (kuru)",
+      "Sade sert tofu",
+      "Besin mayası pulu",
+      "Domates",
+      "Roka",
+      "Zerdeçal, kimyon",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Kırmızı mercimekleri 3 saat ıslatın, süzün ve 70 ml su ve bir tutam tuzla pürüzsüz olana kadar çekin.",
+      "Hamurdan yağsız yapışmaz tavada 2 ince dürüm pişirin, her tarafı 2 dakika.",
+      "Tofuyu ufalayın ve zerdeçal, kimyon ve besin mayasıyla 5 dakika kavurun, tuz ve karabiberle tatlandırın.",
+      "Dürümleri tofu çırpması, doğranmış domates ve rokayla doldurun ve sarın."
+    ]
+  },
+  {
+    "id": "rec_5297",
+    "title": "Roka ve limonlu tofu ricottalı farinata dilimleri",
+    "ingredients": [
+      "Nohut unu",
+      "Sade sert tofu",
+      "Bezelye proteini (aromasız)",
+      "Roka",
+      "Çeri domates",
+      "Limon suyu",
+      "Zeytinyağı",
+      "Biberiye",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Fırını içinde küçük bir kalıpla 230 °C’ye ısıtın, nohut ununu 120 ml su, biberiye ve tuzla pürüzsüz karıştırın ve 15 dakika dinlendirin.",
+      "Kalıbı zeytinyağıyla yağlayın, hamuru dökün ve üzeri sertleşip altın sarısı olana kadar 15 dakika pişirin.",
+      "Tofuyu bezelye proteini, limon suyu, 2 yemek kaşığı su, tuz ve karabiberle kremsi bir ricotta olacak şekilde ezin.",
+      "Farinatayı 4 parçaya kesin, tofu ricotta, roka ve ikiye kesilmiş çeri domateslerle süsleyin."
+    ]
+  },
+  {
+    "id": "rec_5298",
+    "title": "Tofulu, ıspanaklı ve kabaklı yeşil şakşuka",
+    "ingredients": [
+      "Sade sert tofu",
+      "Bebek ıspanak",
+      "Kabak",
+      "Ayıklanmış edamame (dondurulmuş)",
+      "Sarımsak",
+      "Zeytinyağı",
+      "Kimyon, kişniş",
+      "Yeşil acı biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Kabağı küçük doğrayın, sarımsak ve acı biberi ince kıyın.",
+      "Zeytinyağını küçük bir tavada ısıtın ve kabak, sarımsak, acı biber ve kimyonu 5 dakika kavurun.",
+      "Ispanak ve edamameyi ekleyin ve 2 dakika söndürün.",
+      "Tofuyu 4 kalın dilime kesin, sebzelerin arasına yerleştirin ve kapağı kapalı 5 dakika ısınmaya bırakın.",
+      "Tuz, karabiber ve kişnişle tatlandırın ve tavada servis edin."
+    ]
+  },
+  {
+    "id": "rec_5299",
+    "title": "Edamame ezmeli ve turplu tatlı patates tostu",
+    "ingredients": [
+      "Tatlı patates",
+      "Ayıklanmış edamame (dondurulmuş)",
+      "Bezelye proteini (aromasız)",
+      "Füme tofu",
+      "Turp",
+      "Misket limonu suyu",
+      "Pul biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Tatlı patatesi uzunlamasına 1 cm’den biraz ince 3 dilime kesin ve tost makinesinde veya 220 °C fırında 15 dakika yumuşayana kadar kızartın.",
+      "Edamameyi 3 dakika haşlayın, süzün ve bezelye proteini, misket limonu suyu, 2 yemek kaşığı su, tuz ve karabiberle iri ezin.",
+      "İsli tofuyu ince dilimler, turpları da ince halkalar halinde kesin.",
+      "Tatlı patates dilimlerine edamame ezmesini sürün, tofu ve turpla süsleyin ve pul biber serpin."
+    ]
+  },
+  {
+    "id": "rec_5300",
+    "title": "Mantarlı, ıspanaklı ve isli tofulu tuzlu kinoa lapası",
+    "ingredients": [
+      "Kinoa (pişmemiş)",
+      "Füme tofu",
+      "Bezelye proteini (aromasız)",
+      "Mantar",
+      "Bebek ıspanak",
+      "Sebze suyu",
+      "Besin mayası pulu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Kinoayı sıcak suyla durulayın ve suyun içinde kapağı kapalı 15 dakika yumuşayana kadar pişirin.",
+      "Bezelye proteini ve besin mayasını 3 yemek kaşığı suyla pürüzsüz karıştırın ve kremsi bir lapa olacak şekilde kinoaya ekleyin.",
+      "Mantarları dilimleyin, isli tofuyu küp doğrayın ve yağsız tavada 5 dakika kızartın.",
+      "Ispanağı tavada 1 dakika söndürün, hepsini lapanın üzerine dizin ve karabiber serpin."
+    ]
+  },
+  {
+    "id": "rec_5301",
+    "title": "Tatlı patatesli ve biberli soya parçalı kahvaltı kavurması",
+    "ingredients": [
+      "Soya parçaları (kuru)",
+      "Sade sert tofu",
+      "Tatlı patates",
+      "Kırmızı biber",
+      "Soğan",
+      "Kanola yağı",
+      "Tamari (glutensiz)",
+      "İsli toz biber",
+      "Maydanoz",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soya parçalarını tamari ile sıcak suda 10 dakika bekletin, sonra iyice sıkın.",
+      "Tatlı patatesi küçük küpler halinde kesin ve yapışmaz tavada kanola yağı ve 3 yemek kaşığı suyla kapağı kapalı 8 dakika pişirin.",
+      "Biber, soğan ve tofuyu küp doğrayın, soya parçaları ve isli toz biberle ekleyin ve kapaksız 7 dakika yüksek ateşte kavurun.",
+      "Tuz ve karabiberle tatlandırın ve maydanoz serpin."
+    ]
+  },
+  {
+    "id": "rec_5302",
+    "title": "Otlu tofu çırpmasıyla doldurulmuş fırın biber",
+    "ingredients": [
+      "Sade sert tofu",
+      "Kırmızı biber",
+      "Çeri domates",
+      "Besin mayası pulu",
+      "Zerdeçal",
+      "Frenk soğanı, maydanoz",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Fırını 200 °C’ye ısıtın, biberi uzunlamasına ikiye kesin, çekirdeklerini çıkarın ve 10 dakika ön pişirin.",
+      "Tofuyu ufalayın ve zerdeçal, besin mayası, otlar, tuz ve karabiberle karıştırın.",
+      "Biber yarımlarını tofuyla doldurun, üzerine ikiye kesilmiş çeri domatesleri koyun ve 12 dakika daha pişirin."
+    ]
+  },
+  {
+    "id": "rec_5303",
+    "title": "Tofu biftekli, ıspanak gomaaeli ve salatalıklı Japon kahvaltı tabağı",
+    "ingredients": [
+      "Sade sert tofu",
+      "Bebek ıspanak",
+      "Salatalık",
+      "Susam",
+      "Tamari (glutensiz)",
+      "Pirinç sirkesi",
+      "Zencefil (taze)"
+    ],
+    "instructions": [
+      "Tofuyu 2 kalın biftek şeklinde kesin, kurulayın ve yağsız yapışmaz tavada her tarafı 4 dakika altın kahverengi olana kadar kızartın, sonra tamarinin yarısı ve zencefille sırlayın.",
+      "Ispanağı kaynar suda 1 dakika haşlayın, soğuk suya alın ve iyice sıkın.",
+      "Susamı kavurup ezin, kalan tamari ile sos yapın ve ıspanağı bununla karıştırın.",
+      "Salatalığı ince dilimleyin, pirinç sirkesiyle marine edin ve hepsini bir tabağa dizin."
+    ]
+  },
+  {
+    "id": "rec_5304",
+    "title": "Tofulu ve dereotlu soya skyrlı kabak nohut unu mücveri",
+    "ingredients": [
+      "Kabak",
+      "Nohut unu",
+      "Bezelye proteini (aromasız)",
+      "Sade sert tofu",
+      "Sade soya skyr",
+      "Kanola yağı",
+      "Dereotu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Kabağı iri rendeleyin, tuzlayın, 5 dakika bekletin ve iyice sıkın.",
+      "Tofuyu ince ufalayın ve kabak, nohut unu, bezelye proteini, dereotunun yarısı ve karabiberle karıştırın.",
+      "Kanola yağını yapışmaz tavada ısıtın ve karışımdan 4 mücveri her tarafı 4 dakika altın kahverengi olana kadar kızartın.",
+      "Soya skyrı kalan dereotuyla karıştırın ve mücverlerle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5305",
+    "title": "Salatalıklı, domatesli ve sambal soslu Endonezya usulü tempeh ve tofu kahvaltı tabağı",
+    "ingredients": [
+      "Tempeh",
+      "Sade sert tofu",
+      "Salatalık",
+      "Domates",
+      "Sambal oelek",
+      "Tamari (glutensiz)",
+      "Kişniş tohumu, sarımsak tozu"
+    ],
+    "instructions": [
+      "Tempeh ve tofuyu 4’er ince dilime kesin ve tamari, öğütülmüş kişniş tohumu ve sarımsak tozuyla marine edin.",
+      "Yağsız yapışmaz tavada her tarafı 3 dakika çıtır olana kadar kızartın.",
+      "Salatalık ve domatesleri dilimleyin.",
+      "Tempeh ve tofuyu sebzeler ve samballa bir tabağa dizin."
+    ]
+  },
+  {
+    "id": "rec_5306",
+    "title": "Tofulu domates ragulu ve fesleğenli polenta dilimleri",
+    "ingredients": [
+      "Polenta (pişmemiş)",
+      "Sade sert tofu",
+      "Bezelye proteini (aromasız)",
+      "Domates",
+      "Sarımsak",
+      "Zeytinyağı",
+      "Fesleğen",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Polentayı 100 ml kaynar tuzlu suya karıştırın, 5 dakika şişirin, bir tahtaya 1 cm kalınlığında yayın ve soğutun.",
+      "Domates ve sarımsağı doğrayın, tofuyu ufalayın ve hepsini 8 dakika koyu bir ragu olacak şekilde pişirin.",
+      "Bezelye proteinini 2 yemek kaşığı suyla pürüzsüz karıştırın, raguya ekleyin ve tatlandırın.",
+      "Polentayı 4 dilime bölün, zeytinyağında her tarafı 2 dakika kızartın ve ragu ve fesleğenle servis edin."
+    ]
+  },
+  {
+    "id": "rec_5307",
+    "title": "Soya skyrlı ve limonlu çilekli cheesecake protein shake",
+    "ingredients": [
+      "Sade soya skyr",
+      "Bezelye proteini (aromasız)",
+      "Soya içeceği (şekersiz)",
+      "Çilek (dondurulmuş)",
+      "Limon kabuğu rendesi",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Tüm malzemeleri blendera koyun ve yaklaşık 45 saniye kremsi olana kadar çekin.",
+      "Tadına bakın ve gerekirse biraz soğuk suyla inceltin.",
+      "Büyük bir bardağa dökün ve hemen için."
+    ]
+  },
+  {
+    "id": "rec_5308",
+    "title": "Soya içecekli ve vanilyalı antep fıstıklı protein dondurma",
+    "ingredients": [
+      "Soya içeceği (şekersiz)",
+      "Bezelye proteini (aromasız)",
+      "İpek tofu",
+      "Antep fıstığı",
+      "Akçaağaç şurubu",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Soya içeceği, bezelye proteini, ipeksi tofu, akçaağaç şurubu, vanilya ve antep fıstığının üçte ikisini pürüzsüz olana kadar çekin.",
+      "Karışımı dondurucuya uygun bir kaba dökün ve en az 12 saat dondurun.",
+      "Bloğu 10 dakika yumuşamaya bırakın, parçalara ayırın ve mutfak robotunda kremsi olana kadar çekin.",
+      "Bir kaseye alın ve kalan doğranmış antep fıstığını serpin."
+    ]
+  },
+  {
+    "id": "rec_5309",
+    "title": "Bezelye proteinli ipeksi tofulu çikolatalı yer fıstıklı krema",
+    "ingredients": [
+      "İpek tofu",
+      "Bezelye proteini (aromasız)",
+      "Şekersiz kakao",
+      "Yer fıstığı ezmesi (şekersiz)",
+      "Akçaağaç şurubu"
+    ],
+    "instructions": [
+      "İpeksi tofuyu süzün ve bezelye proteini, kakao, akçaağaç şurubu ve yer fıstığı ezmesinin yarısıyla 1 dakika kremsi olana kadar çekin.",
+      "Bir tatlı kasesine alın ve 1 saat soğutun.",
+      "Servis etmeden önce kalan yer fıstığı ezmesini üzerine gezdirin."
+    ]
+  },
+  {
+    "id": "rec_5310",
+    "title": "Air fryerda Tayvan usulü tuzlu biberli tofu",
+    "ingredients": [
+      "Sade sert tofu",
+      "Mısır nişastası",
+      "Kanola yağı",
+      "Taze soğan yeşili",
+      "Beş baharat tozu, beyaz biber",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Tofuyu kurulayın ve 2 cm’lik küpler halinde kesin.",
+      "Mısır nişastasını beş baharat tozu, beyaz biber ve tuzla karıştırın, tofuyu içine bulayın ve kanola yağı gezdirin.",
+      "Air fryerda 200 °C’de 15 dakika çıtır olana kadar pişirin, iki kez çalkalayın.",
+      "Yeşil soğan serpin ve sıcak yiyin."
+    ]
+  },
+  {
+    "id": "rec_5311",
+    "title": "Paprika soya skyr soslu air fryer soya parçası atıştırmalığı",
+    "ingredients": [
+      "Soya parçaları (kuru)",
+      "Sade soya skyr",
+      "Tamari (glutensiz)",
+      "Kanola yağı",
+      "İsli toz biber, sarımsak tozu",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Soya parçalarını tamari ile sıcak suda 10 dakika bekletin ve kuvvetlice sıkın.",
+      "Kanola yağı, isli toz biberin yarısı ve sarımsak tozuyla karıştırın.",
+      "Air fryerda 190 °C’de 12 dakika çıtır olana kadar pişirin, bir kez çalkalayın.",
+      "Soya skyrı kalan isli toz biber ve biraz tuzla karıştırın ve sos olarak yanında servis edin."
+    ]
+  },
+  {
+    "id": "rec_5312",
+    "title": "Çikolatalı soya skyrlı ve ahududulu vegan banana split",
+    "ingredients": [
+      "Muz",
+      "Sade soya skyr",
+      "Şekersiz soya proteini",
+      "Şekersiz kakao",
+      "Ahududu"
+    ],
+    "instructions": [
+      "Soya skyrı soya proteini ve kakaoyla pürüzsüz olana kadar karıştırın.",
+      "Muzu soyun ve uzunlamasına ikiye kesin.",
+      "Muz yarımlarını uzun bir kaseye yerleştirin ve çikolatalı kremayı aralarına 2 top halinde koyun.",
+      "Ahudularla süsleyin ve hemen yiyin."
+    ]
+  },
+  {
+    "id": "rec_5313",
+    "title": "Salatalıklı, çeri domatesli ve kekikli Yunan usulü tofu feta şişleri",
+    "ingredients": [
+      "Sade sert tofu",
+      "Salatalık",
+      "Çeri domates",
+      "Limon suyu",
+      "Zeytinyağı",
+      "Kuru kekik",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Tofuyu 16 küp halinde kesin ve limon suyu, zeytinyağı, kekik, tuz ve karabiberle en az 15 dakika marine edin.",
+      "Salatalığı 8 kalın parçaya kesin.",
+      "Tofu, salatalık ve çeri domatesleri sırayla 4 kısa şişe dizin.",
+      "Kalan marine sosunu gezdirin ve soğuk servis edin."
+    ]
+  },
+  {
+    "id": "rec_5314",
+    "title": "Soya içecekli ve bademli spekülatius protein shake",
+    "ingredients": [
+      "Soya içeceği (şekersiz)",
+      "Bezelye proteini (aromasız)",
+      "Muz (dondurulmuş)",
+      "Badem",
+      "Spekülatius baharatı",
+      "Buz küpleri"
+    ],
+    "instructions": [
+      "Tüm malzemeleri blendera koyun ve yaklaşık 45 saniye kremsi olana kadar çekin.",
+      "Tadına bakın ve gerekirse biraz soğuk suyla inceltin.",
+      "Büyük bir bardağa dökün, bir tutam spekülatius baharatı serpin ve hemen için."
+    ]
+  },
+  {
+    "id": "rec_5315",
+    "title": "Zencefilli ve soya içecekli pancarlı ahududulu protein shake",
+    "ingredients": [
+      "Haşlanmış pancar",
+      "Ahududu (dondurulmuş)",
+      "Bezelye proteini (aromasız)",
+      "Soya içeceği (şekersiz)",
+      "Zencefil (taze)",
+      "Buz küpleri"
+    ],
+    "instructions": [
+      "Pancarı iri parçalar halinde kesin.",
+      "Tüm malzemeleri blendera koyun ve yaklaşık 45 saniye kremsi olana kadar çekin.",
+      "Tadına bakın ve gerekirse biraz soğuk suyla inceltin.",
+      "Büyük bir bardağa dökün ve hemen için."
+    ]
+  },
+  {
+    "id": "rec_5316",
+    "title": "Soya skyrlı ve soya proteinli vişneli vanilyalı çubuk dondurma",
+    "ingredients": [
+      "Sade soya skyr",
+      "Şekersiz soya proteini",
+      "Vişne (çekirdeksiz, dondurulmuş)",
+      "Soya içeceği (şekersiz)",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Vişneleri soya skyr, soya proteini, soya içeceği ve vanilyayla pürüzsüz olana kadar çekin.",
+      "Karışımı 2 adet dondurma kalıbına dökün, çubukları takın ve en az 6 saat dondurun.",
+      "Kalıpları kısa süre ılık suya tutun ve dondurmaları çıkarın."
+    ]
+  },
+  {
+    "id": "rec_5317",
+    "title": "Yer fıstıklı misket limonu soslu air fryer tempeh küpleri",
+    "ingredients": [
+      "Tempeh",
+      "Bezelye proteini (aromasız)",
+      "Soya yoğurdu (sade, şekersiz)",
+      "Yer fıstığı ezmesi (şekersiz)",
+      "Misket limonu suyu",
+      "Tamari (glutensiz)",
+      "Sarımsak tozu"
+    ],
+    "instructions": [
+      "Tempehi 2 cm’lik küpler halinde kesin ve tamari ve sarımsak tozuyla karıştırın.",
+      "Air fryerda 190 °C’de 10 dakika çıtır olana kadar pişirin, bir kez çalkalayın.",
+      "Soya yoğurdu, bezelye proteini, yer fıstığı ezmesi ve misket limonu suyunu pürüzsüz bir sos olacak şekilde karıştırın.",
+      "Tempeh küplerini sosla servis edin."
+    ]
+  },
+  {
+    "id": "rec_5318",
+    "title": "Ahududulu ipeksi tofulu limonlu haşhaşlı mus",
+    "ingredients": [
+      "İpek tofu",
+      "Bezelye proteini (aromasız)",
+      "Limon suyu",
+      "Limon kabuğu rendesi",
+      "Akçaağaç şurubu",
+      "Haşhaş tohumu",
+      "Ahududu"
+    ],
+    "instructions": [
+      "İpeksi tofuyu süzün ve bezelye proteini, limon suyu, limon kabuğu rendesi ve akçaağaç şurubuyla 1 dakika köpüklü olana kadar çekin.",
+      "Haşhaşı karıştırın, bir tatlı kasesine alın ve 1 saat soğutun.",
+      "Ahudularla süsleyin."
+    ]
+  },
+  {
+    "id": "rec_5319",
+    "title": "Kayısı kompostolu ve soya proteinli vanilyalı darı pudingi",
+    "ingredients": [
+      "Darı (pişmemiş)",
+      "Şekersiz soya proteini",
+      "Soya içeceği (şekersiz)",
+      "Kayısı",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Darıyı sıcak suyla durulayın ve soya içeceği, vanilya ve 60 ml suyla kısık ateşte 20 dakika yumuşayana kadar pişirin.",
+      "Soya proteinini 4 yemek kaşığı suyla pürüzsüz karıştırın, pudinge ekleyin ve bir tatlı kasesine alın.",
+      "Kayısıların çekirdeklerini çıkarın, küp doğrayın ve 2 yemek kaşığı suyla 4 dakika komposto olacak şekilde pişirin.",
+      "Kompostoyu ılık veya soğuk olarak pudingin üzerine koyun."
+    ]
+  },
+  {
+    "id": "rec_5320",
+    "title": "İpeksi tofulu ve bezelye proteinli kakuleli buzlu kahve frappé",
+    "ingredients": [
+      "Espresso (soğutulmuş)",
+      "Bezelye proteini (aromasız)",
+      "İpek tofu",
+      "Şekersiz badem içeceği",
+      "Akçaağaç şurubu",
+      "Kakule",
+      "Buz küpleri"
+    ],
+    "instructions": [
+      "Tüm malzemeleri blendera koyun ve yaklaşık 45 saniye kremsi olana kadar çekin.",
+      "Tadına bakın ve gerekirse biraz soğuk suyla inceltin.",
+      "Büyük bir bardağa dökün ve hemen için."
+    ]
+  },
+  {
+    "id": "rec_5321",
+    "title": "Soya skyrlı yaban mersinli cheesecake nice cream",
+    "ingredients": [
+      "Yaban mersini (dondurulmuş)",
+      "Muz (dondurulmuş)",
+      "Sade soya skyr",
+      "Şekersiz soya proteini",
+      "Limon kabuğu rendesi"
+    ],
+    "instructions": [
+      "Donmuş meyveleri 5 dakika hafifçe yumuşamaya bırakın.",
+      "Kalan malzemelerle birlikte mutfak robotunda 1 ila 2 dakika kremsi olana kadar çekin, arada kenarları sıyırın.",
+      "Hemen bir kaseye alın veya daha sıkı bir kıvam için 30 dakika daha dondurun."
+    ]
+  },
+  {
+    "id": "rec_5322",
+    "title": "Patates küplü, ıspanaklı ve frenk soğanlı tofu çırpması",
+    "ingredients": [
+      "Sade sert tofu",
+      "Patates",
+      "Bebek ıspanak",
+      "Besin mayası pulu",
+      "Kanola yağı",
+      "Zerdeçal",
+      "Frenk soğanı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Patatesi soyun, küçük küpler halinde kesin ve yapışmaz tavada kanola yağı ve 3 yemek kaşığı suyla kapağı kapalı 8 dakika pişirin.",
+      "Tofuyu iri ufalayın, zerdeçal ve besin mayasıyla ekleyin ve patatesler hafifçe kızarana kadar kapaksız 5 dakika kavurun.",
+      "Ispanağı ekleyin ve 1 dakika söndürün.",
+      "Tuz ve karabiberle tatlandırın ve frenk soğanı serpin."
+    ]
+  },
+  {
+    "id": "rec_5323",
+    "title": "Badem içecekli ve bezelye proteinli çilekli kinoa lapası",
+    "ingredients": [
+      "Kinoa (pişmemiş)",
+      "Bezelye proteini (aromasız)",
+      "Şekersiz badem içeceği",
+      "Çilek",
+      "Chia tohumu",
+      "Vanilya"
+    ],
+    "instructions": [
+      "Kinoayı sıcak suyla durulayın ve 200 ml badem içeceği ve vanilyayla kapağı kapalı 15 dakika pişirin.",
+      "Bezelye proteinini kalan badem içeceğiyle pürüzsüz karıştırın ve kinoaya ekleyin.",
+      "Çilekleri dörde bölün.",
+      "Lapayı bir kaseye alın, çileklerle süsleyin ve chia tohumu serpin."
+    ]
+  },
+  {
+    "id": "rec_5324",
+    "title": "Badem içecekli ve bezelye proteinli kivili kenevirli chia puding",
+    "ingredients": [
+      "Chia tohumu",
+      "Bezelye proteini (aromasız)",
+      "Şekersiz badem içeceği",
+      "Kivi",
+      "Kenevir tohumu (kabuksuz)"
+    ],
+    "instructions": [
+      "Bezelye proteinini badem içeceğiyle pürüzsüz çırpın ve chia tohumlarını ekleyin.",
+      "10 dakika sonra tekrar karıştırın ve üzeri kapalı en az 4 saat soğutun.",
+      "Kiviyi soyun ve küp doğrayın.",
+      "Pudingi kiviyle süsleyin ve kenevir tohumu serpin."
+    ]
+  },
+  {
+    "id": "rec_5325",
+    "title": "Tofu çırpmalı, kabaklı ve domatesli karabuğday galette",
+    "ingredients": [
+      "Karabuğday unu",
+      "Sade sert tofu",
+      "Kabak",
+      "Domates",
+      "Besin mayası pulu",
+      "Kanola yağı",
+      "Zerdeçal",
+      "Frenk soğanı",
+      "Tuz, karabiber"
+    ],
+    "instructions": [
+      "Karabuğday ununu 80 ml su ve bir tutam tuzla ince bir hamur olacak şekilde çırpın ve 10 dakika dinlendirin.",
+      "Kabağı küçük doğrayın ve yapışmaz tavada 3 dakika kavurun, tofuyu ufalayarak ekleyin, zerdeçal ve besin mayasıyla 4 dakika kavurun, doğranmış domatesi ekleyin ve çıkarın.",
+      "Tavayı kanola yağıyla yağlayın, hamuru ince dökün, 2 dakika pişirin ve çevirin.",
+      "Harcı ortaya koyun, kenarları kare şeklinde içe katlayın ve frenk soğanı serpin."
+    ]
+  },
+  {
+    "id": "rec_5326",
+    "title": "Yaban mersinli, kabak çekirdekli ve bezelye proteinli darı lapası",
+    "ingredients": [
+      "Darı (pişmemiş)",
+      "Bezelye proteini (aromasız)",
+      "Şekersiz badem içeceği",
+      "Yaban mersini",
+      "Kabak çekirdeği",
+      "Tarçın"
+    ],
+    "instructions": [
+      "Darıyı sıcak suyla durulayın ve 200 ml badem içeceği ve tarçınla kapağı kapalı 15 dakika pişirin.",
+      "Bezelye proteinini kalan badem içeceğiyle pürüzsüz karıştırın ve ekleyin.",
+      "Kabak çekirdeklerini kuru tavada 2 dakika kavurun.",
+      "Lapayı bir kaseye alın ve yaban mersini ve kabak çekirdeğiyle süsleyin."
+    ]
   }
 ]
