@@ -112752,5 +112752,992 @@
       "Grate the cheddar, sprinkle over and bake for 15 minutes until the egg whites are set.",
       "Sprinkle with snipped chives and serve warm."
     ]
+  },
+  {
+    "id": "rec_5727",
+    "title": "Lupin and asparagus pan with lemon tahini sauce",
+    "ingredients": [
+      "Lupins (cooked)",
+      "Pea protein (unflavoured)",
+      "Green asparagus",
+      "Tahini",
+      "Lemon juice",
+      "Olive oil",
+      "Garlic",
+      "Water",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel the lower third of the asparagus, trim the ends and cut the spears into 4 cm pieces. Finely chop the garlic.",
+      "Fry the asparagus in the olive oil over medium heat for 5 minutes, add the garlic and lupins and fry for 3 more minutes.",
+      "Stir the tahini with the lemon juice, pea protein and 30 ml water until smooth and season with salt and pepper.",
+      "Transfer the lupin and asparagus mixture to a plate, drizzle with the sauce and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_5728",
+    "title": "Tempeh and chard pan with chilli and garlic",
+    "ingredients": [
+      "Tempeh",
+      "Firm plain tofu",
+      "Swiss chard",
+      "Garlic",
+      "Tamari (gluten-free)",
+      "Lemon juice",
+      "Chilli flakes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the tempeh into thin slices and dice the tofu. Cut the chard stalks into pieces and the leaves into wide strips. Slice the garlic.",
+      "Fry the tempeh and tofu in a dry non-stick pan for 6 minutes until golden all over and remove.",
+      "Fry the chard stalks and garlic for 3 minutes, add the leaves and let them wilt for 2 minutes.",
+      "Return the tempeh and tofu, deglaze with the tamari and lemon juice and season with chilli flakes, salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_5729",
+    "title": "Beetroot soup with lupins and horseradish soy skyr",
+    "ingredients": [
+      "Beetroot (raw)",
+      "Lupins (cooked)",
+      "Pea protein (unflavoured)",
+      "Onion",
+      "Vegetable stock",
+      "Plain soy skyr",
+      "Horseradish (freshly grated)",
+      "Dill",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel and dice the beetroot, finely chop the onion.",
+      "Bring the beetroot and onion to the boil with the vegetable stock and simmer covered for 25 minutes until soft.",
+      "Add half of the lupins and the pea protein and purée everything finely. Warm the remaining lupins in the soup for 2 minutes.",
+      "Stir the soy skyr with the horseradish, season the soup with salt and pepper and serve with a dollop of horseradish skyr and dill."
+    ]
+  },
+  {
+    "id": "rec_5730",
+    "title": "Edamame spaghetti with kale and nutritional yeast pesto",
+    "ingredients": [
+      "Edamame spaghetti (uncooked)",
+      "Kale",
+      "Nutritional yeast flakes",
+      "Olive oil",
+      "Lemon juice",
+      "Garlic",
+      "Cherry tomatoes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the edamame spaghetti in salted water until al dente according to the packet and drain, reserving 3 tbsp of the cooking water.",
+      "Strip the kale from the stalks and blend with the nutritional yeast, olive oil, lemon juice, garlic and the cooking water into a pesto.",
+      "Halve the cherry tomatoes. Toss the spaghetti with the pesto, season with salt and pepper and serve with the tomatoes."
+    ]
+  },
+  {
+    "id": "rec_5731",
+    "title": "Soy chunk gyros bowl with cucumber soy skyr and tomatoes",
+    "ingredients": [
+      "Soy chunks (dry)",
+      "Plain soy skyr",
+      "Cucumber",
+      "Tomato",
+      "Onion",
+      "Romaine lettuce",
+      "Olive oil",
+      "Vegetable stock",
+      "Gyros spice (oregano, paprika, cumin)",
+      "Garlic",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Soak the soy chunks in the hot vegetable stock for 10 minutes, squeeze them out well and mix with the gyros seasoning.",
+      "Fry the soy chunks in the olive oil for 6 minutes until crisp.",
+      "Finely grate a third of the cucumber and stir into the soy skyr with the pressed garlic and salt. Dice the remaining cucumber and the tomato, slice the onion into rings.",
+      "Put the shredded lettuce into a bowl, arrange the vegetables, gyros and cucumber skyr on top and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_5732",
+    "title": "Lupin and fennel salad with orange and smoked tofu",
+    "ingredients": [
+      "Lupins (cooked)",
+      "Smoked tofu",
+      "Pea protein (unflavoured)",
+      "Fennel",
+      "Orange",
+      "Apple cider vinegar",
+      "Olive oil",
+      "Fennel fronds, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Halve the fennel, remove the core and shave into very thin strips. Dice the smoked tofu.",
+      "Peel the orange and cut out the segments, catching the juice.",
+      "Whisk the orange juice with the cider vinegar, olive oil, pea protein, salt and pepper.",
+      "Toss the fennel, lupins, smoked tofu and orange segments with the dressing and sprinkle with fennel fronds and parsley."
+    ]
+  },
+  {
+    "id": "rec_5733",
+    "title": "Tofu shirataki salad with cucumber, mint and lime chilli dressing",
+    "ingredients": [
+      "Firm plain tofu",
+      "Pea protein (unflavoured)",
+      "Shirataki noodles, drained",
+      "Cucumber",
+      "Carrot",
+      "Lime juice",
+      "Tamari (gluten-free)",
+      "Red chilli",
+      "Mint",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse the shirataki noodles thoroughly in a sieve, dry-roast them in a pan without fat for 3 minutes and leave to cool.",
+      "Cut the tofu into cubes and fry in the dry pan for 6 minutes until golden on all sides.",
+      "Cut the cucumber and carrot into fine strips and finely chop the chilli. Stir the lime juice with the tamari, pea protein and chilli.",
+      "Toss the noodles, vegetables and tofu with the dressing, season with salt and pepper and sprinkle with mint."
+    ]
+  },
+  {
+    "id": "rec_5734",
+    "title": "Palak tofu with spinach, cumin and tomatoes",
+    "ingredients": [
+      "Firm plain tofu",
+      "Leaf spinach",
+      "Tomato",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Rapeseed oil",
+      "Cumin",
+      "Garam masala",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Wash the spinach, let it wilt in a pot and purée finely. Finely chop the onion, ginger and garlic and dice the tomato.",
+      "Dice the tofu and fry in a dry non-stick pan for 6 minutes until golden, then remove.",
+      "Toast the cumin in the rapeseed oil for 30 seconds, fry the onion, ginger and garlic for 3 minutes, add the tomato and reduce for 3 minutes.",
+      "Stir in the spinach purée and garam masala, add the tofu, heat for 2 minutes and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_5735",
+    "title": "Tempeh broccoli bowl with quinoa and miso ginger dressing",
+    "ingredients": [
+      "Tempeh",
+      "Shelled edamame (frozen)",
+      "Pea protein (unflavoured)",
+      "Quinoa",
+      "Broccoli",
+      "Miso (light, gluten-free)",
+      "Ginger",
+      "Lime juice",
+      "Water",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse the quinoa with hot water and cook covered with 40 ml water for 12 minutes. Divide the broccoli into florets and steam with the edamame for 4 minutes.",
+      "Cut the tempeh into cubes and fry in a dry non-stick pan for 6 minutes until golden.",
+      "Finely grate the ginger and stir until smooth with the miso, pea protein and lime juice.",
+      "Arrange the quinoa, broccoli, edamame and tempeh in a bowl, drizzle with the dressing and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_5736",
+    "title": "Kale and lupin stew with smoked tofu and pepper",
+    "ingredients": [
+      "Kale",
+      "Lupins (cooked)",
+      "Smoked tofu",
+      "Red pepper",
+      "Passata",
+      "Onion",
+      "Vegetable stock",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the onion and pepper, strip the kale from the stalks and roughly chop, dice the smoked tofu.",
+      "Fry the smoked tofu in a pot without fat for 4 minutes, add the onion and pepper for 3 minutes and dust with paprika.",
+      "Add the strained tomatoes, vegetable stock and kale and simmer for 15 minutes.",
+      "Add the lupins, warm for 3 minutes and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_5737",
+    "title": "Tofu fajita pan with peppers, onions and salsa",
+    "ingredients": [
+      "Firm plain tofu",
+      "Pea protein (unflavoured)",
+      "Peppers (red and yellow)",
+      "Onion",
+      "Tomato",
+      "Lime juice",
+      "Cumin, paprika",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the tofu into strips, dust with the pea protein, cumin and paprika and fry in a dry non-stick pan for 6 minutes until golden, then remove.",
+      "Cut the peppers and half of the onion into strips and fry in the same dry pan for 5 minutes until tender-crisp.",
+      "Finely dice the tomato and remaining onion and mix with the lime juice, coriander and salt into a salsa.",
+      "Add the tofu to the vegetables, toss briefly, season with pepper and serve with the salsa."
+    ]
+  },
+  {
+    "id": "rec_5738",
+    "title": "Asparagus and strawberry salad with smoked tofu and lupins",
+    "ingredients": [
+      "Green asparagus",
+      "Strawberries",
+      "Smoked tofu",
+      "Lupins (cooked)",
+      "Pea protein (unflavoured)",
+      "Rocket",
+      "Balsamic vinegar",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel the lower third of the asparagus, cut into pieces and fry in a dry pan for 5 minutes until tender-crisp.",
+      "Dice the smoked tofu and fry in the pan for 4 minutes until crisp. Quarter the strawberries.",
+      "Stir the balsamic vinegar with the pea protein, salt and pepper until smooth.",
+      "Toss the rocket, asparagus, lupins, strawberries and tofu and drizzle with the dressing."
+    ]
+  },
+  {
+    "id": "rec_5739",
+    "title": "Aubergine and tofu rolls in tomato sauce",
+    "ingredients": [
+      "Aubergine",
+      "Firm plain tofu",
+      "Pea protein (unflavoured)",
+      "Passata",
+      "Nutritional yeast flakes",
+      "Garlic",
+      "Basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C. Cut the aubergine lengthways into 6 thin slices and fry in a dry pan for 2 minutes per side.",
+      "Mash the tofu with the pea protein, nutritional yeast, pressed garlic, salt and pepper and mix in the chopped basil.",
+      "Spread the filling over the aubergine slices, roll them up and place them on the strained tomatoes in a small baking dish.",
+      "Bake in the oven for 20 minutes and serve with pepper."
+    ]
+  },
+  {
+    "id": "rec_5740",
+    "title": "Kohlrabi and edamame pan with sesame and tamari",
+    "ingredients": [
+      "Kohlrabi",
+      "Shelled edamame (frozen)",
+      "Firm plain tofu",
+      "Sesame seeds",
+      "Tamari (gluten-free)",
+      "Spring onion",
+      "Ginger",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel the kohlrabi and cut into sticks, dice the tofu, slice the spring onion into rings and finely chop the ginger.",
+      "Fry the tofu in a dry non-stick pan for 5 minutes until golden and remove. Briefly toast the sesame seeds.",
+      "Stir-fry the kohlrabi, edamame and ginger for 5 minutes, add the tofu and deglaze with the tamari.",
+      "Sprinkle with the sesame seeds and spring onion and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_5741",
+    "title": "Roasted cauliflower steak with edamame mint cream",
+    "ingredients": [
+      "Cauliflower",
+      "Shelled edamame (frozen)",
+      "Pea protein (unflavoured)",
+      "Lemon juice",
+      "Water",
+      "Olive oil",
+      "Turmeric, cumin",
+      "Mint",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 220 °C. Cut the cauliflower into one 3 cm thick slice and rub with the olive oil, turmeric, cumin and salt.",
+      "Roast on a lined baking tray for 25 minutes until golden, turning halfway through.",
+      "Cook the edamame in boiling water for 3 minutes, drain and purée with the pea protein, lemon juice, mint and 50 ml water into a smooth cream, then season with salt and pepper.",
+      "Spread the edamame cream on a plate and place the cauliflower steak on top."
+    ]
+  },
+  {
+    "id": "rec_5742",
+    "title": "Tempeh red cabbage stir-fry with apple and ginger",
+    "ingredients": [
+      "Tempeh",
+      "Firm plain tofu",
+      "Pea protein (unflavoured)",
+      "Red cabbage",
+      "Apple",
+      "Ginger",
+      "Tamari (gluten-free)",
+      "Apple cider vinegar",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the tempeh into strips, the tofu into cubes, the red cabbage into fine strips and the apple into thin wedges, finely chop the ginger.",
+      "Fry the tempeh and tofu in a dry non-stick pan for 6 minutes until golden and remove.",
+      "Stir-fry the red cabbage and ginger for 5 minutes, add the apple and fry for 2 more minutes.",
+      "Return the tempeh and tofu, deglaze with the tamari and cider vinegar, stir in the pea protein and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_5743",
+    "title": "Soy chunk stroganoff with mushrooms and gherkin",
+    "ingredients": [
+      "Soy chunks (dry)",
+      "Firm plain tofu",
+      "Mushrooms",
+      "Onion",
+      "Pickled gherkin",
+      "Plain soy skyr",
+      "Mustard (medium hot)",
+      "Vegetable stock",
+      "Rapeseed oil",
+      "Sweet paprika",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Soak the soy chunks in 150 ml of the hot vegetable stock for 10 minutes and squeeze out well, reserving the stock.",
+      "Dice the tofu, slice the mushrooms, cut the onion into strips and the gherkin into sticks.",
+      "Fry the soy chunks and tofu in the rapeseed oil for 4 minutes, add the onion and mushrooms for 5 minutes, dust with paprika and deglaze with all of the stock.",
+      "Remove from the heat, stir in the soy skyr, mustard and gherkin, season and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_5744",
+    "title": "Red lentil pasta with spinach tofu ricotta",
+    "ingredients": [
+      "Red lentil pasta (uncooked)",
+      "Firm plain tofu",
+      "Nutritional yeast flakes",
+      "Baby spinach",
+      "Lemon juice",
+      "Garlic",
+      "Cherry tomatoes",
+      "Nutmeg",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the red lentil pasta in salted water until al dente according to the packet and drain, reserving 4 tbsp of the cooking water.",
+      "Purée the tofu with the nutritional yeast, lemon juice, garlic, nutmeg, salt and the cooking water into a creamy ricotta.",
+      "Wilt the spinach in a hot pan, mix in the pasta and tofu ricotta and warm for 1 minute.",
+      "Halve the cherry tomatoes, scatter over the pasta and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_5745",
+    "title": "Chickpea pasta arrabbiata with lupins",
+    "ingredients": [
+      "Chickpea pasta (uncooked)",
+      "Lupins (cooked)",
+      "Pea protein (unflavoured)",
+      "Passata",
+      "Garlic",
+      "Red chilli",
+      "Olive oil",
+      "Basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the chickpea pasta in salted water until al dente according to the packet and drain.",
+      "Finely chop the garlic and chilli and sweat in the olive oil for 1 minute, add the strained tomatoes and reduce for 8 minutes.",
+      "Stir in the pea protein, add the lupins and warm for 2 minutes, season with salt and pepper.",
+      "Toss the pasta with the sauce and garnish with basil."
+    ]
+  },
+  {
+    "id": "rec_5746",
+    "title": "Pea and mint soup with edamame and tofu croutons",
+    "ingredients": [
+      "Peas (frozen)",
+      "Shelled edamame (frozen)",
+      "Firm plain tofu",
+      "Pea protein (unflavoured)",
+      "Onion",
+      "Vegetable stock",
+      "Mint",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Dice the onion and bring to the boil with the peas, edamame and vegetable stock, then simmer for 6 minutes.",
+      "Cut the tofu into small cubes and fry in a dry non-stick pan for 7 minutes until crisp, then salt.",
+      "Add the mint leaves and pea protein to the soup, purée everything finely and season with salt and pepper.",
+      "Pour the soup into a bowl and top with the tofu croutons."
+    ]
+  },
+  {
+    "id": "rec_5747",
+    "title": "Savoy cabbage and tofu pan with caraway and mustard",
+    "ingredients": [
+      "Firm plain tofu",
+      "Shelled edamame (frozen)",
+      "Savoy cabbage",
+      "Onion",
+      "Mustard (medium hot)",
+      "Vegetable stock",
+      "Caraway",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the tofu into cubes and fry in a dry non-stick pan for 6 minutes until golden, then remove.",
+      "Cut the savoy cabbage into strips, dice the onion and fry with the caraway in the pan for 4 minutes.",
+      "Add the edamame and vegetable stock and braise covered for 4 minutes.",
+      "Stir in the mustard, add the tofu and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_5748",
+    "title": "Japchae-style shirataki with tofu, spinach and pepper",
+    "ingredients": [
+      "Shirataki noodles, drained",
+      "Firm plain tofu",
+      "Pea protein (unflavoured)",
+      "Baby spinach",
+      "Red pepper",
+      "Carrot",
+      "Tamari (gluten-free)",
+      "Toasted sesame oil",
+      "Sesame seeds",
+      "Garlic"
+    ],
+    "instructions": [
+      "Rinse the shirataki noodles thoroughly and dry-roast them in a pan without fat for 3 minutes, then remove.",
+      "Cut the tofu into strips and fry in the pan for 6 minutes until golden. Cut the pepper and carrot into fine strips.",
+      "Fry the vegetables and chopped garlic in the sesame oil for 3 minutes, add the spinach and let it wilt.",
+      "Stir the tamari with the pea protein, add to the pan with the noodles and tofu, toss and sprinkle with sesame seeds."
+    ]
+  },
+  {
+    "id": "rec_5749",
+    "title": "Bamya – okra and tomato stew with lupins",
+    "ingredients": [
+      "Okra",
+      "Lupins (cooked)",
+      "Pea protein (unflavoured)",
+      "Passata",
+      "Onion",
+      "Garlic",
+      "Lemon juice",
+      "Olive oil",
+      "Coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Wash the okra and trim the stem ends closely. Finely chop the onion and garlic.",
+      "Sweat the onion and garlic in the olive oil for 3 minutes, add the okra and fry for 3 minutes.",
+      "Add the strained tomatoes and simmer covered for 15 minutes, then stir in the pea protein and simmer the lupins for 3 minutes.",
+      "Season with lemon juice, salt and pepper and sprinkle with coriander."
+    ]
+  },
+  {
+    "id": "rec_5750",
+    "title": "Crustless tofu and mushroom quiche with spinach",
+    "ingredients": [
+      "Firm plain tofu",
+      "Chickpea flour",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Mushrooms",
+      "Baby spinach",
+      "Nutritional yeast flakes",
+      "Turmeric",
+      "Nutmeg",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 190 °C. Slice the mushrooms and fry with the spinach in a dry pan for 4 minutes.",
+      "Purée the tofu with the chickpea flour, pea protein, soy drink, nutritional yeast, turmeric, nutmeg, salt and pepper until smooth.",
+      "Fold in the vegetables, pour the mixture into a small lined dish and smooth the top.",
+      "Bake in the oven for 30 minutes until golden, rest for 5 minutes and slice."
+    ]
+  },
+  {
+    "id": "rec_5751",
+    "title": "Red lentil dal with tofu, cauliflower and spinach",
+    "ingredients": [
+      "Red lentils (dry)",
+      "Firm plain tofu",
+      "Cauliflower",
+      "Baby spinach",
+      "Onion",
+      "Ginger",
+      "Water",
+      "Turmeric, cumin, garam masala",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely chop the onion and ginger, divide the cauliflower into small florets and dice the tofu.",
+      "Toast the onion, ginger, turmeric, cumin and garam masala in a pot without fat for 2 minutes, add the lentils, cauliflower and 250 ml water.",
+      "Simmer covered for 15 minutes until the lentils break down. Fry the tofu in a dry pan for 6 minutes until golden.",
+      "Stir the spinach into the dal, season with salt and pepper and serve with the tofu."
+    ]
+  },
+  {
+    "id": "rec_5752",
+    "title": "Pointed cabbage rolls with soy mince and tomato filling",
+    "ingredients": [
+      "Pointed cabbage",
+      "Soy mince (dry)",
+      "Pea protein (unflavoured)",
+      "Onion",
+      "Passata",
+      "Vegetable stock",
+      "Paprika, marjoram",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Blanch 4 large pointed cabbage leaves in boiling salted water for 2 minutes, refresh in cold water and pat dry. Finely chop the remaining cabbage.",
+      "Soak the soy mince in the hot vegetable stock for 10 minutes and mix with the chopped onion, chopped cabbage, pea protein, paprika and marjoram.",
+      "Divide the filling among the cabbage leaves, fold in the sides and roll up.",
+      "Place the rolls in the strained tomatoes in a small pot and braise covered for 20 minutes, then season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_5753",
+    "title": "Rhubarb vanilla millet porridge with soy protein",
+    "ingredients": [
+      "Millet",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Rhubarb",
+      "Maple syrup",
+      "Water",
+      "Vanilla (ground)"
+    ],
+    "instructions": [
+      "Rinse the millet with hot water, bring to the boil with 150 ml soy drink and the vanilla and let it swell covered over low heat for 15 minutes.",
+      "Cut the rhubarb into 2 cm pieces and stew with the maple syrup and 30 ml water for 5 minutes until soft.",
+      "Stir the soy protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Spoon the porridge into a bowl and top with the rhubarb compote."
+    ]
+  },
+  {
+    "id": "rec_5754",
+    "title": "Baked apple cinnamon amaranth porridge with pea protein",
+    "ingredients": [
+      "Amaranth",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Water",
+      "Apple",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Bring the amaranth to the boil with 150 ml soy drink and 60 ml water and let it swell covered over low heat for 20 minutes.",
+      "Core the apple, cut into wedges, dust with half of the cinnamon and fry in a dry non-stick pan for 6 minutes until soft.",
+      "Stir the pea protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Spoon the porridge into a bowl, top with the apple wedges and dust with the remaining cinnamon."
+    ]
+  },
+  {
+    "id": "rec_5755",
+    "title": "Chestnut cocoa buckwheat porridge with soy protein",
+    "ingredients": [
+      "Buckwheat",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Water",
+      "Chestnuts (pre-cooked)",
+      "Unsweetened cocoa"
+    ],
+    "instructions": [
+      "Rinse the buckwheat with hot water, bring to the boil with 150 ml soy drink and 60 ml water and simmer covered for 12 minutes until soft.",
+      "Finely mash two chestnuts and stir into the porridge with the cocoa, cut the third chestnut into quarters.",
+      "Stir the soy protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Spoon the porridge into a bowl and top with the chestnut quarters."
+    ]
+  },
+  {
+    "id": "rec_5756",
+    "title": "Redcurrant coconut teff porridge with soy protein",
+    "ingredients": [
+      "Teff",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Water",
+      "Redcurrants",
+      "Coconut flakes",
+      "Maple syrup"
+    ],
+    "instructions": [
+      "Bring the teff to the boil with 150 ml soy drink and 60 ml water and let it swell covered over low heat for 15 minutes, stirring occasionally.",
+      "Stir the soy protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Wash the redcurrants and strip them from the stems. Toast the coconut flakes in a dry pan until golden.",
+      "Spoon the porridge into a bowl, drizzle with the maple syrup, top with the redcurrants and sprinkle with the coconut flakes."
+    ]
+  },
+  {
+    "id": "rec_5757",
+    "title": "Mirabelle plum almond rice flake porridge with pea protein",
+    "ingredients": [
+      "Rice flakes",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Mirabelle plums",
+      "Flaked almonds"
+    ],
+    "instructions": [
+      "Bring the rice flakes to the boil with 150 ml soy drink and simmer for 4 minutes, stirring.",
+      "Stir the pea protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Halve and stone the mirabelle plums. Toast the almonds in a dry pan until golden.",
+      "Spoon the porridge into a bowl, top with the mirabelle halves and sprinkle with the almonds."
+    ]
+  },
+  {
+    "id": "rec_5758",
+    "title": "Pumpkin cinnamon rice flour pancakes with soy skyr",
+    "ingredients": [
+      "Rice flour",
+      "Unsweetened soy protein",
+      "Hokkaido pumpkin (cooked, puréed)",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Baking powder (gluten-free)",
+      "Rapeseed oil",
+      "Pumpkin seeds",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Mix the rice flour, soy protein, baking powder and cinnamon, then stir in the pumpkin purée and soy drink to a thick batter.",
+      "Brush a non-stick pan with the rapeseed oil and cook 4 small pancakes from the batter for 2 minutes per side until golden.",
+      "Toast the pumpkin seeds in a dry pan and chop roughly. Stack the pancakes, top with the soy skyr and sprinkle with the pumpkin seeds."
+    ]
+  },
+  {
+    "id": "rec_5759",
+    "title": "Grapefruit mint skyr bowl with puffed quinoa",
+    "ingredients": [
+      "Plain soy skyr",
+      "Unsweetened soy protein",
+      "Pink grapefruit",
+      "Puffed quinoa",
+      "Maple syrup",
+      "Mint"
+    ],
+    "instructions": [
+      "Stir the soy skyr with the soy protein and maple syrup until smooth and spoon into a shallow bowl.",
+      "Peel the grapefruit and cut the segments out from between the membranes. Cut the mint into fine strips.",
+      "Arrange the grapefruit segments on the skyr and sprinkle with the puffed quinoa and mint."
+    ]
+  },
+  {
+    "id": "rec_5760",
+    "title": "Sour cherry cocoa overnight millet flakes with chia",
+    "ingredients": [
+      "Millet flakes",
+      "Chia seeds",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Sour cherries (pitted)",
+      "Unsweetened cocoa"
+    ],
+    "instructions": [
+      "Stir the millet flakes with the chia seeds, soy drink, soy protein and cocoa and leave covered in the fridge overnight to swell.",
+      "In the morning stir well and spoon into a jar.",
+      "Top with the sour cherries and serve immediately."
+    ]
+  },
+  {
+    "id": "rec_5761",
+    "title": "Creamy polenta with cherry tomatoes, rocket and smoked tofu",
+    "ingredients": [
+      "Polenta",
+      "Vegetable stock",
+      "Pea protein (unflavoured)",
+      "Nutritional yeast flakes",
+      "Smoked tofu",
+      "Cherry tomatoes",
+      "Rocket",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the vegetable stock to the boil, sprinkle in the polenta and simmer for 5 minutes, stirring. Stir in the pea protein and nutritional yeast.",
+      "Dice the smoked tofu and fry in a dry non-stick pan for 4 minutes, add the halved cherry tomatoes and fry for 2 more minutes.",
+      "Spoon the polenta into a bowl, top with the tofu and tomatoes, garnish with rocket and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_5762",
+    "title": "Lupin avocado spread on rice cakes with radishes",
+    "ingredients": [
+      "Lupins (cooked)",
+      "Pea protein (unflavoured)",
+      "Avocado",
+      "Rice cake",
+      "Radishes",
+      "Lemon juice",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Mash the lupins, avocado, pea protein and lemon juice with a fork or in a blender into a creamy spread and season with salt and pepper.",
+      "Thinly slice the radishes and cut the chives into small rolls.",
+      "Spread the mixture over the 3 rice cakes, top with the radishes and sprinkle with chives."
+    ]
+  },
+  {
+    "id": "rec_5763",
+    "title": "Green tofu pan with zucchini, peas and cumin",
+    "ingredients": [
+      "Firm plain tofu",
+      "Pea protein (unflavoured)",
+      "Zucchini",
+      "Peas (frozen)",
+      "Baby spinach",
+      "Cumin",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the tofu into cubes, dust with the pea protein and fry in a dry non-stick pan for 6 minutes until golden.",
+      "Dice the zucchini and fry with the cumin and peas for 4 minutes.",
+      "Fold in the spinach, let it wilt, season with salt and pepper and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_5764",
+    "title": "Edamame hummus with kohlrabi sticks",
+    "ingredients": [
+      "Shelled edamame (frozen)",
+      "Pea protein (unflavoured)",
+      "Tahini",
+      "Lemon juice",
+      "Water",
+      "Garlic",
+      "Kohlrabi",
+      "Cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the edamame in boiling water for 3 minutes, drain and rinse under cold water.",
+      "Blend the edamame with the pea protein, tahini, lemon juice, garlic, cumin and 30 ml water until creamy and season with salt and pepper.",
+      "Peel the kohlrabi, cut into finger-thick sticks and serve with the hummus."
+    ]
+  },
+  {
+    "id": "rec_5765",
+    "title": "Cocoa orange protein bars with buckwheat",
+    "ingredients": [
+      "Unsweetened soy protein",
+      "Buckwheat",
+      "Dates (pitted)",
+      "Unsweetened cocoa",
+      "Plain soy skyr",
+      "Orange zest (organic)",
+      "Orange juice"
+    ],
+    "instructions": [
+      "Toast the buckwheat in a dry pan for 4 minutes until crunchy and leave to cool. Chop the dates very finely.",
+      "Knead the soy protein, cocoa, dates, soy skyr, orange zest and orange juice into a mouldable mixture and work in the buckwheat.",
+      "Press the mixture into a rectangle, cut into 2 bars and chill for 30 minutes."
+    ]
+  },
+  {
+    "id": "rec_5766",
+    "title": "Beetroot lupin dip with chicory",
+    "ingredients": [
+      "Lupins (cooked)",
+      "Pea protein (unflavoured)",
+      "Cooked beetroot",
+      "Lemon juice",
+      "Chicory",
+      "Cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Roughly dice the beetroot and blend finely with the lupins, pea protein, lemon juice and cumin.",
+      "Season the dip with salt and pepper.",
+      "Separate the chicory into single leaves and serve with the dip."
+    ]
+  },
+  {
+    "id": "rec_5767",
+    "title": "Mango turmeric protein shake with soy skyr",
+    "ingredients": [
+      "Mango",
+      "Plain soy skyr",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Ginger",
+      "Turmeric"
+    ],
+    "instructions": [
+      "Peel the mango and cut the flesh from the stone. Peel the ginger.",
+      "Blend the mango, ginger, soy skyr, soy protein, soy drink and turmeric until creamy.",
+      "Pour into a glass and serve immediately."
+    ]
+  },
+  {
+    "id": "rec_5768",
+    "title": "Stuffed cucumber boats with tofu herb cream",
+    "ingredients": [
+      "Silken tofu",
+      "Pea protein (unflavoured)",
+      "Cucumber",
+      "Lemon juice",
+      "Cherry tomatoes",
+      "Chives",
+      "Dill",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Stir the silken tofu with the pea protein and lemon juice until smooth, finely chop the chives and dill, fold in and season with salt and pepper.",
+      "Halve the cucumber lengthways and scrape out the seeds with a teaspoon.",
+      "Fill both cucumber halves with the cream, quarter the cherry tomatoes and arrange on top."
+    ]
+  },
+  {
+    "id": "rec_5769",
+    "title": "Blueberry silken tofu mousse with slivered almonds",
+    "ingredients": [
+      "Silken tofu",
+      "Unsweetened soy protein",
+      "Blueberries",
+      "Slivered almonds",
+      "Maple syrup",
+      "Vanilla (ground)"
+    ],
+    "instructions": [
+      "Blend the silken tofu with the soy protein, maple syrup, vanilla and two thirds of the blueberries until creamy.",
+      "Spoon the mousse into a glass and chill for 15 minutes. Toast the slivered almonds in a dry pan until golden.",
+      "Top with the remaining blueberries and the slivered almonds."
+    ]
+  },
+  {
+    "id": "rec_5770",
+    "title": "Crispy oven edamame with sesame and chilli",
+    "ingredients": [
+      "Shelled edamame (frozen)",
+      "Pea protein (unflavoured)",
+      "Tamari (gluten-free)",
+      "Sesame seeds",
+      "Chilli flakes",
+      "Garlic powder"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C top and bottom heat. Pat the edamame dry.",
+      "Toss the edamame with the tamari, dust with the pea protein, garlic powder and chilli flakes and spread on a lined baking tray.",
+      "Roast for 20 minutes until crispy, turning once, sprinkle with sesame and leave to cool."
+    ]
+  },
+  {
+    "id": "rec_5771",
+    "title": "Raspberry rhubarb millet flake porridge with tofu",
+    "ingredients": [
+      "Millet flakes",
+      "Pea protein (unflavoured)",
+      "Firm plain tofu",
+      "Unsweetened almond drink",
+      "Rhubarb",
+      "Raspberries",
+      "Maple syrup"
+    ],
+    "instructions": [
+      "Cut the rhubarb into small pieces and stew covered with the maple syrup in a small pan for 5 minutes until soft.",
+      "Bring the millet flakes to the boil with 160 ml almond drink and simmer for 3 minutes, stirring.",
+      "Blend the tofu with the remaining 60 ml almond drink and the pea protein until smooth and stir into the porridge.",
+      "Spoon the porridge into a bowl and top with the rhubarb compote and raspberries."
+    ]
+  },
+  {
+    "id": "rec_5772",
+    "title": "Banana cocoa buckwheat porridge with tofu",
+    "ingredients": [
+      "Buckwheat",
+      "Pea protein (unflavoured)",
+      "Firm plain tofu",
+      "Unsweetened almond drink",
+      "Banana (firm)",
+      "Unsweetened cocoa"
+    ],
+    "instructions": [
+      "Rinse the buckwheat with hot water, bring to the boil with 160 ml almond drink and simmer covered for 12 minutes until soft, then stir in the cocoa.",
+      "Blend the tofu with the remaining 60 ml almond drink and the pea protein until smooth and stir into the porridge.",
+      "Slice the banana.",
+      "Spoon the porridge into a bowl and top with the banana slices."
+    ]
+  },
+  {
+    "id": "rec_5773",
+    "title": "Mandarin ginger polenta porridge with tofu",
+    "ingredients": [
+      "Polenta",
+      "Pea protein (unflavoured)",
+      "Firm plain tofu",
+      "Unsweetened almond drink",
+      "Mandarin",
+      "Ginger"
+    ],
+    "instructions": [
+      "Finely grate the ginger, bring to the boil with 160 ml almond drink, sprinkle in the polenta and simmer for 5 minutes, stirring.",
+      "Blend the tofu with the remaining 60 ml almond drink and the pea protein until smooth and stir into the porridge.",
+      "Peel the mandarin and divide into segments.",
+      "Spoon the porridge into a bowl and top with the mandarin segments."
+    ]
+  },
+  {
+    "id": "rec_5774",
+    "title": "Tomato mozzarella omelette with basil",
+    "ingredients": [
+      "Eggs (medium)",
+      "Mozzarella (made with microbial rennet)",
+      "Cherry tomatoes",
+      "Butter",
+      "Basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Whisk the eggs with salt and pepper. Slice the mozzarella and halve the cherry tomatoes.",
+      "Melt the butter in a pan, pour in the eggs and let them set over medium heat for 3 minutes.",
+      "Arrange the mozzarella and tomatoes on one half and cook covered for 2 minutes until the cheese melts.",
+      "Fold the omelette and serve topped with basil."
+    ]
+  },
+  {
+    "id": "rec_5775",
+    "title": "Spinach cheddar frittata with spring onions",
+    "ingredients": [
+      "Eggs (medium)",
+      "Cheddar (made with microbial rennet)",
+      "Baby spinach",
+      "Spring onions",
+      "Butter",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the spring onion into rings and grate the cheddar.",
+      "Melt the butter in a small ovenproof pan, sweat the spring onion for 1 minute, add the spinach and let it wilt.",
+      "Whisk the eggs with salt, pepper and two thirds of the cheese, pour over the vegetables and let set over low heat for 5 minutes.",
+      "Sprinkle with the remaining cheese and grill under the oven grill for 3 minutes until golden."
+    ]
+  },
+  {
+    "id": "rec_5776",
+    "title": "Egg salad with avocado and chives",
+    "ingredients": [
+      "Eggs (medium)",
+      "Avocado",
+      "Mayonnaise",
+      "Mustard (medium hot)",
+      "Round lettuce",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Hard-boil the eggs in boiling water for 10 minutes, rinse under cold water, peel and dice.",
+      "Dice the avocado and cut the chives into small rolls.",
+      "Stir the mayonnaise with the mustard, salt and pepper and gently fold in the eggs, avocado and chives.",
+      "Place the lettuce leaves on a plate and arrange the egg salad on top."
+    ]
   }
 ]
