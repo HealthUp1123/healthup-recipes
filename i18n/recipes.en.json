@@ -109038,5 +109038,930 @@
       "Make two hollows, crack in the eggs, sprinkle over the grated cheese and let set, covered, for 5 minutes.",
       "Sprinkle with pepper and chives."
     ]
+  },
+  {
+    "id": "rec_5527",
+    "title": "Pineapple ginger quinoa porridge with soy protein and lime",
+    "ingredients": [
+      "Quinoa",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Pineapple",
+      "Ginger",
+      "Lime"
+    ],
+    "instructions": [
+      "Rinse the quinoa thoroughly in a sieve.",
+      "Finely grate the ginger and bring it to the boil with the quinoa and 150 ml of the soy drink, then cook covered over low heat for 15 minutes until creamy.",
+      "Stir the soy protein with the remaining soy drink until smooth and fold into the porridge.",
+      "Dice the pineapple, scatter over the porridge and sprinkle with lime zest."
+    ]
+  },
+  {
+    "id": "rec_5528",
+    "title": "Pomegranate orange millet porridge with pea protein and cinnamon",
+    "ingredients": [
+      "Millet",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Orange",
+      "Pomegranate seeds",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Rinse the millet with hot water and bring to the boil with 150 ml of the soy drink and the cinnamon, then let it swell covered over low heat for 15 minutes.",
+      "Stir the pea protein with the remaining soy drink until smooth and fold into the porridge.",
+      "Peel the orange and cut it into segments.",
+      "Serve the porridge with the orange segments and pomegranate seeds and dust with cinnamon."
+    ]
+  },
+  {
+    "id": "rec_5529",
+    "title": "Mango lime pancakes made with rice flour and soy skyr",
+    "ingredients": [
+      "Rice flour",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Mango",
+      "Olive oil",
+      "Lime",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Mix the rice flour, pea protein and baking powder, then stir in the soy drink and 40 g of the soy skyr until smooth.",
+      "Brush a pan with the oil and cook 3 small pancakes over medium heat for 2 minutes per side.",
+      "Peel the mango and cut it into small dice.",
+      "Stack the pancakes, top with the remaining soy skyr and the mango and sprinkle with lime zest."
+    ]
+  },
+  {
+    "id": "rec_5530",
+    "title": "Lemon blueberry millet bake with silken tofu and pea protein",
+    "ingredients": [
+      "Millet flakes",
+      "Silken tofu",
+      "Pea protein (unflavoured)",
+      "Blueberries",
+      "Maple syrup",
+      "Lemon",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Preheat the oven to 180 degrees.",
+      "Blend the silken tofu with the pea protein, maple syrup, lemon zest and lemon juice until smooth, then stir in the millet flakes and baking powder.",
+      "Pour into a small baking dish, scatter the blueberries on top and press in lightly.",
+      "Bake for 25 minutes until golden and leave to cool for 5 minutes."
+    ]
+  },
+  {
+    "id": "rec_5531",
+    "title": "Black Forest cherry baked oats with soy protein and cocoa",
+    "ingredients": [
+      "Gluten-free oats",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Unsweetened cocoa",
+      "Sour cherries (pitted)",
+      "Plain soy skyr",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Preheat the oven to 180 degrees.",
+      "Blend the oats, soy protein, cocoa, baking powder and soy drink until smooth.",
+      "Pour into a small baking dish, press in the sour cherries and bake for 20 minutes.",
+      "Leave to cool briefly and serve with a dollop of soy skyr."
+    ]
+  },
+  {
+    "id": "rec_5532",
+    "title": "Vegan carrot cake muffins with soy skyr frosting",
+    "ingredients": [
+      "Carrot",
+      "Rice flour",
+      "Gluten-free oats",
+      "Pea protein (unflavoured)",
+      "Plain soy skyr",
+      "Walnuts",
+      "Maple syrup",
+      "Cinnamon, baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Preheat the oven to 180 degrees and line 2 muffin moulds with paper cases.",
+      "Finely grate the carrot, finely grind the oats and mix both with the rice flour, pea protein, cinnamon and baking powder.",
+      "Stir in 50 g of the soy skyr, the maple syrup and 2 tbsp water, fill the cases with the batter and bake for 22 minutes.",
+      "Leave the muffins to cool, spread with the remaining soy skyr and sprinkle with chopped walnuts."
+    ]
+  },
+  {
+    "id": "rec_5533",
+    "title": "Vegan polenta semolina porridge with plum compote and soy protein",
+    "ingredients": [
+      "Polenta semolina (fine)",
+      "Soy drink (unsweetened)",
+      "Unsweetened soy protein",
+      "Plums",
+      "Maple syrup",
+      "Cinnamon, vanilla"
+    ],
+    "instructions": [
+      "Stone and quarter the plums and stew with the maple syrup, cinnamon and 2 tbsp water for 5 minutes until soft.",
+      "Bring 200 ml of the soy drink to the boil with the vanilla, sprinkle in the semolina and let it swell for 5 minutes, stirring.",
+      "Stir the soy protein with the remaining soy drink until smooth and fold into the porridge.",
+      "Spoon the porridge into a bowl and serve with the warm plum compote."
+    ]
+  },
+  {
+    "id": "rec_5534",
+    "title": "Rhubarb vanilla millet flake porridge with pea protein",
+    "ingredients": [
+      "Millet flakes",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Rhubarb",
+      "Maple syrup",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Cut the rhubarb into pieces and stew with the maple syrup and 2 tbsp water for 5 minutes until soft.",
+      "Bring the millet flakes to the boil with 150 ml of the soy drink and the vanilla and let them swell for 3 minutes.",
+      "Stir the pea protein with the remaining soy drink until smooth and fold in.",
+      "Spoon the porridge into a bowl and top with the rhubarb."
+    ]
+  },
+  {
+    "id": "rec_5535",
+    "title": "Persimmon cardamom chia pudding with soy yoghurt",
+    "ingredients": [
+      "Chia seeds",
+      "Soy yoghurt (plain, unsweetened)",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Persimmon",
+      "Cardamom"
+    ],
+    "instructions": [
+      "Stir the soy protein, soy drink, cardamom and 50 g of the soy yoghurt until smooth and stir in the chia seeds.",
+      "Stir again after 5 minutes and chill for at least 2 hours.",
+      "Purée half of the persimmon finely with the remaining soy yoghurt and cut the rest into small cubes.",
+      "Layer the chia pudding and persimmon purée in a glass, top with the persimmon cubes and dust with cardamom."
+    ]
+  },
+  {
+    "id": "rec_5536",
+    "title": "Nougat amaranth porridge with hazelnuts, cocoa and banana",
+    "ingredients": [
+      "Amaranth",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Unsweetened cocoa",
+      "Hazelnuts",
+      "Banana"
+    ],
+    "instructions": [
+      "Bring the amaranth to the boil with 130 ml of the soy drink and cook covered over low heat for 20 minutes until creamy.",
+      "Stir the pea protein and cocoa with the remaining soy drink until smooth and fold in.",
+      "Toast the hazelnuts in a dry pan and chop roughly.",
+      "Serve the porridge with banana slices and the hazelnuts."
+    ]
+  },
+  {
+    "id": "rec_5537",
+    "title": "Vegan protein rice pudding with cherry compote and cinnamon",
+    "ingredients": [
+      "Pudding rice (short-grain rice)",
+      "Soy drink (unsweetened)",
+      "Unsweetened soy protein",
+      "Sour cherries (pitted)",
+      "Cinnamon, vanilla"
+    ],
+    "instructions": [
+      "Bring the rice to the boil with 170 ml of the soy drink and the vanilla and let it swell over the lowest heat for 25 minutes, stirring now and then.",
+      "Stir the soy protein with the remaining soy drink until smooth and fold into the rice pudding.",
+      "Simmer the sour cherries with 1 tbsp water for 4 minutes to make a compote.",
+      "Serve the rice pudding with the cherry compote and dust with cinnamon."
+    ]
+  },
+  {
+    "id": "rec_5538",
+    "title": "Vegan quark crêpes with soy skyr and apricots",
+    "ingredients": [
+      "Chickpea flour",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Unsweetened soy protein",
+      "Apricots",
+      "Olive oil",
+      "Vanilla, lemon zest"
+    ],
+    "instructions": [
+      "Whisk the chickpea flour with the soy drink and a pinch of salt until smooth and leave to swell for 10 minutes.",
+      "Brush a pan with the oil and cook 2 thin crêpes for 1 to 2 minutes per side.",
+      "Stir the soy skyr with the soy protein, vanilla and lemon zest to make a quark cream.",
+      "Fill the crêpes with the cream, fold into quarters and serve with apricot wedges."
+    ]
+  },
+  {
+    "id": "rec_5539",
+    "title": "Pear almond rice flake porridge with soy protein",
+    "ingredients": [
+      "Rice flakes",
+      "Soy drink (unsweetened)",
+      "Unsweetened soy protein",
+      "Pear",
+      "Flaked almonds",
+      "Cinnamon, vanilla"
+    ],
+    "instructions": [
+      "Bring the rice flakes to the boil with 150 ml of the soy drink, cinnamon and vanilla and let them swell for 3 minutes.",
+      "Stir the soy protein with the remaining soy drink until smooth and fold into the porridge.",
+      "Core the pear, cut it into thin wedges and toast the flaked almonds in a dry pan until golden.",
+      "Spoon the porridge into a bowl and top with the pear wedges and flaked almonds."
+    ]
+  },
+  {
+    "id": "rec_5540",
+    "title": "Baked apple baked oats with walnuts and raisins",
+    "ingredients": [
+      "Gluten-free oats",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Apple",
+      "Raisins",
+      "Walnuts",
+      "Baking powder (gluten-free), cinnamon"
+    ],
+    "instructions": [
+      "Preheat the oven to 180 degrees, halve and core the apple.",
+      "Stir together the oats, soy protein, soy drink, baking powder and cinnamon and pour into a small baking dish.",
+      "Set one apple half in the centre cut side up, fill with the raisins and chopped walnuts, dice the second half and scatter it around.",
+      "Bake for 25 minutes and dust with cinnamon."
+    ]
+  },
+  {
+    "id": "rec_5541",
+    "title": "Mandarin ginger chia pudding with pea protein",
+    "ingredients": [
+      "Chia seeds",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Mandarins",
+      "Ginger"
+    ],
+    "instructions": [
+      "Whisk the pea protein with the soy drink and the finely grated ginger until smooth.",
+      "Stir in the chia seeds, stir again after 5 minutes and chill for at least 2 hours.",
+      "Peel the mandarins and divide them into segments.",
+      "Spoon the pudding into a glass and top with the mandarin segments."
+    ]
+  },
+  {
+    "id": "rec_5542",
+    "title": "Orange chocolate waffles made with buckwheat flour and soy skyr",
+    "ingredients": [
+      "Buckwheat flour",
+      "Pea protein (unflavoured)",
+      "Unsweetened cocoa",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Orange",
+      "Olive oil",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Mix the buckwheat flour, pea protein, cocoa and baking powder, then stir in the soy drink, 30 g of the soy skyr and a little orange zest until smooth.",
+      "Preheat the waffle iron, brush with the oil and bake 2 waffles for 4 minutes each.",
+      "Peel the orange and cut it into segments.",
+      "Serve the waffles with the remaining soy skyr and the orange segments."
+    ]
+  },
+  {
+    "id": "rec_5543",
+    "title": "Blackberry coconut buckwheat porridge with soy protein",
+    "ingredients": [
+      "Buckwheat flakes",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Blackberries",
+      "Desiccated coconut"
+    ],
+    "instructions": [
+      "Bring the buckwheat flakes to the boil with 150 ml of the soy drink and let them swell for 4 minutes, stirring.",
+      "Stir the soy protein with the remaining soy drink until smooth and fold in.",
+      "Toast the desiccated coconut briefly in a dry pan.",
+      "Serve the porridge with the blackberries and coconut."
+    ]
+  },
+  {
+    "id": "rec_5544",
+    "title": "Matcha banana rice flake porridge with soy protein",
+    "ingredients": [
+      "Rice flakes",
+      "Soy drink (unsweetened)",
+      "Unsweetened soy protein",
+      "Matcha powder",
+      "Banana",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Bring the rice flakes to the boil with 150 ml of the soy drink and the vanilla and let them swell for 3 minutes.",
+      "Whisk the matcha and soy protein with the remaining soy drink until there are no lumps.",
+      "Take off the heat and fold the matcha mixture into the porridge.",
+      "Slice the banana and arrange it on the porridge."
+    ]
+  },
+  {
+    "id": "rec_5545",
+    "title": "Tahini halva quinoa porridge with soy protein and date",
+    "ingredients": [
+      "Quinoa",
+      "Soy drink (unsweetened)",
+      "Unsweetened soy protein",
+      "Tahini",
+      "Dates (pitted)",
+      "Sesame seeds",
+      "Vanilla, cinnamon"
+    ],
+    "instructions": [
+      "Rinse the quinoa with hot water and simmer with 150 ml of the soy drink, vanilla and cinnamon for 15 minutes until soft.",
+      "Stir the soy protein with the remaining soy drink and half of the tahini until smooth and fold into the quinoa.",
+      "Finely chop the date and toast the sesame in a dry pan until golden.",
+      "Spoon the porridge into a bowl, drizzle with the remaining tahini and sprinkle with the date and sesame."
+    ]
+  },
+  {
+    "id": "rec_5546",
+    "title": "Poppy seed sour cherry amaranth porridge with pea protein",
+    "ingredients": [
+      "Amaranth",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Blue poppy seeds (ground)",
+      "Sour cherries (frozen)",
+      "Maple syrup",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Bring the amaranth to the boil with 100 ml of the soy drink, 80 ml water, the poppy seeds and vanilla, cover and let it swell over low heat for 20 minutes.",
+      "Heat the sour cherries with the maple syrup for 4 minutes until juicy.",
+      "Stir the pea protein with the remaining soy drink until smooth and fold into the amaranth.",
+      "Spoon the porridge into a bowl and top with the warm sour cherries."
+    ]
+  },
+  {
+    "id": "rec_5547",
+    "title": "Tomato tofu bruschetta on cucumber slices with basil",
+    "ingredients": [
+      "Firm plain tofu",
+      "Plain soy skyr",
+      "Cherry tomatoes",
+      "Cucumber",
+      "Olive oil",
+      "Garlic",
+      "Basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Blend the tofu with the soy skyr, salt and pepper to make a creamy tofu ricotta.",
+      "Finely dice the cherry tomatoes and mix with the oil, chopped garlic, salt and half of the basil.",
+      "Cut the cucumber diagonally into thick slices.",
+      "Spread the cucumber slices with the tofu ricotta, top with the tomatoes and garnish with the remaining basil."
+    ]
+  },
+  {
+    "id": "rec_5548",
+    "title": "Pea mint tofu smash with radishes and cucumber slices",
+    "ingredients": [
+      "Peas (frozen)",
+      "Shelled edamame (frozen)",
+      "Firm plain tofu",
+      "Plain soy skyr",
+      "Radishes",
+      "Cucumber",
+      "Lemon",
+      "Mint",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the peas and edamame in boiling water for 3 minutes, refresh in cold water and drain.",
+      "Crumble the tofu roughly and mash coarsely with a fork together with the peas, edamame, soy skyr, mint, lemon zest, lemon juice, salt and pepper.",
+      "Cut the cucumber into thick slices and the radishes into thin slices.",
+      "Spread the smash on the cucumber slices and top with the radishes."
+    ]
+  },
+  {
+    "id": "rec_5549",
+    "title": "Vegan baked beans in tomato sauce with herb tofu and mushrooms",
+    "ingredients": [
+      "White beans (cooked)",
+      "Chopped tomatoes (tin)",
+      "Firm plain tofu",
+      "Mushrooms",
+      "Olive oil",
+      "Smoked paprika, thyme, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Simmer the beans with the chopped tomatoes, smoked paprika, salt and pepper for 10 minutes until thick.",
+      "Dice the tofu, season with thyme and fry in a non-stick pan with the oil for 6 minutes until golden.",
+      "Halve the mushrooms and fry them in the same pan for 4 minutes.",
+      "Arrange the beans, tofu and mushrooms on a plate and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_5550",
+    "title": "Cauliflower hash browns with scrambled tofu and chives",
+    "ingredients": [
+      "Cauliflower",
+      "Chickpea flour",
+      "Firm plain tofu",
+      "Nutritional yeast flakes",
+      "Olive oil",
+      "Chives, turmeric, kala namak",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely grate the cauliflower, squeeze it out firmly in a cloth and mix with the chickpea flour, salt and pepper.",
+      "Heat two thirds of the oil and fry the mixture as 2 flat hash browns for 4 minutes per side until crisp.",
+      "Crumble the tofu with the turmeric, yeast flakes and kala namak and fry in the remaining oil for 4 minutes.",
+      "Serve the hash browns with the scrambled tofu and sprinkle with chives."
+    ]
+  },
+  {
+    "id": "rec_5551",
+    "title": "Redcurrant panna cotta with soy skyr and agar",
+    "ingredients": [
+      "Plain soy skyr",
+      "Soy drink (unsweetened)",
+      "Unsweetened soy protein",
+      "Agar agar",
+      "Maple syrup",
+      "Redcurrants",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Bring the soy drink to the boil with the agar and vanilla and simmer for 2 minutes, stirring.",
+      "Stir the soy skyr with the soy protein and half of the maple syrup until smooth and quickly stir in the hot agar milk.",
+      "Pour into a glass and chill for at least 2 hours.",
+      "Heat the redcurrants with the remaining maple syrup for 2 minutes, leave to cool and spoon over the panna cotta."
+    ]
+  },
+  {
+    "id": "rec_5552",
+    "title": "Vegan peanut protein cookies with soy yoghurt",
+    "ingredients": [
+      "Peanut butter",
+      "Pea protein (unflavoured)",
+      "Gluten-free oats",
+      "Maple syrup",
+      "Soy yoghurt (plain, unsweetened)",
+      "Unsalted peanuts",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Preheat the oven to 175 degrees and line a baking tray with baking paper.",
+      "Stir the peanut butter, maple syrup and soy yoghurt until smooth, then knead in the pea protein, oats and baking powder to make a firm dough.",
+      "Shape four balls, place on the tray, flatten them and press the chopped peanuts on top.",
+      "Bake for 10 minutes and leave to cool on the tray."
+    ]
+  },
+  {
+    "id": "rec_5553",
+    "title": "Lemon blondies made with white beans and pea protein",
+    "ingredients": [
+      "White beans (cooked)",
+      "Pea protein (unflavoured)",
+      "Gluten-free oats",
+      "Maple syrup",
+      "Almond butter",
+      "Lemon",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Preheat the oven to 180 degrees and line a small tin with baking paper.",
+      "Rinse the beans and blend with the almond butter, maple syrup, lemon zest and lemon juice until very smooth.",
+      "Stir in the pea protein, oats and baking powder and spread the batter in the tin.",
+      "Bake for 20 minutes, leave to cool completely and cut into 2 pieces."
+    ]
+  },
+  {
+    "id": "rec_5554",
+    "title": "Coconut curry tofu bites with lime dip",
+    "ingredients": [
+      "Firm plain tofu",
+      "Desiccated coconut",
+      "Tamari",
+      "Plain soy skyr",
+      "Lime",
+      "Curry powder, fresh coriander"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 degrees and line a baking tray with baking paper.",
+      "Pat the tofu dry, cut into bite-sized cubes, toss with the tamari and curry powder and roll in the coconut.",
+      "Spread on the tray and bake for 20 minutes until golden and crisp.",
+      "Stir the soy skyr with the lime zest, lime juice, coriander and a pinch of salt and serve with the tofu bites."
+    ]
+  },
+  {
+    "id": "rec_5555",
+    "title": "Chocolate mint protein pudding made with silken tofu",
+    "ingredients": [
+      "Silken tofu",
+      "Unsweetened soy protein",
+      "Unsweetened cocoa",
+      "Maple syrup",
+      "Dark chocolate (85%)",
+      "Peppermint leaves"
+    ],
+    "instructions": [
+      "Finely chop half of the mint leaves.",
+      "Blend the silken tofu with the soy protein, cocoa, maple syrup and the chopped mint until very smooth.",
+      "Spoon into a glass and chill for 30 minutes.",
+      "Garnish with grated chocolate and the remaining mint leaves."
+    ]
+  },
+  {
+    "id": "rec_5556",
+    "title": "Apple rings with peanut soy skyr dip and cocoa nibs",
+    "ingredients": [
+      "Apple",
+      "Plain soy skyr",
+      "Unsweetened soy protein",
+      "Peanut butter",
+      "Cacao nibs",
+      "Lemon juice",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Stir the soy skyr with the soy protein, peanut butter and cinnamon until smooth.",
+      "Core the apple and cut it crosswise into 6 rings.",
+      "Drizzle the apple rings with lemon juice so that they do not turn brown.",
+      "Spoon the dip into a small bowl, sprinkle with the cocoa nibs and serve with the apple rings."
+    ]
+  },
+  {
+    "id": "rec_5557",
+    "title": "Sour cherry almond protein bars with vanilla",
+    "ingredients": [
+      "Ground almonds",
+      "Pea protein (unflavoured)",
+      "Sour cherries (pitted)",
+      "Plain soy skyr",
+      "Maple syrup",
+      "Baking powder (gluten-free), vanilla"
+    ],
+    "instructions": [
+      "Preheat the oven to 180 degrees and line a small tin with baking paper.",
+      "Mix the ground almonds with the pea protein, vanilla and baking powder, then stir in the soy skyr and maple syrup to make a thick batter.",
+      "Spread the batter in the tin and press the sour cherries evenly into it.",
+      "Bake for 15 minutes, leave to cool and cut into 2 bars."
+    ]
+  },
+  {
+    "id": "rec_5558",
+    "title": "Lupin flaxseed crackers with tofu herb dip",
+    "ingredients": [
+      "Lupin meal",
+      "Flaxseed",
+      "Sesame seeds",
+      "Firm plain tofu",
+      "Plain soy skyr",
+      "Parsley, chives, lemon juice",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 160 degrees.",
+      "Stir the lupin meal, flaxseed, sesame, a pinch of salt and 50 ml water together and leave to swell for 10 minutes.",
+      "Spread the mixture thinly on baking paper, score into rectangles and bake for 30 minutes until crisp.",
+      "Blend the tofu with the soy skyr, herbs, lemon juice, salt and pepper until creamy and serve with the crackers."
+    ]
+  },
+  {
+    "id": "rec_5559",
+    "title": "Rhubarb strawberry protein shake with soy skyr",
+    "ingredients": [
+      "Rhubarb",
+      "Strawberries",
+      "Plain soy skyr",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Maple syrup"
+    ],
+    "instructions": [
+      "Cut the rhubarb into pieces, stew with 2 tbsp water for 5 minutes until soft and leave to cool.",
+      "Wash the fruit, peel if needed and cut it into rough pieces.",
+      "Put all the ingredients into a blender and blend for about 45 seconds until creamy.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_5560",
+    "title": "Pistachio protein pudding made with silken tofu",
+    "ingredients": [
+      "Silken tofu",
+      "Unsweetened soy protein",
+      "Pistachios",
+      "Maple syrup",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Grind two thirds of the pistachios very finely and chop the rest roughly.",
+      "Blend the silken tofu with the soy protein, ground pistachios, maple syrup and vanilla until very smooth.",
+      "Spoon into a glass and chill for 30 minutes.",
+      "Sprinkle with the chopped pistachios."
+    ]
+  },
+  {
+    "id": "rec_5561",
+    "title": "Cinnamon roll protein bars with pecans",
+    "ingredients": [
+      "Gluten-free oats",
+      "Pea protein (unflavoured)",
+      "Dates (pitted)",
+      "Pecans",
+      "Plain soy skyr",
+      "Cinnamon, vanilla"
+    ],
+    "instructions": [
+      "Finely chop the dates and blend with the soy skyr, cinnamon and vanilla until smooth.",
+      "Knead in the oats and pea protein until a firm dough forms.",
+      "Press the dough into a rectangle, sprinkle with cinnamon, press the chopped pecans on top and cut into 2 bars.",
+      "Chill for at least 1 hour."
+    ]
+  },
+  {
+    "id": "rec_5562",
+    "title": "Pumpkin protein brownies with pea protein and dark chocolate",
+    "ingredients": [
+      "Pumpkin purée (Hokkaido)",
+      "Pea protein (unflavoured)",
+      "Unsweetened cocoa",
+      "Gluten-free oats",
+      "Dark chocolate (85%)",
+      "Maple syrup",
+      "Plain soy skyr",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Preheat the oven to 180 degrees and line a small tin with baking paper.",
+      "Stir the pumpkin purée, soy skyr and maple syrup until smooth, then stir in the pea protein, cocoa, finely ground oats and baking powder.",
+      "Spread the batter in the tin and scatter the chopped chocolate over it.",
+      "Bake for 18 minutes, leave to cool and cut into 2 pieces."
+    ]
+  },
+  {
+    "id": "rec_5563",
+    "title": "Spiced apple pudding made with silken tofu and walnuts",
+    "ingredients": [
+      "Silken tofu",
+      "Unsweetened soy protein",
+      "Apple",
+      "Maple syrup",
+      "Walnuts",
+      "Cinnamon, ground cloves, vanilla"
+    ],
+    "instructions": [
+      "Peel the apple, dice it finely and stew with the maple syrup, cinnamon and 2 tbsp water for 5 minutes until soft, then leave to cool.",
+      "Blend the silken tofu with the soy protein, half of the apples, the clove and vanilla until very smooth.",
+      "Spoon into a glass and chill for 30 minutes.",
+      "Top with the remaining diced apple and chopped walnuts."
+    ]
+  },
+  {
+    "id": "rec_5564",
+    "title": "Zucchini mini pizzas with tofu feta and oregano",
+    "ingredients": [
+      "Zucchini",
+      "Chopped tomatoes (tin)",
+      "Firm plain tofu",
+      "Nutritional yeast flakes",
+      "Olive oil",
+      "Lemon juice",
+      "Dried oregano",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 220 degrees and cut the zucchini diagonally into 8 thick slices.",
+      "Crumble the tofu finely and mix with the lemon juice, nutritional yeast, oregano, salt and pepper to make a tofu feta.",
+      "Brush the zucchini slices with the oil, spread with the chopped tomatoes and scatter the tofu feta on top.",
+      "Bake for 12 minutes until the zucchini is tender and the edges are golden."
+    ]
+  },
+  {
+    "id": "rec_5565",
+    "title": "Chocolate nice cream with soy protein and banana",
+    "ingredients": [
+      "Banana (frozen)",
+      "Unsweetened soy protein",
+      "Unsweetened cocoa",
+      "Soy drink (unsweetened)"
+    ],
+    "instructions": [
+      "Cut the fruit into pieces and freeze for at least 4 hours.",
+      "Blend the frozen banana with the soy protein, cocoa and soy drink in a food processor for 1 to 2 minutes until creamy, scraping down in between.",
+      "Spoon into a bowl straight away or freeze for another 30 minutes for a firmer texture."
+    ]
+  },
+  {
+    "id": "rec_5566",
+    "title": "Frozen raspberry soy skyr drops with dark chocolate",
+    "ingredients": [
+      "Plain soy skyr",
+      "Pea protein (unflavoured)",
+      "Raspberries",
+      "Dark chocolate (85%)",
+      "Maple syrup"
+    ],
+    "instructions": [
+      "Stir the soy skyr with the pea protein and maple syrup until smooth, lightly crush the raspberries and fold them in.",
+      "Spoon the mixture in 8 small dollops onto a board lined with baking paper.",
+      "Melt the chocolate and drizzle it over the drops in thin lines.",
+      "Freeze for at least 2 hours and let thaw for 5 minutes before eating."
+    ]
+  },
+  {
+    "id": "rec_5567",
+    "title": "Orange coconut quinoa porridge with tofu and pea protein",
+    "ingredients": [
+      "Quinoa",
+      "Pea protein (unflavoured)",
+      "Firm plain tofu",
+      "Unsweetened almond drink",
+      "Orange",
+      "Desiccated coconut",
+      "Vanilla"
+    ],
+    "instructions": [
+      "Rinse the quinoa with hot water and simmer with 150 ml of the almond drink and the vanilla for 15 minutes until soft.",
+      "Blend the tofu with the remaining almond drink, the pea protein and a little orange zest until smooth.",
+      "Take off the heat and stir in the tofu cream.",
+      "Segment the orange, arrange on the porridge and sprinkle with the coconut."
+    ]
+  },
+  {
+    "id": "rec_5568",
+    "title": "Blueberry tofu smoothie bowl with puffed quinoa",
+    "ingredients": [
+      "Firm plain tofu",
+      "Pea protein (unflavoured)",
+      "Blueberries (frozen)",
+      "Banana (firm)",
+      "Unsweetened almond drink",
+      "Puffed quinoa"
+    ],
+    "instructions": [
+      "Blend the tofu, pea protein, two thirds of the blueberries, the banana and the almond drink in a blender until thick and creamy.",
+      "Pour the smoothie into a bowl.",
+      "Top with the remaining blueberries and the puffed quinoa.",
+      "Serve immediately so that the quinoa stays crunchy."
+    ]
+  },
+  {
+    "id": "rec_5569",
+    "title": "Walnut waffles made with rice flour with tofu vanilla cream and strawberries",
+    "ingredients": [
+      "Rice flour",
+      "Pea protein (unflavoured)",
+      "Unsweetened almond drink",
+      "Strawberries",
+      "Firm plain tofu",
+      "Walnuts",
+      "Olive oil",
+      "Baking powder (gluten-free), cinnamon, vanilla"
+    ],
+    "instructions": [
+      "Stir the rice flour with the pea protein, baking powder, cinnamon, half of the finely chopped walnuts and 60 ml of the almond drink to a thick batter.",
+      "Brush the waffle iron with the oil and bake 2 waffles until golden.",
+      "Blend the tofu with the remaining almond drink and vanilla until very smooth.",
+      "Serve the waffles with the tofu cream, halved strawberries and the remaining walnuts."
+    ]
+  },
+  {
+    "id": "rec_5570",
+    "title": "Strawberry ginger millet porridge with tofu and pea protein",
+    "ingredients": [
+      "Millet",
+      "Pea protein (unflavoured)",
+      "Firm plain tofu",
+      "Unsweetened almond drink",
+      "Strawberries",
+      "Ginger (fresh)"
+    ],
+    "instructions": [
+      "Rinse the millet with hot water and simmer with 130 ml of the almond drink and the finely grated ginger for 15 minutes until soft.",
+      "Blend the tofu with the remaining almond drink and the pea protein until smooth and stir into the millet.",
+      "Crush half of the strawberries and fold them in.",
+      "Halve the remaining strawberries and arrange them on the porridge."
+    ]
+  },
+  {
+    "id": "rec_5571",
+    "title": "Zucchini halloumi fritters with fried egg",
+    "ingredients": [
+      "Zucchini",
+      "Halloumi (with microbial rennet)",
+      "Eggs (medium)",
+      "Ground almonds",
+      "Olive oil",
+      "Mint, pepper"
+    ],
+    "instructions": [
+      "Coarsely grate the zucchini, salt lightly, leave for 5 minutes and squeeze out firmly.",
+      "Finely grate the halloumi and mix with the zucchini, 1 egg, the ground almonds, mint and pepper.",
+      "Heat two thirds of the oil and fry 3 fritters over medium heat for 3 to 4 minutes per side until golden.",
+      "Fry the second egg in the remaining oil and serve with the fritters."
+    ]
+  },
+  {
+    "id": "rec_5572",
+    "title": "Fennel frittata with vegetarian hard cheese and lemon",
+    "ingredients": [
+      "Eggs (medium)",
+      "Fennel",
+      "Hard cheese (vegetarian)",
+      "Crème fraîche",
+      "Olive oil",
+      "Lemon zest, fennel fronds",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Slice the fennel very thinly and fry in the oil in an ovenproof pan for 6 minutes until soft and lightly golden.",
+      "Whisk the eggs with the crème fraîche, half of the cheese, the lemon zest, salt and pepper.",
+      "Pour the egg mixture over the fennel, sprinkle with the remaining cheese and let set over low heat for 4 minutes.",
+      "Grill for 3 minutes until golden and sprinkle with the fennel fronds."
+    ]
+  },
+  {
+    "id": "rec_5573",
+    "title": "Pumpkin goat cheese frittata with sage",
+    "ingredients": [
+      "Eggs (medium)",
+      "Hokkaido pumpkin",
+      "Goat cheese (log)",
+      "Butter",
+      "Sage leaves",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the pumpkin into small cubes and fry in half of the butter in an ovenproof pan for 6 minutes until soft.",
+      "Add the remaining butter and fry the sage leaves in it for 1 minute until crisp.",
+      "Whisk the eggs with salt and pepper, pour over, crumble the goat cheese on top and let set over low heat for 4 minutes.",
+      "Grill for 3 minutes until golden."
+    ]
+  },
+  {
+    "id": "rec_5574",
+    "title": "Oyster mushroom scrambled eggs with crème fraîche and chives",
+    "ingredients": [
+      "Eggs (medium)",
+      "Oyster mushrooms",
+      "Butter",
+      "Crème fraîche",
+      "Chives, thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Tear the oyster mushrooms into strips and fry in half of the butter with the thyme for 5 minutes until golden, season with salt and remove.",
+      "Whisk the eggs with the crème fraîche, salt and pepper.",
+      "Melt the remaining butter over low heat and let the eggs set slowly and creamily, stirring.",
+      "Serve the scrambled eggs with the mushrooms and sprinkle with chives."
+    ]
+  },
+  {
+    "id": "rec_5575",
+    "title": "Radicchio feta omelette with walnuts",
+    "ingredients": [
+      "Eggs (medium)",
+      "Radicchio",
+      "Feta",
+      "Walnuts",
+      "Olive oil",
+      "Thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the radicchio into thin strips and roughly chop the walnuts.",
+      "Heat half of the oil and wilt the radicchio with the thyme for 2 minutes, season with salt and remove.",
+      "Whisk the eggs with salt and pepper and let them set in the remaining oil over medium heat for 3 minutes.",
+      "Put the radicchio and crumbled feta on one half, fold over and sprinkle with the walnuts."
+    ]
+  },
+  {
+    "id": "rec_5576",
+    "title": "Broccoli mountain cheese egg pan with almonds",
+    "ingredients": [
+      "Eggs (medium)",
+      "Broccoli",
+      "Mountain cheese (vegetarian, made with microbial rennet)",
+      "Butter",
+      "Flaked almonds",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Divide the broccoli into small florets, blanch in salted water for 3 minutes and drain.",
+      "Toast the flaked almonds in a dry pan until golden and remove.",
+      "Melt the butter, fry the broccoli for 2 minutes, pour the eggs whisked with salt and pepper over it and sprinkle with the grated mountain cheese.",
+      "Cover and let set over low heat for 5 minutes, then sprinkle with the almonds."
+    ]
   }
 ]
