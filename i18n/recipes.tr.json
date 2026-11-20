@@ -104468,6 +104468,7 @@
       "Darı gevreği",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Kiraz (çekirdeksiz, dondurulmuş)",
       "Şekersiz kakao",
       "Vanilya"
@@ -104488,6 +104489,7 @@
       "Sade soya skyr",
       "Yaban mersini",
       "Kanola yağı",
+      "Su",
       "Kabartma tozu, vanilya"
     ],
     "instructions": [
@@ -104522,6 +104524,7 @@
       "Kinoa (pişmemiş)",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Elma",
       "Kuru üzüm",
       "Tarçın"
@@ -104542,6 +104545,7 @@
       "Bezelye proteini (aromasız)",
       "Muz",
       "Ceviz",
+      "Su",
       "Kabartma tozu, tarçın"
     ],
     "instructions": [
@@ -104594,6 +104598,7 @@
       "Sütlaçlık pirinç (kısa taneli pirinç)",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Mürdüm eriği",
       "Tarçın"
     ],
@@ -104627,6 +104632,7 @@
       "Pişmemiş amarant",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Armut",
       "Chai baharatı (tarçın, kakule, zencefil, karanfil)"
     ],
@@ -104646,7 +104652,8 @@
       "Şekersiz soya proteini",
       "Mango",
       "Çarkıfelek",
-      "Hindistan cevizi rendesi"
+      "Hindistan cevizi rendesi",
+      "Su"
     ],
     "instructions": [
       "Kinoayı sıcak suyla durulayın, 80 ml suda kapağı kapalı 12 dakika pişirin ve soğumaya bırakın.",
@@ -104680,6 +104687,7 @@
       "Darı (pişmemiş)",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Light hindistan cevizi sütü",
       "Kivi",
       "Matcha tozu"
@@ -104721,6 +104729,7 @@
       "Domates",
       "Soğan",
       "Kanola yağı",
+      "Su",
       "Kimyon, zerdeçal, zencefil",
       "Nane",
       "Tuz, karabiber"
@@ -104744,6 +104753,7 @@
       "Kırmızı biber",
       "Soğan",
       "Zeytinyağı",
+      "Su",
       "Zerdeçal",
       "Tuz, karabiber"
     ],
@@ -104784,6 +104794,7 @@
       "Besin mayası pulu",
       "Domates",
       "Roka",
+      "Su",
       "Zerdeçal, kimyon",
       "Tuz, karabiber"
     ],
@@ -104805,6 +104816,7 @@
       "Çeri domates",
       "Limon suyu",
       "Zeytinyağı",
+      "Su",
       "Biberiye",
       "Tuz, karabiber"
     ],
@@ -104847,6 +104859,7 @@
       "Füme tofu",
       "Turp",
       "Misket limonu suyu",
+      "Su",
       "Pul biber",
       "Tuz, karabiber"
     ],
@@ -104868,6 +104881,7 @@
       "Bebek ıspanak",
       "Sebze suyu",
       "Besin mayası pulu",
+      "Su",
       "Tuz, karabiber"
     ],
     "instructions": [
@@ -104985,6 +104999,7 @@
       "Domates",
       "Sarımsak",
       "Zeytinyağı",
+      "Su",
       "Fesleğen",
       "Tuz, karabiber"
     ],
@@ -105002,6 +105017,7 @@
       "Sade soya skyr",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Çilek (dondurulmuş)",
       "Limon kabuğu rendesi",
       "Vanilya"
@@ -105123,6 +105139,7 @@
     "title": "Soya içecekli ve bademli spekülatius protein shake",
     "ingredients": [
       "Soya içeceği (şekersiz)",
+      "Su",
       "Bezelye proteini (aromasız)",
       "Muz (dondurulmuş)",
       "Badem",
@@ -105143,6 +105160,7 @@
       "Ahududu (dondurulmuş)",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Zencefil (taze)",
       "Buz küpleri"
     ],
@@ -105213,6 +105231,7 @@
       "Darı (pişmemiş)",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Kayısı",
       "Vanilya"
     ],
@@ -105231,6 +105250,7 @@
       "Bezelye proteini (aromasız)",
       "İpek tofu",
       "Şekersiz badem içeceği",
+      "Su",
       "Akçaağaç şurubu",
       "Kakule",
       "Buz küpleri"
@@ -105266,6 +105286,7 @@
       "Bebek ıspanak",
       "Besin mayası pulu",
       "Kanola yağı",
+      "Su",
       "Zerdeçal",
       "Frenk soğanı",
       "Tuz, karabiber"
@@ -105322,6 +105343,7 @@
       "Domates",
       "Besin mayası pulu",
       "Kanola yağı",
+      "Su",
       "Zerdeçal",
       "Frenk soğanı",
       "Tuz, karabiber"
@@ -105358,6 +105380,7 @@
       "Darı gevreği",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Ayva",
       "Ceviz",
       "Vanilya"
@@ -105394,6 +105417,7 @@
       "Kestane (önceden pişmiş)",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Elma",
       "Tarçın"
     ],
@@ -105500,6 +105524,7 @@
     "ingredients": [
       "Mısır irmiği (polenta)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Şekersiz soya proteini",
       "Sade soya skyr",
       "Kiraz (çekirdeksiz, dondurulmuş)",
@@ -105579,6 +105604,7 @@
       "Akçaağaç şurubu",
       "Yaban mersini",
       "Limon kabuğu rendesi",
+      "Su",
       "Vanilya"
     ],
     "instructions": [
@@ -105632,6 +105658,7 @@
       "Amarant",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Papaya",
       "Limon kabuğu rendesi"
     ],
@@ -105652,6 +105679,7 @@
       "Sade sert tofu",
       "Besin mayası pulu",
       "Domates",
+      "Su",
       "Kimyon, zerdeçal, tuz"
     ],
     "instructions": [
@@ -105670,6 +105698,7 @@
       "Sade sert tofu",
       "Kırmızı biber",
       "Besin mayası pulu",
+      "Su",
       "Kişniş, kimyon, tuz"
     ],
     "instructions": [
@@ -105747,7 +105776,8 @@
       "Salatalık",
       "Tamari (glutensiz)",
       "Susam",
-      "Besin mayası pulu"
+      "Besin mayası pulu",
+      "Su"
     ],
     "instructions": [
       "Yapışkan pirinci 30 ml suda kapağı kapalı 15 dakika pişirin ve biraz soğumaya bırakın.",
@@ -105807,6 +105837,7 @@
       "Beyaz lahana",
       "Havuç",
       "Elma sirkesi",
+      "Su",
       "Kekik, tuz"
     ],
     "instructions": [
@@ -105825,6 +105856,7 @@
       "Bezelye (dondurulmuş)",
       "Besin mayası pulu",
       "Limon",
+      "Su",
       "Köri tozu, zerdeçal, maydanoz, tuz"
     ],
     "instructions": [
@@ -105843,6 +105875,7 @@
       "Sade sert tofu",
       "Bezelye proteini (aromasız)",
       "Besin mayası pulu",
+      "Su",
       "Kimyon, zerdeçal, kişniş, tuz"
     ],
     "instructions": [
@@ -105916,6 +105949,7 @@
     "title": "Ananaslı fesleğenli protein shake",
     "ingredients": [
       "Soya içeceği (şekersiz)",
+      "Su",
       "Şekersiz soya proteini",
       "Ananas",
       "Fesleğen",
@@ -105953,6 +105987,7 @@
       "Kavun",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Nane, misket limonu suyu",
       "Buz küpleri"
     ],
@@ -105970,7 +106005,8 @@
       "Nar taneleri",
       "Ahududu (dondurulmuş)",
       "Şekersiz soya proteini",
-      "Soya içeceği (şekersiz)"
+      "Soya içeceği (şekersiz)",
+      "Su"
     ],
     "instructions": [
       "Narı ikiye kesin ve tanelerini çıkarın, süslemek için 1 çay kaşığı ayırın.",
@@ -106073,6 +106109,7 @@
       "Bezelye proteini (aromasız)",
       "Kabak çekirdeği",
       "Besin mayası pulu",
+      "Su",
       "Frenk soğanı, limon suyu, tuz"
     ],
     "instructions": [
@@ -106123,6 +106160,7 @@
       "Portakal",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Kakule",
       "Buz küpleri"
     ],
@@ -106143,6 +106181,7 @@
       "Havuç",
       "Alabaş",
       "Salatalık",
+      "Su",
       "Limon suyu, tuz"
     ],
     "instructions": [
@@ -106159,6 +106198,7 @@
       "Kayısı",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Zencefil",
       "Buz küpleri"
     ],
@@ -106215,6 +106255,7 @@
       "Nori",
       "Salatalık",
       "Susam",
+      "Su",
       "Pirinç sirkesi, tuz"
     ],
     "instructions": [
@@ -106252,6 +106293,7 @@
       "Bebek ıspanak",
       "Kabak çekirdeği",
       "Besin mayası pulu",
+      "Su",
       "Zerdeçal, frenk soğanı",
       "Tuz, karabiber"
     ],
@@ -106288,6 +106330,7 @@
       "Sade soya skyr",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Böğürtlen",
       "Öğütülmüş keten tohumu",
       "Vanilya"
@@ -106362,6 +106405,7 @@
       "Kinoa (pişmemiş)",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Sade soya skyr",
       "Ahududu",
       "Limon kabuğu rendesi"
@@ -106399,6 +106443,7 @@
       "Pişmemiş amarant",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Şekersiz kakao",
       "Nar taneleri"
     ],
@@ -106415,6 +106460,7 @@
       "Pirinç gevreği",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Mürdüm eriği",
       "Ceviz",
       "Tarçın"
@@ -106433,6 +106479,7 @@
       "Karabuğday (pişmemiş)",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Taze incir",
       "Fındık"
     ],
@@ -106450,6 +106497,7 @@
       "Glutensiz yulaf",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Elma",
       "Badem",
       "Akçaağaç şurubu",
@@ -106492,6 +106540,7 @@
       "Havuç",
       "Salatalık",
       "Kavrulmuş susam yağı",
+      "Su",
       "Pirinç sirkesi, tuz"
     ],
     "instructions": [
@@ -106532,6 +106581,7 @@
       "Sade sert tofu",
       "Bezelye proteini (aromasız)",
       "Kanola yağı",
+      "Su",
       "Zencefil, kimyon, karabiber, köri yaprağı",
       "Tuz, karabiber"
     ],
@@ -106552,6 +106602,7 @@
       "Bezelye proteini (aromasız)",
       "Bebek ıspanak",
       "Zeytinyağı",
+      "Su",
       "Pul biber, limon suyu, tuz"
     ],
     "instructions": [
@@ -106571,6 +106622,7 @@
       "Bebek ıspanak",
       "Kırmızı biber",
       "Zeytinyağı",
+      "Su",
       "Kekik, limon suyu, tuz"
     ],
     "instructions": [
@@ -106589,6 +106641,7 @@
       "Bezelye proteini (aromasız)",
       "Domates",
       "Besin mayası pulu",
+      "Su",
       "Zerdeçal, frenk soğanı",
       "Tuz, karabiber"
     ],
@@ -106609,6 +106662,7 @@
       "Bebek ıspanak",
       "Sade soya skyr",
       "Zeytinyağı",
+      "Su",
       "Kekik, maydanoz, limon suyu",
       "Tuz, karabiber"
     ],
@@ -106629,6 +106683,7 @@
       "Besin mayası pulu",
       "Çeri domates",
       "Zeytinyağı",
+      "Su",
       "Fesleğen, limon suyu",
       "Tuz, karabiber"
     ],
@@ -106649,6 +106704,7 @@
       "Bebek ıspanak",
       "Domates",
       "Kanola yağı",
+      "Su",
       "Zerdeçal, kimyon, zencefil, taze kişniş",
       "Tuz, karabiber"
     ],
@@ -106669,6 +106725,7 @@
       "Miso (açık renkli, glutensiz)",
       "Wakame (kurutulmuş)",
       "Taze soğan",
+      "Su",
       "Zencefil"
     ],
     "instructions": [
@@ -106702,6 +106759,7 @@
     "title": "Pirinç gevrekli, tarçınlı ve hurmalı horchata protein shake",
     "ingredients": [
       "Soya içeceği (şekersiz)",
+      "Su",
       "Şekersiz soya proteini",
       "Pirinç gevreği",
       "Hurma (çekirdeksiz)",
@@ -106796,6 +106854,7 @@
       "Kabak çekirdeği",
       "Hurma (çekirdeksiz)",
       "Glutensiz yulaf",
+      "Su",
       "Tarçın"
     ],
     "instructions": [
@@ -106831,7 +106890,8 @@
       "Fındık ezmesi",
       "Hurma (çekirdeksiz)",
       "Patlatılmış kinoa",
-      "Şekersiz kakao"
+      "Şekersiz kakao",
+      "Su"
     ],
     "instructions": [
       "Hurmaları ince doğrayın ve fındık ezmesi ve 2 yemek kaşığı sıcak suyla macun haline getirin.",
@@ -106847,7 +106907,8 @@
       "Kuru kayısı",
       "Badem ezmesi",
       "Glutensiz yulaf",
-      "Hindistan cevizi rendesi"
+      "Hindistan cevizi rendesi",
+      "Su"
     ],
     "instructions": [
       "Kayısıları ince doğrayın ve badem ezmesi ve 2 yemek kaşığı sıcak suyla karıştırın.",
@@ -106861,6 +106922,7 @@
     "title": "Yulaflı ve soya içecekli yaban mersinli tarçınlı protein shake",
     "ingredients": [
       "Soya içeceği (şekersiz)",
+      "Su",
       "Şekersiz soya proteini",
       "Yaban mersini (dondurulmuş)",
       "Glutensiz yulaf",
@@ -106900,6 +106962,7 @@
       "Soya yoğurdu (sade, şekersiz)",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Salatalık",
       "Nane, kimyon (kavrulmuş), tuz",
       "Buz küpleri"
@@ -107022,6 +107085,7 @@
       "Sade sert tofu",
       "Bebek ıspanak",
       "Havuç",
+      "Su",
       "Zencefil (taze), frenk soğanı, tuz"
     ],
     "instructions": [
@@ -107187,6 +107251,7 @@
       "Glutensiz yulaf",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Hurma (çekirdeksiz)",
       "Fıstık ezmesi",
       "Fıstık (kavrulmuş)",
@@ -107224,6 +107289,7 @@
       "Sade soya skyr",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Kayısı",
       "Badem ezmesi",
       "Acı badem aroması, vanilya"
@@ -107245,6 +107311,7 @@
       "Vişne (çekirdeksiz)",
       "Şekersiz kakao",
       "Akçaağaç şurubu",
+      "Su",
       "Kabartma tozu (glutensiz), vanilya"
     ],
     "instructions": [
@@ -107394,6 +107461,7 @@
       "Sade soya skyr",
       "Elma",
       "Fındık (öğütülmüş)",
+      "Su",
       "Zencefilli kurabiye baharatı, kabartma tozu (glutensiz)"
     ],
     "instructions": [
@@ -107450,6 +107518,7 @@
       "Yaban mersini",
       "Keten tohumu (öğütülmüş)",
       "Akçaağaç şurubu",
+      "Su",
       "Limon kabuğu rendesi, kabartma tozu (glutensiz)"
     ],
     "instructions": [
@@ -107487,6 +107556,7 @@
       "Bebek ıspanak",
       "Kurutulmuş domates (yağsız)",
       "Besin mayası pulu",
+      "Su",
       "Kabartma tozu (glutensiz), zerdeçal, kala namak",
       "Tuz, karabiber"
     ],
@@ -107521,6 +107591,7 @@
     "ingredients": [
       "Mısır irmiği (polenta)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Şekersiz soya proteini",
       "Sade sert tofu",
       "Mantar",
@@ -107544,6 +107615,7 @@
       "Acı bakla (haşlanmış)",
       "Bezelye (dondurulmuş)",
       "Havuç",
+      "Su",
       "Hardal tohumu, zerdeçal, zencefil, köri yaprağı, taze kişniş, limon suyu",
       "Tuz, karabiber"
     ],
@@ -107583,6 +107655,7 @@
       "Tatlı patates",
       "Kırmızı biber",
       "Yeşil soğan (yeşil kısmı)",
+      "Su",
       "Tütsülenmiş toz biber, kimyon",
       "Tuz, karabiber"
     ],
@@ -107640,6 +107713,7 @@
       "Badem",
       "Hurma (çekirdeksiz)",
       "Hindistan cevizi çiçeği şekeri",
+      "Su",
       "Tarçın, vanilya"
     ],
     "instructions": [
@@ -107673,6 +107747,7 @@
     "title": "Limonlu ve muzlu haşhaşlı vanilyalı protein shake",
     "ingredients": [
       "Soya içeceği (şekersiz)",
+      "Su",
       "Şekersiz soya proteini",
       "Haşhaş tohumu",
       "Muz",
@@ -107796,6 +107871,7 @@
     "title": "Muzlu ve hurmalı siyah susamlı protein shake",
     "ingredients": [
       "Soya içeceği (şekersiz)",
+      "Su",
       "Şekersiz soya proteini",
       "Muz",
       "Siyah susam",
@@ -107940,6 +108016,7 @@
     "title": "Tofulu ve badem içecekli çilekli muzlu kahvaltı shake",
     "ingredients": [
       "Şekersiz badem içeceği",
+      "Su",
       "Bezelye proteini (aromasız)",
       "Sade sert tofu",
       "Çilek",
@@ -107981,6 +108058,7 @@
       "Mısır tortillası",
       "Kırmızı biber",
       "Bebek ıspanak",
+      "Su",
       "Zerdeçal, kimyon, toz kırmızı biber, taze kişniş, misket limonu suyu",
       "Tuz, karabiber"
     ],
@@ -108113,6 +108191,7 @@
       "Sade soya skyr",
       "Bezelye proteini (aromasız)",
       "Şekersiz badem içeceği",
+      "Su",
       "Çilek",
       "Mürver çiçeği şurubu"
     ],
@@ -108168,6 +108247,7 @@
       "Glutensiz yulaf",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Soya yoğurdu (sade, şekersiz)",
       "Yaban mersini",
       "Hojicha tozu (kavrulmuş yeşil çay)"
@@ -108263,6 +108343,7 @@
       "Karabuğday gevreği",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Kırmızı frenk üzümü",
       "Fındık (öğütülmüş)",
       "Tarçın, toz karanfil"
@@ -108283,7 +108364,8 @@
       "Bitter çikolata (%85)",
       "Ahududu",
       "Patlatılmış kinoa",
-      "Akçaağaç şurubu"
+      "Akçaağaç şurubu",
+      "Su"
     ],
     "instructions": [
       "Soya skyrı soya proteini, akçaağaç şurubu ve 1 yemek kaşığı suyla kremsi olana kadar karıştırın.",
@@ -108355,6 +108437,7 @@
       "Karabuğday (bütün taneler)",
       "Badem dilimleri",
       "Akçaağaç şurubu",
+      "Su",
       "Vanilya"
     ],
     "instructions": [
@@ -108466,6 +108549,7 @@
       "Bezelye proteini (aromasız)",
       "Sade sert tofu",
       "Zeytinyağı",
+      "Su",
       "Frenk soğanı, limon suyu, sarımsak tozu",
       "Tuz, karabiber"
     ],
@@ -108507,6 +108591,7 @@
       "Yaban turpu (taze rendelenmiş)",
       "Elma",
       "Zeytinyağı",
+      "Su",
       "Frenk soğanı",
       "Tuz, karabiber"
     ],
@@ -108550,6 +108635,7 @@
       "Taze soğan",
       "Tamari (glutensiz)",
       "Zeytinyağı",
+      "Su",
       "Zencefil"
     ],
     "instructions": [
@@ -108623,6 +108709,7 @@
       "Badem",
       "Patlatılmış kinoa",
       "Susam",
+      "Su",
       "Vanilya, tarçın"
     ],
     "instructions": [
@@ -108640,6 +108727,7 @@
       "Soya yoğurdu (sade, şekersiz)",
       "Şekersiz soya proteini",
       "Hurma (çekirdeksiz)",
+      "Su",
       "Zencefil"
     ],
     "instructions": [
@@ -108677,6 +108765,7 @@
       "Şekersiz kakao",
       "Badem ezmesi",
       "Bitter çikolata (%85)",
+      "Su",
       "Rom aroması (alkolsüz)"
     ],
     "instructions": [
@@ -108736,6 +108825,7 @@
       "Sade soya skyr",
       "Şekersiz soya proteini",
       "Şekersiz kakao",
+      "Su",
       "Vanilya"
     ],
     "instructions": [
@@ -108807,6 +108897,7 @@
       "Şekersiz soya proteini",
       "Hurma (çekirdeksiz)",
       "Badem ezmesi",
+      "Su",
       "Deniz tuzu çiçeği, vanilya"
     ],
     "instructions": [
@@ -108826,7 +108917,8 @@
       "Şekersiz kakao",
       "Akçaağaç şurubu",
       "Badem",
-      "Sade soya skyr"
+      "Sade soya skyr",
+      "Su"
     ],
     "instructions": [
       "Fırını 160 dereceye ısıtın.",
@@ -109144,6 +109236,7 @@
       "Sade soya skyr",
       "Ceviz",
       "Akçaağaç şurubu",
+      "Su",
       "Tarçın, kabartma tozu (glutensiz)"
     ],
     "instructions": [
@@ -109159,6 +109252,7 @@
     "ingredients": [
       "Mısır irmiği (ince)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Şekersiz soya proteini",
       "Mürdüm eriği",
       "Akçaağaç şurubu",
@@ -109178,6 +109272,7 @@
       "Darı gevreği",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Işkın",
       "Akçaağaç şurubu",
       "Vanilya"
@@ -109231,6 +109326,7 @@
     "ingredients": [
       "Sütlaçlık pirinç (kısa taneli pirinç)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Şekersiz soya proteini",
       "Vişne (çekirdeksiz)",
       "Tarçın, vanilya"
@@ -109396,6 +109492,7 @@
       "Amarant",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Mavi haşhaş (öğütülmüş)",
       "Vişne (dondurulmuş)",
       "Akçaağaç şurubu",
@@ -109626,6 +109723,7 @@
       "Susam",
       "Sade sert tofu",
       "Sade soya skyr",
+      "Su",
       "Maydanoz, frenk soğanı, limon suyu",
       "Tuz, karabiber"
     ],
@@ -109645,6 +109743,7 @@
       "Sade soya skyr",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Akçaağaç şurubu"
     ],
     "instructions": [
@@ -109718,6 +109817,7 @@
       "Elma",
       "Akçaağaç şurubu",
       "Ceviz",
+      "Su",
       "Tarçın, toz karanfil, vanilya"
     ],
     "instructions": [
@@ -109971,6 +110071,7 @@
       "Darı",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Bektaşi üzümü",
       "Akçaağaç şurubu",
       "Vanilya"
@@ -110098,6 +110199,7 @@
       "Amarant",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Papaya",
       "Hindistan cevizi rendesi",
       "Misket limonu"
@@ -110210,6 +110312,7 @@
       "Şekersiz soya proteini",
       "Armut",
       "Akçaağaç şurubu",
+      "Su",
       "Earl Grey çayı"
     ],
     "instructions": [
@@ -110283,6 +110386,7 @@
       "Pirinç irmiği (glütensiz)",
       "Bezelye proteini (aromasız)",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Ahududu",
       "Hindistan cevizi rendesi",
       "Akçaağaç şurubu"
@@ -110301,6 +110405,7 @@
       "Teff",
       "Şekersiz soya proteini",
       "Soya içeceği (şekersiz)",
+      "Su",
       "Vişne (dondurulmuş)",
       "Akçaağaç şurubu",
       "Vanilya"
@@ -110383,7 +110488,8 @@
       "Şekersiz soya proteini",
       "Çilek",
       "Akçaağaç şurubu",
-      "Mısır nişastası"
+      "Mısır nişastası",
+      "Su"
     ],
     "instructions": [
       "Soya skyrı soya proteiniyle koyu bir krema haline getirin ve 20 dakika buzdolabında bekletin.",
@@ -110551,7 +110657,8 @@
       "Yaban mersini",
       "Akçaağaç şurubu",
       "Agar agar",
-      "Limon"
+      "Limon",
+      "Su"
     ],
     "instructions": [
       "Badem unu ve hurmayı ince çekin ve yağlı kağıt serilmiş küçük bir kalıba taban olarak bastırın.",
@@ -110618,6 +110725,7 @@
       "Şekersiz soya proteini",
       "Hurma (çekirdeksiz)",
       "Antep fıstığı",
+      "Su",
       "Kakule (öğütülmüş)"
     ],
     "instructions": [
@@ -110673,6 +110781,7 @@
       "Muz",
       "Vişne (dondurulmuş)",
       "Hindistan cevizi rendesi",
+      "Su",
       "Kabartma tozu (glütensiz)"
     ],
     "instructions": [
@@ -110762,6 +110871,7 @@
       "Bezelye proteini (aromasız)",
       "Sade sert tofu",
       "Şekersiz badem içeceği",
+      "Su",
       "Yaban mersini",
       "Limon"
     ],
@@ -110855,6 +110965,7 @@
       "Roka",
       "Ceviz",
       "Tereyağı",
+      "Su",
       "Tuz, karabiber"
     ],
     "instructions": [

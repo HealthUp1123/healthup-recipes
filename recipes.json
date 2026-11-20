@@ -368986,7 +368986,7 @@
     "carbs": 33,
     "fiber": 5,
     "fat": 7,
-    "servingSizeGrams": 335,
+    "servingSizeGrams": 380,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast"
@@ -369007,6 +369007,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "200 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Kirschen (entsteint, TK)",
@@ -369047,7 +369051,7 @@
     "carbs": 30,
     "fiber": 10,
     "fat": 8,
-    "servingSizeGrams": 320,
+    "servingSizeGrams": 400,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -369076,6 +369080,10 @@
       {
         "name": "Rapsöl",
         "amount": "1/2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "80 ml"
       },
       {
         "name": "Backpulver, Vanille",
@@ -369176,7 +369184,7 @@
     "carbs": 36,
     "fiber": 6,
     "fat": 6,
-    "servingSizeGrams": 395,
+    "servingSizeGrams": 570,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast"
@@ -369197,6 +369205,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "180 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "175 ml"
       },
       {
         "name": "Apfel",
@@ -369223,7 +369235,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "soja",
@@ -369238,7 +369251,7 @@
     "carbs": 29,
     "fiber": 5,
     "fat": 10,
-    "servingSizeGrams": 235,
+    "servingSizeGrams": 275,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -369267,6 +369280,10 @@
       {
         "name": "Walnüsse",
         "amount": "1 TL gehackt"
+      },
+      {
+        "name": "Wasser",
+        "amount": "40 ml"
       },
       {
         "name": "Backpulver, Zimt",
@@ -369430,7 +369447,7 @@
     "carbs": 41,
     "fiber": 4,
     "fat": 5,
-    "servingSizeGrams": 360,
+    "servingSizeGrams": 600,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -369453,6 +369470,10 @@
         "amount": "200 ml"
       },
       {
+        "name": "Wasser",
+        "amount": "240 ml"
+      },
+      {
         "name": "Zwetschgen",
         "amount": "4 Stück"
       },
@@ -369473,7 +369494,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -369548,7 +369570,7 @@
     "carbs": 37,
     "fiber": 7,
     "fat": 7,
-    "servingSizeGrams": 390,
+    "servingSizeGrams": 570,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -369568,6 +369590,10 @@
       },
       {
         "name": "Sojadrink (ungesüßt)",
+        "amount": "180 ml"
+      },
+      {
+        "name": "Wasser",
         "amount": "180 ml"
       },
       {
@@ -369591,7 +369617,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -369605,7 +369632,7 @@
     "carbs": 30,
     "fiber": 8,
     "fat": 8,
-    "servingSizeGrams": 315,
+    "servingSizeGrams": 395,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast"
@@ -369638,6 +369665,10 @@
       {
         "name": "Kokosraspeln",
         "amount": "1/2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "80 ml"
       }
     ],
     "instructions": [
@@ -369729,7 +369760,7 @@
     "carbs": 35,
     "fiber": 6,
     "fat": 9,
-    "servingSizeGrams": 415,
+    "servingSizeGrams": 555,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast"
@@ -369750,6 +369781,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "150 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "140 ml"
       },
       {
         "name": "Kokosmilch (light)",
@@ -369776,7 +369811,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -369856,7 +369892,7 @@
     "carbs": 25,
     "fiber": 8,
     "fat": 12,
-    "servingSizeGrams": 345,
+    "servingSizeGrams": 425,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -369895,6 +369931,10 @@
         "amount": "1/2 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "80 ml"
+      },
+      {
         "name": "Kreuzkümmel, Kurkuma, Ingwer",
         "amount": "je 1/2 TL"
       },
@@ -369921,7 +369961,8 @@
       "laktosefrei",
       "high-protein",
       "kalorienarm",
-      "low-gi"
+      "low-gi",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -369935,7 +369976,7 @@
     "carbs": 24,
     "fiber": 6,
     "fat": 14,
-    "servingSizeGrams": 295,
+    "servingSizeGrams": 420,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "breakfast"
@@ -369972,6 +370013,10 @@
       {
         "name": "Olivenöl",
         "amount": "1/2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "125 ml"
       },
       {
         "name": "Kurkuma",
@@ -370083,7 +370128,7 @@
     "carbs": 23,
     "fiber": 7,
     "fat": 11,
-    "servingSizeGrams": 320,
+    "servingSizeGrams": 390,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -370112,6 +370157,10 @@
       {
         "name": "Rucola",
         "amount": "20g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "70 ml"
       },
       {
         "name": "Kurkuma, Kreuzkümmel",
@@ -370149,7 +370198,7 @@
     "carbs": 22,
     "fiber": 7,
     "fat": 13,
-    "servingSizeGrams": 285,
+    "servingSizeGrams": 435,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "breakfast"
@@ -370188,6 +370237,10 @@
         "amount": "1/2 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "150 ml"
+      },
+      {
         "name": "Rosmarin",
         "amount": "1/2 TL"
       },
@@ -370209,7 +370262,8 @@
       "laktosefrei",
       "high-protein",
       "kalorienarm",
-      "low-gi"
+      "low-gi",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -370300,7 +370354,7 @@
     "carbs": 29,
     "fiber": 10,
     "fat": 11,
-    "servingSizeGrams": 320,
+    "servingSizeGrams": 350,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -370333,6 +370387,10 @@
       {
         "name": "Limettensaft",
         "amount": "2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Chiliflocken",
@@ -370370,7 +370428,7 @@
     "carbs": 21,
     "fiber": 8,
     "fat": 11,
-    "servingSizeGrams": 535,
+    "servingSizeGrams": 580,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -370407,6 +370465,10 @@
       {
         "name": "Hefeflocken",
         "amount": "5g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Salz, Pfeffer",
@@ -370794,7 +370856,7 @@
     "carbs": 25,
     "fiber": 4,
     "fat": 13,
-    "servingSizeGrams": 410,
+    "servingSizeGrams": 440,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -370829,6 +370891,10 @@
         "amount": "1/2 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "2 EL"
+      },
+      {
         "name": "Basilikum",
         "amount": "1 EL"
       },
@@ -370849,7 +370915,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -370884,6 +370951,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "150 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       },
       {
         "name": "Erdbeeren (TK)",
@@ -371312,6 +371383,10 @@
         "amount": "250 ml"
       },
       {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
+      },
+      {
         "name": "Erbsenprotein (neutral)",
         "amount": "27g"
       },
@@ -371384,6 +371459,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "220 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       },
       {
         "name": "Ingwer (frisch)",
@@ -371612,7 +371691,7 @@
     "carbs": 26,
     "fiber": 4,
     "fat": 6,
-    "servingSizeGrams": 365,
+    "servingSizeGrams": 515,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "snack"
@@ -371633,6 +371712,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "200 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "150 ml"
       },
       {
         "name": "Aprikosen",
@@ -371695,6 +371778,10 @@
       {
         "name": "Mandeldrink (ungesüßt)",
         "amount": "200 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       },
       {
         "name": "Ahornsirup",
@@ -371794,7 +371881,7 @@
     "carbs": 15,
     "fiber": 7,
     "fat": 16,
-    "servingSizeGrams": 370,
+    "servingSizeGrams": 415,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast"
@@ -371823,6 +371910,10 @@
       {
         "name": "Rapsöl",
         "amount": "1/2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Kurkuma",
@@ -371990,7 +372081,7 @@
     "carbs": 23,
     "fiber": 6,
     "fat": 14,
-    "servingSizeGrams": 340,
+    "servingSizeGrams": 420,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -372023,6 +372114,10 @@
       {
         "name": "Rapsöl",
         "amount": "1/4 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "80 ml"
       },
       {
         "name": "Kurkuma",
@@ -372128,7 +372223,7 @@
     "carbs": 33,
     "fiber": 4,
     "fat": 9,
-    "servingSizeGrams": 335,
+    "servingSizeGrams": 385,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -372149,6 +372244,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "180 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "50 ml"
       },
       {
         "name": "Quitte",
@@ -372251,7 +372350,7 @@
     "carbs": 35,
     "fiber": 7,
     "fat": 6,
-    "servingSizeGrams": 300,
+    "servingSizeGrams": 330,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast"
@@ -372276,6 +372375,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "170 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Apfel",
@@ -372628,7 +372731,7 @@
     "carbs": 35,
     "fiber": 4,
     "fat": 7,
-    "servingSizeGrams": 475,
+    "servingSizeGrams": 650,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast"
@@ -372645,6 +372748,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "150 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "175 ml"
       },
       {
         "name": "Sojaprotein (ungesüßt)",
@@ -372889,7 +372996,7 @@
     "carbs": 25,
     "fiber": 6,
     "fat": 12,
-    "servingSizeGrams": 235,
+    "servingSizeGrams": 265,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast",
@@ -372924,6 +373031,10 @@
       {
         "name": "Zitronenabrieb",
         "amount": "1/2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Vanille",
@@ -373087,7 +373198,7 @@
     "carbs": 30,
     "fiber": 5,
     "fat": 7,
-    "servingSizeGrams": 390,
+    "servingSizeGrams": 440,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -373108,6 +373219,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "200 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "50 ml"
       },
       {
         "name": "Papaya",
@@ -373145,7 +373260,7 @@
     "carbs": 30,
     "fiber": 8,
     "fat": 11,
-    "servingSizeGrams": 260,
+    "servingSizeGrams": 305,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -373180,6 +373295,10 @@
         "amount": "1/2 kleine"
       },
       {
+        "name": "Wasser",
+        "amount": "45 ml"
+      },
+      {
         "name": "Kreuzkümmel, Kurkuma, Salz",
         "amount": "je 1 Prise"
       }
@@ -373210,7 +373329,7 @@
     "carbs": 23,
     "fiber": 8,
     "fat": 13,
-    "servingSizeGrams": 320,
+    "servingSizeGrams": 360,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -373239,6 +373358,10 @@
       {
         "name": "Hefeflocken",
         "amount": "6g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "40 ml"
       },
       {
         "name": "Koriander, Kreuzkümmel, Salz",
@@ -373472,7 +373595,7 @@
     "carbs": 21,
     "fiber": 4,
     "fat": 15,
-    "servingSizeGrams": 265,
+    "servingSizeGrams": 295,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "breakfast"
@@ -373509,6 +373632,10 @@
       {
         "name": "Hefeflocken",
         "amount": "6g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "30 ml"
       }
     ],
     "instructions": [
@@ -373676,7 +373803,7 @@
     "carbs": 33,
     "fiber": 10,
     "fat": 10,
-    "servingSizeGrams": 270,
+    "servingSizeGrams": 315,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "breakfast"
@@ -373719,6 +373846,10 @@
         "amount": "1 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "45 ml"
+      },
+      {
         "name": "Oregano, Salz",
         "amount": "je 1 Prise"
       }
@@ -373751,7 +373882,7 @@
     "carbs": 28,
     "fiber": 6,
     "fat": 13,
-    "servingSizeGrams": 310,
+    "servingSizeGrams": 370,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -373780,6 +373911,10 @@
       {
         "name": "Zitrone",
         "amount": "2 Spalten"
+      },
+      {
+        "name": "Wasser",
+        "amount": "60 ml"
       },
       {
         "name": "Currypulver, Kurkuma, Petersilie, Salz",
@@ -373812,7 +373947,7 @@
     "carbs": 29,
     "fiber": 8,
     "fat": 11,
-    "servingSizeGrams": 225,
+    "servingSizeGrams": 285,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -373841,6 +373976,10 @@
       {
         "name": "Hefeflocken",
         "amount": "5g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "60 ml"
       },
       {
         "name": "Kreuzkümmel, Kurkuma, Koriander, Salz",
@@ -374096,6 +374235,10 @@
         "amount": "250 ml"
       },
       {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
+      },
+      {
         "name": "Sojaprotein (ungesüßt)",
         "amount": "26g"
       },
@@ -374227,6 +374370,10 @@
         "amount": "200 ml"
       },
       {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
+      },
+      {
         "name": "Minze, Limettensaft",
         "amount": "4 Blätter, 1 TL"
       },
@@ -374287,6 +374434,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "220 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       }
     ],
     "instructions": [
@@ -374615,7 +374766,7 @@
     "carbs": 11,
     "fiber": 6,
     "fat": 14,
-    "servingSizeGrams": 320,
+    "servingSizeGrams": 365,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack"
@@ -374644,6 +374795,10 @@
       {
         "name": "Hefeflocken",
         "amount": "4g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Schnittlauch, Zitronensaft, Salz",
@@ -374821,6 +374976,10 @@
         "amount": "250 ml"
       },
       {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
+      },
+      {
         "name": "Kardamom",
         "amount": "1 Prise"
       },
@@ -374857,7 +375016,7 @@
     "carbs": 12,
     "fiber": 7,
     "fat": 17,
-    "servingSizeGrams": 370,
+    "servingSizeGrams": 415,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "snack"
@@ -374892,6 +375051,10 @@
         "amount": "60g"
       },
       {
+        "name": "Wasser",
+        "amount": "3 EL"
+      },
+      {
         "name": "Zitronensaft, Salz",
         "amount": "nach Geschmack"
       }
@@ -374909,7 +375072,8 @@
       "laktosefrei",
       "high-protein",
       "kalorienarm",
-      "low-carb"
+      "low-carb",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -374944,6 +375108,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "250 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       },
       {
         "name": "Ingwer",
@@ -375108,7 +375276,7 @@
     "carbs": 23,
     "fiber": 4,
     "fat": 14,
-    "servingSizeGrams": 335,
+    "servingSizeGrams": 370,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -375141,6 +375309,10 @@
       {
         "name": "Sesam",
         "amount": "1/2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "35 ml"
       },
       {
         "name": "Reisessig, Salz",
@@ -375239,7 +375411,7 @@
     "carbs": 18,
     "fiber": 6,
     "fat": 15,
-    "servingSizeGrams": 315,
+    "servingSizeGrams": 480,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -375274,6 +375446,10 @@
         "amount": "4g"
       },
       {
+        "name": "Wasser",
+        "amount": "165 ml"
+      },
+      {
         "name": "Kurkuma, Schnittlauch",
         "amount": "nach Geschmack"
       },
@@ -375296,7 +375472,8 @@
       "high-protein",
       "kalorienarm",
       "low-carb",
-      "low-fodmap"
+      "low-fodmap",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -375400,6 +375577,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "100 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       },
       {
         "name": "Brombeeren",
@@ -375640,7 +375821,7 @@
     "carbs": 23,
     "fiber": 9,
     "fat": 7,
-    "servingSizeGrams": 385,
+    "servingSizeGrams": 505,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -375661,6 +375842,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "150 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "120 ml"
       },
       {
         "name": "Soja-Skyr (natur)",
@@ -375688,7 +375873,8 @@
       "laktosefrei",
       "high-protein",
       "kalorienarm",
-      "low-gi"
+      "low-gi",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -375768,7 +375954,7 @@
     "carbs": 27,
     "fiber": 7,
     "fat": 7,
-    "servingSizeGrams": 325,
+    "servingSizeGrams": 445,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -375791,6 +375977,10 @@
         "amount": "180 ml"
       },
       {
+        "name": "Wasser",
+        "amount": "120 ml"
+      },
+      {
         "name": "Kakao (ungesüßt)",
         "amount": "1 EL"
       },
@@ -375810,7 +376000,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -375824,7 +376015,7 @@
     "carbs": 30,
     "fiber": 4,
     "fat": 9,
-    "servingSizeGrams": 340,
+    "servingSizeGrams": 370,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast"
@@ -375845,6 +376036,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "180 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Zwetschgen",
@@ -375886,7 +376081,7 @@
     "carbs": 30,
     "fiber": 7,
     "fat": 8,
-    "servingSizeGrams": 335,
+    "servingSizeGrams": 455,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast"
@@ -375909,6 +376104,10 @@
         "amount": "170 ml"
       },
       {
+        "name": "Wasser",
+        "amount": "120 ml"
+      },
+      {
         "name": "Feigen (frisch)",
         "amount": "1 große"
       },
@@ -375929,7 +376128,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "schalenfruechte",
@@ -375944,7 +376144,7 @@
     "carbs": 31,
     "fiber": 6,
     "fat": 9,
-    "servingSizeGrams": 320,
+    "servingSizeGrams": 350,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast"
@@ -375965,6 +376165,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "170 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Apfel",
@@ -376072,7 +376276,7 @@
     "carbs": 23,
     "fiber": 5,
     "fat": 13,
-    "servingSizeGrams": 355,
+    "servingSizeGrams": 390,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -376113,6 +376317,10 @@
       {
         "name": "Sesamöl (geröstet)",
         "amount": "1/2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "35 ml"
       },
       {
         "name": "Reisessig, Salz",
@@ -376224,7 +376432,7 @@
     "carbs": 29,
     "fiber": 5,
     "fat": 12,
-    "servingSizeGrams": 235,
+    "servingSizeGrams": 530,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -376255,6 +376463,10 @@
         "amount": "1/2 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "295 ml"
+      },
+      {
         "name": "Ingwer, Kreuzkümmel, schwarzer Pfeffer, Curryblätter",
         "amount": "nach Geschmack"
       },
@@ -376275,7 +376487,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -376289,7 +376502,7 @@
     "carbs": 22,
     "fiber": 7,
     "fat": 14,
-    "servingSizeGrams": 265,
+    "servingSizeGrams": 310,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -376324,6 +376537,10 @@
         "amount": "1/2 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "45 ml"
+      },
+      {
         "name": "Pul Biber, Zitronensaft, Salz",
         "amount": "nach Geschmack"
       }
@@ -376356,7 +376573,7 @@
     "carbs": 20,
     "fiber": 7,
     "fat": 15,
-    "servingSizeGrams": 285,
+    "servingSizeGrams": 375,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -376391,6 +376608,10 @@
         "amount": "1/2 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "90 ml"
+      },
+      {
         "name": "Oregano, Zitronensaft, Salz",
         "amount": "nach Geschmack"
       }
@@ -376423,7 +376644,7 @@
     "carbs": 28,
     "fiber": 4,
     "fat": 13,
-    "servingSizeGrams": 285,
+    "servingSizeGrams": 315,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast"
@@ -376452,6 +376673,10 @@
       {
         "name": "Hefeflocken",
         "amount": "4g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Kurkuma, Schnittlauch",
@@ -376489,7 +376714,7 @@
     "carbs": 15,
     "fiber": 7,
     "fat": 16,
-    "servingSizeGrams": 400,
+    "servingSizeGrams": 450,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -376524,6 +376749,10 @@
         "amount": "1/2 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "50 ml"
+      },
+      {
         "name": "Thymian, Petersilie, Zitronensaft",
         "amount": "nach Geschmack"
       },
@@ -376547,7 +376776,8 @@
       "kalorienarm",
       "low-carb",
       "mediterran",
-      "low-gi"
+      "low-gi",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -376561,7 +376791,7 @@
     "carbs": 21,
     "fiber": 6,
     "fat": 15,
-    "servingSizeGrams": 310,
+    "servingSizeGrams": 340,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast"
@@ -376594,6 +376824,10 @@
       {
         "name": "Olivenöl",
         "amount": "1/2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Basilikum, Zitronensaft",
@@ -376630,7 +376864,7 @@
     "carbs": 20,
     "fiber": 7,
     "fat": 13,
-    "servingSizeGrams": 345,
+    "servingSizeGrams": 575,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -376665,6 +376899,10 @@
         "amount": "1/2 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "230 ml"
+      },
+      {
         "name": "Kurkuma, Kreuzkümmel, Ingwer, Koriandergrün",
         "amount": "nach Geschmack"
       },
@@ -376687,7 +376925,8 @@
       "high-protein",
       "kalorienarm",
       "low-carb",
-      "low-gi"
+      "low-gi",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -376701,7 +376940,7 @@
     "carbs": 19,
     "fiber": 3,
     "fat": 14,
-    "servingSizeGrams": 265,
+    "servingSizeGrams": 615,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast"
@@ -376736,6 +376975,10 @@
         "amount": "1 Stange"
       },
       {
+        "name": "Wasser",
+        "amount": "350 ml"
+      },
+      {
         "name": "Ingwer",
         "amount": "1 Scheibe"
       }
@@ -376753,7 +376996,8 @@
       "laktosefrei",
       "high-protein",
       "kalorienarm",
-      "low-carb"
+      "low-carb",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -376847,6 +377091,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "250 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       },
       {
         "name": "Sojaprotein (ungesüßt)",
@@ -377150,7 +377398,7 @@
     "carbs": 18,
     "fiber": 4,
     "fat": 6,
-    "servingSizeGrams": 70,
+    "servingSizeGrams": 100,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack"
@@ -377175,6 +377423,10 @@
       {
         "name": "Glutenfreie Haferflocken",
         "amount": "10g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Zimt",
@@ -377271,7 +377523,7 @@
     "carbs": 21,
     "fiber": 5,
     "fat": 9,
-    "servingSizeGrams": 75,
+    "servingSizeGrams": 105,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack"
@@ -377300,6 +377552,10 @@
       {
         "name": "Kakao (ungesüßt)",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       }
     ],
     "instructions": [
@@ -377328,7 +377584,7 @@
     "carbs": 18,
     "fiber": 4,
     "fat": 10,
-    "servingSizeGrams": 75,
+    "servingSizeGrams": 105,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack"
@@ -377357,6 +377613,10 @@
       {
         "name": "Kokosraspel",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       }
     ],
     "instructions": [
@@ -377400,6 +377660,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "250 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       },
       {
         "name": "Sojaprotein (ungesüßt)",
@@ -377538,6 +377802,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "80 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       },
       {
         "name": "Gurke",
@@ -377939,7 +378207,7 @@
     "carbs": 22,
     "fiber": 7,
     "fat": 16,
-    "servingSizeGrams": 325,
+    "servingSizeGrams": 350,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -377968,6 +378236,10 @@
       {
         "name": "Karotte",
         "amount": "1/2 kleine"
+      },
+      {
+        "name": "Wasser",
+        "amount": "25 ml"
       },
       {
         "name": "Ingwer (frisch), Schnittlauch, Salz",
@@ -378508,7 +378780,7 @@
     "carbs": 23,
     "fiber": 6,
     "fat": 11,
-    "servingSizeGrams": 250,
+    "servingSizeGrams": 265,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast",
@@ -378531,6 +378803,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "180 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "1 EL"
       },
       {
         "name": "Datteln (entsteint)",
@@ -378669,6 +378945,10 @@
         "amount": "90 ml"
       },
       {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
+      },
+      {
         "name": "Aprikosen",
         "amount": "2 Stück"
       },
@@ -378709,7 +378989,7 @@
     "carbs": 30,
     "fiber": 5,
     "fat": 6,
-    "servingSizeGrams": 220,
+    "servingSizeGrams": 265,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast",
@@ -378744,6 +379024,10 @@
       {
         "name": "Ahornsirup",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Backpulver (glutenfrei), Vanille",
@@ -379239,7 +379523,7 @@
     "carbs": 27,
     "fiber": 5,
     "fat": 8,
-    "servingSizeGrams": 215,
+    "servingSizeGrams": 260,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast",
@@ -379270,6 +379554,10 @@
       {
         "name": "Haselnüsse (gemahlen)",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Lebkuchengewürz, Backpulver (glutenfrei)",
@@ -379432,7 +379720,7 @@
     "carbs": 30,
     "fiber": 6,
     "fat": 7,
-    "servingSizeGrams": 220,
+    "servingSizeGrams": 265,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast",
@@ -379467,6 +379755,10 @@
       {
         "name": "Ahornsirup",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Zitronenabrieb, Backpulver (glutenfrei)",
@@ -379564,7 +379856,7 @@
     "carbs": 18,
     "fiber": 7,
     "fat": 11,
-    "servingSizeGrams": 210,
+    "servingSizeGrams": 270,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast",
@@ -379599,6 +379891,10 @@
       {
         "name": "Hefeflocken",
         "amount": "4g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "4 EL"
       },
       {
         "name": "Backpulver (glutenfrei), Kurkuma, Kala Namak",
@@ -379702,7 +379998,7 @@
     "carbs": 22,
     "fiber": 5,
     "fat": 13,
-    "servingSizeGrams": 480,
+    "servingSizeGrams": 540,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast"
@@ -379719,6 +380015,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "120 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "60 ml"
       },
       {
         "name": "Sojaprotein (ungesüßt)",
@@ -379772,7 +380072,7 @@
     "carbs": 26,
     "fiber": 9,
     "fat": 11,
-    "servingSizeGrams": 320,
+    "servingSizeGrams": 400,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast"
@@ -379801,6 +380101,10 @@
       {
         "name": "Karotte",
         "amount": "1/4"
+      },
+      {
+        "name": "Wasser",
+        "amount": "80 ml"
       },
       {
         "name": "Senfsaat, Kurkuma, Ingwer, Curryblätter, Koriandergrün, Zitronensaft",
@@ -379907,7 +380211,7 @@
     "carbs": 24,
     "fiber": 9,
     "fat": 14,
-    "servingSizeGrams": 305,
+    "servingSizeGrams": 335,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast"
@@ -379940,6 +380244,10 @@
       {
         "name": "Frühlingszwiebel (grün)",
         "amount": "2 EL Ringe"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Geräuchertes Paprikapulver, Kreuzkümmel",
@@ -380116,7 +380424,7 @@
     "carbs": 15,
     "fiber": 4,
     "fat": 12,
-    "servingSizeGrams": 70,
+    "servingSizeGrams": 130,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "snack"
@@ -380145,6 +380453,10 @@
       {
         "name": "Kokosblütenzucker",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "4 EL"
       },
       {
         "name": "Zimt, Vanille",
@@ -380260,6 +380572,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "250 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       },
       {
         "name": "Sojaprotein (ungesüßt)",
@@ -380698,6 +381014,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "220 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
       },
       {
         "name": "Sojaprotein (ungesüßt)",
@@ -381215,6 +381535,10 @@
         "amount": "250 ml"
       },
       {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
+      },
+      {
         "name": "Erbsenprotein (neutral)",
         "amount": "30g"
       },
@@ -381335,7 +381659,7 @@
     "carbs": 22,
     "fiber": 6,
     "fat": 13,
-    "servingSizeGrams": 305,
+    "servingSizeGrams": 350,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast"
@@ -381364,6 +381688,10 @@
       {
         "name": "Babyspinat",
         "amount": "40g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Kurkuma, Kreuzkümmel, Paprikapulver, Koriandergrün, Limettensaft",
@@ -381822,6 +382150,10 @@
         "amount": "100 ml"
       },
       {
+        "name": "Wasser",
+        "amount": "nach Bedarf"
+      },
+      {
         "name": "Erdbeeren",
         "amount": "100g"
       },
@@ -381995,7 +382327,7 @@
     "carbs": 24,
     "fiber": 8,
     "fat": 8,
-    "servingSizeGrams": 380,
+    "servingSizeGrams": 410,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast",
@@ -382018,6 +382350,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "150 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Sojajoghurt (natur, ungesüßt)",
@@ -382045,7 +382381,8 @@
       "laktosefrei",
       "high-protein",
       "kalorienarm",
-      "low-gi"
+      "low-gi",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -382327,7 +382664,7 @@
     "carbs": 26,
     "fiber": 7,
     "fat": 9,
-    "servingSizeGrams": 355,
+    "servingSizeGrams": 370,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast",
@@ -382350,6 +382687,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "200 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "1 EL"
       },
       {
         "name": "Rote Johannisbeeren",
@@ -382392,7 +382733,7 @@
     "carbs": 20,
     "fiber": 9,
     "fat": 10,
-    "servingSizeGrams": 320,
+    "servingSizeGrams": 335,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
       "breakfast",
@@ -382427,6 +382768,10 @@
       {
         "name": "Ahornsirup",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "1 EL"
       }
     ],
     "instructions": [
@@ -382656,7 +383001,7 @@
     "carbs": 15,
     "fiber": 4,
     "fat": 11,
-    "servingSizeGrams": 240,
+    "servingSizeGrams": 255,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast",
@@ -382687,6 +383032,10 @@
       {
         "name": "Ahornsirup",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "1 EL"
       },
       {
         "name": "Vanille",
@@ -383061,7 +383410,7 @@
     "carbs": 21,
     "fiber": 6,
     "fat": 10,
-    "servingSizeGrams": 255,
+    "servingSizeGrams": 315,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast",
@@ -383092,6 +383441,10 @@
       {
         "name": "Olivenöl",
         "amount": "1/2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "4 EL"
       },
       {
         "name": "Schnittlauch, Zitronensaft, Knoblauchpulver",
@@ -383197,7 +383550,7 @@
     "carbs": 27,
     "fiber": 5,
     "fat": 11,
-    "servingSizeGrams": 310,
+    "servingSizeGrams": 355,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast",
@@ -383240,6 +383593,10 @@
       {
         "name": "Olivenöl",
         "amount": "1/2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Schnittlauch",
@@ -383352,7 +383709,7 @@
     "carbs": 19,
     "fiber": 8,
     "fat": 14,
-    "servingSizeGrams": 375,
+    "servingSizeGrams": 425,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast"
@@ -383395,6 +383752,10 @@
         "amount": "1/4 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "50 ml"
+      },
+      {
         "name": "Ingwer",
         "amount": "1 TL gerieben"
       }
@@ -383412,7 +383773,8 @@
       "laktosefrei",
       "high-protein",
       "kalorienarm",
-      "low-carb"
+      "low-carb",
+      "volumenreich"
     ],
     "allergens": [
       "soja",
@@ -383616,7 +383978,7 @@
     "carbs": 21,
     "fiber": 6,
     "fat": 11,
-    "servingSizeGrams": 85,
+    "servingSizeGrams": 130,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast",
@@ -383653,6 +384015,10 @@
         "amount": "1 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "3 EL"
+      },
+      {
         "name": "Vanille, Zimt",
         "amount": "1 Prise, 1 Prise"
       }
@@ -383686,7 +384052,7 @@
     "carbs": 13,
     "fiber": 7,
     "fat": 5,
-    "servingSizeGrams": 310,
+    "servingSizeGrams": 340,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "snack"
@@ -383711,6 +384077,10 @@
       {
         "name": "Datteln (entsteint)",
         "amount": "2 Stück"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Ingwer",
@@ -383808,7 +384178,7 @@
     "carbs": 20,
     "fiber": 5,
     "fat": 9,
-    "servingSizeGrams": 80,
+    "servingSizeGrams": 125,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "snack"
@@ -383841,6 +384211,10 @@
       {
         "name": "Zartbitterschokolade (85 %)",
         "amount": "1 Stück"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Rumaroma (alkoholfrei)",
@@ -384021,7 +384395,7 @@
     "carbs": 11,
     "fiber": 4,
     "fat": 7,
-    "servingSizeGrams": 430,
+    "servingSizeGrams": 445,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack"
@@ -384054,6 +384428,10 @@
       {
         "name": "Kakao (ungesüßt)",
         "amount": "1 Prise zum Bestäuben"
+      },
+      {
+        "name": "Wasser",
+        "amount": "1 EL"
       },
       {
         "name": "Vanille",
@@ -384287,7 +384665,7 @@
     "carbs": 16,
     "fiber": 3,
     "fat": 12,
-    "servingSizeGrams": 295,
+    "servingSizeGrams": 325,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast",
@@ -384314,6 +384692,10 @@
       {
         "name": "Mandelmus",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Fleur de Sel, Vanille",
@@ -384348,7 +384730,7 @@
     "carbs": 21,
     "fiber": 6,
     "fat": 12,
-    "servingSizeGrams": 135,
+    "servingSizeGrams": 165,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast",
@@ -384387,6 +384769,10 @@
       {
         "name": "Soja-Skyr (natur)",
         "amount": "60g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       }
     ],
     "instructions": [
@@ -385460,7 +385846,7 @@
     "carbs": 29,
     "fiber": 5,
     "fat": 9,
-    "servingSizeGrams": 205,
+    "servingSizeGrams": 235,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "breakfast",
@@ -385501,6 +385887,10 @@
         "amount": "1 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "2 EL"
+      },
+      {
         "name": "Zimt, Backpulver (glutenfrei)",
         "amount": "1 TL, 1/2 TL"
       }
@@ -385532,7 +385922,7 @@
     "carbs": 35,
     "fiber": 4,
     "fat": 6,
-    "servingSizeGrams": 485,
+    "servingSizeGrams": 515,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast",
@@ -385551,6 +385941,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "250 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Sojaprotein (ungesüßt)",
@@ -385596,7 +385990,7 @@
     "carbs": 32,
     "fiber": 6,
     "fat": 7,
-    "servingSizeGrams": 365,
+    "servingSizeGrams": 395,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast",
@@ -385619,6 +386013,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "200 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Rhabarber",
@@ -385788,7 +386186,7 @@
     "carbs": 35,
     "fiber": 3,
     "fat": 5,
-    "servingSizeGrams": 385,
+    "servingSizeGrams": 400,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
       "breakfast",
@@ -385807,6 +386205,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "200 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "1 EL"
       },
       {
         "name": "Sojaprotein (ungesüßt)",
@@ -386372,7 +386774,7 @@
     "carbs": 30,
     "fiber": 5,
     "fat": 9,
-    "servingSizeGrams": 330,
+    "servingSizeGrams": 410,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast",
@@ -386395,6 +386797,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "150 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "80 ml"
       },
       {
         "name": "Blaumohn (gemahlen)",
@@ -387180,7 +387586,7 @@
     "carbs": 6,
     "fiber": 11,
     "fat": 18,
-    "servingSizeGrams": 235,
+    "servingSizeGrams": 285,
     "prepTimeMinutes": 40,
     "suitableMealTypes": [
       "snack"
@@ -387209,6 +387615,10 @@
       {
         "name": "Soja-Skyr (natur)",
         "amount": "50g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "50 ml"
       },
       {
         "name": "Petersilie, Schnittlauch, Zitronensaft",
@@ -387249,7 +387659,7 @@
     "carbs": 18,
     "fiber": 7,
     "fat": 8,
-    "servingSizeGrams": 505,
+    "servingSizeGrams": 535,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast",
@@ -387280,6 +387690,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "150 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Ahornsirup",
@@ -387509,7 +387923,7 @@
     "carbs": 21,
     "fiber": 3,
     "fat": 10,
-    "servingSizeGrams": 335,
+    "servingSizeGrams": 365,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast",
@@ -387540,6 +387954,10 @@
       {
         "name": "Walnüsse",
         "amount": "1 Hälfte"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Zimt, Nelke (gemahlen), Vanille",
@@ -388411,7 +388829,7 @@
     "carbs": 33,
     "fiber": 6,
     "fat": 6,
-    "servingSizeGrams": 380,
+    "servingSizeGrams": 395,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast",
@@ -388434,6 +388852,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "180 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "1 EL"
       },
       {
         "name": "Stachelbeeren",
@@ -388862,7 +389284,7 @@
     "carbs": 30,
     "fiber": 5,
     "fat": 9,
-    "servingSizeGrams": 360,
+    "servingSizeGrams": 420,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast",
@@ -388885,6 +389307,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "160 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "60 ml"
       },
       {
         "name": "Papaya",
@@ -388911,7 +389337,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "soja",
@@ -389258,7 +389685,7 @@
     "carbs": 23,
     "fiber": 4,
     "fat": 7,
-    "servingSizeGrams": 335,
+    "servingSizeGrams": 395,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast",
@@ -389287,6 +389714,10 @@
         "amount": "2 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "60 ml"
+      },
+      {
         "name": "Earl-Grey-Tee",
         "amount": "1 Beutel"
       }
@@ -389303,7 +389734,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -389525,7 +389957,7 @@
     "carbs": 32,
     "fiber": 8,
     "fat": 8,
-    "servingSizeGrams": 325,
+    "servingSizeGrams": 370,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast",
@@ -389548,6 +389980,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "180 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "3 EL"
       },
       {
         "name": "Himbeeren",
@@ -389589,7 +390025,7 @@
     "carbs": 32,
     "fiber": 5,
     "fat": 5,
-    "servingSizeGrams": 370,
+    "servingSizeGrams": 420,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
       "breakfast",
@@ -389612,6 +390048,10 @@
       {
         "name": "Sojadrink (ungesüßt)",
         "amount": "180 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "50 ml"
       },
       {
         "name": "Sauerkirschen (TK)",
@@ -389638,7 +390078,8 @@
       "glutenfrei",
       "laktosefrei",
       "high-protein",
-      "kalorienarm"
+      "kalorienarm",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -389870,7 +390311,7 @@
     "carbs": 36,
     "fiber": 3,
     "fat": 4,
-    "servingSizeGrams": 205,
+    "servingSizeGrams": 250,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "snack"
@@ -389903,6 +390344,10 @@
       {
         "name": "Speisestärke",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "45 ml"
       }
     ],
     "instructions": [
@@ -390452,7 +390897,7 @@
     "carbs": 19,
     "fiber": 7,
     "fat": 10,
-    "servingSizeGrams": 225,
+    "servingSizeGrams": 265,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "snack"
@@ -390493,6 +390938,10 @@
       {
         "name": "Zitrone",
         "amount": "1/2 (Abrieb)"
+      },
+      {
+        "name": "Wasser",
+        "amount": "40 ml"
       }
     ],
     "instructions": [
@@ -390704,7 +391153,7 @@
     "carbs": 15,
     "fiber": 3,
     "fat": 9,
-    "servingSizeGrams": 245,
+    "servingSizeGrams": 275,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast",
@@ -390731,6 +391180,10 @@
       {
         "name": "Pistazien",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Kardamom (gemahlen)",
@@ -390893,7 +391346,7 @@
     "carbs": 25,
     "fiber": 4,
     "fat": 7,
-    "servingSizeGrams": 225,
+    "servingSizeGrams": 255,
     "prepTimeMinutes": 10,
     "suitableMealTypes": [
       "breakfast",
@@ -390928,6 +391381,10 @@
       {
         "name": "Kokosraspel",
         "amount": "1 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Backpulver (glutenfrei)",
@@ -391227,7 +391684,7 @@
     "carbs": 22,
     "fiber": 7,
     "fat": 9,
-    "servingSizeGrams": 440,
+    "servingSizeGrams": 480,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
       "breakfast",
@@ -391254,6 +391711,10 @@
       {
         "name": "Mandeldrink (ungesüßt)",
         "amount": "220 ml"
+      },
+      {
+        "name": "Wasser",
+        "amount": "40 ml"
       },
       {
         "name": "Heidelbeeren",
@@ -391545,7 +392006,7 @@
     "carbs": 2,
     "fiber": 1,
     "fat": 34,
-    "servingSizeGrams": 230,
+    "servingSizeGrams": 260,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "breakfast"
@@ -391574,6 +392035,10 @@
       {
         "name": "Butter",
         "amount": "2 TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "2 EL"
       },
       {
         "name": "Salz, Pfeffer",
