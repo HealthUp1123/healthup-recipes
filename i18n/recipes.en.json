@@ -111821,5 +111821,936 @@
       "Whisk the eggs with pepper, pour over the peppers and let set covered over low heat for 4 minutes.",
       "Arrange the halloumi slices on top and sprinkle with chopped parsley."
     ]
+  },
+  {
+    "id": "rec_5677",
+    "title": "Clementine cinnamon polenta porridge with soy protein",
+    "ingredients": [
+      "Polenta",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Water",
+      "Clementine",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Bring the polenta to the boil with 150 ml soy drink, 40 ml water and half of the cinnamon and simmer for 5 minutes, stirring.",
+      "Stir the soy protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Peel the clementine and divide it into segments.",
+      "Spoon the porridge into a bowl, top with the clementine segments and dust with the remaining cinnamon."
+    ]
+  },
+  {
+    "id": "rec_5678",
+    "title": "Physalis almond quinoa porridge with soy protein",
+    "ingredients": [
+      "Quinoa",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Physalis (cape gooseberries)",
+      "Flaked almonds"
+    ],
+    "instructions": [
+      "Rinse the quinoa with hot water, bring to the boil with 150 ml soy drink and let it swell covered over low heat for 15 minutes.",
+      "Stir the soy protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Remove the physalis from their husks, wash and halve them. Toast the almonds in a dry pan until golden.",
+      "Spoon the porridge into a bowl, top with the physalis and sprinkle with the almonds."
+    ]
+  },
+  {
+    "id": "rec_5679",
+    "title": "Gooseberry vanilla buckwheat pancakes with soy skyr",
+    "ingredients": [
+      "Buckwheat flour",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Gooseberries",
+      "Maple syrup",
+      "Rapeseed oil",
+      "Baking powder (gluten-free)",
+      "Vanilla (ground)"
+    ],
+    "instructions": [
+      "Mix the buckwheat flour, pea protein, baking powder and vanilla and stir in the soy drink to make a smooth batter.",
+      "Warm the gooseberries with the maple syrup in a small pan for 3 minutes until some burst.",
+      "Brush a non-stick pan with the rapeseed oil and cook 4 small pancakes from the batter for 2 minutes on each side.",
+      "Stack the pancakes and serve with the soy skyr and the warm gooseberries."
+    ]
+  },
+  {
+    "id": "rec_5680",
+    "title": "Plum poppy seed millet flake waffles with soy skyr",
+    "ingredients": [
+      "Millet flakes",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Plums",
+      "Poppy seeds",
+      "Coconut oil",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Finely grind the millet flakes in a blender and mix with the soy protein, poppy seeds and baking powder.",
+      "Stir in the soy drink and leave the batter to rest for 5 minutes. Stone the plums and cut into wedges.",
+      "Brush the waffle iron with the coconut oil and bake 2 waffles from the batter for 4 minutes each until golden.",
+      "Serve the waffles with the soy skyr and the plum wedges."
+    ]
+  },
+  {
+    "id": "rec_5681",
+    "title": "Lychee raspberry rice flake porridge with pea protein",
+    "ingredients": [
+      "Rice flakes",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Lychees",
+      "Raspberries"
+    ],
+    "instructions": [
+      "Bring the rice flakes to the boil with 150 ml soy drink and simmer for 4 minutes, stirring.",
+      "Stir the pea protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Peel, halve and stone the lychees. Pick over the raspberries.",
+      "Spoon the porridge into a bowl and top with the lychees and raspberries."
+    ]
+  },
+  {
+    "id": "rec_5682",
+    "title": "Fig sesame amaranth porridge with soy protein",
+    "ingredients": [
+      "Amaranth",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Water",
+      "Fresh figs",
+      "Sesame seeds"
+    ],
+    "instructions": [
+      "Bring the amaranth to the boil with 150 ml soy drink and 50 ml water and let it swell covered over low heat for 20 minutes.",
+      "Stir the soy protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Cut the figs into quarters. Toast the sesame seeds in a dry pan until golden.",
+      "Spoon the porridge into a bowl, top with the 8 fig quarters and sprinkle with the sesame seeds."
+    ]
+  },
+  {
+    "id": "rec_5683",
+    "title": "Sea buckthorn banana millet porridge with soy protein",
+    "ingredients": [
+      "Millet",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Sea buckthorn purée (unsweetened)",
+      "Banana",
+      "Maple syrup",
+      "Vanilla (ground)"
+    ],
+    "instructions": [
+      "Rinse the millet with hot water and bring to the boil with 150 ml soy drink and the vanilla. Let it swell covered over low heat for 15 minutes.",
+      "Stir the soy protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Stir the sea buckthorn purée with the maple syrup. Slice the banana.",
+      "Spoon the porridge into a bowl, top with the banana slices and drizzle with the sea buckthorn purée."
+    ]
+  },
+  {
+    "id": "rec_5684",
+    "title": "Apricot cinnamon rice flour crêpes with soy skyr",
+    "ingredients": [
+      "Rice flour",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Apricots",
+      "Rapeseed oil",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Whisk the rice flour, pea protein, half of the cinnamon and the soy drink until smooth and leave to rest for 10 minutes.",
+      "Stone the apricots and cut into thin wedges.",
+      "Brush a non-stick pan with the rapeseed oil and cook 2 thin crêpes from the batter for 1 to 2 minutes on each side.",
+      "Spread the crêpes with the soy skyr, top with the apricots, fold over and dust with the remaining cinnamon."
+    ]
+  },
+  {
+    "id": "rec_5685",
+    "title": "Blood orange cocoa teff porridge with pea protein",
+    "ingredients": [
+      "Teff",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Water",
+      "Unsweetened cocoa powder",
+      "Blood orange"
+    ],
+    "instructions": [
+      "Bring the teff to the boil with 140 ml soy drink, 50 ml water and the cocoa and let it swell over low heat for 15 minutes, stirring occasionally.",
+      "Stir the pea protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Peel the blood orange and cut out the segments with a sharp knife.",
+      "Spoon the porridge into a bowl and arrange the blood orange segments on top."
+    ]
+  },
+  {
+    "id": "rec_5686",
+    "title": "Watermelon lime skyr bowl with puffed quinoa",
+    "ingredients": [
+      "Plain soy skyr",
+      "Unsweetened soy protein",
+      "Watermelon",
+      "Lime",
+      "Puffed quinoa",
+      "Maple syrup"
+    ],
+    "instructions": [
+      "Finely grate the zest of the lime half and squeeze out the juice.",
+      "Stir the soy skyr with the soy protein, maple syrup and half of the lime zest until smooth and spoon into a shallow bowl.",
+      "Deseed and dice the watermelon and mix with the lime juice.",
+      "Spread the melon cubes over the skyr cream and sprinkle with the puffed quinoa and remaining zest."
+    ]
+  },
+  {
+    "id": "rec_5687",
+    "title": "Mango cardamom buckwheat waffles with soy skyr",
+    "ingredients": [
+      "Buckwheat flour",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Mango",
+      "Coconut oil",
+      "Baking powder (gluten-free)",
+      "Cardamom (ground)"
+    ],
+    "instructions": [
+      "Mix the buckwheat flour, pea protein, baking powder and cardamom.",
+      "Stir in the soy drink and leave the batter to rest for 5 minutes. Peel the mango and cut into small cubes.",
+      "Brush the waffle iron with the coconut oil and bake 2 waffles from the batter for 4 minutes each until golden.",
+      "Serve the waffles with the soy skyr and the mango cubes."
+    ]
+  },
+  {
+    "id": "rec_5688",
+    "title": "Blueberry lemon cornmeal pancakes with soy skyr",
+    "ingredients": [
+      "Fine cornmeal",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Blueberries",
+      "Lemon",
+      "Coconut oil",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Finely grate the zest of the lemon quarter. Stir the cornmeal, pea protein, baking powder and zest with the soy drink and leave to rest for 10 minutes.",
+      "Fold a third of the blueberries into the batter.",
+      "Brush a non-stick pan with the coconut oil and cook 4 small pancakes from the batter for 2 minutes on each side.",
+      "Stir the soy skyr with the juice of the lemon quarter. Stack the pancakes and serve with the skyr cream and the remaining blueberries."
+    ]
+  },
+  {
+    "id": "rec_5689",
+    "title": "Peach coconut quinoa flake muffins with soy protein",
+    "ingredients": [
+      "Quinoa flakes",
+      "Unsweetened soy protein",
+      "Unsweetened apple puree",
+      "Plain soy skyr",
+      "Peach",
+      "Desiccated coconut",
+      "Rapeseed oil",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Preheat the oven to 180 °C top and bottom heat and place 2 paper muffin cases in a muffin tin.",
+      "Mix the quinoa flakes, soy protein and baking powder. Stir in the apple purée, soy skyr and rapeseed oil.",
+      "Stone the peach and dice finely, then fold two thirds into the batter. Divide the batter between the 2 cases.",
+      "Sprinkle with the remaining peach cubes and the desiccated coconut and bake for 22 minutes until golden."
+    ]
+  },
+  {
+    "id": "rec_5690",
+    "title": "Pear cocoa overnight quinoa flakes with soy skyr",
+    "ingredients": [
+      "Quinoa flakes",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Unsweetened soy protein",
+      "Unsweetened cocoa powder",
+      "Pear"
+    ],
+    "instructions": [
+      "Stir the quinoa flakes with the soy drink, soy protein and cocoa in a jar until smooth.",
+      "Cover and refrigerate overnight, for at least 6 hours.",
+      "Core the pear and dice finely.",
+      "Spoon the soy skyr over the quinoa flakes as a layer and top with the pear cubes."
+    ]
+  },
+  {
+    "id": "rec_5691",
+    "title": "Blackberry lemon buckwheat crêpes with soy skyr",
+    "ingredients": [
+      "Buckwheat flour",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Blackberries",
+      "Lemon",
+      "Coconut oil"
+    ],
+    "instructions": [
+      "Whisk the buckwheat flour, soy protein and soy drink until smooth and leave to rest for 10 minutes.",
+      "Finely grate the zest of the lemon quarter, squeeze out the juice and stir both into the soy skyr.",
+      "Brush a non-stick pan with the coconut oil and cook 2 thin crêpes from the batter for 1 to 2 minutes on each side.",
+      "Fill the crêpes with the lemon skyr cream and the blackberries and roll up."
+    ]
+  },
+  {
+    "id": "rec_5692",
+    "title": "Pineapple coconut rice flour pancakes with soy skyr",
+    "ingredients": [
+      "Rice flour",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Pineapple",
+      "Desiccated coconut",
+      "Coconut oil",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Mix the rice flour, pea protein, baking powder and half of the desiccated coconut and stir in the soy drink to make a smooth batter.",
+      "Peel the pineapple and cut into small cubes.",
+      "Brush a non-stick pan with the coconut oil and cook 4 small pancakes from the batter for 2 minutes on each side.",
+      "Stack the pancakes, top with the soy skyr and pineapple cubes and sprinkle with the remaining desiccated coconut."
+    ]
+  },
+  {
+    "id": "rec_5693",
+    "title": "Apple cinnamon quinoa flake waffles with soy skyr",
+    "ingredients": [
+      "Quinoa flakes",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Apple",
+      "Rapeseed oil",
+      "Baking powder (gluten-free)",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Finely grind the quinoa flakes in a blender and mix with the soy protein, baking powder and half of the cinnamon.",
+      "Stir in the soy drink and leave the batter to rest for 5 minutes. Core the apple and cut into thin wedges.",
+      "Brush the waffle iron with the rapeseed oil and bake 2 waffles from the batter for 4 minutes each until golden.",
+      "Serve the waffles with the soy skyr and apple wedges and dust with the remaining cinnamon."
+    ]
+  },
+  {
+    "id": "rec_5694",
+    "title": "Strawberry mint teff porridge with pea protein",
+    "ingredients": [
+      "Teff",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Water",
+      "Strawberries",
+      "Peppermint"
+    ],
+    "instructions": [
+      "Bring the teff to the boil with 140 ml soy drink and 50 ml water and let it swell over low heat for 15 minutes, stirring occasionally.",
+      "Stir the pea protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Wash and hull the strawberries and slice them. Cut the mint leaves into fine strips.",
+      "Spoon the porridge into a bowl, top with the strawberry slices and sprinkle with the mint."
+    ]
+  },
+  {
+    "id": "rec_5695",
+    "title": "Raspberry pistachio overnight buckwheat with soy skyr",
+    "ingredients": [
+      "Buckwheat",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Pea protein (unflavoured)",
+      "Raspberries",
+      "Pistachios"
+    ],
+    "instructions": [
+      "Rinse the buckwheat thoroughly and soak covered with the soy drink in the fridge overnight.",
+      "Stir the soy skyr with the pea protein until smooth.",
+      "Mash half of the raspberries with a fork. Roughly chop the pistachios.",
+      "Layer the buckwheat, mashed raspberries and skyr cream in a jar and top with the remaining raspberries and the pistachios."
+    ]
+  },
+  {
+    "id": "rec_5696",
+    "title": "Nectarine vanilla chia pudding with pea protein",
+    "ingredients": [
+      "Chia seeds",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Pea protein (unflavoured)",
+      "Nectarine",
+      "Vanilla (ground)"
+    ],
+    "instructions": [
+      "Stir the chia seeds into the soy drink and leave covered in the fridge for at least 4 hours or overnight to swell.",
+      "Stir the soy skyr with the pea protein and vanilla until smooth.",
+      "Stone the nectarine and cut into small cubes.",
+      "Layer the chia pudding and vanilla skyr cream in a jar and top with the nectarine cubes."
+    ]
+  },
+  {
+    "id": "rec_5697",
+    "title": "Kiwi coconut quinoa porridge with soy protein",
+    "ingredients": [
+      "Quinoa",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Kiwi",
+      "Desiccated coconut"
+    ],
+    "instructions": [
+      "Rinse the quinoa with hot water, bring to the boil with 150 ml soy drink and let it swell covered over low heat for 15 minutes.",
+      "Stir the soy protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Peel the kiwi and cut into slices. Toast the desiccated coconut in a dry pan until light golden.",
+      "Spoon the porridge into a bowl, top with the kiwi slices and sprinkle with the desiccated coconut."
+    ]
+  },
+  {
+    "id": "rec_5698",
+    "title": "Peach raspberry millet porridge with soy protein",
+    "ingredients": [
+      "Millet",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Peach",
+      "Raspberries"
+    ],
+    "instructions": [
+      "Rinse the millet with hot water, bring to the boil with 150 ml soy drink and let it swell covered over low heat for 15 minutes.",
+      "Stir the soy protein with the remaining 30 ml soy drink until smooth and fold into the porridge.",
+      "Stone the peach and cut into thin wedges. Pick over the raspberries.",
+      "Spoon the porridge into a bowl and top with the peach wedges and raspberries."
+    ]
+  },
+  {
+    "id": "rec_5699",
+    "title": "Persimmon ginger buckwheat pancakes with soy skyr",
+    "ingredients": [
+      "Buckwheat flour",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Persimmon",
+      "Ginger (fresh)",
+      "Coconut oil",
+      "Baking powder (gluten-free)"
+    ],
+    "instructions": [
+      "Peel the ginger and grate very finely. Mix the buckwheat flour, soy protein, baking powder and ginger and stir in the soy drink to make a smooth batter.",
+      "Wash the persimmon, remove the stem end and cut into small cubes.",
+      "Brush a non-stick pan with the coconut oil and cook 4 small pancakes from the batter for 2 minutes on each side.",
+      "Stack the pancakes and serve with the soy skyr and persimmon cubes."
+    ]
+  },
+  {
+    "id": "rec_5700",
+    "title": "Pomegranate vanilla overnight rice flakes with soy skyr",
+    "ingredients": [
+      "Rice flakes",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Pea protein (unflavoured)",
+      "Pomegranate seeds",
+      "Vanilla (ground)"
+    ],
+    "instructions": [
+      "Stir the rice flakes with the soy drink and vanilla in a jar and refrigerate covered overnight, for at least 6 hours.",
+      "Stir the soy skyr with the pea protein until smooth.",
+      "Spoon the skyr cream over the rice flakes as a layer.",
+      "Sprinkle with the pomegranate seeds."
+    ]
+  },
+  {
+    "id": "rec_5701",
+    "title": "Banana sesame rice flour crêpes with soy skyr",
+    "ingredients": [
+      "Rice flour",
+      "Pea protein (unflavoured)",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Banana",
+      "Sesame seeds",
+      "Coconut oil"
+    ],
+    "instructions": [
+      "Whisk the rice flour, pea protein and soy drink until smooth and leave to rest for 10 minutes. Toast the sesame seeds in a dry pan until golden.",
+      "Brush a non-stick pan with the coconut oil and cook 2 thin crêpes from the batter for 1 to 2 minutes on each side.",
+      "Slice the banana.",
+      "Spread the crêpes with the soy skyr, top with the banana slices, fold over and sprinkle with the sesame seeds."
+    ]
+  },
+  {
+    "id": "rec_5702",
+    "title": "Mango lime overnight millet flakes with soy skyr",
+    "ingredients": [
+      "Millet flakes",
+      "Soy drink (unsweetened)",
+      "Plain soy skyr",
+      "Pea protein (unflavoured)",
+      "Mango",
+      "Lime"
+    ],
+    "instructions": [
+      "Stir the millet flakes with the soy drink in a jar and refrigerate covered overnight, for at least 6 hours.",
+      "Finely grate the zest of the lime half and squeeze out the juice. Stir the soy skyr with the pea protein, lime juice and half of the zest until smooth.",
+      "Peel the mango and cut into small cubes.",
+      "Layer the skyr cream over the millet flakes, top with the mango cubes and sprinkle with the remaining zest."
+    ]
+  },
+  {
+    "id": "rec_5703",
+    "title": "Savoury amaranth porridge with pumpkin, kale and smoked tofu",
+    "ingredients": [
+      "Amaranth",
+      "Vegetable stock",
+      "Pea protein (unflavoured)",
+      "Nutritional yeast flakes",
+      "Hokkaido pumpkin",
+      "Kale",
+      "Smoked tofu",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the amaranth to the boil with the vegetable stock and let it swell covered over low heat for 20 minutes. Stir in the pea protein and nutritional yeast until creamy.",
+      "Deseed the pumpkin and cut into small cubes. Strip the kale from the stalks and chop. Dice the smoked tofu.",
+      "Fry the pumpkin and tofu in the olive oil for 6 minutes until golden, add the kale and fry for another 2 minutes. Season with salt and pepper.",
+      "Spoon the porridge into a bowl and top with the pumpkin and tofu mixture."
+    ]
+  },
+  {
+    "id": "rec_5704",
+    "title": "Chickpea waffles with herb soy skyr and radishes",
+    "ingredients": [
+      "Chickpea flour",
+      "Pea protein (unflavoured)",
+      "Water",
+      "Baking powder (gluten-free)",
+      "Rapeseed oil",
+      "Plain soy skyr",
+      "Radishes",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Stir the chickpea flour, pea protein, baking powder and a pinch of salt with 70 ml water until smooth and leave to rest for 10 minutes.",
+      "Brush the waffle iron with the rapeseed oil and bake 2 waffles from the batter for 5 minutes each until golden.",
+      "Snip the chives and stir into the soy skyr with salt and pepper. Slice the radishes thinly.",
+      "Spread the waffles with the herb skyr and top with the radish slices."
+    ]
+  },
+  {
+    "id": "rec_5705",
+    "title": "Savoury millet porridge with edamame, zucchini and sesame",
+    "ingredients": [
+      "Millet",
+      "Vegetable stock",
+      "Pea protein (unflavoured)",
+      "Shelled edamame (frozen)",
+      "Zucchini",
+      "Toasted sesame oil",
+      "Sesame seeds",
+      "Tamari (gluten-free)",
+      "Spring onion"
+    ],
+    "instructions": [
+      "Rinse the millet with hot water, bring to the boil with the vegetable stock and let it swell covered over low heat for 15 minutes. Stir in the pea protein.",
+      "Cut the zucchini into small cubes and the spring onion into fine rings. Toast the sesame seeds in a dry pan until golden and remove.",
+      "Fry the zucchini and edamame in the sesame oil for 4 minutes and deglaze with the tamari.",
+      "Spoon the porridge into a bowl, top with the vegetables and sprinkle with the sesame seeds and spring onion."
+    ]
+  },
+  {
+    "id": "rec_5706",
+    "title": "Savoury teff porridge with tomatoes, lupins and basil",
+    "ingredients": [
+      "Teff",
+      "Vegetable stock",
+      "Pea protein (unflavoured)",
+      "Nutritional yeast flakes",
+      "Lupins (cooked)",
+      "Cherry tomatoes",
+      "Olive oil",
+      "Basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Bring the teff to the boil with the vegetable stock and let it swell over low heat for 15 minutes, stirring occasionally.",
+      "Stir in the pea protein and nutritional yeast and season with salt and pepper.",
+      "Halve the cherry tomatoes and fry with the lupins in the olive oil for 3 minutes until the tomatoes soften.",
+      "Spoon the porridge into a bowl, top with the tomatoes and lupins and garnish with the basil leaves."
+    ]
+  },
+  {
+    "id": "rec_5707",
+    "title": "Tahini cinnamon protein balls with sesame",
+    "ingredients": [
+      "Unsweetened soy protein",
+      "Tahini",
+      "Dates (pitted)",
+      "Plain soy skyr",
+      "Sesame seeds",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Chop the dates very finely. Toast the sesame seeds in a dry pan until golden and leave to cool.",
+      "Knead the soy protein, tahini, dates, soy skyr and cinnamon into a mouldable mixture.",
+      "Roll the mixture into 6 balls and roll them in the toasted sesame seeds.",
+      "Chill for at least 30 minutes."
+    ]
+  },
+  {
+    "id": "rec_5708",
+    "title": "Apricot almond protein bars",
+    "ingredients": [
+      "Apricots (dried)",
+      "Unsweetened soy protein",
+      "Almond flour",
+      "Quinoa flakes",
+      "Plain soy skyr",
+      "Almonds"
+    ],
+    "instructions": [
+      "Chop the apricots very finely and roughly chop the almonds.",
+      "Knead the soy protein, almond flour, quinoa flakes, apricots and soy skyr into a firm mixture.",
+      "Press the mixture into a rectangle on baking paper, sprinkle with the chopped almonds and press them in lightly.",
+      "Chill for at least 1 hour and cut into 2 bars."
+    ]
+  },
+  {
+    "id": "rec_5709",
+    "title": "Lupin edamame dip with cucumber and pepper sticks",
+    "ingredients": [
+      "Lupins (cooked)",
+      "Shelled edamame (frozen)",
+      "Pea protein (unflavoured)",
+      "Lemon",
+      "Cucumber",
+      "Red pepper",
+      "Ground cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Heat the edamame in a covered bowl in the microwave for 2 minutes and leave to cool.",
+      "Squeeze the juice of the lemon quarter. Blend the edamame, lupins, pea protein, lemon juice, cumin, salt and pepper until smooth.",
+      "Cut the cucumber and pepper into finger-thick sticks.",
+      "Spoon the dip into a small bowl and serve with the vegetable sticks."
+    ]
+  },
+  {
+    "id": "rec_5710",
+    "title": "Chocolate hazelnut protein balls",
+    "ingredients": [
+      "Hazelnuts",
+      "Unsweetened soy protein",
+      "Unsweetened cocoa powder",
+      "Plain soy skyr",
+      "Dates (pitted)"
+    ],
+    "instructions": [
+      "Toast the hazelnuts in a dry pan and chop very finely. Chop the dates very finely.",
+      "Knead the soy protein, half of the cocoa, the hazelnuts, dates and soy skyr into a mouldable mixture.",
+      "Roll the mixture into 6 balls and roll them in the remaining cocoa.",
+      "Chill for at least 30 minutes."
+    ]
+  },
+  {
+    "id": "rec_5711",
+    "title": "Blueberry lemon protein ice lollies",
+    "ingredients": [
+      "Plain soy skyr",
+      "Pea protein (unflavoured)",
+      "Blueberries",
+      "Maple syrup",
+      "Lemon"
+    ],
+    "instructions": [
+      "Finely grate the zest of the lemon quarter and squeeze out the juice. Stir the soy skyr with the pea protein, maple syrup, lemon juice and zest until smooth.",
+      "Roughly crush the blueberries with a fork and swirl them loosely through the cream.",
+      "Pour the mixture into 2 ice lolly moulds, insert the sticks and freeze for at least 6 hours.",
+      "Leave at room temperature for 5 minutes before serving and release from the moulds."
+    ]
+  },
+  {
+    "id": "rec_5712",
+    "title": "Apple cinnamon buckwheat mug cake",
+    "ingredients": [
+      "Buckwheat flour",
+      "Unsweetened soy protein",
+      "Unsweetened apple puree",
+      "Plain soy skyr",
+      "Apple",
+      "Baking powder (gluten-free)",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Core the apple and dice finely.",
+      "Mix the buckwheat flour, soy protein, baking powder and cinnamon in a large mug. Stir in the apple purée and soy skyr until smooth and fold in two thirds of the apple cubes.",
+      "Microwave at 800 watts for 90 seconds and leave to rest for 1 minute.",
+      "Top with the remaining apple cubes."
+    ]
+  },
+  {
+    "id": "rec_5713",
+    "title": "Strawberry silken tofu mousse with pistachios",
+    "ingredients": [
+      "Silken tofu",
+      "Pea protein (unflavoured)",
+      "Strawberries",
+      "Maple syrup",
+      "Pistachios"
+    ],
+    "instructions": [
+      "Wash and hull the strawberries. Slice one strawberry and set aside.",
+      "Blend the remaining strawberries with the silken tofu, pea protein and maple syrup until very smooth.",
+      "Pour into a dessert glass and chill for at least 1 hour.",
+      "Finely chop the pistachios. Garnish the mousse with the strawberry slices and pistachios."
+    ]
+  },
+  {
+    "id": "rec_5714",
+    "title": "Oven tofu cubes with sesame crust and tamari lime dip",
+    "ingredients": [
+      "Firm plain tofu",
+      "Sesame seeds",
+      "Cornflour",
+      "Tamari (gluten-free)",
+      "Lime",
+      "Sweet paprika"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C top and bottom heat and line a baking tray with baking paper. Pat the tofu dry and cut into 16 cubes.",
+      "Toss the tofu cubes with half of the tamari, then coat in the cornflour, paprika and sesame seeds.",
+      "Spread on the tray and bake for 25 minutes, turning halfway through.",
+      "Stir the juice of the lime half with the remaining tamari and serve as a dip with the tofu cubes."
+    ]
+  },
+  {
+    "id": "rec_5715",
+    "title": "Sour cherry silken tofu pudding with cacao nibs",
+    "ingredients": [
+      "Silken tofu",
+      "Pea protein (unflavoured)",
+      "Sour cherries (pitted)",
+      "Dates (pitted)",
+      "Cacao nibs"
+    ],
+    "instructions": [
+      "Set aside a few sour cherries for garnish. Roughly chop the date.",
+      "Blend the silken tofu, pea protein, remaining sour cherries and the date until very smooth.",
+      "Pour into a dessert glass and chill for at least 1 hour.",
+      "Garnish with the reserved sour cherries and the cacao nibs."
+    ]
+  },
+  {
+    "id": "rec_5716",
+    "title": "Pumpkin cinnamon protein muffins",
+    "ingredients": [
+      "Hokkaido pumpkin",
+      "Quinoa flakes",
+      "Pea protein (unflavoured)",
+      "Plain soy skyr",
+      "Maple syrup",
+      "Pumpkin seeds",
+      "Baking powder (gluten-free)",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Deseed the pumpkin, grate finely and squeeze lightly. Preheat the oven to 180 °C top and bottom heat and place 2 paper muffin cases in a muffin tin.",
+      "Mix the quinoa flakes, pea protein, baking powder and cinnamon. Stir in the pumpkin, soy skyr and maple syrup.",
+      "Divide the batter between the 2 cases and sprinkle with the pumpkin seeds.",
+      "Bake for 22 minutes until golden and leave to cool briefly."
+    ]
+  },
+  {
+    "id": "rec_5717",
+    "title": "Strawberry chia millet flake porridge with tofu and pea protein",
+    "ingredients": [
+      "Millet flakes",
+      "Chia seeds",
+      "Pea protein (unflavoured)",
+      "Firm plain tofu",
+      "Unsweetened almond drink",
+      "Strawberries",
+      "Vanilla (ground)"
+    ],
+    "instructions": [
+      "Bring the millet flakes and chia seeds to the boil with 160 ml almond drink and the vanilla and simmer for 3 minutes, stirring.",
+      "Blend the tofu with the remaining 60 ml almond drink and the pea protein until smooth and stir into the porridge.",
+      "Wash and hull the strawberries and slice them.",
+      "Spoon the porridge into a bowl and top with the strawberry slices."
+    ]
+  },
+  {
+    "id": "rec_5718",
+    "title": "Pineapple mint teff porridge with tofu and pea protein",
+    "ingredients": [
+      "Teff",
+      "Pea protein (unflavoured)",
+      "Firm plain tofu",
+      "Unsweetened almond drink",
+      "Pineapple",
+      "Peppermint"
+    ],
+    "instructions": [
+      "Bring the teff to the boil with 160 ml almond drink and let it swell over low heat for 15 minutes, stirring occasionally.",
+      "Blend the tofu with the remaining 60 ml almond drink and the pea protein until smooth and stir into the porridge.",
+      "Peel the pineapple and cut into small cubes. Cut the mint leaves into fine strips and mix with the pineapple.",
+      "Spoon the porridge into a bowl and top with the minted pineapple."
+    ]
+  },
+  {
+    "id": "rec_5719",
+    "title": "Blueberry cinnamon buckwheat porridge with tofu and pea protein",
+    "ingredients": [
+      "Buckwheat",
+      "Pea protein (unflavoured)",
+      "Firm plain tofu",
+      "Unsweetened almond drink",
+      "Blueberries",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Rinse the buckwheat with hot water, bring to the boil with 160 ml almond drink and the cinnamon and let it swell covered over low heat for 15 minutes.",
+      "Blend the tofu with the remaining 60 ml almond drink and the pea protein until smooth and stir into the porridge.",
+      "Pick over and wash the blueberries.",
+      "Spoon the porridge into a bowl and top with the blueberries."
+    ]
+  },
+  {
+    "id": "rec_5720",
+    "title": "Papaya lime polenta porridge with tofu and pea protein",
+    "ingredients": [
+      "Polenta",
+      "Pea protein (unflavoured)",
+      "Firm plain tofu",
+      "Unsweetened almond drink",
+      "Papaya",
+      "Lime"
+    ],
+    "instructions": [
+      "Bring the polenta to the boil with 160 ml almond drink and simmer for 5 minutes, stirring.",
+      "Blend the tofu with the remaining 60 ml almond drink and the pea protein until smooth and stir into the porridge.",
+      "Peel, deseed and dice the papaya. Finely grate the zest of the lime quarter and drizzle the juice over the papaya.",
+      "Spoon the porridge into a bowl, top with the papaya and sprinkle with the lime zest."
+    ]
+  },
+  {
+    "id": "rec_5721",
+    "title": "Broccoli Emmental egg muffins with thyme",
+    "ingredients": [
+      "Eggs (medium)",
+      "Broccoli",
+      "Emmental (vegetarian, with microbial rennet)",
+      "Cream",
+      "Butter",
+      "Thyme (dried)",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 180 °C top and bottom heat and grease 3 cups of a muffin tin with the butter.",
+      "Divide the broccoli into very small florets and grate the Emmental.",
+      "Whisk the eggs with the cream, thyme, salt and pepper, stir in the broccoli and two thirds of the cheese and divide between the 3 cups.",
+      "Sprinkle with the remaining cheese and bake for 20 minutes until set and golden."
+    ]
+  },
+  {
+    "id": "rec_5722",
+    "title": "Chard goat cream cheese frittata with pine nuts",
+    "ingredients": [
+      "Eggs (medium)",
+      "Swiss chard",
+      "Fresh goat’s cheese",
+      "Butter",
+      "Pine nuts",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Wash the chard, cut the stalks into thin strips and roughly chop the leaves. Toast the pine nuts in a dry pan until golden and remove.",
+      "Fry the chard stalks in the butter in an ovenproof pan for 3 minutes, add the leaves and let them wilt for 1 minute.",
+      "Whisk the eggs with salt and pepper, pour over the chard and dot the goat cream cheese on top in small spoonfuls.",
+      "Let it set over low heat for 5 minutes, grill for 3 minutes until golden and sprinkle with the pine nuts."
+    ]
+  },
+  {
+    "id": "rec_5723",
+    "title": "Scrambled eggs with green asparagus and chervil",
+    "ingredients": [
+      "Eggs (medium)",
+      "Green asparagus",
+      "Cream",
+      "Butter",
+      "Chervil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel the lower third of the asparagus, trim the ends and cut the spears diagonally into 3 cm pieces.",
+      "Fry the asparagus in the butter over medium heat for 4 minutes until tender-crisp and season with salt and pepper.",
+      "Whisk the eggs with the cream, add to the asparagus and let set creamily over low heat for 3 minutes, stirring slowly.",
+      "Sprinkle with chopped chervil and serve immediately."
+    ]
+  },
+  {
+    "id": "rec_5724",
+    "title": "Leek mountain cheese omelette",
+    "ingredients": [
+      "Eggs (medium)",
+      "Leek",
+      "Mountain cheese (vegetarian, made with microbial rennet)",
+      "Butter",
+      "Nutmeg",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Trim the leek, wash thoroughly and cut into fine rings. Grate the mountain cheese.",
+      "Sweat the leek in half of the butter for 4 minutes until soft and remove.",
+      "Whisk the eggs with the nutmeg, salt and pepper and let them set in the remaining butter over low heat for 3 minutes.",
+      "Spread the leek and cheese over one half, fold the omelette over and leave for 1 minute until the cheese melts."
+    ]
+  },
+  {
+    "id": "rec_5725",
+    "title": "Paneer spinach egg pan with cumin",
+    "ingredients": [
+      "Eggs (medium)",
+      "Paneer",
+      "Baby spinach",
+      "Ghee",
+      "Cumin seeds (whole)",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the paneer into 8 cubes.",
+      "Toast the cumin in the ghee for 30 seconds, add the paneer and fry for 3 minutes until golden all over.",
+      "Add the spinach and let it wilt for 1 minute, then season with salt and pepper.",
+      "Whisk the eggs, pour over and let set covered over low heat for 3 minutes."
+    ]
+  },
+  {
+    "id": "rec_5726",
+    "title": "Baked avocado with egg and cheddar",
+    "ingredients": [
+      "Avocado",
+      "Eggs (medium)",
+      "Cheddar (made with microbial rennet)",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C top and bottom heat. Halve the avocado, remove the stone and enlarge the hollows a little with a spoon.",
+      "Place the 2 avocado halves in a small baking dish and slide one egg into each hollow. Season with salt and pepper.",
+      "Grate the cheddar, sprinkle over and bake for 15 minutes until the egg whites are set.",
+      "Sprinkle with snipped chives and serve warm."
+    ]
   }
 ]
