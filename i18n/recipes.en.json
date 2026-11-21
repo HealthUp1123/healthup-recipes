@@ -113850,5 +113850,1013 @@
       "Stir the mayonnaise with the mustard, salt and pepper and gently fold in the eggs, avocado and chives.",
       "Place the lettuce leaves on a plate and arrange the egg salad on top."
     ]
+  },
+  {
+    "id": "rec_5777",
+    "title": "Quick win: turmeric tofu scramble with cherry tomatoes, rocket and rice cakes",
+    "ingredients": [
+      "Firm plain tofu",
+      "Cherry tomatoes",
+      "Rocket",
+      "Rice cakes",
+      "Rapeseed oil",
+      "Nutritional yeast flakes",
+      "Turmeric, chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Crumble the tofu coarsely with your hands. Halve the cherry tomatoes.",
+      "Heat the oil in a pan and fry the tofu with the turmeric, nutritional yeast, salt and pepper for 4 minutes, stirring.",
+      "Arrange the tofu scramble on a plate with the cherry tomatoes, rocket and rice cakes and sprinkle with chives."
+    ]
+  },
+  {
+    "id": "rec_5778",
+    "title": "Quick win: soy skyr bowl with pea protein, kiwi, blueberries and hemp seeds",
+    "ingredients": [
+      "Plain soy skyr",
+      "Pea protein (unflavoured)",
+      "Kiwi",
+      "Blueberries",
+      "Hemp seeds (hulled)"
+    ],
+    "instructions": [
+      "Stir the soy skyr with the pea protein until smooth and spoon into a shallow bowl.",
+      "Peel the kiwi and slice it, wash the blueberries.",
+      "Arrange the kiwi slices and blueberries on the skyr and sprinkle with the hemp seeds."
+    ]
+  },
+  {
+    "id": "rec_5779",
+    "title": "Quick win: pear soy yoghurt with soy protein, peanut butter and hemp seeds",
+    "ingredients": [
+      "Soy yoghurt (plain, unsweetened)",
+      "Unsweetened soy protein",
+      "Pear",
+      "Peanut butter",
+      "Hemp seeds (hulled)",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Stir the soy yoghurt with the soy protein until smooth and spoon into a shallow bowl.",
+      "Wash and core the pear and cut it into thin wedges.",
+      "Arrange the pear wedges on the yoghurt, drizzle with the peanut butter and sprinkle with the hemp seeds and cinnamon."
+    ]
+  },
+  {
+    "id": "rec_5780",
+    "title": "Quick win: chickpea and egg pan with pepper, cumin and skyr dip",
+    "ingredients": [
+      "Eggs",
+      "Egg white",
+      "Chickpeas (drained)",
+      "Red pepper",
+      "Skyr",
+      "Olive oil",
+      "Cumin, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the pepper into strips and fry with the rinsed chickpeas and cumin in the olive oil for 4 minutes.",
+      "Whisk the eggs and egg whites with salt and pepper, pour into the pan and let set over medium heat for 3 minutes.",
+      "Stir the skyr with a pinch of salt, slide the egg pan onto a plate, sprinkle with parsley and serve the skyr dip alongside."
+    ]
+  },
+  {
+    "id": "rec_5781",
+    "title": "Quick win: crispy tempeh slices with tomato, cucumber and wholemeal bread",
+    "ingredients": [
+      "Tempeh",
+      "Tomato",
+      "Cucumber",
+      "Wholemeal bread",
+      "Rapeseed oil",
+      "Tamari (gluten-free)",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the tempeh into 6 thin slices and toss with the tamari and paprika.",
+      "Heat the oil in a pan and fry the tempeh slices for 2 minutes per side until crisp.",
+      "Slice the tomato and cucumber and season with salt and pepper.",
+      "Arrange the wholemeal bread, tempeh, tomato and cucumber on a plate."
+    ]
+  },
+  {
+    "id": "rec_5782",
+    "title": "Quick win: skyr plate with orange segments, pomegranate and pistachios",
+    "ingredients": [
+      "Skyr",
+      "Orange",
+      "Pomegranate seeds",
+      "Pistachios (chopped)",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Peel the orange with a knife and cut out the segments between the membranes.",
+      "Spread the skyr smoothly on a deep plate and dust with cinnamon.",
+      "Scatter the orange segments, pomegranate seeds and pistachios over the top."
+    ]
+  },
+  {
+    "id": "rec_5783",
+    "title": "Quick win: prawn and grapefruit plate with avocado, lamb's lettuce and crispbread",
+    "ingredients": [
+      "Prawns (raw, peeled)",
+      "Grapefruit",
+      "Avocado",
+      "Lamb's lettuce",
+      "Rye crispbread",
+      "Olive oil",
+      "Garlic",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Fry the prawns with the chopped garlic in the olive oil for 3 minutes until pink throughout and season with salt and pepper.",
+      "Peel the grapefruit and cut out the segments, cut the avocado into wedges.",
+      "Arrange the lamb's lettuce, grapefruit segments, avocado and prawns on a plate and add the rye crispbread."
+    ]
+  },
+  {
+    "id": "rec_5784",
+    "title": "Quick win: smoked trout plate with cucumber, apple and horseradish yoghurt",
+    "ingredients": [
+      "Smoked trout fillet",
+      "Cucumber",
+      "Apple",
+      "Yoghurt (1.5%)",
+      "Horseradish (freshly grated)",
+      "Rye crispbread",
+      "Dill",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Stir the yoghurt with the horseradish, salt and pepper.",
+      "Slice the cucumber and cut the apple into thin wedges.",
+      "Flake the trout fillet into pieces and arrange on a plate with the cucumber, apple, crispbread and horseradish yoghurt, sprinkle with dill."
+    ]
+  },
+  {
+    "id": "rec_5785",
+    "title": "Quick win: quark plate with papaya, blueberries and linseed",
+    "ingredients": [
+      "Low-fat quark",
+      "Papaya",
+      "Blueberries",
+      "Linseed (ground)",
+      "Lime"
+    ],
+    "instructions": [
+      "Peel and deseed the papaya, cut into cubes and drizzle with the lime juice.",
+      "Stir the quark until smooth and spread it on a deep plate.",
+      "Scatter the papaya and blueberries on top and sprinkle with the linseed."
+    ]
+  },
+  {
+    "id": "rec_5786",
+    "title": "Quick win: sardine plate with white beans, tomato and rocket",
+    "ingredients": [
+      "Sardines (drained)",
+      "White beans (drained)",
+      "Tomato",
+      "Rocket",
+      "Lemon",
+      "Olive oil",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse the beans and mix with the lemon juice, oil, parsley, salt and pepper.",
+      "Cut the tomato into wedges.",
+      "Spread the rocket on a plate and arrange the beans, tomato and sardines on top."
+    ]
+  },
+  {
+    "id": "rec_5787",
+    "title": "Quick win: edamame and egg plate with kohlrabi, radishes and mustard skyr dip",
+    "ingredients": [
+      "Eggs",
+      "Shelled edamame (frozen)",
+      "Kohlrabi",
+      "Radishes",
+      "Skyr",
+      "Mustard (medium hot)",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Boil the eggs for 8 minutes, refresh, peel and halve. Add the edamame to the boiling water for the last 3 minutes and drain.",
+      "Peel the kohlrabi and cut into sticks, halve the radishes.",
+      "Stir the skyr with the mustard, salt and pepper and arrange on a plate with the eggs, edamame, kohlrabi and radishes, sprinkle with chives."
+    ]
+  },
+  {
+    "id": "rec_5788",
+    "title": "Quick win: chickpea smash plate with tomato, cucumber and soy yoghurt dip",
+    "ingredients": [
+      "Chickpeas (drained)",
+      "Soy yoghurt (plain, unsweetened)",
+      "Tomato",
+      "Cucumber",
+      "Wholemeal pita",
+      "Lemon",
+      "Ground cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse the chickpeas and mash coarsely with a fork, season with lemon juice, cumin, salt and pepper.",
+      "Stir the soy yoghurt with a pinch of salt. Dice the tomato and cucumber.",
+      "Toast the pita briefly and arrange on a plate with the chickpea smash, diced vegetables and the dip."
+    ]
+  },
+  {
+    "id": "rec_5789",
+    "title": "Black bean sweet potato chilli with avocado and lime",
+    "ingredients": [
+      "Black beans (drained)",
+      "Sweet potato",
+      "Chopped tomatoes (tin)",
+      "Red pepper",
+      "Onion",
+      "Garlic",
+      "Rapeseed oil",
+      "Avocado",
+      "Lime",
+      "Chilli, cumin, oregano",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel the sweet potato and cut into 1 cm cubes, dice the onion, garlic and pepper.",
+      "Sweat the onion, garlic and pepper in the oil for 4 minutes and toast the spices for 1 minute.",
+      "Add the sweet potato, tomatoes and rinsed beans and simmer covered for 20 minutes until the sweet potato is tender, season with salt and pepper.",
+      "Spoon the chilli into a bowl, top with avocado slices and drizzle with lime juice."
+    ]
+  },
+  {
+    "id": "rec_5790",
+    "title": "Chickpea and chard curry with brown rice",
+    "ingredients": [
+      "Chickpeas (drained)",
+      "Swiss chard",
+      "Passata",
+      "Light coconut milk",
+      "Brown rice (uncooked)",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Rapeseed oil",
+      "Curry powder, turmeric",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the rice in plenty of salted water for 30 minutes and drain.",
+      "Cut the chard stalks into pieces and the leaves into strips. Chop the onion, ginger and garlic.",
+      "Sweat the onion, ginger, garlic and chard stalks in the oil for 4 minutes and toast the curry powder and turmeric for 1 minute.",
+      "Add the chickpeas, strained tomatoes and coconut milk, simmer for 10 minutes, stir in the chard leaves and let them wilt for 2 minutes, season with salt and serve with the rice."
+    ]
+  },
+  {
+    "id": "rec_5791",
+    "title": "Roasted Jerusalem artichokes with beluga lentils, lamb's lettuce and hazelnuts",
+    "ingredients": [
+      "Jerusalem artichoke",
+      "Beluga lentils (dry)",
+      "Lamb's lettuce",
+      "Hazelnuts",
+      "Olive oil",
+      "Apple cider vinegar",
+      "Mustard (medium hot)",
+      "Thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C. Scrub the Jerusalem artichokes well, halve, toss with 3 g of the oil, thyme and salt and roast for 25 minutes until golden.",
+      "Cook the beluga lentils in plenty of water for 20 minutes until al dente and drain.",
+      "Roughly chop the hazelnuts and toast in a dry pan for 2 minutes.",
+      "Whisk the remaining oil, cider vinegar, mustard, salt and pepper, mix with the lentils and arrange with the lamb's lettuce and Jerusalem artichokes, sprinkle with the hazelnuts."
+    ]
+  },
+  {
+    "id": "rec_5792",
+    "title": "Pearl barley and red cabbage pan with apple, walnuts and feta",
+    "ingredients": [
+      "Pearl barley (uncooked)",
+      "Red cabbage",
+      "Apple",
+      "Walnuts",
+      "Feta (made with microbial rennet)",
+      "Onion",
+      "Rapeseed oil",
+      "Apple cider vinegar",
+      "Caraway, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the pearl barley in plenty of salted water for 30 minutes and drain.",
+      "Cut the red cabbage into fine strips, dice the onion, core the apple and cut into wedges.",
+      "Fry the onion and red cabbage in the oil with the caraway for 8 minutes, add the apple wedges for 3 minutes and deglaze with the cider vinegar.",
+      "Fold in the barley, season with salt and pepper, spoon into a bowl and sprinkle with crumbled feta, chopped walnuts and parsley."
+    ]
+  },
+  {
+    "id": "rec_5793",
+    "title": "Chicken and borlotti bean stew with savoy cabbage and parsnip",
+    "ingredients": [
+      "Chicken breast",
+      "Borlotti beans (drained)",
+      "Savoy cabbage",
+      "Parsnip",
+      "Onion",
+      "Garlic",
+      "Vegetable stock",
+      "Olive oil",
+      "Thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the chicken into bite-sized cubes, peel and dice the parsnip, cut the savoy cabbage into strips and chop the onion and garlic.",
+      "Sear the chicken in the oil for 3 minutes and fry the onion and garlic with it for 2 minutes.",
+      "Add the stock, parsnip and thyme and simmer for 10 minutes.",
+      "Add the rinsed beans and savoy cabbage and cook for another 8 minutes until the chicken is cooked through, season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_5794",
+    "title": "Cod on puy lentils and leeks with mustard",
+    "ingredients": [
+      "Cod fillet",
+      "Green lentils (dry)",
+      "Leek",
+      "Carrot",
+      "Wholegrain mustard",
+      "Vegetable stock",
+      "Olive oil",
+      "Lemon",
+      "Parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the lentils in plenty of water for 25 minutes until al dente and drain.",
+      "Cut the leek into rings and the carrot into small cubes and sweat in 5 g of the oil for 5 minutes, add the stock and mustard, stir in the lentils and simmer for 3 minutes.",
+      "Salt the cod and fry in the remaining oil for 3 minutes per side until opaque and cooked through.",
+      "Arrange the lentil vegetables on a plate, place the cod on top, drizzle with lemon juice and sprinkle with parsley."
+    ]
+  },
+  {
+    "id": "rec_5795",
+    "title": "Wholemeal penne with broccoli, peas, nutritional yeast and lemon",
+    "ingredients": [
+      "Wholemeal penne (uncooked)",
+      "Broccoli",
+      "Peas (frozen)",
+      "Nutritional yeast flakes",
+      "Olive oil",
+      "Garlic",
+      "Lemon",
+      "Chilli flakes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Divide the broccoli into small florets. Cook the penne in plenty of salted water according to the packet instructions, adding the broccoli and peas for the last 4 minutes, then drain everything.",
+      "Thinly slice the garlic and toast in the oil for 1 minute.",
+      "Add the pasta and vegetables to the pan, toss with the lemon juice, lemon zest, nutritional yeast, chilli flakes, salt and pepper and serve in a deep plate."
+    ]
+  },
+  {
+    "id": "rec_5796",
+    "title": "Kidney bean and squash stew with spinach, ginger and sesame",
+    "ingredients": [
+      "Kidney beans (drained)",
+      "Hokkaido pumpkin",
+      "Spinach",
+      "Onion",
+      "Ginger",
+      "Tamari (gluten-free)",
+      "Vegetable stock",
+      "Toasted sesame oil",
+      "Sesame seeds"
+    ],
+    "instructions": [
+      "Deseed the squash and cut it with the skin into 2 cm cubes, finely chop the onion and ginger.",
+      "Sweat the onion and ginger in the sesame oil for 3 minutes, add the squash and stock and simmer for 15 minutes.",
+      "Add the rinsed kidney beans and tamari, simmer for another 5 minutes and stir in the spinach.",
+      "Ladle into a bowl and sprinkle with sesame seeds."
+    ]
+  },
+  {
+    "id": "rec_5797",
+    "title": "Freekeh salad with beetroot, lentils, feta and rocket",
+    "ingredients": [
+      "Uncooked freekeh",
+      "Beetroot (pre-cooked)",
+      "Brown lentils (dry)",
+      "Feta (made with microbial rennet)",
+      "Rocket",
+      "Olive oil",
+      "Lemon",
+      "Mint, cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the freekeh and lentils separately in plenty of salted water for 20 to 25 minutes until al dente, drain and let cool.",
+      "Dice the beetroot.",
+      "Whisk the oil, lemon juice, cumin, salt and pepper and mix with the freekeh, lentils and beetroot.",
+      "Fold in the rocket, spoon the salad into a bowl and sprinkle with crumbled feta and mint."
+    ]
+  },
+  {
+    "id": "rec_5798",
+    "title": "Chicken buckwheat stir-fry with edamame, broccoli and ginger",
+    "ingredients": [
+      "Chicken breast",
+      "Buckwheat (uncooked)",
+      "Shelled edamame (frozen)",
+      "Broccoli",
+      "Ginger",
+      "Garlic",
+      "Tamari (gluten-free)",
+      "Rapeseed oil",
+      "Spring onions"
+    ],
+    "instructions": [
+      "Cook the buckwheat in plenty of salted water for 12 minutes and drain.",
+      "Cut the chicken into strips, divide the broccoli into small florets, chop the ginger and garlic and slice the spring onion into rings.",
+      "Sear the chicken in the oil for 4 minutes until cooked through, add the broccoli, edamame, ginger and garlic and stir-fry for 4 minutes.",
+      "Stir in the buckwheat and tamari, heat for 1 minute and serve sprinkled with the spring onion."
+    ]
+  },
+  {
+    "id": "rec_5799",
+    "title": "Air fryer mushrooms with cottage cheese and spinach filling",
+    "ingredients": [
+      "Large button mushrooms",
+      "Cottage cheese",
+      "Baby spinach",
+      "Vegetarian hard cheese (parmesan style)",
+      "Garlic",
+      "Olive oil",
+      "Nutmeg",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Clean the mushrooms, twist out the stalks and chop them finely.",
+      "Roughly chop the spinach and stir with the mushroom stalks, chopped garlic, cottage cheese, nutmeg, salt and pepper.",
+      "Brush the outside of the mushroom caps thinly with the oil, fill with the mixture and sprinkle with the hard cheese.",
+      "Cook in the air fryer at 180 °C for 10 minutes until the filling is golden brown."
+    ]
+  },
+  {
+    "id": "rec_5800",
+    "title": "Blackcurrant soy skyr ice lollies with pea protein",
+    "ingredients": [
+      "Blackcurrants (frozen)",
+      "Plain soy skyr",
+      "Pea protein (unflavoured)",
+      "Banana",
+      "Lemon"
+    ],
+    "instructions": [
+      "Let the blackcurrants thaw slightly and blend with the soy skyr, pea protein, banana and lemon juice until smooth.",
+      "Pour the mixture into 2 ice lolly moulds, insert the sticks and freeze for at least 6 hours.",
+      "Briefly hold the moulds under warm water and release the lollies."
+    ]
+  },
+  {
+    "id": "rec_5801",
+    "title": "Pineapple, carrot and turmeric smoothie with soy skyr and hemp seeds",
+    "ingredients": [
+      "Pineapple",
+      "Carrot",
+      "Plain soy skyr",
+      "Hemp seeds (hulled)",
+      "Ginger",
+      "Turmeric",
+      "Water"
+    ],
+    "instructions": [
+      "Peel and dice the pineapple, peel the carrot and ginger and chop roughly.",
+      "Blend the pineapple, carrot, ginger, soy skyr, hemp seeds, turmeric and 100 ml cold water in a blender for 60 seconds until smooth.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_5802",
+    "title": "Air fryer turkey and pepper skewers with herb quark dip",
+    "ingredients": [
+      "Turkey breast",
+      "Red pepper",
+      "Zucchini",
+      "Rapeseed oil",
+      "Low-fat quark",
+      "Paprika, chives, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the turkey, pepper and courgette into 2 cm pieces, toss with the oil, paprika and salt and thread alternately onto 4 wooden skewers.",
+      "Cook in the air fryer at 200 °C for 10 minutes, turning halfway, until the turkey is cooked through.",
+      "Stir the quark with the chopped herbs, salt and pepper and serve as a dip with the skewers."
+    ]
+  },
+  {
+    "id": "rec_5803",
+    "title": "Pear and poppy seed quark cream with walnuts",
+    "ingredients": [
+      "Low-fat quark",
+      "Pear",
+      "Blue poppy seeds (ground)",
+      "Walnuts",
+      "Maple syrup",
+      "Vanilla (ground)"
+    ],
+    "instructions": [
+      "Stir the quark with the poppy seeds, vanilla and half of the maple syrup until creamy.",
+      "Core the pear, cut into small cubes and caramelise with the remaining maple syrup in a pan for 3 minutes.",
+      "Spoon the quark cream into a glass, top with the pear cubes and sprinkle with chopped walnuts."
+    ]
+  },
+  {
+    "id": "rec_5804",
+    "title": "Pumpkin seed cocoa protein balls with dates and pea protein",
+    "ingredients": [
+      "Pumpkin seeds",
+      "Dates (pitted)",
+      "Pea protein (unflavoured)",
+      "Unsweetened cocoa",
+      "Water"
+    ],
+    "instructions": [
+      "Grind the pumpkin seeds finely in a mini chopper and set aside 1 tsp for rolling.",
+      "Add the dates, pea protein, cocoa and 15 ml water and blend into a mouldable mixture.",
+      "Shape the mixture into 4 balls, roll in the reserved pumpkin seeds and chill for 20 minutes."
+    ]
+  },
+  {
+    "id": "rec_5805",
+    "title": "Persimmon cinnamon protein shake with skyr and oats",
+    "ingredients": [
+      "Persimmon",
+      "Skyr",
+      "Fine rolled oats",
+      "Milk (1.5%)",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Wash the persimmon, remove the stalk end and cut into pieces.",
+      "Blend the persimmon, skyr, oats, milk and cinnamon in a blender for 45 seconds until creamy.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_5806",
+    "title": "Mango ginger nice cream with soy protein and pistachios",
+    "ingredients": [
+      "Banana (frozen)",
+      "Mango (frozen)",
+      "Ginger",
+      "Unsweetened soy protein",
+      "Soy drink (unsweetened)",
+      "Pistachios (chopped)"
+    ],
+    "instructions": [
+      "Let the frozen banana and mango soften for 5 minutes, peel and finely grate the ginger.",
+      "Blend the fruit, ginger, soy protein and soy drink in a food processor for 1 to 2 minutes until creamy, scraping down in between.",
+      "Spoon into a bowl and sprinkle with chopped pistachios."
+    ]
+  },
+  {
+    "id": "rec_5807",
+    "title": "Chicken quinoa box with sugar snap peas, mango and lime dressing",
+    "ingredients": [
+      "Chicken breast",
+      "Quinoa (uncooked)",
+      "Sugar snap peas",
+      "Mango",
+      "Lime",
+      "Rapeseed oil",
+      "Coriander, chilli flakes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the quinoa in plenty of salted water for 15 minutes, adding the sugar snap peas for the last 2 minutes, drain everything and let cool.",
+      "Salt the chicken and fry in 3 g of the oil for 5 minutes per side until cooked through, let cool and slice.",
+      "Dice the mango. Whisk the lime juice, remaining oil, chilli flakes and salt into a dressing.",
+      "Pack the quinoa, sugar snap peas, mango and chicken side by side into a container, sprinkle with coriander, pack the dressing separately and keep in the fridge for up to 3 days.",
+      "Eat cold straight from the container, mixing in the dressing just before eating."
+    ]
+  },
+  {
+    "id": "rec_5808",
+    "title": "Mountain lentil and feta box with cherry tomatoes, radishes and mint",
+    "ingredients": [
+      "Green lentils (dry)",
+      "Cherry tomatoes",
+      "Radishes",
+      "Feta (made with microbial rennet)",
+      "Red onion",
+      "Olive oil",
+      "Lemon",
+      "Mint, oregano",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the lentils in plenty of water for 25 minutes until al dente, drain and let cool.",
+      "Halve the cherry tomatoes, slice the radishes, finely chop the onion and crumble the feta.",
+      "Whisk the oil, lemon juice, oregano, salt and pepper and mix with the lentils, vegetables and mint.",
+      "Pack the salad into a container, sprinkle with the feta and keep in the fridge for up to 3 days.",
+      "Eat cold straight from the container, mixing in the dressing just before eating."
+    ]
+  },
+  {
+    "id": "rec_5809",
+    "title": "Turkey gyros box with brown rice, coleslaw and yoghurt dip",
+    "ingredients": [
+      "Turkey breast, sliced into strips",
+      "Brown rice (uncooked)",
+      "White cabbage",
+      "Carrot",
+      "Yoghurt (0.2% fat)",
+      "Cucumber",
+      "Garlic",
+      "Olive oil",
+      "Apple cider vinegar",
+      "Gyros seasoning",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the rice in plenty of salted water for 30 minutes, drain and let cool.",
+      "Toss the turkey strips with the gyros seasoning and 5 g of the oil and fry in a hot pan for 5 minutes until cooked through.",
+      "Finely shred the white cabbage, grate the carrot and knead with the remaining oil, cider vinegar and salt.",
+      "Grate the cucumber, stir with the yoghurt, crushed garlic and salt and fill into a small pot.",
+      "Pack the rice, gyros and coleslaw side by side into a container, let cool and keep with the dip in the fridge for up to 3 days.",
+      "At the office eat cold or reheat covered in the microwave for 2 to 3 minutes until piping hot."
+    ]
+  },
+  {
+    "id": "rec_5810",
+    "title": "Tofu rice noodle box with carrot, cucumber, red cabbage and peanut sauce",
+    "ingredients": [
+      "Firm plain tofu",
+      "Rice noodles (uncooked)",
+      "Carrot",
+      "Cucumber",
+      "Red cabbage",
+      "Peanut butter (unsweetened)",
+      "Tamari (gluten-free)",
+      "Lime",
+      "Water",
+      "Rapeseed oil",
+      "Coriander, chilli flakes"
+    ],
+    "instructions": [
+      "Cook the rice noodles in plenty of water according to the packet instructions, drain, rinse with cold water and let drain.",
+      "Cut the tofu into cubes and fry in the oil for 6 minutes until golden on all sides.",
+      "Cut the carrot and cucumber into fine strips and finely shred the red cabbage.",
+      "Stir the peanut butter with the tamari, lime juice, chilli flakes and 30 ml water until smooth and fill into a small pot.",
+      "Pack the noodles, vegetables and tofu side by side into a container, sprinkle with coriander and keep with the sauce in the fridge for up to 3 days.",
+      "Eat cold straight from the container, mixing in the dressing just before eating."
+    ]
+  },
+  {
+    "id": "rec_5811",
+    "title": "Roast cauliflower and chickpea box with millet and tahini lemon sauce",
+    "ingredients": [
+      "Cauliflower",
+      "Chickpeas (drained)",
+      "Millet (uncooked)",
+      "Tahini",
+      "Lemon",
+      "Water",
+      "Olive oil",
+      "Cumin, paprika, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 220 °C. Divide the cauliflower into florets, toss with the rinsed chickpeas, oil, cumin, paprika and salt and roast for 25 minutes.",
+      "Rinse the millet with hot water, cook in plenty of salted water for 12 minutes and drain.",
+      "Stir the tahini with the lemon juice, 30 ml water and a pinch of salt until smooth and fill into a small pot.",
+      "Pack the millet, cauliflower and chickpeas into a container, sprinkle with parsley, let cool and keep with the sauce in the fridge for up to 4 days.",
+      "At the office eat cold or reheat covered in the microwave for 2 to 3 minutes until piping hot."
+    ]
+  },
+  {
+    "id": "rec_5812",
+    "title": "Tuna and bean salad box with fennel, orange and rocket",
+    "ingredients": [
+      "Tuna in brine, drained",
+      "White beans (drained)",
+      "Fennel",
+      "Orange",
+      "Rocket",
+      "Olive oil",
+      "Lemon",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Rinse and drain the beans. Shave the fennel into very thin slices.",
+      "Peel the orange and cut into pieces, catching the juice.",
+      "Whisk the orange juice, lemon juice, oil, salt and pepper and mix with the beans, fennel and orange pieces.",
+      "Pack the salad with the rocket into a container, lay the tuna in chunks on top and keep in the fridge for up to 3 days.",
+      "Eat cold straight from the container, mixing in the dressing just before eating."
+    ]
+  },
+  {
+    "id": "rec_5813",
+    "title": "Beef shawarma box with wholemeal couscous, cucumber, tomato and tahini yoghurt",
+    "ingredients": [
+      "Beef steak (rump)",
+      "Wholemeal couscous (uncooked)",
+      "Water",
+      "Cucumber",
+      "Tomato",
+      "Red onion",
+      "Yoghurt (1.5%)",
+      "Tahini",
+      "Lemon",
+      "Olive oil",
+      "Cumin, paprika, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the beef into thin strips and mix with the cumin, paprika, lemon juice, half the oil, salt and pepper.",
+      "Pour 75 ml boiling water over the couscous, leave to swell for 5 minutes and fluff up with the remaining oil.",
+      "Sear the beef in a hot pan for 3 to 4 minutes. Dice the cucumber and tomato and cut the onion into fine rings.",
+      "Stir the yoghurt with the tahini and a pinch of salt. Pack the couscous, beef and vegetables into a container, sprinkle with parsley, let cool and keep with the dip in the fridge for up to 3 days.",
+      "To eat, reheat covered in the microwave for 2 to 3 minutes until piping hot, stirring once."
+    ]
+  },
+  {
+    "id": "rec_5814",
+    "title": "Smoked tofu potato salad box with cucumber, radishes and mustard dressing",
+    "ingredients": [
+      "Waxy potatoes",
+      "Smoked tofu",
+      "Cucumber",
+      "Radishes",
+      "Mustard (medium hot)",
+      "Apple cider vinegar",
+      "Rapeseed oil",
+      "Vegetable stock",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the potatoes in their skins in plenty of water for 20 minutes, drain, peel and slice.",
+      "Whisk the warm stock with the mustard, cider vinegar, oil, salt and pepper, pour over the warm potatoes and leave to soak for 10 minutes.",
+      "Dice the smoked tofu and toast in a dry non-stick pan for 4 minutes. Thinly slice the cucumber and radishes.",
+      "Mix everything with the chives, pack into a container and keep in the fridge for up to 3 days.",
+      "Eat cold straight from the container, mixing in the dressing just before eating."
+    ]
+  },
+  {
+    "id": "rec_5815",
+    "title": "Halibut with creamed spinach and toasted pine nuts",
+    "ingredients": [
+      "Halibut fillet",
+      "Leaf spinach",
+      "Whipping cream (30% fat)",
+      "Butter",
+      "Pine nuts",
+      "Garlic",
+      "Nutmeg",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Toast the pine nuts in a dry pan until golden and set aside.",
+      "Season the halibut with salt and pepper and fry in half the butter for 3 to 4 minutes per side until just cooked through.",
+      "Chop the garlic and sweat in the remaining butter, add the spinach and let it wilt, stir in the cream and simmer for 2 minutes with nutmeg, salt and pepper until creamy.",
+      "Arrange the creamed spinach on a plate, place the halibut on top and sprinkle with the pine nuts."
+    ]
+  },
+  {
+    "id": "rec_5816",
+    "title": "Chicken thighs with pesto courgettes and mozzarella",
+    "ingredients": [
+      "Chicken thighs with skin (boneless)",
+      "Zucchini",
+      "Basil pesto (with vegetarian hard cheese)",
+      "Mozzarella",
+      "Olive oil",
+      "Basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Season the chicken thighs with salt and pepper and fry skin side down in the oil over medium heat for 10 minutes until crisp, turn and fry for another 8 minutes until cooked through.",
+      "Cut the courgette into half-moons, fry in the pan juices for 4 minutes and toss with the pesto.",
+      "Arrange the pesto courgettes and chicken on a plate, tear the mozzarella over the top and sprinkle with basil."
+    ]
+  },
+  {
+    "id": "rec_5817",
+    "title": "Halloumi avocado salad with cucumber, olives and mint",
+    "ingredients": [
+      "Halloumi (with microbial rennet)",
+      "Avocado",
+      "Cucumber",
+      "Olives (Kalamata)",
+      "Rocket",
+      "Olive oil",
+      "Lemon",
+      "Mint",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the halloumi into 4 slices and fry in a dry non-stick pan for 2 minutes per side until golden.",
+      "Dice the avocado and cucumber and halve the olives.",
+      "Whisk the oil, lemon juice, salt and pepper, toss with the rocket, avocado, cucumber and olives and arrange on a plate with the halloumi and mint."
+    ]
+  },
+  {
+    "id": "rec_5818",
+    "title": "Feta and aubergine pan with olives, walnuts and mint",
+    "ingredients": [
+      "Feta (made with microbial rennet)",
+      "Aubergine",
+      "Black olives",
+      "Olive oil",
+      "Walnuts",
+      "Garlic",
+      "Oregano, mint",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the aubergine into 2 cm cubes and fry in the oil over medium heat for 10 minutes until golden on all sides.",
+      "Add the chopped garlic, olives and oregano and fry for 2 minutes, season with pepper.",
+      "Break the feta into rough pieces, place on top of the aubergines and warm covered for 3 minutes until soft.",
+      "Transfer to a plate and sprinkle with chopped walnuts and mint."
+    ]
+  },
+  {
+    "id": "rec_5819",
+    "title": "Beef mince and pointed cabbage cream pan with cream cheese and caraway",
+    "ingredients": [
+      "Minced beef (15% fat)",
+      "Pointed cabbage",
+      "Full-fat cream cheese",
+      "Butter",
+      "Onion",
+      "Caraway, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the pointed cabbage into fine strips and finely dice the onion.",
+      "Fry the beef mince in the butter for 5 minutes until crumbly and cooked through, add the onion and caraway for 2 minutes.",
+      "Add the cabbage and fry for 5 minutes until tender-crisp.",
+      "Stir in the cream cheese until a creamy sauce forms, season with salt and pepper and serve on a plate sprinkled with parsley."
+    ]
+  },
+  {
+    "id": "rec_5820",
+    "title": "Smoked mackerel on cauliflower purée with chives",
+    "ingredients": [
+      "Smoked mackerel fillet",
+      "Cauliflower",
+      "Butter",
+      "Whipping cream (30% fat)",
+      "Lemon",
+      "Chives, nutmeg",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Divide the cauliflower into florets and cook in plenty of salted water for 12 minutes until soft, drain well.",
+      "Purée the cauliflower finely with the butter, cream, nutmeg, salt and pepper.",
+      "Skin the mackerel and flake into large pieces.",
+      "Spread the purée on a plate, place the mackerel on top, drizzle with lemon juice and sprinkle with chives."
+    ]
+  },
+  {
+    "id": "rec_5821",
+    "title": "Dakbokkeumtang – Korean braised gochujang chicken with potatoes and carrots",
+    "ingredients": [
+      "Chicken thighs (skinless, boneless)",
+      "Waxy potatoes",
+      "Carrot",
+      "Onion",
+      "Gochujang",
+      "Tamari (gluten-free)",
+      "Garlic",
+      "Ginger",
+      "Water",
+      "Toasted sesame oil",
+      "Spring onions",
+      "Gochugaru, sesame"
+    ],
+    "instructions": [
+      "Cut the chicken thighs into large pieces, peel the potatoes and carrot and cut into chunks, cut the onion into wedges and chop the garlic and ginger.",
+      "Stir the gochujang, tamari, gochugaru, garlic, ginger and 200 ml water together.",
+      "Put the chicken, potatoes, carrot and onion into a pot, pour over the sauce, bring to the boil and braise covered for 25 minutes until the chicken and potatoes are cooked.",
+      "Reduce uncovered for 5 minutes, stir in the sesame oil and serve in a bowl sprinkled with spring onion and sesame."
+    ]
+  },
+  {
+    "id": "rec_5822",
+    "title": "Kharcho – Georgian beef and walnut soup with rice and coriander",
+    "ingredients": [
+      "Beef (shoulder, lean)",
+      "Basmati rice (uncooked)",
+      "Walnuts",
+      "Passata",
+      "Onion",
+      "Garlic",
+      "Plums",
+      "Beef stock",
+      "Coriander",
+      "Fenugreek, coriander seeds, chilli flakes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the beef into 2 cm cubes, bring to the boil with the stock, skim and simmer gently covered for 60 minutes.",
+      "Dice the onion, stone and finely chop the plums and pound the walnuts finely with the garlic in a mortar.",
+      "Add the onion, rice, strained tomatoes and plums to the soup and simmer for 15 minutes until the rice is cooked.",
+      "Stir in the walnut garlic paste and spices, leave to infuse for 3 minutes, season with salt and pepper and serve sprinkled with coriander."
+    ]
+  },
+  {
+    "id": "rec_5823",
+    "title": "Kindzmari – Georgian pikeperch in coriander garlic sauce with potatoes",
+    "ingredients": [
+      "Pike-perch fillet",
+      "Waxy potatoes",
+      "Coriander",
+      "Garlic",
+      "Vinegar",
+      "Water",
+      "Rapeseed oil",
+      "Chilli flakes",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the potatoes in their skins in plenty of water for 20 minutes, drain, peel and halve.",
+      "Salt the pikeperch and fry in the oil for 3 minutes per side until cooked through.",
+      "Finely chop the coriander and garlic and heat with the vinegar, 100 ml water, chilli flakes and salt in a small pan for 2 minutes.",
+      "Arrange the pikeperch and potatoes on a plate and pour the warm coriander sauce over them."
+    ]
+  },
+  {
+    "id": "rec_5824",
+    "title": "Pescado a lo macho – Peruvian fish in prawn ají sauce with rice",
+    "ingredients": [
+      "Pollock fillet",
+      "Prawns (raw, peeled)",
+      "Jasmine rice (uncooked)",
+      "Passata",
+      "Yellow pepper",
+      "Onion",
+      "Garlic",
+      "Alcohol-free white wine",
+      "Rapeseed oil",
+      "Ají amarillo paste, cumin, coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the rice in plenty of salted water for 12 minutes and drain.",
+      "Salt the pollock and fry in 3 g of the oil for 3 minutes per side until cooked through, keep warm.",
+      "Dice the onion, pepper and garlic and sweat in the remaining oil with the ají paste and cumin for 4 minutes, deglaze with the white wine.",
+      "Add the strained tomatoes and prawns and simmer for 3 minutes until the prawns are pink and cooked through.",
+      "Arrange the fish with the rice on a plate, spoon the prawn sauce over the fish and sprinkle with coriander."
+    ]
+  },
+  {
+    "id": "rec_5825",
+    "title": "Doro alicha – mild Ethiopian turmeric chicken stew with egg and injera",
+    "ingredients": [
+      "Chicken thighs (skinless, boneless)",
+      "Egg",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Ghee",
+      "Water",
+      "Injera",
+      "Turmeric, cardamom",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Chop the onion very finely and sweat in a pot without fat for 8 minutes, stirring, until soft, then add the ghee, chopped garlic, ginger and turmeric for 2 minutes.",
+      "Cut the chicken into pieces, add with 150 ml water, the cardamom and salt and braise covered for 30 minutes until cooked through.",
+      "Hard-boil the egg for 9 minutes, peel, score all around and let it simmer in the sauce for the last 5 minutes.",
+      "Serve the doro alicha in a bowl with the egg and place the injera beside it on the plate."
+    ]
+  },
+  {
+    "id": "rec_5826",
+    "title": "Kongbiji jjigae – Korean ground soybean stew with tofu and kimchi",
+    "ingredients": [
+      "Shelled edamame (frozen)",
+      "Firm plain tofu",
+      "Kimchi (vegan)",
+      "Onion",
+      "Zucchini",
+      "Vegetable stock",
+      "Tamari (gluten-free)",
+      "Toasted sesame oil",
+      "Spring onions",
+      "Gochugaru, garlic"
+    ],
+    "instructions": [
+      "Thaw the edamame and blend finely with 100 ml of the stock.",
+      "Roughly chop the kimchi, dice the onion and fry both in the sesame oil with the gochugaru and garlic for 3 minutes.",
+      "Add the remaining stock, tamari, diced courgette and tofu cubes and simmer for 8 minutes.",
+      "Stir in the edamame purée, let it steep over low heat for 3 minutes without boiling hard and serve in a bowl sprinkled with spring onion."
+    ]
   }
 ]
