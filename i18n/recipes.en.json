@@ -115837,5 +115837,987 @@
       "Cube the tofu and let it steep in the mole with the rinsed black beans for 5 minutes.",
       "Finely grate the cauliflower, toast in a dry pan for 4 minutes, season with salt and serve with the mole, sprinkled with sesame seeds."
     ]
+  },
+  {
+    "id": "rec_5877",
+    "title": "Savoury silken tofu chickpea flour crêpes with mushrooms and spinach",
+    "ingredients": [
+      "Chickpea flour",
+      "Silken tofu",
+      "Water",
+      "Mushrooms",
+      "Firm plain tofu",
+      "Baby spinach",
+      "Rapeseed oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Blend the chickpea flour, silken tofu, 80 ml water and a pinch of salt into a smooth batter and let it rest for 5 minutes.",
+      "Slice the mushrooms, crumble the tofu and fry both in half the oil for 6 minutes. Fold in the baby spinach until wilted and season with salt and pepper.",
+      "Heat the remaining oil in a non-stick pan and cook 2 thin crêpes from the batter one after the other for 2 minutes per side.",
+      "Fill the crêpes with the mushroom and tofu filling, fold them over and serve warm."
+    ]
+  },
+  {
+    "id": "rec_5878",
+    "title": "Millet cocoa breakfast porridge with soy protein and plums",
+    "ingredients": [
+      "Millet flakes",
+      "Soy drink (unsweetened)",
+      "Unsweetened soy protein",
+      "Unsweetened cocoa",
+      "Plums",
+      "Almond butter",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Bring the millet flakes and the soy drink to the boil in a small pan and simmer gently for 4 minutes, stirring.",
+      "Take the pan off the heat and stir in the soy protein, cocoa and cinnamon until the porridge is smooth.",
+      "Halve and stone the plums and arrange on the porridge with the almond butter."
+    ]
+  },
+  {
+    "id": "rec_5879",
+    "title": "Wholegrain bagel with smoked tofu spread, cucumber and cress",
+    "ingredients": [
+      "Wholegrain bagel",
+      "Smoked tofu",
+      "Soy yoghurt (plain, unsweetened)",
+      "Mustard (medium hot)",
+      "Cucumber",
+      "Cress, paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely grate the smoked tofu and stir with the soy yoghurt, mustard, paprika, salt and pepper into a creamy spread.",
+      "Halve the bagel and toast it for 2 minutes until golden brown.",
+      "Cut the cucumber into thin slices.",
+      "Spread both bagel halves with the spread, top with the cucumber and sprinkle with cress."
+    ]
+  },
+  {
+    "id": "rec_5880",
+    "title": "Soy skyr bowl with pineapple, hemp seeds and soy protein",
+    "ingredients": [
+      "Plain soy skyr",
+      "Unsweetened soy protein",
+      "Pineapple (fresh)",
+      "Hemp seeds (hulled)"
+    ],
+    "instructions": [
+      "Stir the soy skyr with the soy protein until smooth and spoon into a bowl.",
+      "Peel the pineapple, remove the hard core and cut into small cubes.",
+      "Arrange the pineapple on the skyr and sprinkle with the hemp seeds."
+    ]
+  },
+  {
+    "id": "rec_5881",
+    "title": "Air fryer egg and halloumi nests with baby spinach",
+    "ingredients": [
+      "Eggs",
+      "Halloumi (with microbial rennet)",
+      "Baby spinach",
+      "Cherry tomatoes",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Wilt the baby spinach in a pan with half the oil for 1 minute and shape it into 3 nests in a small ovenproof dish.",
+      "Cut the halloumi into small cubes, halve the cherry tomatoes and scatter both between the nests.",
+      "Crack 1 egg into each nest, drizzle with the remaining oil and season with pepper.",
+      "Cook in the air fryer at 160 °C for 10 minutes until the whites are set and the yolks are still soft."
+    ]
+  },
+  {
+    "id": "rec_5882",
+    "title": "Keto omelette roll with smoked trout, cream cheese and rocket",
+    "ingredients": [
+      "Eggs",
+      "Smoked trout fillet",
+      "Cream cheese (full fat)",
+      "Rapeseed oil",
+      "Avocado",
+      "Rocket",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Whisk the eggs with salt and pepper. Heat the oil in a large non-stick pan, pour in the eggs and let them set covered over medium heat for 3 minutes.",
+      "Slide the omelette onto a board, let it cool briefly and spread with the cream cheese.",
+      "Flake the smoked trout, slice the avocado and spread both over the omelette with the rocket.",
+      "Roll up the omelette tightly and cut into 4 pieces."
+    ]
+  },
+  {
+    "id": "rec_5883",
+    "title": "Buckwheat galette with fried egg, turkey breast and mushrooms",
+    "ingredients": [
+      "Buckwheat flour",
+      "Water",
+      "Eggs",
+      "Turkey breast",
+      "Mushrooms",
+      "Rapeseed oil",
+      "Chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Whisk the buckwheat flour with 100 ml water and a pinch of salt into a smooth thin batter and let it rest for 10 minutes.",
+      "Slice the mushrooms, cut the turkey breast into fine strips and fry both in half the oil for 5 minutes until the turkey is cooked through. Season with salt and pepper.",
+      "Heat the remaining oil in a large non-stick pan, spread the batter thinly and cook for 2 minutes until the underside is set.",
+      "Crack the egg into the centre, scatter the mushrooms and turkey around it, fold the edges in to form a square and cook covered for 3 minutes until the egg white is set. Sprinkle with chives."
+    ]
+  },
+  {
+    "id": "rec_5884",
+    "title": "Low-fat quark bowl with physalis, mandarins and hazelnuts",
+    "ingredients": [
+      "Low-fat quark",
+      "Physalis (cape gooseberries)",
+      "Mandarins",
+      "Hazelnuts",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Stir the quark with the cinnamon until creamy and spoon into a bowl.",
+      "Peel the mandarins and separate them into segments, remove the physalis from their husks.",
+      "Arrange the fruit on the quark, roughly chop the hazelnuts and sprinkle them over the top."
+    ]
+  },
+  {
+    "id": "rec_5885",
+    "title": "Pear ginger skyr with buckwheat crunch and flaxseed",
+    "ingredients": [
+      "Skyr",
+      "Pear",
+      "Buckwheat (toasted)",
+      "Linseed (ground)",
+      "Ginger (fresh)"
+    ],
+    "instructions": [
+      "Finely grate the ginger and stir it into the skyr.",
+      "Core the pear and cut it into small cubes.",
+      "Spoon the skyr into a bowl and top with the pear, buckwheat and flaxseed."
+    ]
+  },
+  {
+    "id": "rec_5886",
+    "title": "Air fryer breakfast potatoes with turkey sausages, fried egg and pepper",
+    "ingredients": [
+      "Waxy potatoes",
+      "Turkey sausages",
+      "Eggs",
+      "Red pepper",
+      "Rapeseed oil",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Wash the potatoes, cut into 2 cm cubes, toss with two thirds of the oil, paprika and salt and cook in the air fryer at 200 °C for 15 minutes, shaking once.",
+      "Cut the pepper into strips, slice the turkey sausages diagonally, add both to the potatoes and cook for another 8 minutes until the sausages are heated through.",
+      "Meanwhile fry the eggs sunny side up in the remaining oil in a pan for 3 minutes.",
+      "Put the potatoes, pepper and sausages on a plate, top with the fried eggs and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_5887",
+    "title": "Red lentil pancakes with soy yoghurt herb dip",
+    "ingredients": [
+      "Red lentils (dry)",
+      "Water",
+      "Unsweetened soy protein",
+      "Spring onion",
+      "Soy yoghurt (plain, unsweetened)",
+      "Rapeseed oil",
+      "Chives, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Soak the red lentils in plenty of cold water for at least 2 hours and drain.",
+      "Blend the lentils with 100 ml water, the soy protein and salt into a smooth batter. Finely slice the spring onion and stir it in.",
+      "Heat the oil in a non-stick pan and cook 6 small pancakes from the batter for 3 minutes per side until golden brown.",
+      "Stir the soy yoghurt with chives, parsley, salt and pepper and serve as a dollop next to the pancakes."
+    ]
+  },
+  {
+    "id": "rec_5888",
+    "title": "Air fryer tempeh breakfast plate with mushrooms and tomatoes",
+    "ingredients": [
+      "Tempeh",
+      "Mushrooms",
+      "Tomatoes",
+      "Rocket",
+      "Tamari (gluten-free)",
+      "Rapeseed oil",
+      "Smoked paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the tempeh into 1 cm thick slices and marinate with the tamari, oil and smoked paprika.",
+      "Halve the mushrooms and halve the tomatoes.",
+      "Place the tempeh, mushrooms and tomatoes cut side up in the air fryer basket and cook at 190 °C for 12 minutes, turning the tempeh slices halfway.",
+      "Arrange on a plate with the rocket and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "rec_5889",
+    "title": "Air fryer chicken thighs with paprika potato wedges and garlic yoghurt dip",
+    "ingredients": [
+      "Chicken thighs (skinless, boneless)",
+      "Waxy potatoes",
+      "Yoghurt (0.2% fat)",
+      "Garlic",
+      "Olive oil",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Wash the potatoes, cut into wedges, toss with half the oil, half the paprika and salt and pre-cook in the air fryer at 200 °C for 10 minutes.",
+      "Rub the chicken thighs with the remaining oil, the remaining paprika, salt and pepper, add to the potatoes in the air fryer and cook for another 16 minutes until the meat is cooked through.",
+      "Stir the yoghurt with crushed garlic and salt.",
+      "Arrange the chicken thighs with the potato wedges and add the dip as a dollop."
+    ]
+  },
+  {
+    "id": "rec_5890",
+    "title": "Air fryer salmon fillet with sesame crust, sweet potato cubes and green beans",
+    "ingredients": [
+      "Salmon fillet (skinless)",
+      "Sweet potato",
+      "Green beans",
+      "Sesame seeds",
+      "Tamari (gluten-free)",
+      "Rapeseed oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel the sweet potato, cut into 2 cm cubes, toss with the oil and salt and cook in the air fryer at 200 °C for 10 minutes.",
+      "Brush the salmon fillet with tamari and sprinkle the top with sesame seeds. Trim the green beans.",
+      "Add the salmon and beans to the sweet potatoes in the air fryer and cook at 180 °C for another 10 minutes until the salmon is cooked.",
+      "Arrange everything on a plate and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_5891",
+    "title": "Air fryer turkey schnitzel in almond crust with cucumber dill salad",
+    "ingredients": [
+      "Turkey breast",
+      "Almond flour",
+      "Eggs",
+      "Cucumber",
+      "Skyr",
+      "Rapeseed oil",
+      "Dill",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the turkey breast horizontally into 2 thin schnitzels, pound them flat and season with salt and pepper.",
+      "Whisk the egg. Dip the schnitzels first in the egg, then in the almond flour and drizzle with the oil.",
+      "Cook in the air fryer at 190 °C for 12 minutes, turning halfway, until the turkey is cooked through.",
+      "Thinly slice the cucumber, mix with the skyr, dill and salt and serve with the schnitzels."
+    ]
+  },
+  {
+    "id": "rec_5892",
+    "title": "Air fryer tempeh cubes with sriracha ginger glaze, broccoli and rice",
+    "ingredients": [
+      "Tempeh",
+      "Jasmine rice (uncooked)",
+      "Broccoli",
+      "Sriracha",
+      "Tamari (gluten-free)",
+      "Maple syrup",
+      "Ginger (fresh)",
+      "Toasted sesame oil",
+      "Spring onion"
+    ],
+    "instructions": [
+      "Cook the rice in plenty of salted water for 12 minutes and drain.",
+      "Cut the tempeh into 2 cm cubes and toss with the sriracha, tamari, maple syrup, grated ginger and sesame oil.",
+      "Cook the tempeh cubes and broccoli florets in the air fryer at 190 °C for 12 minutes, shaking halfway.",
+      "Serve the rice with the tempeh and broccoli and sprinkle with sliced spring onion."
+    ]
+  },
+  {
+    "id": "rec_5893",
+    "title": "Air fryer chickpea spinach patties with tahini sauce and cucumber salad",
+    "ingredients": [
+      "Chickpeas (cooked)",
+      "Chickpea flour",
+      "Baby spinach",
+      "Tahini",
+      "Lemon",
+      "Water",
+      "Cucumber",
+      "Rapeseed oil",
+      "Cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Drain the chickpeas and pulse with the baby spinach, chickpea flour, cumin, salt and pepper in a food processor to a coarse paste.",
+      "Shape the mixture into 6 patties, brush with the oil and cook in the air fryer at 190 °C for 14 minutes, turning halfway.",
+      "Stir the tahini with lemon juice, 30 ml water and salt until smooth.",
+      "Slice the cucumber, salt lightly and arrange with the patties. Drizzle the sauce over the patties."
+    ]
+  },
+  {
+    "id": "rec_5894",
+    "title": "Air fryer beef patties with Brussels sprouts, potato cubes and mustard skyr",
+    "ingredients": [
+      "Lean minced beef",
+      "Onion",
+      "Brussels sprouts",
+      "Waxy potatoes",
+      "Olive oil",
+      "Skyr",
+      "Mustard (medium hot)",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely dice the onion, knead with the beef mince, paprika, salt and pepper and shape into 4 flat patties.",
+      "Halve the Brussels sprouts, cut the potatoes into 2 cm cubes and toss both with the oil and salt.",
+      "Pre-cook the vegetables in the air fryer at 200 °C for 8 minutes, then add the patties and cook for another 12 minutes until the meat is cooked through.",
+      "Stir the skyr with the mustard and serve with the patties and vegetables."
+    ]
+  },
+  {
+    "id": "rec_5895",
+    "title": "Air fryer chicken bites with sesame and sriracha skyr dip",
+    "ingredients": [
+      "Chicken breast",
+      "Egg white",
+      "Sesame seeds",
+      "Skyr",
+      "Sriracha",
+      "Sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the chicken breast into 8 pieces, toss with the egg white, paprika and salt and roll in the sesame seeds.",
+      "Cook in the air fryer at 200 °C for 10 minutes, shaking halfway, until the chicken is cooked through.",
+      "Stir the skyr with the sriracha and serve as a dip with the bites."
+    ]
+  },
+  {
+    "id": "rec_5896",
+    "title": "Air fryer pumpkin wedges with chickpea flour crust and soy yoghurt dip",
+    "ingredients": [
+      "Hokkaido pumpkin",
+      "Chickpea flour",
+      "Water",
+      "Olive oil",
+      "Soy yoghurt (plain, unsweetened)",
+      "Smoked paprika, chives",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Deseed the pumpkin and cut it with the skin into 8 wedges.",
+      "Stir the chickpea flour with the paprika, salt, the oil and 30 ml water into a thick paste and coat the wedges with it.",
+      "Cook in the air fryer at 190 °C for 15 minutes until the crust is crisp and the pumpkin is tender.",
+      "Stir the soy yoghurt with chopped chives and salt and serve as a dip."
+    ]
+  },
+  {
+    "id": "rec_5897",
+    "title": "Air fryer shrimp tacos with corn cucumber salsa and lime skyr",
+    "ingredients": [
+      "Prawns (raw, peeled)",
+      "Corn tortillas (small)",
+      "Sweetcorn (canned, drained)",
+      "Cucumber",
+      "Skyr",
+      "Lime",
+      "Rapeseed oil",
+      "Smoked paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Toss the shrimp with the oil, paprika and salt and cook in the air fryer at 200 °C for 6 minutes until pink and cooked through.",
+      "Finely dice the cucumber and mix with the corn, half the lime juice and salt into a salsa.",
+      "Stir the skyr with the remaining lime juice and a little lime zest.",
+      "Warm the corn tortillas in a dry pan for 30 seconds per side and fill with the salsa, shrimp and lime skyr."
+    ]
+  },
+  {
+    "id": "rec_5898",
+    "title": "Air fryer trout fillets with rosemary potato cubes and cucumber mustard dip",
+    "ingredients": [
+      "Trout fillets (skin on)",
+      "Waxy potatoes",
+      "Cucumber",
+      "Yoghurt (0.2% fat)",
+      "Mustard (medium hot)",
+      "Olive oil",
+      "Rosemary, dill",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the potatoes into 2 cm cubes, toss with the oil, chopped rosemary and salt and cook in the air fryer at 200 °C for 15 minutes.",
+      "Season the trout fillets with salt and pepper, place them skin side up next to the potatoes and cook at 180 °C for another 8 minutes.",
+      "Finely grate the cucumber and stir with the yoghurt, mustard, dill and salt.",
+      "Arrange the trout with the potato cubes and add the dip as a dollop."
+    ]
+  },
+  {
+    "id": "rec_5899",
+    "title": "Chicken fajita box with brown rice, peppers and black beans",
+    "ingredients": [
+      "Chicken breast",
+      "Brown rice (uncooked)",
+      "Peppers (red and yellow)",
+      "Black beans (cooked)",
+      "Onion",
+      "Rapeseed oil",
+      "Smoked paprika, cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the rice in plenty of salted water for 30 minutes, drain and let cool.",
+      "Cut the chicken, pepper and onion into strips, toss with the oil, paprika, cumin and salt and fry in a hot pan for 7 minutes until the chicken is cooked through.",
+      "Drain the black beans and season lightly with salt.",
+      "Pack the rice, beans and fajita mix side by side into a container, let cool and keep in the fridge for up to 3 days.",
+      "To eat, reheat covered in the microwave for 2 to 3 minutes until piping hot, stirring once."
+    ]
+  },
+  {
+    "id": "rec_5900",
+    "title": "Soy chunk chilli box with kidney beans, corn and millet",
+    "ingredients": [
+      "Soy chunks (dry)",
+      "Water",
+      "Kidney beans (cooked)",
+      "Sweetcorn (canned, drained)",
+      "Passata",
+      "Millet (uncooked)",
+      "Red pepper",
+      "Onion",
+      "Olive oil",
+      "Chilli powder, cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Soak the soy chunks in boiling water for 10 minutes, squeeze out well and chop roughly.",
+      "Cook the millet in plenty of salted water for 15 minutes and drain.",
+      "Dice the onion and pepper and fry in the oil for 4 minutes. Add the soy chunks, chilli powder and cumin and fry for 2 minutes.",
+      "Add the passata, kidney beans, corn and 150 ml water, season with salt and simmer for 15 minutes.",
+      "Pack the chilli and millet side by side into a container, let cool and keep in the fridge for up to 4 days.",
+      "To eat, reheat covered in the microwave for 2 to 3 minutes until piping hot, stirring once."
+    ]
+  },
+  {
+    "id": "rec_5901",
+    "title": "Pearl barley box with chicken, roasted beetroot and horseradish skyr",
+    "ingredients": [
+      "Pearl barley (uncooked)",
+      "Chicken breast",
+      "Cooked beetroot",
+      "Rocket",
+      "Skyr",
+      "Horseradish",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the pearl barley in plenty of salted water for 30 minutes, drain and let cool.",
+      "Cut the beetroot into cubes, toss with half the oil and salt and roast in the oven at 200 °C for 20 minutes.",
+      "Season the chicken with salt and pepper, fry in the remaining oil for 5 minutes per side until cooked through, let cool and slice.",
+      "Stir the skyr with the horseradish and salt.",
+      "Pack the barley, beetroot, rocket and chicken side by side into a container, add the horseradish skyr as a dollop and keep in the fridge for up to 3 days.",
+      "At the office eat cold."
+    ]
+  },
+  {
+    "id": "rec_5902",
+    "title": "Tuna potato box with green beans, egg and olives",
+    "ingredients": [
+      "Waxy potatoes",
+      "Green beans",
+      "Tuna in brine, drained",
+      "Eggs",
+      "Cherry tomatoes",
+      "Black olives",
+      "Olive oil",
+      "Mustard (medium hot)",
+      "White wine vinegar",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the potatoes in their skins in plenty of salted water for 20 minutes, adding the green beans for the last 6 minutes, drain and let cool.",
+      "Hard-boil the egg for 9 minutes, cool in cold water, peel and quarter.",
+      "Slice the potatoes and halve the cherry tomatoes. Whisk the oil, mustard, vinegar, salt and pepper into a dressing.",
+      "Pack the potatoes, beans, tomatoes, tuna, egg and olives side by side into a container, drizzle with the dressing and keep in the fridge for up to 3 days.",
+      "At the office eat cold."
+    ]
+  },
+  {
+    "id": "rec_5903",
+    "title": "Turkey meatball box with pepper tomato sauce, bulgur and courgette",
+    "ingredients": [
+      "Minced turkey",
+      "Bulgur (uncooked)",
+      "Passata",
+      "Red pepper",
+      "Zucchini",
+      "Onion",
+      "Olive oil",
+      "Oregano, sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cover the bulgur with boiling salted water, let it soak for 15 minutes and fluff up.",
+      "Knead the turkey mince with oregano, paprika, salt and pepper and shape into 8 balls. Fry in half the oil all over for 8 minutes until cooked through.",
+      "Dice the onion, pepper and courgette and fry in the remaining oil for 5 minutes. Add the passata, season with salt and simmer for 10 minutes, then place the meatballs in the sauce.",
+      "Pack the bulgur and the meatballs in sauce side by side into a container, let cool and keep in the fridge for up to 3 days.",
+      "To eat, reheat covered in the microwave for 2 to 3 minutes until piping hot, stirring once."
+    ]
+  },
+  {
+    "id": "rec_5904",
+    "title": "Salmon soba box with cucumber, radish and wakame",
+    "ingredients": [
+      "Salmon fillet (skinless)",
+      "Soba noodles (uncooked)",
+      "Cucumber",
+      "White radish",
+      "Wakame (soaked)",
+      "Shelled edamame (frozen)",
+      "Soy sauce",
+      "Rice vinegar",
+      "Toasted sesame oil"
+    ],
+    "instructions": [
+      "Bake the salmon in the oven at 180 °C for 12 minutes, let cool and flake into large pieces.",
+      "Cook the soba noodles in plenty of boiling water for 5 minutes, adding the edamame for the last 2 minutes, drain and rinse under cold water.",
+      "Cut the cucumber and radish into fine matchsticks. Whisk the soy sauce, rice vinegar and sesame oil into a dressing.",
+      "Toss the noodles with the dressing and pack into a container with the cucumber, radish, wakame, edamame and salmon. Keep in the fridge for up to 3 days.",
+      "At the office eat cold."
+    ]
+  },
+  {
+    "id": "rec_5905",
+    "title": "Wholewheat spaghetti box with red lentil bolognese and courgette",
+    "ingredients": [
+      "Wholemeal spaghetti (uncooked)",
+      "Red lentils (dry)",
+      "Passata",
+      "Zucchini",
+      "Carrot",
+      "Onion",
+      "Tomato paste",
+      "Water",
+      "Olive oil",
+      "Oregano, basil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely dice the onion, carrot and courgette and fry in the oil for 5 minutes. Stir in the tomato paste and toast for 1 minute.",
+      "Add the red lentils, passata, 150 ml water and oregano, season with salt and simmer for 15 minutes until the lentils are soft.",
+      "Cook the spaghetti in plenty of salted water for 9 minutes until al dente and drain.",
+      "Pack the spaghetti and bolognese side by side into a container, sprinkle with basil, let cool and keep in the fridge for up to 4 days.",
+      "To eat, reheat covered in the microwave for 2 to 3 minutes until piping hot, stirring once."
+    ]
+  },
+  {
+    "id": "rec_5906",
+    "title": "Bulgogi beef strip box with kimchi, cucumber and brown rice",
+    "ingredients": [
+      "Beef rump, in strips",
+      "Brown rice (uncooked)",
+      "Kimchi (vegan)",
+      "Cucumber",
+      "Carrot",
+      "Pear",
+      "Soy sauce",
+      "Garlic",
+      "Toasted sesame oil",
+      "Sesame seeds"
+    ],
+    "instructions": [
+      "Cook the rice in plenty of salted water for 30 minutes, drain and let cool.",
+      "Finely grate the pear and stir with the soy sauce and crushed garlic. Marinate the beef strips in it for 15 minutes.",
+      "Heat the sesame oil in a pan until very hot and sear the beef strips for 3 minutes until cooked through.",
+      "Slice the cucumber and grate the carrot. Pack the rice, beef, kimchi, cucumber and carrot side by side into a container, sprinkle with sesame and keep in the fridge for up to 3 days.",
+      "At the office eat cold or reheat covered in the microwave for 2 to 3 minutes until piping hot."
+    ]
+  },
+  {
+    "id": "rec_5907",
+    "title": "Plum cinnamon protein shake with silken tofu",
+    "ingredients": [
+      "Silken tofu",
+      "Soy drink (unsweetened)",
+      "Pea protein (unflavoured)",
+      "Plums",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Wash, stone and quarter the plums.",
+      "Blend the plums with the silken tofu, soy drink, pea protein and cinnamon in a blender for about 45 seconds until creamy.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_5908",
+    "title": "Apple cinnamon protein ice cream from the food processor with soy protein",
+    "ingredients": [
+      "Apple",
+      "Plain soy skyr",
+      "Soy drink (unsweetened)",
+      "Unsweetened soy protein",
+      "Maple syrup",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Core the apple, cut into pieces and freeze for at least 4 hours.",
+      "Let the frozen apple pieces soften for 5 minutes and blend with the soy skyr, soy drink, soy protein, maple syrup and cinnamon in a food processor for 1 to 2 minutes until creamy, scraping down in between.",
+      "Spoon into a bowl straight away or freeze for another 30 minutes for a firmer texture."
+    ]
+  },
+  {
+    "id": "rec_5909",
+    "title": "Speculoos spice silken tofu cream with mandarins and pea protein",
+    "ingredients": [
+      "Silken tofu",
+      "Pea protein (unflavoured)",
+      "Mandarins",
+      "Maple syrup",
+      "Speculoos spice"
+    ],
+    "instructions": [
+      "Blend the silken tofu, pea protein, maple syrup and speculoos spice in a blender for 30 seconds until smooth.",
+      "Spoon the cream into a dessert glass and chill for 30 minutes.",
+      "Peel the mandarins, separate into segments and arrange on the cream."
+    ]
+  },
+  {
+    "id": "rec_5910",
+    "title": "Sour cherry cocoa smoothie with soy protein and courgette",
+    "ingredients": [
+      "Sour cherries (frozen, pitted)",
+      "Zucchini",
+      "Soy drink (unsweetened)",
+      "Unsweetened soy protein",
+      "Unsweetened cocoa"
+    ],
+    "instructions": [
+      "Wash the courgette and cut it into rough pieces.",
+      "Blend with the sour cherries, soy drink, soy protein and cocoa in a blender for about 45 seconds until creamy.",
+      "Pour into a large glass and drink straight away."
+    ]
+  },
+  {
+    "id": "rec_5911",
+    "title": "Edamame lupin hummus with carrot and cucumber sticks",
+    "ingredients": [
+      "Shelled edamame (frozen)",
+      "Lupins (cooked)",
+      "Lemon",
+      "Garlic",
+      "Water",
+      "Carrot",
+      "Cucumber",
+      "Cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the edamame in boiling water for 3 minutes and drain.",
+      "Blend the edamame with the lupins, lemon juice, garlic, cumin, salt and 30 ml water in a food processor until creamy.",
+      "Cut the carrot and cucumber into sticks and arrange on a plate with the hummus."
+    ]
+  },
+  {
+    "id": "rec_5912",
+    "title": "Quark lemon ice lollies with blueberries",
+    "ingredients": [
+      "Low-fat quark",
+      "Blueberries",
+      "Lemon (juice and zest)",
+      "Maple syrup"
+    ],
+    "instructions": [
+      "Stir the quark with the lemon zest, lemon juice and maple syrup until smooth.",
+      "Lightly crush the blueberries and fold them in.",
+      "Pour the mixture into 2 ice lolly moulds, insert the sticks and freeze for at least 6 hours.",
+      "Briefly hold the moulds under warm water and release the lollies."
+    ]
+  },
+  {
+    "id": "rec_5913",
+    "title": "Chocolate peanut protein balls with dates and soy protein",
+    "ingredients": [
+      "Dates (pitted)",
+      "Peanut butter (unsweetened)",
+      "Unsweetened soy protein",
+      "Unsweetened cocoa",
+      "Water",
+      "Desiccated coconut"
+    ],
+    "instructions": [
+      "Process the dates with the peanut butter, soy protein, cocoa and 20 ml water in a food processor into a mouldable mixture.",
+      "Roll the mixture into 6 equal balls and roll them in the desiccated coconut.",
+      "Chill in the fridge for at least 30 minutes until firm."
+    ]
+  },
+  {
+    "id": "rec_5914",
+    "title": "Pumpkin gingerbread spice protein ice cream with soy skyr and pecans",
+    "ingredients": [
+      "Hokkaido pumpkin",
+      "Plain soy skyr",
+      "Unsweetened soy protein",
+      "Maple syrup",
+      "Pecans",
+      "Gingerbread spice"
+    ],
+    "instructions": [
+      "Deseed the pumpkin, cut into cubes, steam for 15 minutes, let cool and freeze for at least 4 hours.",
+      "Let the frozen pumpkin soften for 5 minutes and blend with the soy skyr, soy protein, maple syrup and gingerbread spice in a food processor for 1 to 2 minutes until creamy.",
+      "Spoon into a bowl and sprinkle with chopped pecans."
+    ]
+  },
+  {
+    "id": "rec_5915",
+    "title": "Oven-baked char with broccoli and almond butter sauce",
+    "ingredients": [
+      "Arctic char fillet",
+      "Broccoli",
+      "Butter",
+      "Flaked almonds",
+      "Olive oil",
+      "Lemon",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 200 °C. Season the char fillets with salt, brush with the olive oil and place on a baking tray with the broccoli florets.",
+      "Bake in the oven for 12 minutes until the fish is just cooked.",
+      "Foam the butter with the flaked almonds in a pan for 3 minutes until nutty brown and season with lemon juice.",
+      "Arrange the char and broccoli, drizzle with the almond butter and season with pepper."
+    ]
+  },
+  {
+    "id": "rec_5916",
+    "title": "Rump steak with herb butter, mushrooms and rocket",
+    "ingredients": [
+      "Rump steak",
+      "Mushrooms",
+      "Butter",
+      "Olive oil",
+      "Rocket",
+      "Garlic",
+      "Parsley, thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Let the butter soften and stir with chopped parsley, thyme, crushed garlic and a pinch of salt.",
+      "Pat the rump steak dry, sear in half the oil over high heat for 3 minutes per side, season with salt and pepper and let rest for 5 minutes.",
+      "Quarter the mushrooms and fry in the remaining oil for 5 minutes until golden brown.",
+      "Slice the steak, arrange with the mushrooms and rocket and let the herb butter melt on top."
+    ]
+  },
+  {
+    "id": "rec_5917",
+    "title": "Lamb meatballs with feta, cucumber and mint oil",
+    "ingredients": [
+      "Minced lamb",
+      "Onion",
+      "Feta (made with microbial rennet)",
+      "Cucumber",
+      "Olive oil",
+      "Mint, cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Finely grate the onion and knead with the lamb mince, cumin, salt and pepper. Shape the mixture into 8 balls.",
+      "Fry the meatballs in 1 tsp of the oil all over for 8 minutes until cooked through.",
+      "Finely chop the mint and stir with the remaining oil and a pinch of salt.",
+      "Slice the cucumber, arrange with the meatballs, crumble the feta over the top and drizzle with the mint oil."
+    ]
+  },
+  {
+    "id": "rec_5918",
+    "title": "Halloumi in spinach coconut sauce with turmeric",
+    "ingredients": [
+      "Halloumi (with microbial rennet)",
+      "Baby spinach",
+      "Coconut milk (full-fat)",
+      "Coconut oil",
+      "Garlic",
+      "Ginger (fresh)",
+      "Turmeric, cumin",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cut the halloumi into 2 cm cubes and fry in a dry pan for 4 minutes until golden brown all over. Remove.",
+      "Heat the coconut oil, finely chop the garlic and ginger and sweat with the turmeric and cumin for 1 minute.",
+      "Add the spinach and let it wilt, pour in the coconut milk and simmer for 4 minutes, then blend roughly and season with salt.",
+      "Add the halloumi to the sauce, warm briefly and serve with pepper."
+    ]
+  },
+  {
+    "id": "rec_5919",
+    "title": "Garlic butter shrimp with courgette noodles and parmesan",
+    "ingredients": [
+      "Prawns (raw, peeled)",
+      "Zucchini",
+      "Butter",
+      "Olive oil",
+      "Garlic",
+      "Baby spinach",
+      "Lemon",
+      "Parmesan",
+      "Chilli flakes, parsley",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Spiralise the courgette into noodles and season lightly with salt.",
+      "Heat the butter and oil in a pan, finely chop the garlic and sweat for 1 minute. Add the shrimp and fry for 2 minutes per side until pink and cooked through.",
+      "Add the courgette noodles and baby spinach and toss in the garlic butter for 2 minutes until the spinach wilts. Season with lemon juice.",
+      "Season with chilli flakes, parsley and pepper and serve sprinkled with parmesan."
+    ]
+  },
+  {
+    "id": "rec_5920",
+    "title": "Chicken thighs with roasted pepper feta cream and broccoli",
+    "ingredients": [
+      "Chicken thighs (skin on, boneless)",
+      "Feta (made with microbial rennet)",
+      "Roasted red peppers (jar)",
+      "Broccoli",
+      "Olive oil",
+      "Smoked paprika, thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 210 °C. Rub the chicken thighs with half the oil, paprika, thyme, salt and pepper and roast skin side up for 25 minutes until the skin is crisp and the meat is cooked through.",
+      "Divide the broccoli into florets, toss with the remaining oil and salt and add to the tray for the last 12 minutes.",
+      "Drain the roasted pepper and blend with the feta in a food processor into a smooth cream.",
+      "Spread the pepper feta cream on the plate and arrange the chicken thighs and broccoli on top."
+    ]
+  },
+  {
+    "id": "rec_5921",
+    "title": "Winter salad with white beans, chicory, pear and hemp seeds",
+    "ingredients": [
+      "White beans (cooked)",
+      "Chicory",
+      "Pear",
+      "Lamb's lettuce",
+      "Hemp seeds (hulled)",
+      "Rapeseed oil",
+      "Mustard (medium hot)",
+      "Apple cider vinegar",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Drain the white beans. Cut the chicory into strips, core the pear and cut it into thin wedges.",
+      "Whisk the oil, mustard, cider vinegar, salt and pepper into a dressing.",
+      "Toss the beans, chicory, pear and lamb's lettuce with the dressing and sprinkle with the hemp seeds."
+    ]
+  },
+  {
+    "id": "rec_5922",
+    "title": "Freekeh bowl with kale, chickpeas and tahini",
+    "ingredients": [
+      "Uncooked freekeh",
+      "Kale (fresh)",
+      "Chickpeas (cooked)",
+      "Tahini",
+      "Lemon",
+      "Water",
+      "Pomegranate seeds",
+      "Olive oil",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cook the freekeh in plenty of salted water for 25 minutes and drain.",
+      "Strip the kale from the stalks, chop finely and massage with the oil and a pinch of salt for 1 minute until tender.",
+      "Stir the tahini with lemon juice, 30 ml water and salt until smooth.",
+      "Arrange the freekeh, kale and drained chickpeas side by side in a bowl, drizzle with the tahini sauce and sprinkle with the pomegranate seeds."
+    ]
+  },
+  {
+    "id": "rec_5923",
+    "title": "Kidney bean millet bowl with sweet potato, red cabbage and avocado",
+    "ingredients": [
+      "Kidney beans (cooked)",
+      "Millet (uncooked)",
+      "Sweet potato",
+      "Red cabbage",
+      "Avocado",
+      "Lime",
+      "Rapeseed oil",
+      "Cumin, coriander",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Peel the sweet potato, cut into cubes, toss with the oil, cumin and salt and roast in the oven at 200 °C for 25 minutes.",
+      "Cook the millet in plenty of salted water for 15 minutes and drain.",
+      "Finely shred the red cabbage and knead with half the lime juice and salt. Drain the kidney beans.",
+      "Arrange the millet, sweet potato, kidney beans, red cabbage and avocado slices side by side in a bowl, drizzle with the remaining lime juice and sprinkle with coriander."
+    ]
+  },
+  {
+    "id": "rec_5924",
+    "title": "Jerusalem artichoke lentil salad with rocket and goat cheese",
+    "ingredients": [
+      "Jerusalem artichoke",
+      "Green lentils (dry)",
+      "Rocket",
+      "Goat cheese (log)",
+      "Walnuts",
+      "Olive oil",
+      "Balsamic vinegar",
+      "Thyme",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Scrub the Jerusalem artichokes thoroughly, slice, toss with half the oil, thyme and salt and roast in the oven at 200 °C for 25 minutes until golden brown.",
+      "Cook the lentils in plenty of water for 25 minutes until al dente, drain and season with salt.",
+      "Whisk the remaining oil with the balsamic vinegar, salt and pepper and toss with the lentils, Jerusalem artichokes and rocket.",
+      "Crumble the goat cheese over the top and sprinkle with roughly chopped walnuts."
+    ]
+  },
+  {
+    "id": "rec_5925",
+    "title": "Chicken bulgur bowl with Brussels sprouts, pomegranate and chickpeas",
+    "ingredients": [
+      "Chicken breast",
+      "Bulgur (uncooked)",
+      "Brussels sprouts",
+      "Chickpeas (cooked)",
+      "Pomegranate seeds",
+      "Olive oil",
+      "Lemon",
+      "Parsley, sweet paprika",
+      "Salt, pepper"
+    ],
+    "instructions": [
+      "Cover the bulgur with boiling salted water, let it soak for 15 minutes and fluff up.",
+      "Halve the Brussels sprouts, toss with half the oil and salt and roast in the oven at 200 °C for 20 minutes.",
+      "Season the chicken with paprika and salt, fry in the remaining oil for 5 minutes per side until cooked through and slice.",
+      "Mix the bulgur with lemon juice and parsley and arrange in a bowl with the Brussels sprouts, drained chickpeas, chicken and pomegranate seeds."
+    ]
+  },
+  {
+    "id": "rec_5926",
+    "title": "Buckwheat edamame bowl with shiitake, spinach and miso ginger dressing",
+    "ingredients": [
+      "Buckwheat (uncooked)",
+      "Shelled edamame (frozen)",
+      "Shiitake",
+      "Baby spinach",
+      "Miso (light)",
+      "Ginger (fresh)",
+      "Rice vinegar",
+      "Water",
+      "Toasted sesame oil",
+      "Sesame seeds"
+    ],
+    "instructions": [
+      "Cook the buckwheat in plenty of salted water for 12 minutes, adding the edamame for the last 3 minutes, and drain.",
+      "Slice the shiitake and fry in the sesame oil for 4 minutes.",
+      "Stir the miso with grated ginger, rice vinegar and 20 ml water until smooth.",
+      "Arrange the buckwheat, edamame, shiitake and baby spinach side by side in a bowl, drizzle with the dressing and sprinkle with sesame seeds."
+    ]
   }
 ]
