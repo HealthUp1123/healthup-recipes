@@ -2,11 +2,11 @@
   {
     "id": "rec_001",
     "title": "Beeren-Protein-Quark",
-    "calories": 320,
-    "protein": 38,
-    "carbs": 26,
+    "calories": 260,
+    "protein": 33,
+    "carbs": 19,
     "fiber": 7,
-    "fat": 5,
+    "fat": 4,
     "servingSizeGrams": 360,
     "prepTimeMinutes": 5,
     "suitableMealTypes": [
@@ -46,7 +46,9 @@
       "glutenfrei",
       "high-protein",
       "kalorienarm",
-      "low-gi"
+      "low-carb",
+      "low-gi",
+      "volumenreich"
     ],
     "allergens": [
       "milch"
@@ -55,11 +57,11 @@
   {
     "id": "rec_002",
     "title": "Hähnchen-Reis-Bowl",
-    "calories": 580,
-    "protein": 52,
+    "calories": 585,
+    "protein": 57,
     "carbs": 64,
     "fiber": 6,
-    "fat": 12,
+    "fat": 9,
     "servingSizeGrams": 555,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
@@ -111,11 +113,11 @@
   {
     "id": "rec_003",
     "title": "Lachs mit buntem Ofengemüse",
-    "calories": 490,
-    "protein": 42,
-    "carbs": 18,
+    "calories": 480,
+    "protein": 40,
+    "carbs": 12,
     "fiber": 5,
-    "fat": 28,
+    "fat": 29,
     "servingSizeGrams": 490,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
@@ -160,8 +162,7 @@
       "low-carb",
       "mediterran",
       "paleo",
-      "pescetarisch",
-      "low-gi"
+      "pescetarisch"
     ],
     "allergens": [
       "fisch"
@@ -170,11 +171,11 @@
   {
     "id": "rec_004",
     "title": "Apfelringe mit Erdnussbutter",
-    "calories": 210,
-    "protein": 7,
-    "carbs": 24,
-    "fiber": 5,
-    "fat": 9,
+    "calories": 185,
+    "protein": 4,
+    "carbs": 23,
+    "fiber": 4,
+    "fat": 8,
     "servingSizeGrams": 195,
     "prepTimeMinutes": 3,
     "suitableMealTypes": [
@@ -209,8 +210,7 @@
       "vegan",
       "glutenfrei",
       "laktosefrei",
-      "kalorienarm",
-      "low-gi"
+      "kalorienarm"
     ],
     "allergens": [
       "erdnuss"
@@ -219,11 +219,11 @@
   {
     "id": "rec_005",
     "title": "Cremiger Protein-Porridge",
-    "calories": 410,
-    "protein": 34,
-    "carbs": 52,
+    "calories": 475,
+    "protein": 41,
+    "carbs": 53,
     "fiber": 8,
-    "fat": 7,
+    "fat": 10,
     "servingSizeGrams": 390,
     "prepTimeMinutes": 8,
     "suitableMealTypes": [
@@ -270,11 +270,11 @@
   {
     "id": "rec_006",
     "title": "Rinderhack mit Süßkartoffel",
-    "calories": 540,
+    "calories": 475,
     "protein": 46,
-    "carbs": 55,
+    "carbs": 41,
     "fiber": 8,
-    "fat": 14,
+    "fat": 15,
     "servingSizeGrams": 450,
     "prepTimeMinutes": 22,
     "suitableMealTypes": [
@@ -322,7 +322,7 @@
     "title": "Thunfisch-Quinoa-Salat",
     "calories": 430,
     "protein": 40,
-    "carbs": 44,
+    "carbs": 40,
     "fiber": 6,
     "fat": 10,
     "servingSizeGrams": 495,
@@ -432,9 +432,9 @@
   {
     "id": "rec_009",
     "title": "Rotes Linsen-Curry",
-    "calories": 380,
-    "protein": 22,
-    "carbs": 51,
+    "calories": 385,
+    "protein": 23,
+    "carbs": 46,
     "fiber": 12,
     "fat": 8,
     "servingSizeGrams": 525,
@@ -1774,7 +1774,7 @@
     "title": "Lachs-Quinoa-Bowl mit Edamame",
     "calories": 635,
     "protein": 49,
-    "carbs": 46,
+    "carbs": 42,
     "fiber": 9,
     "fat": 28,
     "servingSizeGrams": 460,
@@ -1924,7 +1924,8 @@
       }
     ],
     "instructions": [
-      "Karotte, Gurke und Paprika in Sticks schneiden.",
+      "Karotte, Gurke und Paprika waschen und putzen.",
+      "Das Gemüse in Sticks schneiden.",
       "Hummus in ein Schälchen geben und mit dem Gemüse servieren."
     ],
     "dietTags": [
@@ -1976,7 +1977,8 @@
     ],
     "instructions": [
       "Alle Zutaten in einen Mixer geben.",
-      "30 Sekunden cremig mixen und sofort servieren."
+      "30 Sekunden cremig mixen.",
+      "In ein Glas füllen und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -2021,7 +2023,8 @@
     ],
     "instructions": [
       "Hüttenkäse in eine Schale geben.",
-      "Ananas würfeln, darauf verteilen und mit Leinsamen bestreuen."
+      "Ananas würfeln und darauf verteilen.",
+      "Mit Leinsamen bestreuen."
     ],
     "dietTags": [
       "vegetarisch",
@@ -2063,7 +2066,8 @@
     ],
     "instructions": [
       "Edamame in Salzwasser 4–5 Minuten kochen.",
-      "Abgießen, mit Meersalz bestreuen und warm servieren."
+      "Abgießen und gut abtropfen lassen.",
+      "Mit Meersalz bestreuen und warm servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -2318,7 +2322,8 @@
     ],
     "instructions": [
       "Beeren, Skyr, Milch und Haferflocken in den Mixer geben.",
-      "Cremig pürieren und sofort trinken."
+      "Cremig pürieren.",
+      "In ein Glas füllen und sofort trinken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -2373,7 +2378,8 @@
     ],
     "instructions": [
       "Alle Zutaten in einen Mixer geben.",
-      "30 Sekunden cremig mixen und sofort servieren."
+      "30 Sekunden cremig mixen.",
+      "In ein Glas füllen und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -2670,7 +2676,8 @@
       }
     ],
     "instructions": [
-      "Gefrorene Mango mit Joghurt und Honig im Mixer cremig pürieren.",
+      "Gefrorene Mango mit Joghurt und Honig in den Mixer geben.",
+      "Alles cremig pürieren.",
       "Sofort servieren oder kurz einfrieren."
     ],
     "dietTags": [
@@ -4685,7 +4692,7 @@
     "title": "Tempeh-Bowl mit Süßkartoffel und Edamame",
     "calories": 605,
     "protein": 34,
-    "carbs": 63,
+    "carbs": 61,
     "fiber": 15,
     "fat": 26,
     "servingSizeGrams": 440,
@@ -8419,7 +8426,8 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "ei"
     ]
   },
   {
@@ -8606,7 +8614,7 @@
   },
   {
     "id": "rec_148",
-    "title": "Flammkuchen-Wraps mit Schinken und Zwiebeln",
+    "title": "Flammkuchen-Wraps mit Putenschinken und Zwiebeln",
     "calories": 495,
     "protein": 22,
     "carbs": 67,
@@ -10130,7 +10138,7 @@
     "title": "Mason-Jar-Salat mit Hähnchen und Mais",
     "calories": 415,
     "protein": 44,
-    "carbs": 36,
+    "carbs": 34,
     "fiber": 7,
     "fat": 10,
     "servingSizeGrams": 485,
@@ -10806,7 +10814,7 @@
     "title": "Quinoa-Salat mit Rote Bete und Feta",
     "calories": 485,
     "protein": 18,
-    "carbs": 48,
+    "carbs": 44,
     "fiber": 8,
     "fat": 24,
     "servingSizeGrams": 355,
@@ -12049,7 +12057,8 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "sesam"
     ]
   },
   {
@@ -12174,7 +12183,8 @@
     ],
     "allergens": [
       "gluten",
-      "milch"
+      "milch",
+      "sesam"
     ]
   },
   {
@@ -14653,6 +14663,7 @@
       "pescetarisch"
     ],
     "allergens": [
+      "fisch",
       "krebstiere",
       "weichtiere",
       "sulfite"
@@ -15269,7 +15280,9 @@
       "laktosefrei",
       "ballaststoffreich"
     ],
-    "allergens": []
+    "allergens": [
+      "senf"
+    ]
   },
   {
     "id": "rec_254",
@@ -15346,7 +15359,9 @@
       "laktosefrei",
       "ballaststoffreich"
     ],
-    "allergens": []
+    "allergens": [
+      "senf"
+    ]
   },
   {
     "id": "rec_255",
@@ -15550,7 +15565,8 @@
       "laktosefrei"
     ],
     "allergens": [
-      "erdnuss"
+      "erdnuss",
+      "senf"
     ]
   },
   {
@@ -15767,7 +15783,8 @@
       "low-gi"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "senf"
     ]
   },
   {
@@ -21545,7 +21562,7 @@
   },
   {
     "id": "rec_359",
-    "title": "Kartoffelsuppe mit Wiener Würstchen",
+    "title": "Kartoffelsuppe mit Geflügel-Wiener",
     "calories": 415,
     "protein": 16,
     "carbs": 48,
@@ -31959,7 +31976,7 @@
     "title": "Warmes Quinoa-Frühstück mit Zwetschgen, Zimt und Mandeln",
     "calories": 385,
     "protein": 16,
-    "carbs": 50,
+    "carbs": 46,
     "fiber": 8,
     "fat": 13,
     "servingSizeGrams": 385,
@@ -55281,7 +55298,7 @@
       }
     ],
     "instructions": [
-      "Mehl, Ei, Joghurt und eine Prise Salz zu einem Teig verrühren.",
+      "Mehl, Eiweiß, Joghurt und eine Prise Salz zu einem Teig verrühren.",
       "Öl in einer Pfanne erhitzen, Teig eingießen und 3 Minuten je Seite backen.",
       "Spinat kurz zusammenfallen lassen, mit zerbröckeltem Feta und Dill auf dem Pfannkuchen servieren."
     ],
@@ -55481,7 +55498,7 @@
     ],
     "instructions": [
       "Ofen auf 180 °C vorheizen. Zucchini raspeln und ausdrücken.",
-      "Mehl, Ei, Öl, Joghurt, Dill und Backpulver vermengen, Zucchini und zerbröckelten Feta unterheben.",
+      "Mehl, Eiweiß, Öl, Joghurt, Dill und Backpulver vermengen, Zucchini und zerbröckelten Feta unterheben.",
       "In 3 Muffinformen füllen und 22 Minuten backen."
     ],
     "dietTags": [
@@ -55994,12 +56011,13 @@
       "Zugedeckt 18 Minuten köcheln lassen, bis die Nudeln gar sind."
     ],
     "dietTags": [
-      "glutenfrei",
       "laktosefrei",
       "high-protein",
       "mediterran"
     ],
-    "allergens": []
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "id": "rec_862",
@@ -57188,7 +57206,7 @@
     ],
     "instructions": [
       "Aubergine bei 200 °C 25 Minuten weich backen, aushöhlen und zerdrücken.",
-      "Mit Mehl, Ei, Parmesan und Salz zu Bällchen formen und im Öl anbraten.",
+      "Mit Mehl, Eiweiß, Parmesan und Salz zu Bällchen formen und im Öl anbraten.",
       "In Tomatensauce mit Knoblauch und Basilikum 10 Minuten köcheln."
     ],
     "dietTags": [
@@ -58356,7 +58374,7 @@
     ],
     "instructions": [
       "Kartoffeln und Zucchini in Scheiben im Öl 12 Minuten braten.",
-      "Ei darübergeben und stocken lassen, Feta zerbröckeln.",
+      "Eiweiß darübergeben und stocken lassen, Feta zerbröckeln.",
       "Mit Dill servieren."
     ],
     "dietTags": [
@@ -59635,7 +59653,7 @@
   },
   {
     "id": "rec_915",
-    "title": "Vollkorn-Biscotti mit Mandeln und Orange",
+    "title": "Vollkorn-Biscotti mit Haselnüssen und Zitrone",
     "calories": 510,
     "protein": 17,
     "carbs": 41,
@@ -59681,7 +59699,7 @@
       }
     ],
     "instructions": [
-      "Ofen 170 °C. Teig aus Mehl, Ei, Honig, Öl, Schale und Mandeln kneten.",
+      "Ofen 170 °C. Teig aus Mehl, Ei, Honig, Öl, Schale und Haselnüssen kneten.",
       "Zu einer Stange formen, 20 Minuten backen, in Scheiben schneiden.",
       "Weitere 10 Minuten knusprig nachbacken."
     ],
@@ -59698,7 +59716,7 @@
   },
   {
     "id": "rec_916",
-    "title": "Ofen-Orangen mit Zimt, Joghurt und Mandeln",
+    "title": "Ofen-Orangen mit Zimt, Joghurt und Walnüssen",
     "calories": 260,
     "protein": 12,
     "carbs": 22,
@@ -59738,7 +59756,7 @@
     "instructions": [
       "Orangen in Scheiben schneiden, mit Öl und Zimt bei 180 °C 15 Minuten backen.",
       "Mit Joghurt anrichten.",
-      "Mandeln darüberstreuen."
+      "Walnüsse darüberstreuen."
     ],
     "dietTags": [
       "vegetarisch",
@@ -60348,9 +60366,9 @@
       }
     ],
     "instructions": [
-      "Ei 8 Minuten kochen und vierteln.",
+      "Eiweiß in einer beschichteten Pfanne ohne Fett 3 Minuten stocken lassen und in Stücke schneiden.",
       "Tomate und Gurke würfeln und mit Öl, Kräutern und Salz mischen.",
-      "Mit Ei anrichten."
+      "Mit Eiweiß anrichten."
     ],
     "dietTags": [
       "vegetarisch",
@@ -60885,7 +60903,7 @@
       },
       {
         "name": "Salz",
-        "amount": "0g"
+        "amount": "nach Geschmack"
       },
       {
         "name": "Pfeffer",
@@ -61675,7 +61693,6 @@
       "laktosefrei",
       "high-protein",
       "ballaststoffreich",
-      "mediterran",
       "dash"
     ],
     "allergens": [
@@ -62403,7 +62420,7 @@
         "amount": "10ml"
       },
       {
-        "name": "Rapsoöl",
+        "name": "Rapsöl",
         "amount": "5g"
       },
       {
@@ -63268,7 +63285,7 @@
     "instructions": [
       "Mandeln trocken rösten.",
       "Apfel würfeln und mit Zimt mischen.",
-      "Über Joghurt geben und mit Honig beträufeln."
+      "Über Joghurt geben und mit Heidelbeeren und Mandeln toppen."
     ],
     "dietTags": [
       "vegetarisch",
@@ -66111,7 +66128,7 @@
         "amount": "8g"
       },
       {
-        "name": "Rapsoöl",
+        "name": "Rapsöl",
         "amount": "8g"
       },
       {
@@ -66186,7 +66203,7 @@
         "amount": "3g"
       },
       {
-        "name": "Rapsoöl",
+        "name": "Rapsöl",
         "amount": "5g"
       },
       {
@@ -66473,7 +66490,7 @@
         "amount": "10ml"
       },
       {
-        "name": "Rapsoöl",
+        "name": "Rapsöl",
         "amount": "6g"
       },
       {
@@ -66690,7 +66707,7 @@
         "amount": "10ml"
       },
       {
-        "name": "Rapsoöl",
+        "name": "Rapsöl",
         "amount": "6g"
       },
       {
@@ -66841,12 +66858,12 @@
       "25 Minuten bei 180 °C backen."
     ],
     "dietTags": [
-      "glutenfrei",
       "high-protein",
       "mediterran",
       "pescetarisch"
     ],
     "allergens": [
+      "gluten",
       "milch",
       "fisch"
     ]
@@ -67323,7 +67340,7 @@
         "amount": "4g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "200ml"
       },
       {
@@ -67751,7 +67768,7 @@
         "amount": "40g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -67966,7 +67983,7 @@
         "amount": "50g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "300ml"
       },
       {
@@ -68408,7 +68425,7 @@
         "amount": "5g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "300ml"
       },
       {
@@ -68783,7 +68800,6 @@
     "dietTags": [
       "laktosefrei",
       "high-protein",
-      "mediterran",
       "pescetarisch",
       "low-gi"
     ],
@@ -68899,7 +68915,7 @@
         "amount": "75g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "300ml"
       },
       {
@@ -69689,7 +69705,7 @@
         "amount": "6g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "180ml"
       },
       {
@@ -69947,7 +69963,6 @@
     "dietTags": [
       "laktosefrei",
       "high-protein",
-      "mediterran",
       "low-fodmap"
     ],
     "allergens": [
@@ -70000,7 +70015,7 @@
         "amount": "8ml"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "180ml"
       },
       {
@@ -70269,7 +70284,7 @@
         "amount": "60g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "300ml"
       },
       {
@@ -70781,7 +70796,7 @@
         "amount": "5g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "160ml"
       },
       {
@@ -70915,7 +70930,7 @@
         "amount": "4g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "200ml"
       },
       {
@@ -71345,7 +71360,6 @@
     "dietTags": [
       "laktosefrei",
       "high-protein",
-      "mediterran",
       "pescetarisch",
       "low-fodmap"
     ],
@@ -71544,7 +71558,7 @@
         "amount": "4g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "80ml"
       },
       {
@@ -72436,7 +72450,7 @@
         "amount": "5g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "150ml"
       },
       {
@@ -73257,7 +73271,7 @@
         "amount": "5g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "150ml"
       },
       {
@@ -73401,7 +73415,7 @@
         "amount": "3g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "200ml"
       },
       {
@@ -73764,7 +73778,7 @@
     "instructions": [
       "Nudeln und Erbsen garen.",
       "Spinat, Walnüsse, Öl und Zitrone zu Pesto pürieren.",
-      "Mit Nudeln und Parmesan vermengen."
+      "Mit Nudeln und Hefeflocken vermengen."
     ],
     "dietTags": [
       "vegetarisch",
@@ -73824,7 +73838,7 @@
         "amount": "6g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -73909,9 +73923,9 @@
       }
     ],
     "instructions": [
-      "Reis garen. Zwiebel und Kürbis im Öl anbraten.",
+      "Quinoa garen. Zwiebel und Kürbis im Öl anbraten.",
       "Mit Bohnen, Tomate und Paprika 12 Minuten köcheln.",
-      "Grünkohl unterheben, mit Reis servieren."
+      "Grünkohl unterheben, mit Quinoa servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -73981,7 +73995,7 @@
     "instructions": [
       "Brokkoli mit Öl und Knoblauch 20 Minuten bei 200 °C rösten.",
       "Bohnen kurz erhitzen.",
-      "Mit Zitrone, Chili und Parmesan anrichten."
+      "Mit Zitrone, Chili und Hefeflocken anrichten."
     ],
     "dietTags": [
       "vegetarisch",
@@ -74134,7 +74148,7 @@
   },
   {
     "id": "rec_1128",
-    "title": "Bohnen-Wirsing-Eintopf mit Graupen",
+    "title": "Bohnen-Wirsing-Eintopf mit Quinoa",
     "calories": 450,
     "protein": 24,
     "carbs": 57,
@@ -74177,7 +74191,7 @@
         "amount": "7g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -74199,7 +74213,7 @@
     ],
     "instructions": [
       "Zwiebel und Karotten im Öl anbraten.",
-      "Wirsing, Bohnen, Graupen und Brühe zugeben, 25 Minuten köcheln.",
+      "Wirsing, Bohnen, Quinoa und Brühe zugeben, 25 Minuten köcheln.",
       "Mit Thymian abschmecken und servieren."
     ],
     "dietTags": [
@@ -74401,7 +74415,7 @@
         "amount": "3g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -74706,7 +74720,7 @@
         "amount": "10ml"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -75030,7 +75044,8 @@
       "volumenreich"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "lupinen"
     ]
   },
   {
@@ -75514,7 +75529,7 @@
         "amount": "3g"
       },
       {
-        "name": "Rapsoel",
+        "name": "Rapsöl",
         "amount": "5g"
       }
     ],
@@ -75788,7 +75803,7 @@
     ],
     "instructions": [
       "Tofu zerdrücken, mit Kichererbsenmehl, Sojamilch und Hefeflocken verrühren.",
-      "Spinat und Tomaten unterheben, in geölte Form geben.",
+      "Mangold, Zucchini und Paprika unterheben, in geölte Form geben.",
       "25 Minuten bei 190 °C backen."
     ],
     "dietTags": [
@@ -76601,8 +76616,7 @@
       "vegan",
       "laktosefrei",
       "high-protein",
-      "ballaststoffreich",
-      "mediterran"
+      "ballaststoffreich"
     ],
     "allergens": [
       "gluten",
@@ -77081,6 +77095,7 @@
     "allergens": [
       "gluten",
       "senf",
+      "lupinen",
       "sulfite"
     ]
   },
@@ -77121,7 +77136,7 @@
         "amount": "12g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "300ml"
       },
       {
@@ -77541,8 +77556,7 @@
       "vegan",
       "laktosefrei",
       "high-protein",
-      "ballaststoffreich",
-      "mediterran"
+      "ballaststoffreich"
     ],
     "allergens": [
       "gluten",
@@ -77662,7 +77676,7 @@
         "amount": "15g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "300ml"
       },
       {
@@ -77766,8 +77780,7 @@
       "vegan",
       "laktosefrei",
       "high-protein",
-      "ballaststoffreich",
-      "mediterran"
+      "ballaststoffreich"
     ],
     "allergens": [
       "gluten",
@@ -78045,7 +78058,7 @@
         "amount": "7g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -78566,7 +78579,7 @@
         "amount": "60g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "350ml"
       },
       {
@@ -78692,7 +78705,7 @@
         "amount": "150g"
       },
       {
-        "name": "Knaeckebrot",
+        "name": "Knäckebrot",
         "amount": "30g"
       },
       {
@@ -78818,7 +78831,7 @@
         "amount": "100g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "350ml"
       },
       {
@@ -79039,7 +79052,7 @@
         "amount": "5g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "200ml"
       },
       {
@@ -79185,7 +79198,7 @@
         "amount": "200g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "300ml"
       },
       {
@@ -79258,7 +79271,7 @@
         "amount": "100g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "300ml"
       },
       {
@@ -79574,7 +79587,7 @@
         "amount": "80g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -79717,7 +79730,7 @@
         "amount": "100g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -79788,7 +79801,7 @@
         "amount": "80g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "350ml"
       },
       {
@@ -80015,7 +80028,7 @@
         "amount": "150g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -80082,7 +80095,7 @@
         "amount": "150g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "200ml"
       },
       {
@@ -80300,7 +80313,7 @@
         "amount": "100g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -80383,7 +80396,7 @@
         "amount": "150g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "350ml"
       },
       {
@@ -80465,7 +80478,7 @@
         "amount": "60g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "150ml"
       },
       {
@@ -80672,7 +80685,7 @@
         "amount": "50g"
       },
       {
-        "name": "Gemuesebruehe natriumarm",
+        "name": "Gemüsebrühe natriumarm",
         "amount": "250ml"
       },
       {
@@ -81197,7 +81210,7 @@
   },
   {
     "id": "rec_1226",
-    "title": "Erdbeer-Skyr-Kaltschale",
+    "title": "Erdbeer-Quark-Kaltschale",
     "calories": 230,
     "protein": 23,
     "carbs": 20,
@@ -81239,9 +81252,9 @@
       }
     ],
     "instructions": [
-      "Hälfte der Erdbeeren pürieren, mit Skyr verrühren.",
-      "Restliche Erdbeeren daraufsetzen.",
-      "Mit Minze, Limette und Hanfsamen toppen."
+      "Hälfte der Erdbeeren pürieren, mit Quark verrühren.",
+      "Restliche Erdbeeren und Himbeeren daraufsetzen.",
+      "Mit Minze, Limette und Leinsamen toppen."
     ],
     "dietTags": [
       "vegetarisch",
@@ -87769,11 +87782,11 @@
   {
     "id": "rec_1329",
     "title": "Semmelknödel mit Steinpilzrahm und Feldsalat",
-    "calories": 480,
+    "calories": 430,
     "protein": 20,
     "carbs": 40,
     "fiber": 10,
-    "fat": 26,
+    "fat": 20,
     "servingSizeGrams": 440,
     "prepTimeMinutes": 40,
     "suitableMealTypes": [
@@ -87921,11 +87934,11 @@
   {
     "id": "rec_1331",
     "title": "Königsberger Klopse von Kalb und Rind mit Kapernsauce und Salzkartoffeln",
-    "calories": 530,
+    "calories": 480,
     "protein": 42,
     "carbs": 44,
     "fiber": 7,
-    "fat": 20,
+    "fat": 14,
     "servingSizeGrams": 635,
     "prepTimeMinutes": 45,
     "suitableMealTypes": [
@@ -88293,11 +88306,11 @@
   {
     "id": "rec_1336",
     "title": "Schupfnudeln mit Rahmwirsing und Putenbruststreifen",
-    "calories": 570,
+    "calories": 520,
     "protein": 42,
-    "carbs": 49,
+    "carbs": 50,
     "fiber": 11,
-    "fat": 22,
+    "fat": 16,
     "servingSizeGrams": 560,
     "prepTimeMinutes": 40,
     "suitableMealTypes": [
@@ -88850,11 +88863,11 @@
   {
     "id": "rec_1344",
     "title": "Rahmgeschnetzeltes vom Reh mit Spätzle und Preiselbeeren",
-    "calories": 520,
+    "calories": 470,
     "protein": 41,
-    "carbs": 32,
+    "carbs": 33,
     "fiber": 7,
-    "fat": 23,
+    "fat": 17,
     "servingSizeGrams": 410,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
@@ -90161,11 +90174,11 @@
   {
     "id": "rec_1364",
     "title": "Żurek (polnische Sauerteigsuppe) mit Ei und Putenwurst",
-    "calories": 405,
+    "calories": 380,
     "protein": 28,
     "carbs": 31,
     "fiber": 4,
-    "fat": 18,
+    "fat": 15,
     "servingSizeGrams": 595,
     "prepTimeMinutes": 35,
     "suitableMealTypes": [
@@ -90220,7 +90233,9 @@
       "Kartoffel und Zwiebel würfeln, mit Knoblauch zugeben und 12 Minuten köcheln. Putenwurst in Scheiben 3 Minuten mitgaren.",
       "Mit fettarmer Sahne, Dill, Majoran, Salz und Pfeffer abschmecken. Ein wachsweiches Ei kochen, halbieren und auf die Suppe setzen."
     ],
-    "dietTags": [],
+    "dietTags": [
+      "volumenreich"
+    ],
     "allergens": [
       "gluten",
       "milch",
@@ -90403,11 +90418,11 @@
   {
     "id": "rec_1368",
     "title": "Hortobágyi Palacsinta (Hähnchen-Pfannkuchen in Paprikasauce)",
-    "calories": 530,
+    "calories": 490,
     "protein": 45,
     "carbs": 43,
     "fiber": 7,
-    "fat": 18,
+    "fat": 14,
     "servingSizeGrams": 560,
     "prepTimeMinutes": 40,
     "suitableMealTypes": [
@@ -90475,11 +90490,11 @@
   {
     "id": "rec_1369",
     "title": "Svíčková (Rinderschmorbraten in Rahmsauce) mit böhmischen Knödeln",
-    "calories": 560,
-    "protein": 39,
+    "calories": 505,
+    "protein": 40,
     "carbs": 39,
     "fiber": 8,
-    "fat": 26,
+    "fat": 20,
     "servingSizeGrams": 400,
     "prepTimeMinutes": 70,
     "suitableMealTypes": [
@@ -100183,11 +100198,11 @@
   {
     "id": "rec_1508",
     "title": "Janssons Frestelse light mit Sardellen, Kartoffel und Kräutersalat",
-    "calories": 350,
-    "protein": 10,
+    "calories": 300,
+    "protein": 11,
     "carbs": 37,
     "fiber": 6,
-    "fat": 17,
+    "fat": 11,
     "servingSizeGrams": 380,
     "prepTimeMinutes": 45,
     "suitableMealTypes": [
@@ -110617,7 +110632,8 @@
       "low-gi"
     ],
     "allergens": [
-      "gluten"
+      "gluten",
+      "lupinen"
     ]
   },
   {
@@ -113901,11 +113917,11 @@
     ],
     "dietTags": [
       "vegetarisch",
-      "glutenfrei",
       "ballaststoffreich",
       "mediterran"
     ],
     "allergens": [
+      "gluten",
       "milch"
     ]
   },
@@ -116437,7 +116453,7 @@
       },
       {
         "name": "Ei",
-        "amount": "1 Stück (40g, etwas weniger) "
+        "amount": "1 Stück (40g, etwas weniger)"
       },
       {
         "name": "Dill, Minze",
@@ -128459,7 +128475,6 @@
       "laktosefrei",
       "high-protein",
       "ballaststoffreich",
-      "mediterran",
       "low-gi"
     ],
     "allergens": [
@@ -128596,7 +128611,7 @@
       }
     ],
     "instructions": [
-      "Lupinen abtropfen lassen, Gurke und Tomaten wuerfeln, Paprika in Streifen schneiden.",
+      "Lupinen abtropfen lassen, Gurke und Tomaten würfeln, Paprika in Streifen schneiden.",
       "Rucola und Petersilie in eine Schüssel geben, Lupinen, Gurke, Tomate und Paprika darüber verteilen.",
       "Olivenöl mit Zitronensaft, Salz und Pfeffer verquirlen, darüber geben und mit Sesam bestreuen."
     ],
@@ -128611,7 +128626,8 @@
       "low-gi"
     ],
     "allergens": [
-      "sesam"
+      "sesam",
+      "lupinen"
     ]
   },
   {
@@ -129036,7 +129052,6 @@
       "laktosefrei",
       "high-protein",
       "low-carb",
-      "mediterran",
       "low-fodmap"
     ],
     "allergens": [
@@ -130541,8 +130556,7 @@
       "vegetarisch",
       "vegan",
       "laktosefrei",
-      "high-protein",
-      "mediterran"
+      "high-protein"
     ],
     "allergens": [
       "gluten",
@@ -131473,7 +131487,9 @@
       "mediterran",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "lupinen"
+    ]
   },
   {
     "id": "rec_1971",
@@ -131618,8 +131634,7 @@
       "vegan",
       "laktosefrei",
       "high-protein",
-      "ballaststoffreich",
-      "mediterran"
+      "ballaststoffreich"
     ],
     "allergens": [
       "gluten",
@@ -145042,7 +145057,8 @@
       "low-gi"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "lupinen"
     ]
   },
   {
@@ -146317,7 +146333,6 @@
       "laktosefrei",
       "high-protein",
       "ballaststoffreich",
-      "mediterran",
       "low-gi"
     ],
     "allergens": [
@@ -147214,7 +147229,6 @@
       "vegan",
       "laktosefrei",
       "ballaststoffreich",
-      "mediterran",
       "low-gi"
     ],
     "allergens": [
@@ -149151,7 +149165,6 @@
       "vegan",
       "laktosefrei",
       "ballaststoffreich",
-      "mediterran",
       "low-gi"
     ],
     "allergens": [
@@ -149231,7 +149244,6 @@
       "vegan",
       "laktosefrei",
       "ballaststoffreich",
-      "mediterran",
       "low-gi"
     ],
     "allergens": [
@@ -150082,7 +150094,6 @@
       "laktosefrei",
       "high-protein",
       "ballaststoffreich",
-      "mediterran",
       "low-gi"
     ],
     "allergens": [
@@ -151311,7 +151322,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust, Fenchel, Orange, Feldsalat, Rote Zwiebel, Petersilie, Dill, Karotte, Rucola, Radieschen und Chicorée waschen und in mundgerechte Stuecke schneiden.",
+      "Hähnchenbrust, Fenchel, Orange, Feldsalat, Rote Zwiebel, Petersilie, Dill, Karotte, Rucola, Radieschen und Chicorée waschen und in mundgerechte Stücke schneiden.",
       "Gerste (Graupen) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -151398,7 +151409,7 @@
       }
     ],
     "instructions": [
-      "Putenbrust (in Streifen), Brokkoli, Karotten, Petersilie, Frühlingszwiebeln, Zucchini und Sesam waschen und in mundgerechte Stuecke schneiden.",
+      "Putenbrust (in Streifen), Brokkoli, Karotten, Petersilie, Frühlingszwiebeln, Zucchini und Sesam waschen und in mundgerechte Stücke schneiden.",
       "Basmatireis in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust (in Streifen) 8 Minuten garen.",
       "Zitronensaft, Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Limettensaft zugeben, alles vermengen und anrichten."
@@ -151496,7 +151507,7 @@
       }
     ],
     "instructions": [
-      "Kichererbsen (abgetropft), Zucchini, Paprika, Petersilie, Minze, Zwiebel, Kirschtomaten, Thymian, Rucola, Fenchel, Endivienblätter und Chili waschen und in mundgerechte Stuecke schneiden.",
+      "Kichererbsen (abgetropft), Zucchini, Paprika, Petersilie, Minze, Zwiebel, Kirschtomaten, Thymian, Rucola, Fenchel, Endivienblätter und Chili waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) und Magerquark 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
     ],
@@ -151582,7 +151593,7 @@
       }
     ],
     "instructions": [
-      "Kabeljaufilet, Tomaten, Zucchini, Kartoffeln, Petersilie, Knoblauch, Fenchel, Erbsen (gekocht) und Radicchio waschen und in mundgerechte Stuecke schneiden.",
+      "Kabeljaufilet, Tomaten, Zucchini, Kartoffeln, Petersilie, Knoblauch, Fenchel, Erbsen (gekocht) und Radicchio waschen und in mundgerechte Stücke schneiden.",
       "Kartoffeln in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Kabeljaufilet 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -151678,7 +151689,7 @@
       }
     ],
     "instructions": [
-      "Linsen (trocken), Staudensellerie, Karotte, Thymian, Zwiebel, Passierte Tomaten, Petersilie, Lauch, Paprika, Fenchel und Schwarzkohl waschen und in mundgerechte Stuecke schneiden.",
+      "Linsen (trocken), Staudensellerie, Karotte, Thymian, Zwiebel, Passierte Tomaten, Petersilie, Lauch, Paprika, Fenchel und Schwarzkohl waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Linsen (trocken) 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -151764,7 +151775,7 @@
       }
     ],
     "instructions": [
-      "Putenbrust (in Streifen), Champignons, Erbsen (gekocht), Zwiebel, Petersilie, Paprika und Karotte waschen und in mundgerechte Stuecke schneiden.",
+      "Putenbrust (in Streifen), Champignons, Erbsen (gekocht), Zwiebel, Petersilie, Paprika und Karotte waschen und in mundgerechte Stücke schneiden.",
       "Vollkornreis (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust (in Streifen) 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -151853,7 +151864,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust, Paprika, Zucchini, Petersilie, Gurke, Tomaten, Rote Zwiebel, Granatapfelkerne und Fenchel waschen und in mundgerechte Stuecke schneiden.",
+      "Hähnchenbrust, Paprika, Zucchini, Petersilie, Gurke, Tomaten, Rote Zwiebel, Granatapfelkerne und Fenchel waschen und in mundgerechte Stücke schneiden.",
       "Bulgur in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Zitrone und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -151940,7 +151951,7 @@
       }
     ],
     "instructions": [
-      "Seelachsfilet, Gurke, Dill, Karotten, Radieschen, Orange, Fenchel und Grüner Spargel waschen und in mundgerechte Stuecke schneiden.",
+      "Seelachsfilet, Gurke, Dill, Karotten, Radieschen, Orange, Fenchel und Grüner Spargel waschen und in mundgerechte Stücke schneiden.",
       "Quinoa (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Seelachsfilet 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -152037,7 +152048,7 @@
       }
     ],
     "instructions": [
-      "Weiße Bohnen (abgetropft), Grünkohl, Tomaten, Petersilie, Thymian, Zwiebel, Karotte, Staudensellerie, Paprika, Romanesco und Chili waschen und in mundgerechte Stuecke schneiden.",
+      "Weiße Bohnen (abgetropft), Grünkohl, Tomaten, Petersilie, Thymian, Zwiebel, Karotte, Staudensellerie, Paprika, Romanesco und Chili waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Weiße Bohnen (abgetropft) 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Zitronensaft zugeben, alles vermengen und anrichten."
@@ -152123,7 +152134,7 @@
       }
     ],
     "instructions": [
-      "Zucchini, Putenhack, Tomaten, Blattsalat, Knoblauch, Zwiebel, Oregano, Basilikum, Karotte und Rucola waschen und in mundgerechte Stuecke schneiden.",
+      "Zucchini, Putenhack, Tomaten, Blattsalat, Knoblauch, Zwiebel, Oregano, Basilikum, Karotte und Rucola waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Putenhack 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
     ],
@@ -152211,7 +152222,7 @@
       }
     ],
     "instructions": [
-      "Wirsing, Linsen (trocken), Karotten, Zwiebel, Petersilie, Staudensellerie, Apfel, Fenchel und Chili waschen und in mundgerechte Stuecke schneiden.",
+      "Wirsing, Linsen (trocken), Karotten, Zwiebel, Petersilie, Staudensellerie, Apfel, Fenchel und Chili waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Linsen (trocken) 8 Minuten garen.",
       "Kümmel zugeben, alles vermengen und anrichten."
@@ -152310,7 +152321,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust, Tomaten, Gurke, Petersilie, Dill, Radieschen, Feldsalat, Rote Zwiebel, Orange, Portobello-Pilze, Chili und Kresse waschen und in mundgerechte Stuecke schneiden.",
+      "Hähnchenbrust, Tomaten, Gurke, Petersilie, Dill, Radieschen, Feldsalat, Rote Zwiebel, Orange, Portobello-Pilze, Chili und Kresse waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -152397,7 +152408,7 @@
       }
     ],
     "instructions": [
-      "Erbsen (gekocht), Karotte, Staudensellerie, Lauch, Zucchini, Petersilie, Thymian, Zwiebel und Grünkohl waschen und in mundgerechte Stuecke schneiden.",
+      "Erbsen (gekocht), Karotte, Staudensellerie, Lauch, Zucchini, Petersilie, Thymian, Zwiebel und Grünkohl waschen und in mundgerechte Stücke schneiden.",
       "Gerste (Graupen) mit Natriumarme Gemüsebrühe in einem Topf 25 Minuten kochen, dann abgießen oder als Sud behalten.",
       "Olivenöl unterrühren.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
@@ -152484,7 +152495,7 @@
       }
     ],
     "instructions": [
-      "Weißkohl, Putenbrust, Apfel, Karotte, Petersilie, Feldsalat und Radieschen waschen und in mundgerechte Stuecke schneiden.",
+      "Weißkohl, Putenbrust, Apfel, Karotte, Petersilie, Feldsalat und Radieschen waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Kümmel und Apfelessig zugeben, alles vermengen und anrichten."
     ],
@@ -152564,7 +152575,7 @@
       }
     ],
     "instructions": [
-      "Brokkoli, Blumenkohl, Kichererbsen (abgetropft), Zwiebel, Petersilie, Karotte und Paprika waschen und in mundgerechte Stuecke schneiden.",
+      "Brokkoli, Blumenkohl, Kichererbsen (abgetropft), Zwiebel, Petersilie, Karotte und Paprika waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
@@ -152653,7 +152664,7 @@
       }
     ],
     "instructions": [
-      "Zucchini, Ei, Tomaten, Petersilie, Schnittlauch, Zwiebel, Paprika, Rucola, Fenchel und Okra waschen und in mundgerechte Stuecke schneiden.",
+      "Zucchini, Ei, Tomaten, Petersilie, Schnittlauch, Zwiebel, Paprika, Rucola, Fenchel und Okra waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Ei und Magerquark 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -152736,7 +152747,7 @@
       }
     ],
     "instructions": [
-      "Feldsalat, Linsen (trocken), Radieschen, Gurke, Dill, Tomaten, Apfel und Spitzkohl waschen und in mundgerechte Stuecke schneiden.",
+      "Feldsalat, Linsen (trocken), Radieschen, Gurke, Dill, Tomaten, Apfel und Spitzkohl waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Linsen (trocken) und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -152816,7 +152827,7 @@
       }
     ],
     "instructions": [
-      "Chinakohl, Tofu (natur, fest), Karotte, Ingwer, Frühlingszwiebeln und Pak Choi waschen und in mundgerechte Stuecke schneiden.",
+      "Chinakohl, Tofu (natur, fest), Karotte, Ingwer, Frühlingszwiebeln und Pak Choi waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Tofu (natur, fest) 8 Minuten garen.",
       "Zitronensaft und Limettensaft zugeben, alles vermengen und anrichten."
@@ -152903,7 +152914,7 @@
       }
     ],
     "instructions": [
-      "Aubergine, Tomaten, Kichererbsen (abgetropft), Petersilie, Minze, Rote Zwiebel, Gurke, Granatapfelkerne, Radieschen und Chili waschen und in mundgerechte Stuecke schneiden.",
+      "Aubergine, Tomaten, Kichererbsen (abgetropft), Petersilie, Minze, Rote Zwiebel, Gurke, Granatapfelkerne, Radieschen und Chili waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -152983,7 +152994,7 @@
       }
     ],
     "instructions": [
-      "Spitzkohl, Hähnchenbrust, Paprika, Petersilie, Thymian, Zwiebel, Karotte und Tomaten waschen und in mundgerechte Stuecke schneiden.",
+      "Spitzkohl, Hähnchenbrust, Paprika, Petersilie, Thymian, Zwiebel, Karotte und Tomaten waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Zitronensaft und Kümmel zugeben, alles vermengen und anrichten."
     ],
@@ -153049,7 +153060,7 @@
       }
     ],
     "instructions": [
-      "Beerenmischung, Leinsamen und Walnüsse waschen und in mundgerechte Stuecke schneiden.",
+      "Beerenmischung, Leinsamen und Walnüsse waschen und in mundgerechte Stücke schneiden.",
       "Haferflocken mit Wasser in einem Topf 3 Minuten kochen, dann abgießen oder als Sud behalten.",
       "Joghurt (0,2 % Fett) 2 Minuten garen.",
       "Zimt zugeben, alles vermengen und anrichten."
@@ -153126,7 +153137,7 @@
       }
     ],
     "instructions": [
-      "Ei, Eiklar, Spinat, Tomaten, Champignons, Vollkorntoast, Petersilie, Schnittlauch und Paprika waschen und in mundgerechte Stuecke schneiden.",
+      "Ei, Eiklar, Spinat, Tomaten, Champignons, Vollkorntoast, Petersilie, Schnittlauch und Paprika waschen und in mundgerechte Stücke schneiden.",
       "Vollkorntoast bereitlegen.",
       "Olivenöl in einer Pfanne erhitzen, Ei und Eiklar 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -153180,7 +153191,7 @@
       }
     ],
     "instructions": [
-      "Apfel waschen und in mundgerechte Stuecke schneiden.",
+      "Apfel waschen und in mundgerechte Stücke schneiden.",
       "Haferflocken in Wasser 20 Minuten garen und abgießen.",
       "Hüttenkäse 8 Minuten garen.",
       "Zimt zugeben, alles vermengen und anrichten."
@@ -153260,7 +153271,7 @@
       }
     ],
     "instructions": [
-      "Ei, Eiklar, Paprika, Zucchini, Petersilie, Thymian, Zwiebel, Tomaten, Karotte und Kartoffeln waschen und in mundgerechte Stuecke schneiden.",
+      "Ei, Eiklar, Paprika, Zucchini, Petersilie, Thymian, Zwiebel, Tomaten, Karotte und Kartoffeln waschen und in mundgerechte Stücke schneiden.",
       "Kartoffeln in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Ei und Eiklar 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -153322,7 +153333,7 @@
       }
     ],
     "instructions": [
-      "Pumpernickel, Gurke, Tomaten, Kresse und Radieschen waschen und in mundgerechte Stuecke schneiden.",
+      "Pumpernickel, Gurke, Tomaten, Kresse und Radieschen waschen und in mundgerechte Stücke schneiden.",
       "Pumpernickel bereitlegen.",
       "Magerquark 8 Minuten garen.",
       "Alles vermengen und anrichten."
@@ -153394,7 +153405,7 @@
       }
     ],
     "instructions": [
-      "Karottensticks, Paprikastreifen, Petersilie, Schnittlauch, Fenchelsticks, Rucola und Rote Bete waschen und in mundgerechte Stuecke schneiden.",
+      "Karottensticks, Paprikastreifen, Petersilie, Schnittlauch, Fenchelsticks, Rucola und Rote Bete waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Magerquark 5 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -153463,7 +153474,7 @@
       }
     ],
     "instructions": [
-      "Apfel, Staudensellerie, Walnüsse, Petersilie, Karotte und Radieschen waschen und in mundgerechte Stuecke schneiden.",
+      "Apfel, Staudensellerie, Walnüsse, Petersilie, Karotte und Radieschen waschen und in mundgerechte Stücke schneiden.",
       "Joghurt (0,2 % Fett) 5 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -153537,7 +153548,7 @@
       }
     ],
     "instructions": [
-      "Gurke, Radieschen, Petersilie, Dill, Knoblauch, Kresse und Apfel waschen und in mundgerechte Stuecke schneiden.",
+      "Gurke, Radieschen, Petersilie, Dill, Knoblauch, Kresse und Apfel waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Joghurt (0,2 % Fett) 5 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -153593,7 +153604,7 @@
       }
     ],
     "instructions": [
-      "Edamame (geschält), Chili, Gurkensticks und Frühlingszwiebeln waschen und in mundgerechte Stuecke schneiden.",
+      "Edamame (geschält), Chili, Gurkensticks und Frühlingszwiebeln waschen und in mundgerechte Stücke schneiden.",
       "Edamame (geschält) 5 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -153676,7 +153687,7 @@
       }
     ],
     "instructions": [
-      "Putenbrust, Birne, Fenchel, Feldsalat, Dill, Walnüsse und Rucola waschen und in mundgerechte Stuecke schneiden.",
+      "Putenbrust, Birne, Fenchel, Feldsalat, Dill, Walnüsse und Rucola waschen und in mundgerechte Stücke schneiden.",
       "Gerste (Graupen) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -153752,7 +153763,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust, Rosenkohl, Karotte, Thymian und Fenchel waschen und in mundgerechte Stuecke schneiden.",
+      "Hähnchenbrust, Rosenkohl, Karotte, Thymian und Fenchel waschen und in mundgerechte Stücke schneiden.",
       "Quinoa (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -153838,7 +153849,7 @@
       }
     ],
     "instructions": [
-      "Kabeljaufilet, Zucchini, Tomaten, Petersilie, Thymian, Paprika, Fenchel, Kapern und Knollensellerie waschen und in mundgerechte Stuecke schneiden.",
+      "Kabeljaufilet, Zucchini, Tomaten, Petersilie, Thymian, Paprika, Fenchel, Kapern und Knollensellerie waschen und in mundgerechte Stücke schneiden.",
       "Vollkorncouscous in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Kabeljaufilet 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -153927,7 +153938,7 @@
       }
     ],
     "instructions": [
-      "Forellenfilet, Brokkoli, Karotte, Zucchini, Kartoffeln, Petersilie, Dill, Fenchel und Erbsen (gekocht) waschen und in mundgerechte Stuecke schneiden.",
+      "Forellenfilet, Brokkoli, Karotte, Zucchini, Kartoffeln, Petersilie, Dill, Fenchel und Erbsen (gekocht) waschen und in mundgerechte Stücke schneiden.",
       "Kartoffeln in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Forellenfilet 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -154011,7 +154022,7 @@
       }
     ],
     "instructions": [
-      "Kichererbsen (abgetropft), Spinat, Tomaten, Zwiebel, Knoblauch, Karotte und Fenchel waschen und in mundgerechte Stuecke schneiden.",
+      "Kichererbsen (abgetropft), Spinat, Tomaten, Zwiebel, Knoblauch, Karotte und Fenchel waschen und in mundgerechte Stücke schneiden.",
       "Bulgur in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -154111,7 +154122,7 @@
       }
     ],
     "instructions": [
-      "Linsen (trocken), Zucchini, Karotte, Passierte Tomaten, Zwiebel, Staudensellerie, Oregano, Thymian, Fenchel, Rucola, Chili und Kapern waschen und in mundgerechte Stuecke schneiden.",
+      "Linsen (trocken), Zucchini, Karotte, Passierte Tomaten, Zwiebel, Staudensellerie, Oregano, Thymian, Fenchel, Rucola, Chili und Kapern waschen und in mundgerechte Stücke schneiden.",
       "Vollkornnudeln (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Linsen (trocken) 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Balsamico zugeben, alles vermengen und anrichten."
@@ -154200,7 +154211,7 @@
       }
     ],
     "instructions": [
-      "Putenhack, Kidneybohnen (abgetropft), Paprika, Passierte Tomaten, Tomaten, Zwiebel, Koriander, Mais (abgetropft) und Zucchini waschen und in mundgerechte Stuecke schneiden.",
+      "Putenhack, Kidneybohnen (abgetropft), Paprika, Passierte Tomaten, Tomaten, Zwiebel, Koriander, Mais (abgetropft) und Zucchini waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Putenhack und Kidneybohnen (abgetropft) 8 Minuten garen.",
       "Kreuzkümmel, Paprikapulver und Limettensaft zugeben, alles vermengen und anrichten."
     ],
@@ -154285,7 +154296,7 @@
       }
     ],
     "instructions": [
-      "Tofu (natur, fest), Brokkoli, Karotte, Edamame (geschält), Frühlingszwiebeln, Sesam und Rotkohl waschen und in mundgerechte Stuecke schneiden.",
+      "Tofu (natur, fest), Brokkoli, Karotte, Edamame (geschält), Frühlingszwiebeln, Sesam und Rotkohl waschen und in mundgerechte Stücke schneiden.",
       "Quinoa (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Tofu (natur, fest) und Edamame (geschält) 8 Minuten garen.",
       "Zitronensaft, Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Limettensaft zugeben, alles vermengen und anrichten."
@@ -154376,7 +154387,7 @@
       }
     ],
     "instructions": [
-      "Putenbrust, Tomaten, Gurke, Minze, Rote Zwiebel, Radieschen, Granatapfelkerne und Honigmelone waschen und in mundgerechte Stuecke schneiden.",
+      "Putenbrust, Tomaten, Gurke, Minze, Rote Zwiebel, Radieschen, Granatapfelkerne und Honigmelone waschen und in mundgerechte Stücke schneiden.",
       "Bulgur in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -154470,7 +154481,7 @@
       }
     ],
     "instructions": [
-      "Weiße Bohnen (abgetropft), Grünkohl, Tomaten, Karotte, Staudensellerie, Zucchini, Zwiebel, Petersilie, Thymian, Fenchel, Chili und Rucola waschen und in mundgerechte Stuecke schneiden.",
+      "Weiße Bohnen (abgetropft), Grünkohl, Tomaten, Karotte, Staudensellerie, Zucchini, Zwiebel, Petersilie, Thymian, Fenchel, Chili und Rucola waschen und in mundgerechte Stücke schneiden.",
       "Dinkel (ungekocht) mit Natriumarme Gemüsebrühe in einem Topf 25 Minuten kochen, dann abgießen oder als Sud behalten.",
       "Olivenöl in einer Pfanne erhitzen, Weiße Bohnen (abgetropft) 8 Minuten garen.",
       "Alles vermengen und anrichten."
@@ -154556,7 +154567,7 @@
       }
     ],
     "instructions": [
-      "Fenchel, Tomaten, Kichererbsen (abgetropft), Petersilie, Thymian, Zwiebel, Lauch, Orange und Rosenkohl waschen und in mundgerechte Stuecke schneiden.",
+      "Fenchel, Tomaten, Kichererbsen (abgetropft), Petersilie, Thymian, Zwiebel, Lauch, Orange und Rosenkohl waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
@@ -154637,7 +154648,7 @@
       }
     ],
     "instructions": [
-      "Zucchini, Linsen (trocken), Minze, Zwiebel, Karotte und Fenchel waschen und in mundgerechte Stuecke schneiden.",
+      "Zucchini, Linsen (trocken), Minze, Zwiebel, Karotte und Fenchel waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Linsen (trocken) und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
@@ -154722,7 +154733,7 @@
       }
     ],
     "instructions": [
-      "Weißkohl, Putenbrust, Paprika, Zwiebel, Karotte, Petersilie, Apfel und Fenchel waschen und in mundgerechte Stuecke schneiden.",
+      "Weißkohl, Putenbrust, Paprika, Zwiebel, Karotte, Petersilie, Apfel und Fenchel waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust 8 Minuten garen.",
       "Kümmel zugeben, alles vermengen und anrichten."
@@ -154810,7 +154821,7 @@
       }
     ],
     "instructions": [
-      "Gurke, Tomaten, Mais (abgetropft), Petersilie, Minze, Paprika, Radieschen, Feldsalat und Chinakohl waschen und in mundgerechte Stuecke schneiden.",
+      "Gurke, Tomaten, Mais (abgetropft), Petersilie, Minze, Paprika, Radieschen, Feldsalat und Chinakohl waschen und in mundgerechte Stücke schneiden.",
       "Quinoa (ungekocht) in Wasser 3 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Joghurt (0,2 % Fett) 2 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
@@ -154890,7 +154901,7 @@
       }
     ],
     "instructions": [
-      "Pak Choi, Hähnchenbrust, Karotte, Petersilie, Ingwer, Frühlingszwiebeln und Zucchini waschen und in mundgerechte Stuecke schneiden.",
+      "Pak Choi, Hähnchenbrust, Karotte, Petersilie, Ingwer, Frühlingszwiebeln und Zucchini waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Limettensaft zugeben, alles vermengen und anrichten."
@@ -154981,7 +154992,7 @@
       }
     ],
     "instructions": [
-      "Mangold, Weiße Bohnen (abgetropft), Tomaten, Zwiebel, Knoblauch, Petersilie, Karotte, Fenchel, Pak Choi und Chili waschen und in mundgerechte Stuecke schneiden.",
+      "Mangold, Weiße Bohnen (abgetropft), Tomaten, Zwiebel, Knoblauch, Petersilie, Karotte, Fenchel, Pak Choi und Chili waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Weiße Bohnen (abgetropft) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
@@ -155057,7 +155068,7 @@
       }
     ],
     "instructions": [
-      "Gurke, Tomaten, Melone, Minze, Radieschen und Brunnenkresse waschen und in mundgerechte Stuecke schneiden.",
+      "Gurke, Tomaten, Melone, Minze, Radieschen und Brunnenkresse waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Hüttenkäse 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -155130,7 +155141,7 @@
       }
     ],
     "instructions": [
-      "Kürbis, Kichererbsen (abgetropft), Petersilie, Minze, Paprika, Zwiebel und Rucola waschen und in mundgerechte Stuecke schneiden.",
+      "Kürbis, Kichererbsen (abgetropft), Petersilie, Minze, Paprika, Zwiebel und Rucola waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) und Joghurt (0,2 % Fett) 2 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -155217,7 +155228,7 @@
       }
     ],
     "instructions": [
-      "Seelachsfilet, Fenchel, Orange, Feldsalat, Dill, Gurke, Radieschen und Birne waschen und in mundgerechte Stuecke schneiden.",
+      "Seelachsfilet, Fenchel, Orange, Feldsalat, Dill, Gurke, Radieschen und Birne waschen und in mundgerechte Stücke schneiden.",
       "Gerste (Graupen) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Seelachsfilet 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -155302,7 +155313,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust, Staudensellerie, Apfel, Walnüsse, Feldsalat, Radieschen und Gurke waschen und in mundgerechte Stuecke schneiden.",
+      "Hähnchenbrust, Staudensellerie, Apfel, Walnüsse, Feldsalat, Radieschen und Gurke waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
     ],
@@ -155395,7 +155406,7 @@
       }
     ],
     "instructions": [
-      "Putenbrust, Tomaten, Blumenkohl, Zwiebel, Ingwer, Knoblauch, Koriander, Spinat und Karotte waschen und in mundgerechte Stuecke schneiden.",
+      "Putenbrust, Tomaten, Blumenkohl, Zwiebel, Ingwer, Knoblauch, Koriander, Spinat und Karotte waschen und in mundgerechte Stücke schneiden.",
       "Basmatireis in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Kreuzkümmel, Kurkuma zugeben, alles vermengen und anrichten."
@@ -155484,7 +155495,7 @@
       }
     ],
     "instructions": [
-      "Linsen (trocken), Lauch, Karotte, Thymian, Zwiebel, Petersilie, Staudensellerie, Spinat und Kohlrabi waschen und in mundgerechte Stuecke schneiden.",
+      "Linsen (trocken), Lauch, Karotte, Thymian, Zwiebel, Petersilie, Staudensellerie, Spinat und Kohlrabi waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Linsen (trocken) 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -155566,7 +155577,7 @@
       }
     ],
     "instructions": [
-      "Zucchini, Erbsen (gekocht), Petersilie, Minze, Knoblauch, Rucola und Kirschtomaten waschen und in mundgerechte Stuecke schneiden.",
+      "Zucchini, Erbsen (gekocht), Petersilie, Minze, Knoblauch, Rucola und Kirschtomaten waschen und in mundgerechte Stücke schneiden.",
       "Vollkornnudeln (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl unterrühren.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -155654,7 +155665,7 @@
       }
     ],
     "instructions": [
-      "Kidneybohnen (abgetropft), Mais (abgetropft), Paprika, Koriander, Rote Zwiebel, Gurke, Tomaten, Radieschen und Rucola waschen und in mundgerechte Stuecke schneiden.",
+      "Kidneybohnen (abgetropft), Mais (abgetropft), Paprika, Koriander, Rote Zwiebel, Gurke, Tomaten, Radieschen und Rucola waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Kidneybohnen (abgetropft) 8 Minuten garen.",
       "Limettensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
     ],
@@ -155737,7 +155748,7 @@
       }
     ],
     "instructions": [
-      "Kabeljaufilet, Erbsen (gekocht), Minze, Frühlingszwiebeln, Zucchini, Karotte und Fenchel waschen und in mundgerechte Stuecke schneiden.",
+      "Kabeljaufilet, Erbsen (gekocht), Minze, Frühlingszwiebeln, Zucchini, Karotte und Fenchel waschen und in mundgerechte Stücke schneiden.",
       "Quinoa (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Kabeljaufilet 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -155822,7 +155833,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust, Grüne Bohnen, Zucchini, Petersilie, Thymian, Knoblauch, Tomaten, Karotte und Fenchel waschen und in mundgerechte Stuecke schneiden.",
+      "Hähnchenbrust, Grüne Bohnen, Zucchini, Petersilie, Thymian, Knoblauch, Tomaten, Karotte und Fenchel waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
     ],
@@ -155888,7 +155899,7 @@
       }
     ],
     "instructions": [
-      "Birne, Leinsamen und Kürbiskerne waschen und in mundgerechte Stuecke schneiden.",
+      "Birne, Leinsamen und Kürbiskerne waschen und in mundgerechte Stücke schneiden.",
       "Haferflocken mit Wasser in einem Topf 3 Minuten kochen, dann abgießen oder als Sud behalten.",
       "Joghurt (0,2 % Fett) 2 Minuten garen.",
       "Zimt zugeben, alles vermengen und anrichten."
@@ -155974,7 +155985,7 @@
       }
     ],
     "instructions": [
-      "Ei, Gurke, Tomaten, Petersilie, Schnittlauch, Feldsalat, Radieschen, Apfel, Chili und Kresse waschen und in mundgerechte Stuecke schneiden.",
+      "Ei, Gurke, Tomaten, Petersilie, Schnittlauch, Feldsalat, Radieschen, Apfel, Chili und Kresse waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Ei und Magerquark 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -156064,7 +156075,7 @@
       }
     ],
     "instructions": [
-      "Champignons, Spinat, Ei, Petersilie, Schnittlauch, Tomaten, Zwiebel, Paprika, Gurke, Rucola und Eisbergsalat waschen und in mundgerechte Stuecke schneiden.",
+      "Champignons, Spinat, Ei, Petersilie, Schnittlauch, Tomaten, Zwiebel, Paprika, Gurke, Rucola und Eisbergsalat waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Ei und Magerquark 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -156123,7 +156134,7 @@
       }
     ],
     "instructions": [
-      "Gurke, Dill und Paprika waschen und in mundgerechte Stuecke schneiden.",
+      "Gurke, Dill und Paprika waschen und in mundgerechte Stücke schneiden.",
       "Hüttenkäse 5 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -156194,7 +156205,7 @@
       }
     ],
     "instructions": [
-      "Karotten, Orange, Petersilie, Rucola, Fenchel und Haselnüsse waschen und in mundgerechte Stuecke schneiden.",
+      "Karotten, Orange, Petersilie, Rucola, Fenchel und Haselnüsse waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl unterrühren.",
       "Kreuzkümmel, Paprikapulver und Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -156288,7 +156299,7 @@
       }
     ],
     "instructions": [
-      "Kichererbsen (abgetropft), Paprika, Petersilie, Minze, Rote Zwiebel, Gurke, Fenchel, Radieschen, Granatapfelkerne und Rucola waschen und in mundgerechte Stuecke schneiden.",
+      "Kichererbsen (abgetropft), Paprika, Petersilie, Minze, Rote Zwiebel, Gurke, Fenchel, Radieschen, Granatapfelkerne und Rucola waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) 5 Minuten garen.",
       "Zitronensaft, Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Balsamico zugeben, alles vermengen und anrichten."
     ],
@@ -156367,7 +156378,7 @@
       }
     ],
     "instructions": [
-      "Gurke, Karotte, Kohlrabi, Petersilie, Schnittlauch, Paprika, Apfel und Radieschen waschen und in mundgerechte Stuecke schneiden.",
+      "Gurke, Karotte, Kohlrabi, Petersilie, Schnittlauch, Paprika, Apfel und Radieschen waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Magerquark 5 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -156447,7 +156458,7 @@
       }
     ],
     "instructions": [
-      "Putenbrust, Grapefruit, Chicorée, Petersilie, Feldsalat und Walnüsse waschen und in mundgerechte Stuecke schneiden.",
+      "Putenbrust, Grapefruit, Chicorée, Petersilie, Feldsalat und Walnüsse waschen und in mundgerechte Stücke schneiden.",
       "Quinoa (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -156534,7 +156545,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust, Fenchel, Karotte, Petersilie, Dill, Rucola, Grapefruit und Chili waschen und in mundgerechte Stuecke schneiden.",
+      "Hähnchenbrust, Fenchel, Karotte, Petersilie, Dill, Rucola, Grapefruit und Chili waschen und in mundgerechte Stücke schneiden.",
       "Gerste (Graupen) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Zitronensaft, Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Limettensaft zugeben, alles vermengen und anrichten."
@@ -156617,7 +156628,7 @@
       }
     ],
     "instructions": [
-      "Tofu (natur, fest), Tomaten, Zucchini, Petersilie, Basilikum, Knoblauch, Frühlingszwiebeln und Chili waschen und in mundgerechte Stuecke schneiden.",
+      "Tofu (natur, fest), Tomaten, Zucchini, Petersilie, Basilikum, Knoblauch, Frühlingszwiebeln und Chili waschen und in mundgerechte Stücke schneiden.",
       "Vollkornreis (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Tofu (natur, fest) 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -156696,7 +156707,7 @@
       }
     ],
     "instructions": [
-      "Linsen (trocken), Fenchel, Orange, Petersilie, Dill, Vollkornbrot, Rote Zwiebel und Rucola waschen und in mundgerechte Stuecke schneiden.",
+      "Linsen (trocken), Fenchel, Orange, Petersilie, Dill, Vollkornbrot, Rote Zwiebel und Rucola waschen und in mundgerechte Stücke schneiden.",
       "Vollkornbrot bereitlegen.",
       "Olivenöl in einer Pfanne erhitzen, Linsen (trocken) 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -156783,7 +156794,7 @@
       }
     ],
     "instructions": [
-      "Weiße Bohnen (abgetropft), Zucchini, Tomaten, Oregano, Thymian, Zwiebel, Karotte, Fenchel und Oliven waschen und in mundgerechte Stuecke schneiden.",
+      "Weiße Bohnen (abgetropft), Zucchini, Tomaten, Oregano, Thymian, Zwiebel, Karotte, Fenchel und Oliven waschen und in mundgerechte Stücke schneiden.",
       "Gerste (Graupen) mit Natriumarme Gemüsebrühe in einem Topf 25 Minuten kochen, dann abgießen oder als Sud behalten.",
       "Olivenöl in einer Pfanne erhitzen, Weiße Bohnen (abgetropft) 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -156863,7 +156874,7 @@
       }
     ],
     "instructions": [
-      "Kohlrabi, Erbsen (gekocht), Karotte, Staudensellerie, Petersilie, Minze, Zwiebel, Fenchel und Ingwer waschen und in mundgerechte Stuecke schneiden.",
+      "Kohlrabi, Erbsen (gekocht), Karotte, Staudensellerie, Petersilie, Minze, Zwiebel, Fenchel und Ingwer waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl unterrühren.",
       "Alles vermengen und anrichten."
@@ -156942,7 +156953,7 @@
       }
     ],
     "instructions": [
-      "Wirsing, Kartoffeln, Putenbrust, Petersilie, Zwiebel und Karotte waschen und in mundgerechte Stuecke schneiden.",
+      "Wirsing, Kartoffeln, Putenbrust, Petersilie, Zwiebel und Karotte waschen und in mundgerechte Stücke schneiden.",
       "Kartoffeln mit Natriumarme Gemüsebrühe in einem Topf 20 Minuten kochen, dann abgießen oder als Sud behalten.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust 8 Minuten garen.",
       "Kümmel zugeben, alles vermengen und anrichten."
@@ -157029,7 +157040,7 @@
       }
     ],
     "instructions": [
-      "Tomaten, Paprika, Kichererbsen (abgetropft), Blattsalat, Zwiebel, Petersilie, Oregano, Gurke, Fenchel und Mais (abgetropft) waschen und in mundgerechte Stuecke schneiden.",
+      "Tomaten, Paprika, Kichererbsen (abgetropft), Blattsalat, Zwiebel, Petersilie, Oregano, Gurke, Fenchel und Mais (abgetropft) waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
@@ -157118,7 +157129,7 @@
       }
     ],
     "instructions": [
-      "Gurke, Linsen (trocken), Dill, Radieschen, Rote Zwiebel, Tomaten, Fenchel, Paprika und Orange waschen und in mundgerechte Stuecke schneiden.",
+      "Gurke, Linsen (trocken), Dill, Radieschen, Rote Zwiebel, Tomaten, Fenchel, Paprika und Orange waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Linsen (trocken) und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -157194,7 +157205,7 @@
       }
     ],
     "instructions": [
-      "Blumenkohl, Erbsen (gekocht), Karotte, Petersilie, Thymian, Zwiebel, Fenchel und Lauch waschen und in mundgerechte Stuecke schneiden.",
+      "Blumenkohl, Erbsen (gekocht), Karotte, Petersilie, Thymian, Zwiebel, Fenchel und Lauch waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl unterrühren.",
       "Alles vermengen und anrichten."
@@ -157275,7 +157286,7 @@
       }
     ],
     "instructions": [
-      "Zucchini, Minze, Kichererbsen (abgetropft), Zwiebel, Karotte und Ingwer waschen und in mundgerechte Stuecke schneiden.",
+      "Zucchini, Minze, Kichererbsen (abgetropft), Zwiebel, Karotte und Ingwer waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) 8 Minuten garen.",
       "Zitronensaft und Limettensaft zugeben, alles vermengen und anrichten."
@@ -157356,7 +157367,7 @@
       }
     ],
     "instructions": [
-      "Putenbrust (in Streifen), Grüne Bohnen, Tomaten, Zwiebel, Petersilie, Oregano und Paprika waschen und in mundgerechte Stuecke schneiden.",
+      "Putenbrust (in Streifen), Grüne Bohnen, Tomaten, Zwiebel, Petersilie, Oregano und Paprika waschen und in mundgerechte Stücke schneiden.",
       "Bulgur in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust (in Streifen) 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Zitronensaft zugeben, alles vermengen und anrichten."
@@ -157439,7 +157450,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust, Spinat, Petersilie, Thymian, Knoblauch, Kirschtomaten, Fenchel und Zucchini waschen und in mundgerechte Stuecke schneiden.",
+      "Hähnchenbrust, Spinat, Petersilie, Thymian, Knoblauch, Kirschtomaten, Fenchel und Zucchini waschen und in mundgerechte Stücke schneiden.",
       "Vollkornorzo in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -157521,7 +157532,7 @@
       }
     ],
     "instructions": [
-      "Kabeljaufilet, Weiße Bohnen (abgetropft), Petersilie, Rote Zwiebel, Gurke, Feldsalat, Radieschen und Fenchel waschen und in mundgerechte Stuecke schneiden.",
+      "Kabeljaufilet, Weiße Bohnen (abgetropft), Petersilie, Rote Zwiebel, Gurke, Feldsalat, Radieschen und Fenchel waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Kabeljaufilet und Weiße Bohnen (abgetropft) 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
     ],
@@ -157610,7 +157621,7 @@
       }
     ],
     "instructions": [
-      "Zucchini, Paprika, Aubergine, Kichererbsen (abgetropft), Petersilie, Minze, Zwiebel, Granatapfelkerne und Rucola waschen und in mundgerechte Stuecke schneiden.",
+      "Zucchini, Paprika, Aubergine, Kichererbsen (abgetropft), Petersilie, Minze, Zwiebel, Granatapfelkerne und Rucola waschen und in mundgerechte Stücke schneiden.",
       "Vollkorncouscous in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -157667,7 +157678,7 @@
       }
     ],
     "instructions": [
-      "Birne und Walnüsse waschen und in mundgerechte Stuecke schneiden.",
+      "Birne und Walnüsse waschen und in mundgerechte Stücke schneiden.",
       "Haferflocken in Wasser 20 Minuten garen und abgießen.",
       "Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Zimt zugeben, alles vermengen und anrichten."
@@ -157724,7 +157735,7 @@
       }
     ],
     "instructions": [
-      "Himbeeren waschen und in mundgerechte Stuecke schneiden.",
+      "Himbeeren waschen und in mundgerechte Stücke schneiden.",
       "Haferflocken mit Wasser in einem Topf 2 Minuten kochen, dann abgießen oder als Sud behalten.",
       "Joghurt (0,2 % Fett) 5 Minuten garen.",
       "Zimt zugeben, alles vermengen und anrichten."
@@ -157816,7 +157827,7 @@
       }
     ],
     "instructions": [
-      "Zucchini, Aubergine, Paprika, Tomaten, Weiße Bohnen (abgetropft), Petersilie, Thymian, Zwiebel, Knoblauch, Feldsalat, Chili und Rucola waschen und in mundgerechte Stuecke schneiden.",
+      "Zucchini, Aubergine, Paprika, Tomaten, Weiße Bohnen (abgetropft), Petersilie, Thymian, Zwiebel, Knoblauch, Feldsalat, Chili und Rucola waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Weiße Bohnen (abgetropft) 8 Minuten garen.",
       "Limettensaft zugeben, alles vermengen und anrichten."
     ],
@@ -157892,7 +157903,7 @@
       }
     ],
     "instructions": [
-      "Feldsalat, Ei, Rote Bete, Apfel, Gurke und Radieschen waschen und in mundgerechte Stuecke schneiden.",
+      "Feldsalat, Ei, Rote Bete, Apfel, Gurke und Radieschen waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Ei und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -157965,7 +157976,7 @@
       }
     ],
     "instructions": [
-      "Chinakohl, Hähnchenbrust, Gurke, Karotte, Petersilie, Dill und Radieschen waschen und in mundgerechte Stuecke schneiden.",
+      "Chinakohl, Hähnchenbrust, Gurke, Karotte, Petersilie, Dill und Radieschen waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -158053,7 +158064,7 @@
       }
     ],
     "instructions": [
-      "Champignons, Blattspinat, Petersilie, Thymian, Zwiebel, Karotte, Erbsen (gekocht) und Chili waschen und in mundgerechte Stuecke schneiden.",
+      "Champignons, Blattspinat, Petersilie, Thymian, Zwiebel, Karotte, Erbsen (gekocht) und Chili waschen und in mundgerechte Stücke schneiden.",
       "Gerste (Graupen) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl unterrühren.",
       "Zitronensaft, Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Limettensaft zugeben, alles vermengen und anrichten."
@@ -158139,7 +158150,7 @@
       }
     ],
     "instructions": [
-      "Putenbrust, Apfel, Rotkohl, Kartoffeln, Petersilie, Zwiebel und Fenchel waschen und in mundgerechte Stuecke schneiden.",
+      "Putenbrust, Apfel, Rotkohl, Kartoffeln, Petersilie, Zwiebel und Fenchel waschen und in mundgerechte Stücke schneiden.",
       "Kartoffeln in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust 8 Minuten garen.",
       "Apfelessig, Kümmel und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -158214,7 +158225,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust, Fenchel, Tomaten, Petersilie, Thymian und Zwiebel waschen und in mundgerechte Stuecke schneiden.",
+      "Hähnchenbrust, Fenchel, Tomaten, Petersilie, Thymian und Zwiebel waschen und in mundgerechte Stücke schneiden.",
       "Vollkornorzo mit Natriumarme Gemüsebrühe in einem Topf 25 Minuten kochen, dann abgießen oder als Sud behalten.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -158297,7 +158308,7 @@
       }
     ],
     "instructions": [
-      "Linsen (trocken), Zucchini, Minze, Zwiebel, Aubergine, Chili und Spinat waschen und in mundgerechte Stuecke schneiden.",
+      "Linsen (trocken), Zucchini, Minze, Zwiebel, Aubergine, Chili und Spinat waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Linsen (trocken) und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
     ],
@@ -158375,7 +158386,7 @@
       }
     ],
     "instructions": [
-      "Ei, Eiklar, Tomaten, Petersilie, Schnittlauch, Gurke, Vollkorntoast, Radieschen und Kresse waschen und in mundgerechte Stuecke schneiden.",
+      "Ei, Eiklar, Tomaten, Petersilie, Schnittlauch, Gurke, Vollkorntoast, Radieschen und Kresse waschen und in mundgerechte Stücke schneiden.",
       "Vollkorntoast bereitlegen.",
       "Olivenöl in einer Pfanne erhitzen, Ei und Eiklar 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -158429,7 +158440,7 @@
       }
     ],
     "instructions": [
-      "Beerenmischung und Kürbiskerne waschen und in mundgerechte Stuecke schneiden.",
+      "Beerenmischung und Kürbiskerne waschen und in mundgerechte Stücke schneiden.",
       "Haferflocken in Wasser 3 Minuten garen und abgießen.",
       "Joghurt (0,2 % Fett) 2 Minuten garen.",
       "Alles vermengen und anrichten."
@@ -158513,7 +158524,7 @@
       }
     ],
     "instructions": [
-      "Seelachsfilet, Zucchini, Paprika, Petersilie, Dill, Tomaten, Erbsen (gekocht) und Frühlingszwiebeln waschen und in mundgerechte Stuecke schneiden.",
+      "Seelachsfilet, Zucchini, Paprika, Petersilie, Dill, Tomaten, Erbsen (gekocht) und Frühlingszwiebeln waschen und in mundgerechte Stücke schneiden.",
       "Quinoa (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Seelachsfilet 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -158597,7 +158608,7 @@
       }
     ],
     "instructions": [
-      "Tofu (natur, fest), Brokkoli, Karotten, Ingwer, Frühlingszwiebeln und Paprika waschen und in mundgerechte Stuecke schneiden.",
+      "Tofu (natur, fest), Brokkoli, Karotten, Ingwer, Frühlingszwiebeln und Paprika waschen und in mundgerechte Stücke schneiden.",
       "Vollkornreis (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Tofu (natur, fest) 8 Minuten garen.",
       "Zitronensaft, Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Limettensaft zugeben, alles vermengen und anrichten."
@@ -158685,7 +158696,7 @@
       }
     ],
     "instructions": [
-      "Weiße Bohnen (abgetropft), Staudensellerie, Tomaten, Petersilie, Thymian, Karotte, Lauch, Zwiebel, Fenchel und Meerrettich (frisch gerieben) waschen und in mundgerechte Stuecke schneiden.",
+      "Weiße Bohnen (abgetropft), Staudensellerie, Tomaten, Petersilie, Thymian, Karotte, Lauch, Zwiebel, Fenchel und Meerrettich (frisch gerieben) waschen und in mundgerechte Stücke schneiden.",
       "Natriumarme Gemüsebrühe in einem Topf erhitzen.",
       "Olivenöl in einer Pfanne erhitzen, Weiße Bohnen (abgetropft) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
@@ -158777,7 +158788,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust, Melone, Gurke, Minze, Feldsalat, Radieschen und Orange waschen und in mundgerechte Stuecke schneiden.",
+      "Hähnchenbrust, Melone, Gurke, Minze, Feldsalat, Radieschen und Orange waschen und in mundgerechte Stücke schneiden.",
       "Quinoa (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Zitronensaft, Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Limettensaft zugeben, alles vermengen und anrichten."
@@ -158870,7 +158881,7 @@
       }
     ],
     "instructions": [
-      "Kichererbsen (abgetropft), Mangold, Zwiebel, Knoblauch, Paprika, Petersilie, Gurke, Granatapfelkerne und Karotte waschen und in mundgerechte Stuecke schneiden.",
+      "Kichererbsen (abgetropft), Mangold, Zwiebel, Knoblauch, Paprika, Petersilie, Gurke, Granatapfelkerne und Karotte waschen und in mundgerechte Stücke schneiden.",
       "Bulgur in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Kichererbsen (abgetropft) 8 Minuten garen.",
       "Zitronensaft, Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika und Limettensaft zugeben, alles vermengen und anrichten."
@@ -158954,7 +158965,7 @@
       }
     ],
     "instructions": [
-      "Zucchini, Tomaten, Petersilie, Minze, Zwiebel, Gurke, Feldsalat und Radieschen waschen und in mundgerechte Stuecke schneiden.",
+      "Zucchini, Tomaten, Petersilie, Minze, Zwiebel, Gurke, Feldsalat und Radieschen waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Magerquark 8 Minuten garen.",
       "Zitronensaft und Limettensaft zugeben, alles vermengen und anrichten."
     ],
@@ -159016,7 +159027,7 @@
       }
     ],
     "instructions": [
-      "Staudensellerie, Paprikastreifen, Petersilie und Karottensticks waschen und in mundgerechte Stuecke schneiden.",
+      "Staudensellerie, Paprikastreifen, Petersilie und Karottensticks waschen und in mundgerechte Stücke schneiden.",
       "Hummus 5 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -159101,7 +159112,7 @@
       }
     ],
     "instructions": [
-      "Putenbrust, Brokkoli, Karotte, Ei, Petersilie, Schnittlauch, Zwiebel und Zucchini waschen und in mundgerechte Stuecke schneiden.",
+      "Putenbrust, Brokkoli, Karotte, Ei, Petersilie, Schnittlauch, Zwiebel und Zucchini waschen und in mundgerechte Stücke schneiden.",
       "Haferflocken in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust und Ei 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -159185,7 +159196,7 @@
       }
     ],
     "instructions": [
-      "Eisbergsalat, Putenbrust, Gurke, Tomaten, Petersilie, Dill, Radieschen, Fenchel und Apfel waschen und in mundgerechte Stuecke schneiden.",
+      "Eisbergsalat, Putenbrust, Gurke, Tomaten, Petersilie, Dill, Radieschen, Fenchel und Apfel waschen und in mundgerechte Stücke schneiden.",
       "Olivenöl in einer Pfanne erhitzen, Putenbrust und Joghurt (0,2 % Fett) 8 Minuten garen.",
       "Zitronensaft zugeben, alles vermengen und anrichten."
     ],
@@ -159264,7 +159275,7 @@
       }
     ],
     "instructions": [
-      "Forellenfilet, Fenchel, Dill, Grapefruit, Feldsalat und Kapern waschen und in mundgerechte Stuecke schneiden.",
+      "Forellenfilet, Fenchel, Dill, Grapefruit, Feldsalat und Kapern waschen und in mundgerechte Stücke schneiden.",
       "Gerste (Graupen) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Forellenfilet 8 Minuten garen.",
       "Zitronensaft und Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -159346,7 +159357,7 @@
       }
     ],
     "instructions": [
-      "Tomaten, Zucchini, Basilikum, Hähnchenbrust, Knoblauch, Rucola und Paprika waschen und in mundgerechte Stuecke schneiden.",
+      "Tomaten, Zucchini, Basilikum, Hähnchenbrust, Knoblauch, Rucola und Paprika waschen und in mundgerechte Stücke schneiden.",
       "Vollkornspaghetti (ungekocht) in Wasser 20 Minuten garen und abgießen.",
       "Olivenöl in einer Pfanne erhitzen, Hähnchenbrust 8 Minuten garen.",
       "Pfeffer, Kreuzkümmel, Zimt, Oregano, Paprika zugeben, alles vermengen und anrichten."
@@ -159424,7 +159435,7 @@
       }
     ],
     "instructions": [
-      "Lauch, Kartoffeln, Erbsen (gekocht), Petersilie, Thymian, Zwiebel, Staudensellerie, Wirsing und Fenchel waschen und in mundgerechte Stuecke schneiden.",
+      "Lauch, Kartoffeln, Erbsen (gekocht), Petersilie, Thymian, Zwiebel, Staudensellerie, Wirsing und Fenchel waschen und in mundgerechte Stücke schneiden.",
       "Kartoffeln mit Natriumarme Gemüsebrühe in einem Topf 25 Minuten kochen, dann abgießen oder als Sud behalten.",
       "Olivenöl unterrühren.",
       "Alles vermengen und anrichten."
@@ -165841,7 +165852,7 @@
       "Polenta (ungekocht) 8 Minuten garen (kochen, stampfen oder mitrosten).",
       "Hähnchenbrust mit Kräuteröl, Wasser und Pfeffer 6 Minuten braten oder im Ofen garen.",
       "Zucchini und Tomaten in Kräuteröl 4 Minuten garen.",
-      "Mit Petersilie, Thymian, Zitronensaft, Wasser und Pfeffer abschmecken und anrichten."
+      "Mit Petersilie, Thymian, Zitronensaft und Pfeffer abschmecken und anrichten."
     ],
     "dietTags": [
       "glutenfrei",
@@ -165976,7 +165987,7 @@
     "instructions": [
       "Glutenfreie Haferflocken und Ahornsirup in einem Topf 8 Minuten kochen und umrühren.",
       "Heidelbeeren und Hanfsamen zugeben und 2 Minuten ziehen lassen.",
-      "Mit Wasser abschmecken und anrichten."
+      "Abschmecken und anrichten."
     ],
     "dietTags": [
       "vegetarisch",
@@ -167558,7 +167569,7 @@
     "instructions": [
       "Rundkornreis (ungekocht) und Zucker in einem Topf 12 Minuten unter Rühren kochen.",
       "Pinienkerne und Granatapfelkerne untermischen und 20 Minuten ziehen lassen.",
-      "Mit Wasser, Rosenwasser und Safran abschmecken und kalt oder lauwarm anrichten."
+      "Mit Rosenwasser und Safran abschmecken und kalt oder lauwarm anrichten."
     ],
     "dietTags": [
       "vegetarisch",
@@ -171817,7 +171828,7 @@
       "Weizenmehl ausrollen oder bereitstellen, mit Olivenöl bestreichen.",
       "Blattspinat, Tomaten, Weißkäse (Feta) und Petersilie, Minze als Füllung oder Belag 8 Minuten anbraten oder vermengen.",
       "Belegen und im Ofen bei 200 Grad 20 Minuten backen.",
-      "Mit Wasser abschmecken und anrichten."
+      "Abschmecken und anrichten."
     ],
     "dietTags": [
       "vegetarisch"
@@ -171890,7 +171901,7 @@
       "Weizenmehl ausrollen oder bereitstellen, mit Olivenöl bestreichen.",
       "Rinderhack (mager), Eier, Zwiebel, Tomaten, Sesam, Joghurt (natur, 0,2 % Fett) und Petersilie als Füllung oder Belag 8 Minuten anbraten oder vermengen.",
       "Belegen und im Ofen bei 200 Grad 20 Minuten backen.",
-      "Mit Wasser abschmecken und anrichten."
+      "Abschmecken und anrichten."
     ],
     "dietTags": [
       "high-protein"
@@ -179384,7 +179395,8 @@
       "low-gi"
     ],
     "allergens": [
-      "sellerie"
+      "sellerie",
+      "lupinen"
     ]
   },
   {
@@ -182016,7 +182028,7 @@
     "instructions": [
       "Babyspinat, Gurke, Apfel, Ingwer, Joghurt (natur, 0,2 % Fett) und Zitronensaft waschen, putzen und grob schneiden.",
       "Alles in den Mixer geben und 1 Minute glatt pürieren.",
-      "Mit Wasser abschmecken, in ein Glas füllen und sofort trinken."
+      "Mit Wasser auf die gewünschte Konsistenz verdünnen, in ein Glas füllen und sofort trinken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -182074,7 +182086,7 @@
     "instructions": [
       "Mango, Banane, Kokosmilch light und Limettensaft waschen, putzen und grob schneiden.",
       "Alles in den Mixer geben und 1 Minute glatt pürieren.",
-      "Mit Kurkuma und Wasser abschmecken, in ein Glas füllen und sofort trinken."
+      "Mit Kurkuma abschmecken, mit Wasser auf die gewünschte Konsistenz verdünnen, in ein Glas füllen und sofort trinken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -182240,7 +182252,7 @@
     "instructions": [
       "Kirschen, Skyr, Haferflocken und Kakaopulver (ungesüßt) waschen, putzen und grob schneiden.",
       "Alles in den Mixer geben und 1 Minute glatt pürieren.",
-      "Mit Wasser abschmecken, in ein Glas füllen und sofort trinken."
+      "Mit Wasser auf die gewünschte Konsistenz verdünnen, in ein Glas füllen und sofort trinken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -182356,7 +182368,7 @@
     "instructions": [
       "Karotten, Orange, Ingwer, Joghurt (natur, 0,2 % Fett) und Haferflocken waschen, putzen und grob schneiden.",
       "Alles in den Mixer geben und 1 Minute glatt pürieren.",
-      "Mit Wasser abschmecken, in ein Glas füllen und sofort trinken."
+      "Mit Wasser auf die gewünschte Konsistenz verdünnen, in ein Glas füllen und sofort trinken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -182465,7 +182477,7 @@
     "instructions": [
       "Ananas, Babyspinat, Kokosmilch light, Kokosflocken und Limettensaft waschen, putzen und grob schneiden.",
       "Alles in den Mixer geben und 1 Minute glatt pürieren.",
-      "Mit Wasser abschmecken, in ein Glas füllen und sofort trinken."
+      "Mit Wasser auf die gewünschte Konsistenz verdünnen, in ein Glas füllen und sofort trinken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -182587,7 +182599,7 @@
     "instructions": [
       "Frische Feigen, Joghurt (natur, 0,2 % Fett), Haferflocken, Walnüsse, Ingwer und Zitronensaft waschen, putzen und grob schneiden.",
       "Alles in den Mixer geben und 1 Minute glatt pürieren.",
-      "Mit Wasser abschmecken, in ein Glas füllen und sofort trinken."
+      "Mit Wasser auf die gewünschte Konsistenz verdünnen, in ein Glas füllen und sofort trinken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -182650,7 +182662,7 @@
     "instructions": [
       "Heidelbeeren, Babyspinat, Joghurt (natur, 0,2 % Fett), Leinsamen (geschrotet), Haferflocken und Zitronensaft waschen, putzen und grob schneiden.",
       "Alles in den Mixer geben und 1 Minute glatt pürieren.",
-      "Mit Wasser abschmecken, in ein Glas füllen und sofort trinken."
+      "Mit Wasser auf die gewünschte Konsistenz verdünnen, in ein Glas füllen und sofort trinken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -182879,7 +182891,7 @@
     "instructions": [
       "Pfirsich, Joghurt (natur, 0,2 % Fett), Haferflocken und Chiasamen waschen, putzen und grob schneiden.",
       "Alles in den Mixer geben und 1 Minute glatt pürieren.",
-      "Mit Vanille, Kurkuma und Wasser abschmecken, in ein Glas füllen und sofort trinken."
+      "Mit Vanille und Kurkuma abschmecken, mit Wasser auf die gewünschte Konsistenz verdünnen, in ein Glas füllen und sofort trinken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -184732,7 +184744,9 @@
       "mediterran",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "lupinen"
+    ]
   },
   {
     "id": "rec_2672",
@@ -188010,7 +188024,7 @@
     "instructions": [
       "Papaya, Joghurt (natur, 0,2 % Fett), Limettensaft, Kokosflocken, Minze und Haferflocken waschen, putzen und grob schneiden.",
       "Alles in den Mixer geben und 1 Minute glatt pürieren.",
-      "Mit Wasser abschmecken, in ein Glas füllen und sofort trinken."
+      "Mit Wasser auf die gewünschte Konsistenz verdünnen, in ein Glas füllen und sofort trinken."
     ],
     "dietTags": [
       "vegetarisch",
@@ -188306,7 +188320,7 @@
       "Reismehl, Kokosmilch (light), Garnelen (roh, geschält), Bohnensprossen, Salatblätter, Minze, Koriander, Rapsöl und Limettensaft bereitstellen, waschen, schneiden oder abmessen.",
       "Aus den Teigzutaten einen glatten Teig rühren, 5 Minuten ruhen lassen. Die Füllung bereitlegen.",
       "In der Pfanne 4 Minuten je Seite goldbraun backen und mit Dip anrichten.",
-      "Mit Wasser und Kurkuma abschmecken und sofort servieren."
+      "Mit Kurkuma abschmecken und sofort servieren."
     ],
     "dietTags": [
       "glutenfrei",
@@ -189061,7 +189075,7 @@
       "Mehl, Tofu (natur, fest), Champignons, Gurke, Sojasauce, Sesamöl, Reisessig, Frühlingszwiebel und Zucker bereitstellen, waschen, schneiden oder abmessen.",
       "Die Füllung 8 Minuten garen oder die Proteine kurz blanchieren, die Teige oder Blätter bereitlegen.",
       "4 Stück füllen, rollen und mit dem Dip anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -189132,7 +189146,7 @@
       "Hähnchenbrust, Rundkornreis (ungekocht), Shiitake, Ingwer, Frühlingszwiebel, Sojasauce und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Den Reis 15 Minuten garen oder übrig gebliebenen Reis erwärmen. Protein und Gemüse 10 Minuten braten oder dämpfen.",
       "Alles in einer Schale oder auf einem Teller anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "laktosefrei",
@@ -189275,7 +189289,7 @@
       "Mehl, Oktopus, Ei, Mayonnaise, Bonitoflocken, Frühlingszwiebel, Rapsöl und Sojasauce bereitstellen, waschen, schneiden oder abmessen.",
       "Aus den Teigzutaten einen glatten Teig rühren, 5 Minuten ruhen lassen. Die Füllung bereitlegen.",
       "In der Pfanne 4 Minuten je Seite goldbraun backen und mit Dip anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "laktosefrei",
@@ -189577,7 +189591,7 @@
     "instructions": [
       "Rindfleisch, Karotten, Baguette, Fleischbrühe, Zwiebel, Tomate, Zitronengras, Fischsauce und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Protein und Gemüse 8 Minuten anbraten, dann 20 Minuten mit der Flüssigkeit schmoren.",
-      "Reis falls vorhanden 15 Minuten garen und den Eintopf heiß darauf anrichten.",
+      "Baguette kurz im Ofen aufbacken und den Eintopf heiß dazu anrichten.",
       "Mit Sternanis, Zimt abschmecken und sofort servieren."
     ],
     "dietTags": [
@@ -190252,8 +190266,8 @@
     "instructions": [
       "Hähnchenbrust, Kartoffel, Karotten, Glasnudeln (ungekocht), Sojasauce, Zwiebel, Knoblauch, Sesam und Ahornsirup bereitstellen, waschen, schneiden oder abmessen.",
       "Protein und Gemüse 8 Minuten anbraten, dann 20 Minuten mit der Flüssigkeit schmoren.",
-      "Reis falls vorhanden 15 Minuten garen und den Eintopf heiß darauf anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Glasnudeln 5 Minuten in heißem Wasser einweichen, abgießen, unter den Eintopf heben und heiß anrichten.",
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "laktosefrei",
@@ -190710,7 +190724,7 @@
       "Rindfleisch, Kartoffel, Karotten, Rundkornreis (ungekocht), Zwiebel, Sojasauce, Ahornsirup und Sesamöl bereitstellen, waschen, schneiden oder abmessen.",
       "Protein und Gemüse 8 Minuten anbraten, dann 20 Minuten mit der Flüssigkeit schmoren.",
       "Reis falls vorhanden 15 Minuten garen und den Eintopf heiß darauf anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "laktosefrei",
@@ -190772,8 +190786,8 @@
     "instructions": [
       "Ei, Shiitake, Garnelen (roh, geschält), Sojasauce, Frühlingszwiebel und Ahornsirup bereitstellen, waschen, schneiden oder abmessen.",
       "Die Eier mit der Flüssigkeit verquirlen, die Einlagen verteilen und 12 Minuten dämpfen.",
-      "Reis falls vorhanden 15 Minuten garen und den Eierstich heiß daneben anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Den Eierstich heiß in der Schale anrichten.",
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "laktosefrei",
@@ -190849,7 +190863,7 @@
       "Tofu (natur, fest), Rettich, Shiitake, Frühlingszwiebel, Sojasauce, Reismehl, Rapsöl und Ingwer bereitstellen, waschen, schneiden oder abmessen.",
       "Das Protein oder den Tofu mit Stärke oder Mehl wenden und in der Pfanne 6 Minuten goldbraun braten.",
       "Sauce oder Beilage 5 Minuten fertigstellen und alles zusammen anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -191431,7 +191445,7 @@
       "Hähnchenbrust, Karotten, Rundkornreis (ungekocht), Kartoffel, Zwiebel, Currypaste (vegan), Rapsöl und Apfel bereitstellen, waschen, schneiden oder abmessen.",
       "Den Reis 15 Minuten garen oder übrig gebliebenen Reis erwärmen. Protein und Gemüse 10 Minuten braten oder dämpfen.",
       "Alles in einer Schale oder auf einem Teller anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "glutenfrei",
@@ -192017,7 +192031,7 @@
       "Ei, Garnelen (roh, geschält), Schnittlauch, Rundkornreis (ungekocht), Sojasauce, Sesamöl und Sesam bereitstellen, waschen, schneiden oder abmessen.",
       "Den Reis 15 Minuten garen oder übrig gebliebenen Reis erwärmen. Protein und Gemüse 10 Minuten braten oder dämpfen.",
       "Alles in einer Schale oder auf einem Teller anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "laktosefrei",
@@ -192095,7 +192109,7 @@
       "Tintenfisch, Lauch, Mehl, Ei, Sojasauce, Reisessig, Rapsöl und Frühlingszwiebel bereitstellen, waschen, schneiden oder abmessen.",
       "Aus den Teigzutaten einen glatten Teig rühren, 5 Minuten ruhen lassen. Die Füllung bereitlegen.",
       "In der Pfanne 4 Minuten je Seite goldbraun backen und mit Dip anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "laktosefrei",
@@ -192933,7 +192947,7 @@
     "instructions": [
       "Tofu (natur, fest), Baguette, Kokosmilch light, Karotte, Süßkartoffel, Currypaste (vegan), Brokkoli, Rapsöl und Zitronengras bereitstellen, waschen, schneiden oder abmessen.",
       "Die Paste 3 Minuten im Fett anbraten, Kokosmilch oder Flüssigkeit zugeben und das Protein 12 Minuten köcheln.",
-      "Reis 15 Minuten garen und das Curry heiß daneben anrichten.",
+      "Baguette kurz im Ofen aufbacken und das Curry heiß daneben anrichten.",
       "Abschmecken und sofort servieren."
     ],
     "dietTags": [
@@ -193159,7 +193173,7 @@
       "Kabeljau, Aubergine, Rundkornreis (ungekocht), Zucker, Fischsauce, Ingwer, Rapsöl und Frühlingszwiebel bereitstellen, waschen, schneiden oder abmessen.",
       "Protein und Gemüse 8 Minuten anbraten, dann 20 Minuten mit der Flüssigkeit schmoren.",
       "Reis falls vorhanden 15 Minuten garen und den Eintopf heiß darauf anrichten.",
-      "Mit Chili und Wasser abschmecken und sofort servieren."
+      "Mit Chili abschmecken und sofort servieren."
     ],
     "dietTags": [
       "glutenfrei",
@@ -193233,7 +193247,7 @@
       "Tofu (natur, fest), Rundkornreis (ungekocht), Pak Choi, Karotte, Zucker, Sojasauce, Ingwer und Sesamöl bereitstellen, waschen, schneiden oder abmessen.",
       "Protein und Gemüse 8 Minuten anbraten, dann 20 Minuten mit der Flüssigkeit schmoren.",
       "Reis falls vorhanden 15 Minuten garen und den Eintopf heiß darauf anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -194812,7 +194826,7 @@
       "Makrelenfilet, Sushireis (ungekocht), Spinat, Gurke, Miso, Tofu (natur, fest), Wakame und Frühlingszwiebel bereitstellen, waschen, schneiden oder abmessen.",
       "Die Brühe oder das Wasser 12 Minuten mit dem Protein und dem Gemüse köcheln.",
       "Reis oder Nudeln falls vorhanden 15 Minuten garen, dann die Suppe damit anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "glutenfrei",
@@ -196094,7 +196108,7 @@
       "Vollkornmehl, Zwiebel, Champignons, Bergkäse, Schmand light und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Den Teig oder die Füllung 8 Minuten vorbereiten, dann 20 Minuten im Ofen backen.",
       "Mit Salat, Kompott oder Sauce anrichten und warm servieren.",
-      "Mit Wasser und Thymian abschmecken und sofort servieren."
+      "Mit Thymian abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -203096,7 +203110,7 @@
       "Maismehl, Schwarze Bohnen (gekocht), Käse light, Weißkohl, Karotten, Tomate und Essig bereitstellen, waschen, schneiden oder abmessen.",
       "Teig, Füllung oder Aufstrich 8 Minuten vorbereiten, dann 12 Minuten garen, backen oder anrichten.",
       "Mit Salat, Salsa oder Dip anrichten und sofort essen.",
-      "Mit Wasser und Oregano abschmecken und sofort servieren."
+      "Mit Oregano abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -203711,7 +203725,7 @@
       "Kichererbsen (gekocht), Vollkornmehl, Tamarinde, Gurke, Chili und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Teig, Füllung oder Aufstrich 8 Minuten vorbereiten, dann 12 Minuten garen, backen oder anrichten.",
       "Mit Salat, Salsa oder Dip anrichten und sofort essen.",
-      "Mit Kreuzkümmel, Kurkuma und Wasser abschmecken und sofort servieren."
+      "Mit Kreuzkümmel, Kurkuma abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -204628,7 +204642,7 @@
       "Maismehl, Ei, Tomate, Käse light, Butter und Koriander bereitstellen, waschen, schneiden oder abmessen.",
       "Die Basis 10 Minuten garen, backen oder anrühren, Ei oder Aufstrich 5 Minuten fertigstellen.",
       "Mit Gemüse, Brot oder Joghurt anrichten und sofort essen.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -205997,7 +206011,7 @@
       "Ei, Tomate, Zwiebel, Frühlingszwiebel, Arepa-Maismehl und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Die Basis 10 Minuten garen, backen oder anrühren, Ei oder Aufstrich 5 Minuten fertigstellen.",
       "Mit Gemüse, Brot oder Joghurt anrichten und sofort essen.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -206597,7 +206611,7 @@
       "Maismehl, Pinto-Bohnen (gekocht), Tomatillos, Koriander, Kürbiskerne und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Den Teig oder die Füllung 8 Minuten vorbereiten, dann 25 Minuten im Ofen backen oder dämpfen.",
       "Mit Salat, Salsa oder Sauce anrichten und warm servieren.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -206730,7 +206744,7 @@
       "Maismehl, Hähnchenbrust, Schwarze Bohnen (gekocht), Weißkohl, Tomate, Koriander und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Teig, Füllung oder Aufstrich 8 Minuten vorbereiten, dann 12 Minuten garen, backen oder anrichten.",
       "Mit Salat, Salsa oder Dip anrichten und sofort essen.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "glutenfrei",
@@ -207290,7 +207304,7 @@
       "Kichererbsenmehl, Kichererbsen (gekocht), Kartoffeln, Tamarinde, Erbsen (TK), Zwiebel und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Den Teig oder die Füllung 8 Minuten vorbereiten, dann 25 Minuten im Ofen backen oder dämpfen.",
       "Mit Salat, Salsa oder Sauce anrichten und warm servieren.",
-      "Mit Kreuzkümmel, Kurkuma und Wasser abschmecken und sofort servieren."
+      "Mit Kreuzkümmel, Kurkuma abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -208992,7 +209006,7 @@
       "Vollkornmehl, Kidneybohnen (gekocht), Koriander, Passierte Tomaten, Zwiebel und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Teig, Füllung oder Aufstrich 8 Minuten vorbereiten, dann 12 Minuten garen, backen oder anrichten.",
       "Mit Salat, Salsa oder Dip anrichten und sofort essen.",
-      "Mit Wasser und Currypulver, Chili abschmecken und sofort servieren."
+      "Mit Currypulver, Chili abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -212166,7 +212180,7 @@
       "Tofu (natur, fest), Miso, Wakame (eingeweicht), Pak Choi, Basmatireis (ungekocht), Staudensellerie, Frühlingszwiebel und Ingwer bereitstellen, waschen, schneiden oder abmessen.",
       "Die Brühe 15 Minuten mit Gemüse, Hülsenfrüchten oder Protein köcheln, Sellerie mitgaren.",
       "Einlagen 8 Minuten garen, dann die Suppe in einer Schüssel anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -212938,7 +212952,8 @@
       "low-gi"
     ],
     "allergens": [
-      "sesam"
+      "sesam",
+      "lupinen"
     ]
   },
   {
@@ -213521,7 +213536,7 @@
       "Tofu (natur, fest), Rote Linsen (ungekocht), Blumenkohl, Passierte Tomaten, Tomatenmark, Koriander, Knoblauch, Staudensellerie, Zwiebel, Rapsöl und Zitronensaft bereitstellen, waschen, schneiden oder abmessen.",
       "Die Brühe 15 Minuten mit Gemüse, Hülsenfrüchten oder Protein köcheln, Sellerie mitgaren.",
       "Einlagen 8 Minuten garen, dann die Suppe in einer Schüssel anrichten.",
-      "Mit Wasser und Ingwer, Kreuzkümmel, Kurkuma abschmecken und sofort servieren."
+      "Mit Ingwer, Kreuzkümmel, Kurkuma abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -216499,7 +216514,7 @@
       "Tofu (natur, fest), Linsen (trocken), Miso, Lauchgrün, Vollkornreis (ungekocht), Spinat, Ingwer, Frühlingszwiebel und Staudensellerie bereitstellen, waschen, schneiden oder abmessen.",
       "Die Brühe 15 Minuten mit Gemüse, Hülsenfrüchten oder Protein köcheln, Sellerie mitgaren.",
       "Einlagen 8 Minuten garen, dann die Suppe in einer Schüssel anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -217671,7 +217686,7 @@
       "Die Basis 1 Minute glatt pürieren oder verrühren.",
       "In der Eismaschine 20 Minuten cremig rühren. Ohne Maschine 3 Stunden einfrieren und alle 30 Minuten durchrühren.",
       "Noch 2 Stunden fest werden lassen, dann mit den Restzutaten anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -218388,7 +218403,7 @@
       "Die Basis 1 Minute glatt pürieren oder verrühren.",
       "In der Eismaschine 20 Minuten cremig rühren. Ohne Maschine 3 Stunden einfrieren und alle 30 Minuten durchrühren.",
       "Noch 2 Stunden fest werden lassen, dann mit den Restzutaten anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -221992,7 +222007,7 @@
       "Die Basis 1 Minute glatt pürieren oder verrühren.",
       "In der Eismaschine 20 Minuten cremig rühren. Ohne Maschine 3 Stunden einfrieren und alle 30 Minuten durchrühren.",
       "Noch 2 Stunden fest werden lassen, dann mit den Restzutaten anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -222050,7 +222065,7 @@
       "Die Basis 1 Minute glatt pürieren oder verrühren.",
       "In der Eismaschine 20 Minuten cremig rühren. Ohne Maschine 3 Stunden einfrieren und alle 30 Minuten durchrühren.",
       "Noch 2 Stunden fest werden lassen, dann mit den Restzutaten anrichten.",
-      "Mit Wasser abschmecken und sofort servieren."
+      "Abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -222112,7 +222127,7 @@
       "Die Basis 1 Minute glatt pürieren oder verrühren.",
       "In der Eismaschine 20 Minuten cremig rühren. Ohne Maschine 3 Stunden einfrieren und alle 30 Minuten durchrühren.",
       "Noch 2 Stunden fest werden lassen, dann mit den Restzutaten anrichten.",
-      "Mit Vanille und Wasser abschmecken und sofort servieren."
+      "Mit Vanille abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -222886,7 +222901,7 @@
       "Den Teig 5 Minuten verkneten oder mischen und formen.",
       "Bei 180 °C 18 Minuten goldbraun backen.",
       "5 Minuten abkühlen und mit den restlichen Zutaten servieren.",
-      "Mit Zimt und Wasser abschmecken und sofort servieren."
+      "Mit Zimt abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -225512,7 +225527,9 @@
       "mediterran",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "lupinen"
+    ]
   },
   {
     "id": "rec_3257",
@@ -226581,11 +226598,11 @@
     "dietTags": [
       "vegetarisch",
       "glutenfrei",
-      "laktosefrei",
       "keto",
       "low-carb"
     ],
     "allergens": [
+      "milch",
       "ei"
     ]
   },
@@ -230926,12 +230943,13 @@
     ],
     "dietTags": [
       "glutenfrei",
-      "laktosefrei",
       "high-protein",
       "kalorienarm",
       "low-carb"
     ],
-    "allergens": []
+    "allergens": [
+      "milch"
+    ]
   },
   {
     "id": "rec_3327",
@@ -233622,11 +233640,11 @@
   {
     "id": "rec_3364",
     "title": "Poularde mit Morcheln, Lauch, grünem Spargel und Reis",
-    "calories": 515,
+    "calories": 475,
     "protein": 42,
-    "carbs": 41,
+    "carbs": 42,
     "fiber": 6,
-    "fat": 18,
+    "fat": 14,
     "servingSizeGrams": 535,
     "prepTimeMinutes": 40,
     "suitableMealTypes": [
@@ -234259,11 +234277,11 @@
   {
     "id": "rec_3373",
     "title": "Hähnchen mit Äpfeln, Sahne und Reis",
-    "calories": 530,
+    "calories": 480,
     "protein": 37,
     "carbs": 46,
     "fiber": 2,
-    "fat": 21,
+    "fat": 15,
     "servingSizeGrams": 405,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
@@ -235432,11 +235450,11 @@
   {
     "id": "rec_3390",
     "title": "Putengeschnetzeltes mit Pfifferlingen, Sahne und Spätzle",
-    "calories": 590,
+    "calories": 540,
     "protein": 45,
     "carbs": 48,
     "fiber": 7,
-    "fat": 23,
+    "fat": 17,
     "servingSizeGrams": 440,
     "prepTimeMinutes": 25,
     "suitableMealTypes": [
@@ -237494,11 +237512,11 @@
   {
     "id": "rec_3420",
     "title": "Hühnerleber-Mousse auf Gurkenscheiben mit Preiselbeere",
-    "calories": 240,
+    "calories": 200,
     "protein": 15,
     "carbs": 5,
     "fiber": 2,
-    "fat": 17,
+    "fat": 13,
     "servingSizeGrams": 215,
     "prepTimeMinutes": 20,
     "suitableMealTypes": [
@@ -241265,7 +241283,7 @@
       "Brokkoli, Linsen (ungekocht), Zucchini, Zitronensaft, Petersilie und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Zwiebel und die feste Basis 8 Minuten anbraten, dann 25 Minuten mit Gemüse und Flüssigkeit schmoren.",
       "Die Beilage 15 Minuten garen und den Topf heiß anrichten.",
-      "Mit Wasser und Pfeffer abschmecken und sofort servieren."
+      "Mit Pfeffer abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -241514,7 +241532,7 @@
       "Putenbrust, Weißkohl, Zucchini, Paprika, Rapsöl, Fenchel und Tomaten bereitstellen, waschen, schneiden oder abmessen.",
       "Zwiebel und die feste Basis 8 Minuten anbraten, dann 25 Minuten mit Gemüse und Flüssigkeit schmoren.",
       "Die Beilage 15 Minuten garen und den Topf heiß anrichten.",
-      "Mit Kümmel, Wasser und Pfeffer abschmecken und sofort servieren."
+      "Mit Kümmel und Pfeffer abschmecken und sofort servieren."
     ],
     "dietTags": [
       "glutenfrei",
@@ -241732,7 +241750,7 @@
       "Hähnchenbrust, Chinakohl, Karotten, Zucchini, Ingwer, Rapsöl, Champignons, Tomaten und Fenchel bereitstellen, waschen, schneiden oder abmessen.",
       "Zwiebel und die feste Basis 8 Minuten anbraten, dann 25 Minuten mit Gemüse und Flüssigkeit schmoren.",
       "Die Beilage 15 Minuten garen und den Topf heiß anrichten.",
-      "Mit Wasser und Pfeffer abschmecken und sofort servieren."
+      "Mit Pfeffer abschmecken und sofort servieren."
     ],
     "dietTags": [
       "glutenfrei",
@@ -242023,7 +242041,7 @@
       "Wirsing, Kartoffeln, Karotten, Weiße Bohnen (abgetropft), Petersilie und Rapsöl bereitstellen, waschen, schneiden oder abmessen.",
       "Zwiebel und die feste Basis 8 Minuten anbraten, dann 25 Minuten mit Gemüse und Flüssigkeit schmoren.",
       "Die Beilage 15 Minuten garen und den Topf heiß anrichten.",
-      "Mit Wasser und Pfeffer abschmecken und sofort servieren."
+      "Mit Pfeffer abschmecken und sofort servieren."
     ],
     "dietTags": [
       "vegetarisch",
@@ -269294,6 +269312,7 @@
     "allergens": [
       "gluten",
       "milch",
+      "senf",
       "sulfite"
     ]
   },
@@ -277107,7 +277126,8 @@
       "volumenreich"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "senf"
     ]
   },
   {
@@ -281232,6 +281252,7 @@
     ],
     "allergens": [
       "soja",
+      "sesam",
       "sulfite"
     ]
   },
@@ -283846,7 +283867,8 @@
       "volumenreich"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "senf"
     ]
   },
   {
@@ -285916,7 +285938,8 @@
     ],
     "allergens": [
       "schalenfruechte",
-      "soja"
+      "soja",
+      "senf"
     ]
   },
   {
@@ -286751,7 +286774,8 @@
       "volumenreich"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "senf"
     ]
   },
   {
@@ -291717,6 +291741,7 @@
     "allergens": [
       "ei",
       "soja",
+      "sesam",
       "sulfite"
     ]
   },
@@ -293036,7 +293061,8 @@
     ],
     "allergens": [
       "milch",
-      "ei"
+      "ei",
+      "senf"
     ]
   },
   {
@@ -298668,7 +298694,8 @@
       "quick-win"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "senf"
     ]
   },
   {
@@ -309497,7 +309524,8 @@
       "volumenreich"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "senf"
     ]
   },
   {
@@ -316419,7 +316447,7 @@
       "Sojagranulat mit Gemüsebrühe übergießen, 10 Minuten quellen lassen und gut ausdrücken.",
       "Sojagranulat, Knoblauch, passierte Tomaten und Oregano in einer beschichteten Pfanne ohne Fett 8 Minuten krümelig braten.",
       "Für die Creme Seidentofu, Hefeflocken, Erbsenprotein und Muskat im Mixer glatt pürieren.",
-      "Zucchinischeiben, Sojasauce und Béchamel abwechselnd in eine kleine Auflaufform schichten und bei 190 °C 30 Minuten backen."
+      "Zucchinischeiben, Sojahack-Sauce und Béchamel abwechselnd in eine kleine Auflaufform schichten und bei 190 °C 30 Minuten backen."
     ],
     "dietTags": [
       "vegetarisch",
@@ -317501,7 +317529,8 @@
       "volumenreich"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "senf"
     ]
   },
   {
@@ -317820,6 +317849,7 @@
     ],
     "allergens": [
       "soja",
+      "senf",
       "lupinen",
       "sulfite"
     ]
@@ -346702,7 +346732,8 @@
     ],
     "allergens": [
       "milch",
-      "ei"
+      "ei",
+      "senf"
     ]
   },
   {
@@ -347730,6 +347761,7 @@
       "ballaststoffreich"
     ],
     "allergens": [
+      "senf",
       "sulfite"
     ]
   },
@@ -349191,7 +349223,8 @@
       "quick-win"
     ],
     "allergens": [
-      "milch"
+      "milch",
+      "sesam"
     ]
   },
   {
@@ -350569,7 +350602,8 @@
     ],
     "allergens": [
       "milch",
-      "ei"
+      "ei",
+      "sesam"
     ]
   },
   {
@@ -357957,7 +357991,9 @@
       "laktosefrei",
       "ballaststoffreich"
     ],
-    "allergens": []
+    "allergens": [
+      "senf"
+    ]
   },
   {
     "id": "rec_5128",
@@ -358187,7 +358223,8 @@
     ],
     "allergens": [
       "gluten",
-      "erdnuss"
+      "erdnuss",
+      "senf"
     ]
   },
   {
@@ -358977,6 +359014,7 @@
       "ballaststoffreich"
     ],
     "allergens": [
+      "senf",
       "sulfite"
     ]
   },
@@ -360337,7 +360375,9 @@
       "mediterran",
       "low-gi"
     ],
-    "allergens": []
+    "allergens": [
+      "sesam"
+    ]
   },
   {
     "id": "rec_5159",
@@ -364659,6 +364699,7 @@
       "ballaststoffreich"
     ],
     "allergens": [
+      "senf",
       "sulfite"
     ]
   },
@@ -370503,7 +370544,7 @@
     "carbs": 29,
     "fiber": 13,
     "fat": 9,
-    "servingSizeGrams": 390,
+    "servingSizeGrams": 435,
     "prepTimeMinutes": 30,
     "suitableMealTypes": [
       "breakfast"
@@ -370538,6 +370579,10 @@
         "amount": "1/2 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "3 EL"
+      },
+      {
         "name": "Tamari (glutenfrei)",
         "amount": "1 TL"
       },
@@ -370567,7 +370612,8 @@
       "laktosefrei",
       "high-protein",
       "kalorienarm",
-      "ballaststoffreich"
+      "ballaststoffreich",
+      "volumenreich"
     ],
     "allergens": [
       "soja"
@@ -378008,7 +378054,8 @@
       "low-gi"
     ],
     "allergens": [
-      "soja"
+      "soja",
+      "sesam"
     ]
   },
   {
@@ -380131,6 +380178,7 @@
     ],
     "allergens": [
       "soja",
+      "senf",
       "lupinen"
     ]
   },
@@ -380872,7 +380920,7 @@
     "carbs": 13,
     "fiber": 10,
     "fat": 16,
-    "servingSizeGrams": 260,
+    "servingSizeGrams": 275,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack"
@@ -380901,6 +380949,10 @@
       {
         "name": "Limettensaft, Chiliflocken",
         "amount": "1 TL, 1 Prise"
+      },
+      {
+        "name": "Wasser",
+        "amount": "1 EL"
       }
     ],
     "instructions": [
@@ -382049,6 +382101,7 @@
     "allergens": [
       "milch",
       "ei",
+      "senf",
       "sulfite"
     ]
   },
@@ -383398,6 +383451,7 @@
     ],
     "allergens": [
       "soja",
+      "senf",
       "lupinen",
       "sulfite"
     ]
@@ -384250,7 +384304,7 @@
     "carbs": 16,
     "fiber": 10,
     "fat": 16,
-    "servingSizeGrams": 410,
+    "servingSizeGrams": 440,
     "prepTimeMinutes": 15,
     "suitableMealTypes": [
       "snack"
@@ -384281,6 +384335,10 @@
         "amount": "1 TL"
       },
       {
+        "name": "Wasser",
+        "amount": "2 EL"
+      },
+      {
         "name": "Gurke",
         "amount": "1/2"
       },
@@ -384309,7 +384367,8 @@
       "ballaststoffreich",
       "low-carb",
       "mediterran",
-      "low-gi"
+      "low-gi",
+      "volumenreich"
     ],
     "allergens": [
       "soja"

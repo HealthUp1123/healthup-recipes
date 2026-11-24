@@ -569,7 +569,8 @@
       "Red pepper"
     ],
     "instructions": [
-      "Cut the carrot, cucumber and pepper into sticks.",
+      "Wash and trim the carrot, cucumber and pepper.",
+      "Cut the vegetables into sticks.",
       "Spoon the hummus into a small bowl and serve with the vegetables."
     ]
   },
@@ -584,7 +585,8 @@
     ],
     "instructions": [
       "Put all the ingredients into a blender.",
-      "Blend for 30 seconds until creamy and serve immediately."
+      "Blend for 30 seconds until creamy.",
+      "Pour into a glass and serve immediately."
     ]
   },
   {
@@ -597,7 +599,8 @@
     ],
     "instructions": [
       "Spoon the cottage cheese into a bowl.",
-      "Dice the pineapple, spread it on top and sprinkle with linseeds."
+      "Dice the pineapple and spread it on top.",
+      "Sprinkle with linseeds."
     ]
   },
   {
@@ -609,7 +612,8 @@
     ],
     "instructions": [
       "Boil the edamame in salted water for 4–5 minutes.",
-      "Drain, sprinkle with sea salt and serve warm."
+      "Drain well.",
+      "Sprinkle with sea salt and serve warm."
     ]
   },
   {
@@ -682,7 +686,8 @@
     ],
     "instructions": [
       "Put the berries, skyr, milk and oats into the blender.",
-      "Blend until creamy and drink straight away."
+      "Blend until creamy.",
+      "Pour into a glass and drink straight away."
     ]
   },
   {
@@ -697,7 +702,8 @@
     ],
     "instructions": [
       "Put all the ingredients into a blender.",
-      "Blend for 30 seconds until creamy and serve immediately."
+      "Blend for 30 seconds until creamy.",
+      "Pour into a glass and serve immediately."
     ]
   },
   {
@@ -783,7 +789,8 @@
       "Honey"
     ],
     "instructions": [
-      "Blend the frozen mango with the yoghurt and honey until creamy.",
+      "Put the frozen mango, yoghurt and honey into the blender.",
+      "Blend everything until creamy.",
       "Serve straight away or freeze briefly."
     ]
   },
@@ -2533,7 +2540,7 @@
   },
   {
     "id": "rec_148",
-    "title": "Flammkuchen Wraps with Ham and Onions",
+    "title": "Flammkuchen Wraps with Turkey Ham and Onions",
     "ingredients": [
       "Wholegrain wrap",
       "Light soured cream",
@@ -4571,7 +4578,7 @@
     "id": "rec_255",
     "title": "Kaya Toast with Soft-Boiled Egg",
     "ingredients": [
-      "Toast",
+      "Toast bread",
       "Egg for the kaya (medium)",
       "Coconut milk (full-fat)",
       "Sugar",
@@ -6416,7 +6423,7 @@
   },
   {
     "id": "rec_359",
-    "title": "Potato Soup with Frankfurters",
+    "title": "Potato Soup with Poultry Frankfurters",
     "ingredients": [
       "Potatoes (floury)",
       "Carrot",
@@ -7628,7 +7635,7 @@
       "Onion",
       "Olive oil",
       "Rye bread",
-      "Cornichons",
+      "Gherkins",
       "Thyme, garlic, pepper"
     ],
     "instructions": [
@@ -12165,7 +12172,7 @@
       "Passata",
       "Low-fat milk (1.5%)",
       "Cornflour",
-      "Mozzarella (light)",
+      "Light mozzarella",
       "Olive oil",
       "Oregano, salt, pepper, nutmeg"
     ],
@@ -12184,7 +12191,7 @@
       "Aubergine",
       "Olive oil",
       "Passata",
-      "Mozzarella (light)",
+      "Light mozzarella",
       "Vegetarian hard cheese (Parmesan-style)",
       "Basil",
       "Wholegrain bread",
@@ -13086,7 +13093,7 @@
     "ingredients": [
       "Wheat flour",
       "Water (lukewarm)",
-      "Mozzarella (light)",
+      "Light mozzarella",
       "Feta",
       "Egg",
       "Butter",
@@ -13251,7 +13258,7 @@
     "ingredients": [
       "Wholegrain wheat tortilla (large)",
       "Black beans (tinned, drained)",
-      "Mozzarella (light)",
+      "Light mozzarella",
       "White cabbage",
       "Tomato",
       "Avocado",
@@ -13455,7 +13462,7 @@
       "Risotto rice (uncooked)",
       "Vegetable stock",
       "Peas (frozen)",
-      "Mozzarella (light)",
+      "Light mozzarella",
       "Vegetarian hard cheese (Parmesan-style)",
       "Panko",
       "Egg",
@@ -13852,7 +13859,7 @@
       "Ricotta",
       "Spinach leaves",
       "Passata",
-      "Mozzarella (light)",
+      "Light mozzarella",
       "Olive oil",
       "Sage, nutmeg, salt, pepper"
     ],
@@ -13909,12 +13916,12 @@
     "id": "rec_727",
     "title": "Keto eggs Florentine with butter hollandaise on leaf spinach",
     "ingredients": [
-      "Eier",
-      "Eigelb",
+      "Eggs",
+      "Egg yolk",
       "Butter",
       "Leaf spinach",
       "Lemon juice",
-      "Salz, Pfeffer, Muskat"
+      "Salt, pepper, nutmeg"
     ],
     "instructions": [
       "Wilt the spinach in a dry pan, squeeze it out and season with salt and nutmeg.",
@@ -13928,8 +13935,8 @@
     "title": "Baked avocado with egg, Alpine cheese and chives",
     "ingredients": [
       "Avocado",
-      "Eier",
-      "Bergkaese",
+      "Eggs",
+      "Mountain cheese",
       "Chives",
       "Seasoning"
     ],
@@ -13943,12 +13950,12 @@
     "id": "rec_729",
     "title": "Cream cheese pancakes with raspberries and flaked almonds",
     "ingredients": [
-      "Frischkaese (Doppelrahmstufe)",
-      "Eier",
-      "Mandelmehl (blanchiert)",
+      "Full-fat cream cheese",
+      "Eggs",
+      "Almond flour (blanched)",
       "Butter",
       "Raspberries",
-      "Mandelblaettchen",
+      "Flaked almonds",
       "Cinnamon"
     ],
     "instructions": [
@@ -13961,7 +13968,7 @@
     "id": "rec_730",
     "title": "Mushroom and Gruyère omelette with thyme",
     "ingredients": [
-      "Eier",
+      "Eggs",
       "Mushrooms",
       "Gruyre",
       "Butter",
@@ -13981,10 +13988,10 @@
       "Halloumi",
       "Egg",
       "Tomato",
-      "Schwarze Oliven",
+      "Black olives",
       "Cucumber",
       "Olive oil",
-      "Oregano, Pfeffer"
+      "Oregano, pepper"
     ],
     "instructions": [
       "Cut the halloumi into 2 slices and fry in half the oil for 2 minutes per side until golden.",
@@ -13996,12 +14003,12 @@
     "id": "rec_732",
     "title": "Grain-free nut and coconut granola with Greek yoghurt",
     "ingredients": [
-      "Griechischer Joghurt (10 % Fett)",
+      "Greek yoghurt (10 % fat)",
       "Almonds",
       "Walnuts",
-      "Kokosraspel",
-      "Kürbiskerne",
-      "Kokosoel",
+      "Desiccated coconut",
+      "Pumpkin seeds",
+      "Coconut oil",
       "Raspberries",
       "Cinnamon"
     ],
@@ -14015,10 +14022,10 @@
     "id": "rec_733",
     "title": "Almond and psyllium roll with avocado and egg",
     "ingredients": [
-      "Mandelmehl (blanchiert)",
-      "Flohsamenschalen",
+      "Almond flour (blanched)",
+      "Psyllium husk",
       "Egg white",
-      "Wasser",
+      "Water",
       "Baking powder, salt",
       "Avocado",
       "Egg"
@@ -14033,9 +14040,9 @@
     "id": "rec_734",
     "title": "Goat's cheese and courgette frittata with mint",
     "ingredients": [
-      "Eier",
+      "Eggs",
       "Zucchini",
-      "Ziegenkaese (Rolle)",
+      "Goat cheese (log)",
       "Olive oil",
       "Mint",
       "Seasoning"
@@ -14050,8 +14057,8 @@
     "id": "rec_735",
     "title": "Scrambled eggs with smoked salmon, dill crème fraîche and cucumber",
     "ingredients": [
-      "Eier",
-      "Raeucherlachs",
+      "Eggs",
+      "Smoked salmon",
       "Crme frache",
       "Butter",
       "Dill",
@@ -14068,11 +14075,11 @@
     "id": "rec_736",
     "title": "Warm hemp and flaxseed porridge with coconut milk and blueberries",
     "ingredients": [
-      "Hanfsamen (geschaelt)",
+      "Hemp seeds (hulled)",
       "Ground flaxseed",
-      "Chiasamen",
-      "Kokosmilch (vollfett)",
-      "Wasser",
+      "Chia seeds",
+      "Coconut milk (full-fat)",
+      "Water",
       "Blueberries",
       "Cinnamon"
     ],
@@ -14086,12 +14093,12 @@
     "id": "rec_737",
     "title": "Ground beef breakfast skillet with spinach, mushrooms and fried egg",
     "ingredients": [
-      "Rinderhack (15 % Fett)",
+      "Minced beef (15 % fat)",
       "Leaf spinach",
       "Mushrooms",
       "Egg",
       "Olive oil",
-      "Paprikapulver, Salz, Pfeffer"
+      "Paprika, salt, pepper"
     ],
     "instructions": [
       "Fry the ground beef in the oil until crumbly and season with paprika, salt and pepper.",
@@ -14104,9 +14111,9 @@
     "title": "Mascarpone berry cream with toasted hazelnuts",
     "ingredients": [
       "Mascarpone",
-      "Griechischer Joghurt (10 % Fett)",
-      "Gemischte Beeren",
-      "Haselnuesse",
+      "Greek yoghurt (10 % fat)",
+      "Mixed berries",
+      "Hazelnuts",
       "Spice blend, unsalted"
     ],
     "instructions": [
@@ -14119,10 +14126,10 @@
     "id": "rec_739",
     "title": "Tuscan creamy salmon with spinach and sun-dried tomatoes",
     "ingredients": [
-      "Lachsfilet",
-      "Schlagsahne (30 %)",
+      "Salmon fillet",
+      "Whipping cream (30 %)",
       "Leaf spinach",
-      "Getrocknete Tomaten",
+      "Sun-dried tomatoes",
       "Garlic",
       "Parmesan",
       "Olive oil",
@@ -14141,8 +14148,8 @@
       "Chicken thighs with skin",
       "Butter",
       "Garlic",
-      "Grüne Bohnen",
-      "Mandelblaettchen",
+      "Green beans",
+      "Flaked almonds",
       "Parsley",
       "Seasoning"
     ],
@@ -14158,13 +14165,13 @@
     "ingredients": [
       "Chicken thighs with skin",
       "Butter",
-      "Schlagsahne (30 %)",
+      "Whipping cream (30 %)",
       "Passata",
-      "Tomatenmark",
+      "Tomato paste",
       "Ginger",
       "Garlic",
       "Cauliflower",
-      "Garam Masala, Chili, Salz"
+      "Garam masala, chilli, salt"
     ],
     "instructions": [
       "Dice the chicken, season with garam masala and salt and brown in half the butter for 6 minutes.",
@@ -14176,9 +14183,9 @@
     "id": "rec_742",
     "title": "Sirloin steak with herb butter and broccoli",
     "ingredients": [
-      "Rumpsteak",
+      "Rump steak",
       "Butter",
-      "Kraeuter (Petersilie, Schnittlauch)",
+      "Herbs (parsley, chives)",
       "Garlic",
       "Broccoli",
       "Olive oil",
@@ -14195,7 +14202,7 @@
     "id": "rec_743",
     "title": "Lamb chops with mint gremolata and roasted courgette",
     "ingredients": [
-      "Lammkoteletts",
+      "Lamb chops",
       "Zucchini",
       "Olive oil",
       "Mint",
@@ -14215,7 +14222,7 @@
     "title": "Courgette lasagne with ground beef and ricotta",
     "ingredients": [
       "Zucchini",
-      "Rinderhack (15 % Fett)",
+      "Minced beef (15 % fat)",
       "Ricotta",
       "Mozzarella",
       "Passata",
@@ -14237,7 +14244,7 @@
       "Cauliflower",
       "Egg",
       "Mozzarella",
-      "Vegetarischer Hartkaese (Parmesan-Art)",
+      "Vegetarian hard cheese (parmesan style)",
       "Passata",
       "Tomato",
       "Rocket",
@@ -14257,8 +14264,8 @@
     "ingredients": [
       "Mackerel fillet",
       "Butter",
-      "Senf (mittelscharf)",
-      "Grüne Bohnen",
+      "Medium-hot mustard",
+      "Green beans",
       "Cucumber",
       "Olive oil",
       "White wine vinegar",
@@ -14276,9 +14283,9 @@
     "title": "Courgette spaghetti Bolognese with ground beef and Parmesan",
     "ingredients": [
       "Zucchini",
-      "Rinderhack (15 % Fett)",
-      "Stueckige Tomaten (Dose)",
-      "Tomatenmark",
+      "Minced beef (15 % fat)",
+      "Chopped tomatoes (tinned)",
+      "Tomato paste",
       "Olive oil",
       "Parmesan",
       "Garlic",
@@ -14297,9 +14304,9 @@
     "ingredients": [
       "Chicken thighs with skin",
       "Broccoli",
-      "Schlagsahne (30 %)",
+      "Whipping cream (30 %)",
       "Gruyre",
-      "Muskat",
+      "Nutmeg",
       "Seasoning"
     ],
     "instructions": [
@@ -14313,12 +14320,12 @@
     "title": "Red Thai curry with chicken thigh and coconut milk",
     "ingredients": [
       "Skinless chicken thighs",
-      "Kokosmilch (vollfett)",
-      "Rote Currypaste",
-      "Rote Paprika",
+      "Coconut milk (full-fat)",
+      "Red curry paste",
+      "Red pepper",
       "Zucchini",
-      "Fischsauce",
-      "Thai-Basilikum",
+      "Fish sauce",
+      "Thai basil",
       "Lime juice"
     ],
     "instructions": [
@@ -14337,7 +14344,7 @@
       "Leaf spinach",
       "Pine nuts",
       "Passata",
-      "Vegetarischer Hartkaese (Parmesan-Art)",
+      "Vegetarian hard cheese (parmesan style)",
       "Olive oil",
       "Basil",
       "Seasoning"
@@ -14353,13 +14360,13 @@
     "id": "rec_751",
     "title": "Salmon avocado salad with sesame ginger dressing",
     "ingredients": [
-      "Lachsfilet",
+      "Salmon fillet",
       "Avocado",
-      "Blattsalat",
+      "Lettuce",
       "Cucumber",
-      "Sesam",
+      "Sesame seeds",
       "Sesame oil",
-      "Sojasauce",
+      "Soy sauce",
       "Ginger",
       "Lime juice"
     ],
@@ -14376,11 +14383,11 @@
       "Chicken breast",
       "Egg",
       "Avocado",
-      "Blauschimmelkaese (Gorgonzola)",
-      "Blattsalat",
+      "Blue cheese (gorgonzola)",
+      "Lettuce",
       "Tomato",
       "Olive oil",
-      "Rotweinessig",
+      "Red wine vinegar",
       "Seasoning"
     ],
     "instructions": [
@@ -14393,7 +14400,7 @@
     "id": "rec_753",
     "title": "Beef carpaccio with rocket, capers and Parmesan",
     "ingredients": [
-      "Rinderfilet",
+      "Beef fillet",
       "Rocket",
       "Capers",
       "Parmesan",
@@ -14412,13 +14419,13 @@
     "id": "rec_754",
     "title": "Burger bowl with beef patty, cheddar, gherkin and mustard sauce",
     "ingredients": [
-      "Rinderhack (15 % Fett)",
+      "Minced beef (15 % fat)",
       "Cheddar",
-      "Gewuerzgurke",
-      "Blattsalat",
+      "Pickled gherkin",
+      "Lettuce",
       "Tomato",
-      "Senf (mittelscharf)",
-      "Saure Sahne (10 %)",
+      "Medium-hot mustard",
+      "Sour cream (10 % fat)",
       "Olive oil",
       "Seasoning"
     ],
@@ -14432,15 +14439,15 @@
     "id": "rec_755",
     "title": "Taco salad with ground beef, avocado, cheese and sour cream",
     "ingredients": [
-      "Rinderhack (15 % Fett)",
+      "Minced beef (15 % fat)",
       "Avocado",
       "Cheddar",
-      "Saure Sahne (10 %)",
-      "Eisbergsalat",
+      "Sour cream (10 % fat)",
+      "Iceberg lettuce",
       "Tomato",
       "Olive oil",
       "Lime juice",
-      "Kreuzkuemmel, Chili, Salz"
+      "Cumin, chilli, salt"
     ],
     "instructions": [
       "Fry the ground beef in the oil until crumbly and season with cumin, chilli and salt.",
@@ -14458,7 +14465,7 @@
       "Lemon juice",
       "Green asparagus",
       "Olive oil",
-      "Mandelmehl (blanchiert)",
+      "Almond flour (blanched)",
       "Parsley",
       "Seasoning"
     ],
@@ -14473,12 +14480,12 @@
     "id": "rec_757",
     "title": "Braised cucumbers with beef meatballs and dill cream",
     "ingredients": [
-      "Schmorgurke",
-      "Rinderhack (15 % Fett)",
-      "Schlagsahne (30 %)",
+      "Braising cucumber",
+      "Minced beef (15 % fat)",
+      "Whipping cream (30 %)",
       "Butter",
       "Dill",
-      "Senf (mittelscharf)",
+      "Medium-hot mustard",
       "Seasoning"
     ],
     "instructions": [
@@ -14492,13 +14499,13 @@
     "id": "rec_758",
     "title": "Crustless spinach and salmon quiche with dill",
     "ingredients": [
-      "Eier",
-      "Schlagsahne (30 %)",
-      "Lachsfilet",
+      "Eggs",
+      "Whipping cream (30 %)",
+      "Salmon fillet",
       "Leaf spinach",
       "Gruyre",
       "Dill",
-      "Salz, Pfeffer, Muskat"
+      "Salt, pepper, nutmeg"
     ],
     "instructions": [
       "Preheat the oven to 180 °C. Wilt the spinach, squeeze it out well and chop.",
@@ -14511,15 +14518,15 @@
     "id": "rec_759",
     "title": "Beef roulade with mustard and gherkin in cream sauce with Brussels sprouts",
     "ingredients": [
-      "Rinderrouladen (Oberschale)",
-      "Senf (mittelscharf)",
-      "Gewuerzgurke",
+      "Beef roulades (topside)",
+      "Medium-hot mustard",
+      "Pickled gherkin",
       "Onion",
-      "Schlagsahne (30 %)",
+      "Whipping cream (30 %)",
       "Butter",
       "Olive oil",
-      "Rosenkohl",
-      "Wasser",
+      "Brussels sprouts",
+      "Water",
       "Seasoning"
     ],
     "instructions": [
@@ -14533,13 +14540,13 @@
     "id": "rec_760",
     "title": "Meen moilee – Keralan coconut fish with green beans",
     "ingredients": [
-      "Lachsfilet",
-      "Kokosmilch (vollfett)",
-      "Kokosoel",
-      "Grüne Bohnen",
+      "Salmon fillet",
+      "Coconut milk (full-fat)",
+      "Coconut oil",
+      "Green beans",
       "Onion",
       "Ginger",
-      "Kurkuma, Chili, Curryblaetter, Salz"
+      "Turmeric, chilli, curry leaves, salt"
     ],
     "instructions": [
       "Cut the fish into pieces and rub with turmeric and salt.",
@@ -14551,11 +14558,11 @@
     "id": "rec_761",
     "title": "Salmon burger in portobello mushroom buns with avocado cream",
     "ingredients": [
-      "Lachsfilet",
+      "Salmon fillet",
       "Egg white",
-      "Portobello-Pilze",
+      "Portobello mushrooms",
       "Avocado",
-      "Griechischer Joghurt (10 % Fett)",
+      "Greek yoghurt (10 % fat)",
       "Lemon juice",
       "Olive oil",
       "Rocket",
@@ -14573,11 +14580,11 @@
     "ingredients": [
       "Broccoli",
       "Cheddar",
-      "Schlagsahne (30 %)",
+      "Whipping cream (30 %)",
       "Vegetable stock",
       "Butter",
-      "Kürbiskerne",
-      "Salz, Pfeffer, Muskat"
+      "Pumpkin seeds",
+      "Salt, pepper, nutmeg"
     ],
     "instructions": [
       "Divide the broccoli into florets, peel and dice the stalk and sweat in the butter for 3 minutes.",
@@ -14591,11 +14598,11 @@
     "title": "Creamy mushroom soup with thyme and walnuts",
     "ingredients": [
       "Mushrooms",
-      "Schlagsahne (30 %)",
+      "Whipping cream (30 %)",
       "Vegetable stock",
       "Butter",
       "Walnuts",
-      "Vegetarischer Hartkaese (Parmesan-Art)",
+      "Vegetarian hard cheese (parmesan style)",
       "Onion",
       "Thyme",
       "Seasoning"
@@ -14610,12 +14617,12 @@
     "id": "rec_764",
     "title": "Shirataki ramen with chicken thigh, egg and pak choi",
     "ingredients": [
-      "Shirataki-Nudeln",
+      "Shirataki noodles",
       "Chicken thighs with skin",
       "Egg",
-      "Pak Choi",
-      "Huehnerbruehe",
-      "Sojasauce",
+      "Pak choi",
+      "Chicken stock",
+      "Soy sauce",
       "Sesame oil",
       "Ginger",
       "Spring onion"
@@ -14631,12 +14638,12 @@
     "id": "rec_765",
     "title": "Wok-fried beef and broccoli with sesame",
     "ingredients": [
-      "Rumpsteak",
+      "Rump steak",
       "Broccoli",
-      "Sojasauce",
+      "Soy sauce",
       "Sesame oil",
-      "Rapsoel",
-      "Sesam",
+      "Rapeseed oil",
+      "Sesame seeds",
       "Ginger",
       "Garlic"
     ],
@@ -14652,12 +14659,12 @@
     "title": "Paneer tikka skewers with peppers and mint yoghurt",
     "ingredients": [
       "Paneer",
-      "Rote Paprika",
-      "Griechischer Joghurt (10 % Fett)",
+      "Red pepper",
+      "Greek yoghurt (10 % fat)",
       "Ghee",
       "Mint",
       "Lemon juice",
-      "Tandoori-Gewuerz, Salz"
+      "Tandoori spice, salt"
     ],
     "instructions": [
       "Dice the paneer and marinate with 30 g of the yoghurt, tandoori spice and salt for 20 minutes.",
@@ -14672,8 +14679,8 @@
       "Halloumi",
       "Zucchini",
       "Olive oil",
-      "Kraeuter (Oregano, Thymian)",
-      "Feldsalat",
+      "Herbs (oregano, thyme)",
+      "Lamb's lettuce",
       "Lemon juice",
       "Seasoning"
     ],
@@ -14687,9 +14694,9 @@
     "id": "rec_768",
     "title": "Baked salmon with pesto crust and roasted tomatoes",
     "ingredients": [
-      "Lachsfilet",
-      "Pesto (Basilikum)",
-      "Mandelmehl (blanchiert)",
+      "Salmon fillet",
+      "Pesto (basil)",
+      "Almond flour (blanched)",
       "Cherry tomatoes",
       "Olive oil",
       "Seasoning"
@@ -14705,8 +14712,8 @@
     "title": "Chicken breast in Gorgonzola spinach sauce",
     "ingredients": [
       "Chicken breast",
-      "Blauschimmelkaese (Gorgonzola)",
-      "Schlagsahne (30 %)",
+      "Blue cheese (gorgonzola)",
+      "Whipping cream (30 %)",
       "Leaf spinach",
       "Butter",
       "Walnuts",
@@ -14723,11 +14730,11 @@
     "title": "Tofu coconut curry with spinach and peanuts",
     "ingredients": [
       "Plain tofu",
-      "Kokosmilch (vollfett)",
+      "Coconut milk (full-fat)",
       "Leaf spinach",
       "Unsalted peanuts",
-      "Rote Currypaste",
-      "Kokosoel",
+      "Red curry paste",
+      "Coconut oil",
       "Lime juice"
     ],
     "instructions": [
@@ -14740,10 +14747,10 @@
     "id": "rec_771",
     "title": "Tuna-stuffed avocado boats with lime and sesame",
     "ingredients": [
-      "Thunfisch (Dose, im eigenen Saft)",
+      "Tuna (tinned, in own juice)",
       "Avocado",
       "Lime juice",
-      "Sesam",
+      "Sesame seeds",
       "Spring onion",
       "Olive oil",
       "Seasoning"
@@ -14758,9 +14765,9 @@
     "id": "rec_772",
     "title": "Pan-fried Arctic char with almond butter and Swiss chard",
     "ingredients": [
-      "Saibling-Filet",
+      "Char fillet",
       "Butter",
-      "Mandelblaettchen",
+      "Flaked almonds",
       "Chard",
       "Olive oil",
       "Lemon juice",
@@ -14776,11 +14783,11 @@
     "id": "rec_773",
     "title": "Cocoa coconut bites with almond butter (fat bombs)",
     "ingredients": [
-      "Frischkaese (Doppelrahmstufe)",
-      "Mandelmus",
-      "Kokosoel",
-      "Kakaopulver (ungesuesst)",
-      "Kokosraspel",
+      "Full-fat cream cheese",
+      "Almond butter",
+      "Coconut oil",
+      "Unsweetened cocoa powder",
+      "Desiccated coconut",
       "Spice blend, unsalted"
     ],
     "instructions": [
@@ -14793,10 +14800,10 @@
     "id": "rec_774",
     "title": "Vegetarian hard cheese crisps with rosemary and cucumber sticks",
     "ingredients": [
-      "Vegetarischer Hartkaese (Parmesan-Art)",
+      "Vegetarian hard cheese (parmesan style)",
       "Rosemary",
-      "Gurkensticks",
-      "Frischkaese (Doppelrahmstufe)",
+      "Cucumber sticks",
+      "Full-fat cream cheese",
       "Olive oil"
     ],
     "instructions": [
@@ -14809,7 +14816,7 @@
     "id": "rec_775",
     "title": "Deviled eggs with avocado cream and paprika",
     "ingredients": [
-      "Eier",
+      "Eggs",
       "Avocado",
       "Olive oil",
       "Lemon juice",
@@ -14826,12 +14833,12 @@
     "id": "rec_776",
     "title": "Marinated olives with feta, almonds and lemon zest",
     "ingredients": [
-      "Schwarze Oliven",
+      "Black olives",
       "Feta",
       "Almonds",
       "Olive oil",
       "Lemon zest",
-      "Kraeuter (Oregano, Thymian)"
+      "Herbs (oregano, thyme)"
     ],
     "instructions": [
       "Toast the almonds in a dry pan for 3 minutes.",
@@ -14843,12 +14850,12 @@
     "id": "rec_777",
     "title": "Greek yoghurt with oven-roasted cinnamon pecans",
     "ingredients": [
-      "Griechischer Joghurt (10 % Fett)",
-      "Pekannuesse",
+      "Greek yoghurt (10 % fat)",
+      "Pecans",
       "Egg white",
       "Butter",
       "Cinnamon",
-      "Meersalz"
+      "Sea salt"
     ],
     "instructions": [
       "Preheat the oven to 160 °C. Whisk the egg white until foamy and mix with the melted butter, cinnamon and salt.",
@@ -14860,7 +14867,7 @@
     "id": "rec_778",
     "title": "Salmon tartare on cucumber slices with crème fraîche",
     "ingredients": [
-      "Lachs (Sushiqualitaet)",
+      "Salmon, sushi grade",
       "Cucumber",
       "Crme frache",
       "Chives",
@@ -14878,8 +14885,8 @@
     "id": "rec_779",
     "title": "Celery sticks with cream cheese and walnut filling",
     "ingredients": [
-      "Staudensellerie",
-      "Frischkaese (Doppelrahmstufe)",
+      "Celery",
+      "Full-fat cream cheese",
       "Walnuts",
       "Chives",
       "Seasoning"
@@ -14911,7 +14918,7 @@
     "title": "Bresaola rolls with cream cheese and rocket",
     "ingredients": [
       "Bresaola",
-      "Frischkaese (Doppelrahmstufe)",
+      "Full-fat cream cheese",
       "Rocket",
       "Olive oil",
       "Lemon juice",
@@ -14930,7 +14937,7 @@
       "Camembert",
       "Walnuts",
       "Thyme",
-      "Gurkensticks",
+      "Cucumber sticks",
       "Pepper"
     ],
     "instructions": [
@@ -14946,8 +14953,8 @@
       "Almonds",
       "Olive oil",
       "Rosemary",
-      "Meersalz",
-      "Gurkensticks",
+      "Sea salt",
+      "Cucumber sticks",
       "Radishes"
     ],
     "instructions": [
@@ -14960,8 +14967,8 @@
     "id": "rec_784",
     "title": "Coconut panna cotta with agar agar and raspberries",
     "ingredients": [
-      "Kokosmilch (vollfett)",
-      "Agar-Agar",
+      "Coconut milk (full-fat)",
+      "Agar agar",
       "Raspberries",
       "Spice blend, unsalted"
     ],
@@ -14975,10 +14982,10 @@
     "id": "rec_785",
     "title": "Coconut chocolate cream with 85 % chocolate and toasted almonds",
     "ingredients": [
-      "Kokosmilch (vollfett)",
-      "Zartbitterschokolade (85 %)",
-      "Chiasamen",
-      "Mandelblaettchen",
+      "Coconut milk (full-fat)",
+      "Dark chocolate (85 %)",
+      "Chia seeds",
+      "Flaked almonds",
       "Spice blend, unsalted"
     ],
     "instructions": [
@@ -14992,9 +14999,9 @@
     "title": "Mascarpone mousse with cocoa and hazelnuts",
     "ingredients": [
       "Mascarpone",
-      "Schlagsahne (30 %)",
-      "Kakaopulver (ungesuesst)",
-      "Haselnuesse",
+      "Whipping cream (30 %)",
+      "Unsweetened cocoa powder",
+      "Hazelnuts",
       "Spice blend, unsalted"
     ],
     "instructions": [
@@ -15007,8 +15014,8 @@
     "id": "rec_787",
     "title": "Eggs in pepper rings with chives and cottage cheese",
     "ingredients": [
-      "Rote Paprika",
-      "Eier",
+      "Red pepper",
+      "Eggs",
       "Cottage cheese",
       "Olive oil",
       "Chives",
@@ -15025,8 +15032,8 @@
     "title": "Skyr with rhubarb compote and walnuts",
     "ingredients": [
       "Skyr",
-      "Rhabarber",
-      "Ahornsirup",
+      "Rhubarb",
+      "Maple syrup",
       "Walnuts",
       "Spice blend, unsalted"
     ],
@@ -15040,11 +15047,11 @@
     "id": "rec_789",
     "title": "Scrambled eggs with smoked trout, spinach and cress",
     "ingredients": [
-      "Eier",
-      "Raeucherforelle",
+      "Eggs",
+      "Smoked trout",
       "Leaf spinach",
       "Butter",
-      "Kresse",
+      "Cress",
       "Seasoning"
     ],
     "instructions": [
@@ -15079,7 +15086,7 @@
       "Ricotta",
       "Quark",
       "Strawberries",
-      "Pistazien",
+      "Pistachios",
       "Lemon zest",
       "Spice blend, unsalted"
     ],
@@ -15095,10 +15102,10 @@
     "ingredients": [
       "Egg white",
       "Egg",
-      "Mandelmehl (blanchiert)",
+      "Almond flour (blanched)",
       "Quark",
       "Raspberries",
-      "Rapsoel",
+      "Rapeseed oil",
       "Cinnamon"
     ],
     "instructions": [
@@ -15112,9 +15119,9 @@
     "title": "Cauliflower hash browns with fried egg and chives",
     "ingredients": [
       "Cauliflower",
-      "Eier",
-      "Vegetarischer Hartkaese (Parmesan-Art)",
-      "Mandelmehl (blanchiert)",
+      "Eggs",
+      "Vegetarian hard cheese (parmesan style)",
+      "Almond flour (blanched)",
       "Olive oil",
       "Chives",
       "Seasoning"
@@ -15145,11 +15152,11 @@
     "id": "rec_795",
     "title": "Baked tomatoes filled with egg and feta",
     "ingredients": [
-      "Fleischtomaten",
-      "Eier",
+      "Beef tomatoes",
+      "Eggs",
       "Feta",
       "Olive oil",
-      "Oregano, Pfeffer"
+      "Oregano, pepper"
     ],
     "instructions": [
       "Preheat the oven to 190 °C. Cut a lid off the tomatoes and hollow out the insides.",
@@ -15162,10 +15169,10 @@
     "title": "Matcha quark cream with blueberries",
     "ingredients": [
       "Quark",
-      "Milch (1,5 %)",
+      "Milk (1.5 %)",
       "Matcha",
       "Blueberries",
-      "Mandelmus"
+      "Almond butter"
     ],
     "instructions": [
       "Whisk the matcha into the milk until there are no lumps.",
@@ -15179,9 +15186,9 @@
     "ingredients": [
       "Turkey",
       "Mushrooms",
-      "Schlagsahne (30 %)",
+      "Whipping cream (30 %)",
       "Broccoli",
-      "Rapsoel",
+      "Rapeseed oil",
       "Onion",
       "Seasoning"
     ],
@@ -15197,9 +15204,9 @@
     "ingredients": [
       "Cod fillet",
       "Kohlrabi",
-      "Senf (mittelscharf)",
-      "Milch (1,5 %)",
-      "Speisestaerke",
+      "Medium-hot mustard",
+      "Milk (1.5 %)",
+      "Cornflour",
       "Butter",
       "Dill",
       "Seasoning"
@@ -15214,12 +15221,12 @@
     "id": "rec_799",
     "title": "Pepper steak strips with pointed cabbage and peppers",
     "ingredients": [
-      "Rinderfilet",
-      "Spitzkohl",
-      "Rote Paprika",
-      "Rapsoel",
-      "Sojasauce",
-      "Gruener Pfeffer, Salz"
+      "Beef fillet",
+      "Pointed cabbage",
+      "Red pepper",
+      "Rapeseed oil",
+      "Soy sauce",
+      "Green peppercorns, salt"
     ],
     "instructions": [
       "Cut the beef into strips and season with crushed green peppercorns.",
@@ -15232,13 +15239,13 @@
     "title": "Chicken korma with cashews and cauliflower rice",
     "ingredients": [
       "Chicken breast",
-      "Naturjoghurt (3,5 %)",
-      "Cashewkerne",
+      "Plain yoghurt (3.5 %)",
+      "Cashew nuts",
       "Onion",
       "Cauliflower",
       "Ghee",
-      "Ingwer, Knoblauch",
-      "Garam Masala, Kurkuma, Chili, Salz"
+      "Ginger, garlic",
+      "Garam masala, turmeric, chilli, salt"
     ],
     "instructions": [
       "Soak the cashews in hot water for 10 minutes and blend finely with the yoghurt.",
@@ -15252,9 +15259,9 @@
     "title": "Chicken cacciatore with peppers, olives and courgette",
     "ingredients": [
       "Skinless chicken thighs",
-      "Rote Paprika",
+      "Red pepper",
       "Zucchini",
-      "Schwarze Oliven",
+      "Black olives",
       "Passata",
       "Onion",
       "Olive oil",
@@ -15272,14 +15279,14 @@
     "title": "Moo shu chicken in lettuce cups with mushrooms and egg",
     "ingredients": [
       "Chicken breast",
-      "Shiitake-Pilze",
+      "Shiitake mushrooms",
       "White cabbage",
       "Egg",
-      "Sojasauce",
-      "Hoisinsauce",
+      "Soy sauce",
+      "Hoisin sauce",
       "Sesame oil",
-      "Rapsoel",
-      "Salatblaetter"
+      "Rapeseed oil",
+      "Salad leaves"
     ],
     "instructions": [
       "Whisk the egg, cook as a thin omelette in the rapeseed oil and cut into strips.",
@@ -15292,7 +15299,7 @@
     "id": "rec_803",
     "title": "Baked salmon with green asparagus and lemon yoghurt sauce",
     "ingredients": [
-      "Lachsfilet",
+      "Salmon fillet",
       "Green asparagus",
       "Plain yoghurt",
       "Olive oil",
@@ -15310,15 +15317,15 @@
     "id": "rec_804",
     "title": "Sichuan beef with celery and carrot",
     "ingredients": [
-      "Rinderfilet",
-      "Staudensellerie",
-      "Karotte",
-      "Sojasauce",
-      "Doubanjiang (Chili-Bohnenpaste)",
-      "Rapsoel",
-      "Speisestaerke",
+      "Beef fillet",
+      "Celery",
+      "Carrot",
+      "Soy sauce",
+      "Doubanjiang (chilli bean paste)",
+      "Rapeseed oil",
+      "Cornflour",
       "Ginger",
-      "Szechuanpfeffer, Chili"
+      "Sichuan pepper, chilli"
     ],
     "instructions": [
       "Cut the beef into fine strips and toss with the cornflour and 1 tsp of the soy sauce.",
@@ -15331,13 +15338,13 @@
     "id": "rec_805",
     "title": "Prawn saganaki with feta and tomato",
     "ingredients": [
-      "Garnelen (geschaelt)",
+      "Prawns (peeled)",
       "Tomato",
       "Feta",
       "Olive oil",
       "Garlic",
       "Onion",
-      "Oregano, Pfeffer"
+      "Oregano, pepper"
     ],
     "instructions": [
       "Sweat the onion and garlic in the olive oil for 3 minutes, add the diced tomatoes and reduce for 10 minutes.",
@@ -15349,14 +15356,14 @@
     "id": "rec_806",
     "title": "Grilled calamari with rocket, lemon and capers",
     "ingredients": [
-      "Tintenfischtuben",
+      "Squid tubes",
       "Rocket",
       "Capers",
       "Tomato",
       "Olive oil",
       "Lemon juice",
       "Garlic",
-      "Chiliflocken"
+      "Chilli flakes"
     ],
     "instructions": [
       "Cut open the squid tubes, score the inside in a diamond pattern and marinate with half the oil, the garlic and chilli.",
@@ -15372,10 +15379,10 @@
       "Plain yoghurt",
       "Cucumber",
       "Tomato",
-      "Rote Zwiebel",
-      "Rapsoel",
+      "Red onion",
+      "Rapeseed oil",
       "Mint",
-      "Tandoori-Gewuerz, Salz"
+      "Tandoori spice, salt"
     ],
     "instructions": [
       "Cut the turkey into pieces and marinate with 50 g of the yoghurt, tandoori spice and salt for 20 minutes.",
@@ -15426,11 +15433,11 @@
     "ingredients": [
       "Plain tofu",
       "Broccoli",
-      "Cashewkerne",
-      "Sojasauce",
+      "Cashew nuts",
+      "Soy sauce",
       "Sesame oil",
-      "Rapsoel",
-      "Chili, Ingwer"
+      "Rapeseed oil",
+      "Chilli, ginger"
     ],
     "instructions": [
       "Cut the tofu into cubes, pat dry and fry in the rapeseed oil for 6 minutes until crisp.",
@@ -15442,14 +15449,14 @@
     "id": "rec_811",
     "title": "Beef fillet skewers with chimichurri and grilled peppers",
     "ingredients": [
-      "Rinderfilet",
-      "Rote Paprika",
+      "Beef fillet",
+      "Red pepper",
       "Parsley",
       "Olive oil",
-      "Rotweinessig",
+      "Red wine vinegar",
       "Garlic",
       "Oregano, salt, pepper",
-      "Chiliflocken"
+      "Chilli flakes"
     ],
     "instructions": [
       "Finely chop the parsley and garlic and mix with the olive oil, vinegar, oregano, chilli and salt to make chimichurri.",
@@ -15464,9 +15471,9 @@
       "Turkey",
       "Leaf spinach",
       "Light cream cheese",
-      "Rotkohl",
+      "Red cabbage",
       "Apple",
-      "Rapsoel",
+      "Rapeseed oil",
       "Vegetable stock",
       "Seasoning"
     ],
@@ -15480,17 +15487,17 @@
     "id": "rec_813",
     "title": "Yam nua – Thai beef salad with cucumber, mint and lime",
     "ingredients": [
-      "Rinderfilet",
+      "Beef fillet",
       "Cucumber",
       "Tomato",
-      "Rote Zwiebel",
-      "Minze, Koriander",
+      "Red onion",
+      "Mint, coriander",
       "Lime juice",
-      "Fischsauce",
-      "Blattsalat",
-      "Rapsoel",
-      "Zucker",
-      "Chiliflocken"
+      "Fish sauce",
+      "Lettuce",
+      "Rapeseed oil",
+      "Sugar",
+      "Chilli flakes"
     ],
     "instructions": [
       "Sear the beef in the oil for 3 minutes per side, rest for 5 minutes and slice thinly.",
@@ -15504,14 +15511,14 @@
     "ingredients": [
       "Chicken breast",
       "White cabbage",
-      "Karotte",
-      "Rote Zwiebel",
-      "Minze, Koriander",
+      "Carrot",
+      "Red onion",
+      "Mint, coriander",
       "Lime juice",
-      "Fischsauce",
+      "Fish sauce",
       "Unsalted peanuts",
-      "Zucker",
-      "Rapsoel"
+      "Sugar",
+      "Rapeseed oil"
     ],
     "instructions": [
       "Poach the chicken breast in gently simmering water for 15 minutes, leave to cool and shred.",
@@ -15523,13 +15530,13 @@
     "id": "rec_815",
     "title": "Ssam – Korean beef lettuce wraps with kimchi and cucumber",
     "ingredients": [
-      "Rinderfilet",
-      "Salatblaetter",
+      "Beef fillet",
+      "Salad leaves",
       "Kimchi",
       "Cucumber",
       "Gochujang",
       "Sesame oil",
-      "Sojasauce",
+      "Soy sauce",
       "Garlic",
       "Spring onion"
     ],
@@ -15543,14 +15550,14 @@
     "id": "rec_816",
     "title": "Carne asada with pico de gallo and avocado",
     "ingredients": [
-      "Rinderfilet",
+      "Beef fillet",
       "Tomato",
       "Onion",
       "Coriander",
       "Lime juice",
       "Avocado",
       "Olive oil",
-      "Kreuzkuemmel, Chili, Salz"
+      "Cumin, chilli, salt"
     ],
     "instructions": [
       "Marinate the beef with the oil, half the lime juice, cumin, chilli and salt for 15 minutes.",
@@ -15565,13 +15572,13 @@
       "Skinless chicken thighs",
       "Cucumber",
       "Tomato",
-      "Rote Zwiebel",
+      "Red onion",
       "Plain yoghurt",
-      "Gruene Chili, Koriander",
+      "Green chilli, coriander",
       "Lime juice",
       "Olive oil",
       "Garlic",
-      "Kreuzkuemmel, Paprikapulver, Salz"
+      "Cumin, paprika, salt"
     ],
     "instructions": [
       "Rub the chicken with the garlic, cumin, paprika, salt and half the oil and leave for 20 minutes.",
@@ -15583,14 +15590,14 @@
     "id": "rec_818",
     "title": "Anda curry – Indian egg curry with spinach",
     "ingredients": [
-      "Eier",
+      "Eggs",
       "Leaf spinach",
       "Passata",
       "Onion",
-      "Ingwer, Knoblauch",
-      "Rapsoel",
-      "Naturjoghurt (3,5 %)",
-      "Garam Masala, Kurkuma, Chili, Salz"
+      "Ginger, garlic",
+      "Rapeseed oil",
+      "Plain yoghurt (3.5 %)",
+      "Garam masala, turmeric, chilli, salt"
     ],
     "instructions": [
       "Hard-boil the eggs for 9 minutes, peel and score lightly all over.",
@@ -15603,13 +15610,13 @@
     "title": "Chicken jalfrezi with peppers and onions",
     "ingredients": [
       "Chicken breast",
-      "Rote Paprika",
+      "Red pepper",
       "Onion",
       "Tomato",
-      "Rapsoel",
-      "Ingwer, Knoblauch",
-      "Gruene Chili, Koriander",
-      "Garam Masala, Kurkuma, Chili, Salz"
+      "Rapeseed oil",
+      "Ginger, garlic",
+      "Green chilli, coriander",
+      "Garam masala, turmeric, chilli, salt"
     ],
     "instructions": [
       "Dice the chicken and season with turmeric, chilli and salt.",
@@ -15621,13 +15628,13 @@
     "id": "rec_820",
     "title": "Stracciatella alla romana – Roman egg and spinach soup with chicken",
     "ingredients": [
-      "Huehnerbruehe",
-      "Eier",
+      "Chicken stock",
+      "Eggs",
       "Parmesan",
       "Leaf spinach",
       "Chicken breast",
       "Lemon zest",
-      "Muskat, Salz"
+      "Nutmeg, salt"
     ],
     "instructions": [
       "Poach the chicken breast in the stock for 12 minutes, remove and dice.",
@@ -15640,13 +15647,13 @@
     "title": "Pointed cabbage chicken stir-fry with ginger and sesame",
     "ingredients": [
       "Chicken breast",
-      "Spitzkohl",
-      "Karotte",
+      "Pointed cabbage",
+      "Carrot",
       "Ginger",
-      "Sojasauce",
+      "Soy sauce",
       "Sesame oil",
-      "Rapsoel",
-      "Sesam"
+      "Rapeseed oil",
+      "Sesame seeds"
     ],
     "instructions": [
       "Cut the chicken into strips and sear in the rapeseed oil for 4 minutes.",
@@ -15660,10 +15667,10 @@
     "ingredients": [
       "Skinless chicken thighs",
       "Garlic",
-      "Grüne Bohnen",
+      "Green beans",
       "Olive oil",
       "Thyme",
-      "Wasser",
+      "Water",
       "Seasoning"
     ],
     "instructions": [
@@ -15680,7 +15687,7 @@
       "Zucchini",
       "Tomato",
       "Onion",
-      "Ziegenkaese (Rolle)",
+      "Goat cheese (log)",
       "Olive oil",
       "Garlic",
       "Thyme",
@@ -15698,11 +15705,11 @@
     "title": "Brussels sprouts skillet with chicken and walnuts",
     "ingredients": [
       "Chicken breast",
-      "Rosenkohl",
+      "Brussels sprouts",
       "Walnuts",
       "Onion",
       "Olive oil",
-      "Senf (mittelscharf)",
+      "Medium-hot mustard",
       "Seasoning"
     ],
     "instructions": [
@@ -15715,7 +15722,7 @@
     "id": "rec_825",
     "title": "Plain veal escalope with asparagus rocket salad",
     "ingredients": [
-      "Kalbsschnitzel",
+      "Veal schnitzel",
       "Green asparagus",
       "Rocket",
       "Cherry tomatoes",
@@ -15739,7 +15746,7 @@
       "Lemon juice",
       "Olive oil",
       "Garlic",
-      "Zitronenpfeffer, Salz"
+      "Lemon pepper, salt"
     ],
     "instructions": [
       "Preheat the oven to 210 °C. Marinate the chicken with the lemon juice, lemon pepper, garlic, salt and half the oil.",
@@ -15755,9 +15762,9 @@
       "Sour cream (10 %)",
       "Red pepper",
       "Passata",
-      "Tomatenmark",
+      "Tomato paste",
       "Cucumber",
-      "Rapsoel",
+      "Rapeseed oil",
       "Sweet paprika",
       "Seasoning"
     ],
@@ -15775,11 +15782,11 @@
       "Broccoli",
       "Garlic",
       "Ginger",
-      "Sojasauce",
+      "Soy sauce",
       "Sesame oil",
-      "Rapsoel",
+      "Rapeseed oil",
       "Spring onion",
-      "Pak Choi",
+      "Pak choi",
       "Seasoning"
     ],
     "instructions": [
@@ -15850,11 +15857,11 @@
     "title": "Lemongrass chicken skewers with cucumber peanut salad",
     "ingredients": [
       "Chicken breast",
-      "Zitronengras",
+      "Lemongrass",
       "Cucumber",
       "Unsalted peanuts",
       "Lime juice",
-      "Rapsoel",
+      "Rapeseed oil",
       "Spring onion",
       "Mint",
       "Chilli, salt"
@@ -15869,15 +15876,15 @@
     "id": "rec_833",
     "title": "Egg drop soup with tofu and mushrooms",
     "ingredients": [
-      "Eier",
+      "Eggs",
       "Plain tofu",
-      "Austernpilze",
+      "Oyster mushrooms",
       "Vegetable stock",
-      "Sojasauce",
+      "Soy sauce",
       "Sesame oil",
       "Spring onion",
       "Ginger",
-      "Pak Choi",
+      "Pak choi",
       "Seasoning"
     ],
     "instructions": [
@@ -15995,7 +16002,7 @@
     "id": "rec_840",
     "title": "Air-fryer chicken wings with lemon pepper",
     "ingredients": [
-      "Haehnchenfluegel",
+      "Chicken wings",
       "Olive oil",
       "Lemon juice",
       "Lemon pepper",
@@ -16098,7 +16105,7 @@
     "ingredients": [
       "Peach",
       "Ricotta",
-      "Pistazien",
+      "Pistachios",
       "Olive oil"
     ],
     "instructions": [
@@ -16179,7 +16186,7 @@
       "Seasoning"
     ],
     "instructions": [
-      "Mix the flour, egg, yoghurt and a pinch of salt into a batter.",
+      "Mix the flour, egg white, yoghurt and a pinch of salt into a batter.",
       "Heat the oil in a pan, pour in the batter and cook for 3 minutes per side.",
       "Briefly wilt the spinach and serve on the pancake with crumbled feta and dill."
     ]
@@ -16190,8 +16197,8 @@
     "ingredients": [
       "Bulgur",
       "Orange",
-      "Datteln",
-      "Pistazien",
+      "Dates",
+      "Pistachios",
       "Plain yoghurt",
       "Olive oil",
       "Cinnamon"
@@ -16236,7 +16243,7 @@
     ],
     "instructions": [
       "Preheat the oven to 180 °C. Grate the courgette and squeeze out the liquid.",
-      "Mix the flour, egg, oil, yoghurt, dill and baking powder, then fold in the courgette and crumbled feta.",
+      "Mix the flour, egg white, oil, yoghurt, dill and baking powder, then fold in the courgette and crumbled feta.",
       "Divide into 3 muffin cases and bake for 22 minutes."
     ]
   },
@@ -16248,7 +16255,7 @@
       "Almonds",
       "Plain yoghurt",
       "Olive oil",
-      "Wasser",
+      "Water",
       "Blueberries"
     ],
     "instructions": [
@@ -16263,7 +16270,7 @@
     "ingredients": [
       "Wholemeal roll",
       "Tomato",
-      "Schwarze Oliven",
+      "Black olives",
       "Fresh goat's cheese",
       "Olive oil",
       "Cucumber",
@@ -16283,7 +16290,7 @@
       "Plain yoghurt",
       "Pomegranate seeds",
       "Barley flakes",
-      "Pistazien",
+      "Pistachios",
       "Olive oil",
       "Blueberries"
     ],
@@ -16300,7 +16307,7 @@
       "Sea bass fillet",
       "Fennel",
       "Orange",
-      "Schwarze Oliven",
+      "Black olives",
       "Olive oil",
       "Seasoning"
     ],
@@ -16448,7 +16455,7 @@
     "ingredients": [
       "Wholemeal spaghetti",
       "Passata",
-      "Schwarze Oliven",
+      "Black olives",
       "Capers",
       "Anchovies, drained",
       "Olive oil",
@@ -16485,7 +16492,7 @@
     "ingredients": [
       "Raw peeled prawns",
       "Mussel meat",
-      "Tintenfisch",
+      "Squid",
       "Olive oil",
       "Lemon juice",
       "Parsley",
@@ -16599,7 +16606,7 @@
     "ingredients": [
       "Chicken breast",
       "Artichoke hearts",
-      "Schwarze Oliven",
+      "Black olives",
       "Olive oil",
       "Lemon juice",
       "Garlic",
@@ -16652,7 +16659,7 @@
     "id": "rec_876",
     "title": "Stuffed squid with herb rice in tomato sauce",
     "ingredients": [
-      "Tintenfisch",
+      "Squid",
       "Brown rice",
       "Passata",
       "Olive oil",
@@ -16674,7 +16681,7 @@
       "Tuna steak",
       "Tomato",
       "Capers",
-      "Schwarze Oliven",
+      "Black olives",
       "Olive oil",
       "Garlic",
       "Seasoning"
@@ -16702,7 +16709,7 @@
     ],
     "instructions": [
       "Bake aubergine at 200 °C for 25 minutes until soft, scoop out and mash.",
-      "Mix with flour, egg, Parmesan and salt, shape into balls and fry in oil.",
+      "Mix with flour, egg white, Parmesan and salt, shape into balls and fry in oil.",
       "Simmer in tomato sauce with garlic and basil for 10 minutes."
     ]
   },
@@ -16810,7 +16817,7 @@
       "Olive oil",
       "Garlic",
       "Parsley",
-      "Wasser",
+      "Water",
       "Seasoning"
     ],
     "instructions": [
@@ -16828,7 +16835,7 @@
       "Red pepper",
       "Onion",
       "Olive oil",
-      "Tomatenmark",
+      "Tomato paste",
       "Seasoning"
     ],
     "instructions": [
@@ -16990,7 +16997,7 @@
     "id": "rec_894",
     "title": "Soupies me spanaki – Greek cuttlefish with spinach",
     "ingredients": [
-      "Tintenfisch",
+      "Squid",
       "Leaf spinach",
       "Olive oil",
       "Onion",
@@ -17020,7 +17027,7 @@
     ],
     "instructions": [
       "Fry sliced potatoes and courgette in oil for 12 minutes.",
-      "Crack the egg over and let it set, crumble the feta.",
+      "Pour the egg white over and let it set, crumble the feta.",
       "Serve with dill."
     ]
   },
@@ -17126,7 +17133,7 @@
     "title": "Sicilian roast cauliflower with raisins and pine nuts",
     "ingredients": [
       "Cauliflower",
-      "Rosinen",
+      "Raisins",
       "Pine nuts",
       "Olive oil",
       "Lemon juice",
@@ -17165,7 +17172,7 @@
     "ingredients": [
       "Ricotta",
       "Tomato",
-      "Schwarze Oliven",
+      "Black olives",
       "Wholemeal bread",
       "Olive oil",
       "Basil",
@@ -17258,7 +17265,7 @@
     "id": "rec_908",
     "title": "Olive tapenade on wholemeal crackers",
     "ingredients": [
-      "Schwarze Oliven",
+      "Black olives",
       "Capers",
       "Olive oil",
       "Wholemeal bread",
@@ -17313,7 +17320,7 @@
       "Olive oil",
       "Plain yoghurt",
       "Lemon juice",
-      "Wasser",
+      "Water",
       "Cucumber",
       "Carrots",
       "Seasoning"
@@ -17350,7 +17357,7 @@
       "Olive oil",
       "Orange",
       "Egg",
-      "Honig",
+      "Honey",
       "Baking powder"
     ],
     "instructions": [
@@ -17365,9 +17372,9 @@
     "ingredients": [
       "Fresh figs",
       "Plain yoghurt",
-      "Pistazien",
+      "Pistachios",
       "Olive oil",
-      "Honig"
+      "Honey"
     ],
     "instructions": [
       "Halve the figs and bake with oil at 180 °C for 12 minutes.",
@@ -17377,25 +17384,25 @@
   },
   {
     "id": "rec_915",
-    "title": "Wholemeal biscotti with almonds and orange",
+    "title": "Wholemeal biscotti with hazelnuts and lemon",
     "ingredients": [
       "Wholemeal flour",
-      "Haselnuesse",
+      "Hazelnuts",
       "Egg",
-      "Honig",
+      "Honey",
       "Olive oil",
       "Lemon zest",
       "Baking powder"
     ],
     "instructions": [
-      "Oven 170 °C. Knead dough from flour, egg, honey, oil, zest and almonds.",
+      "Oven 170 °C. Knead dough from flour, egg, honey, oil, zest and hazelnuts.",
       "Shape into a log, bake 20 minutes, then slice.",
       "Bake again for 10 minutes until crisp."
     ]
   },
   {
     "id": "rec_916",
-    "title": "Baked oranges with cinnamon, yoghurt and almonds",
+    "title": "Baked oranges with cinnamon, yoghurt and walnuts",
     "ingredients": [
       "Orange",
       "Plain yoghurt",
@@ -17406,7 +17413,7 @@
     "instructions": [
       "Slice the oranges, bake with oil and cinnamon at 180 °C for 15 minutes.",
       "Serve with yoghurt.",
-      "Scatter with almonds."
+      "Scatter with walnuts."
     ]
   },
   {
@@ -17417,7 +17424,7 @@
       "Apple",
       "Plain yoghurt",
       "Olive oil",
-      "Wasser",
+      "Water",
       "Cinnamon",
       "Salt"
     ],
@@ -17486,7 +17493,7 @@
       "Plain yoghurt",
       "Banana",
       "Blueberries",
-      "Sonnenblumenkerne"
+      "Sunflower seeds"
     ],
     "instructions": [
       "Spoon the yoghurt into a bowl.",
@@ -17555,7 +17562,7 @@
       "Plain yoghurt",
       "Oats",
       "Ginger",
-      "Wasser"
+      "Water"
     ],
     "instructions": [
       "Stone and roughly chop the peach.",
@@ -17578,16 +17585,16 @@
       "Red pepper"
     ],
     "instructions": [
-      "Boil the egg for 8 minutes and quarter it.",
+      "Cook the egg white in a dry non-stick pan for 3 minutes until set and cut into pieces.",
       "Dice tomato and cucumber and mix with oil, herbs and salt.",
-      "Arrange with the egg."
+      "Arrange with the egg white."
     ]
   },
   {
     "id": "rec_927",
     "title": "Salmon in herb yoghurt with barley and green vegetables",
     "ingredients": [
-      "Lachsfilet",
+      "Salmon fillet",
       "Pearl barley",
       "Broccoli",
       "Zucchini",
@@ -17659,7 +17666,7 @@
       "Salt",
       "Pepper",
       "Spinach",
-      "Lauch"
+      "Leek"
     ],
     "instructions": [
       "Cook the potatoes for 15 minutes and toss with dill.",
@@ -17698,7 +17705,7 @@
       "Broccoli",
       "Red pepper",
       "Ginger",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Sesame oil",
       "Garlic",
       "Pepper"
@@ -17713,7 +17720,7 @@
     "id": "rec_933",
     "title": "Bean and pepper goulash with wholemeal bread",
     "ingredients": [
-      "Kidneybohnen (abgetropft)",
+      "Kidney beans (drained)",
       "Red pepper",
       "Onion",
       "Passata",
@@ -17741,11 +17748,11 @@
       "Cherry tomatoes",
       "Spinach",
       "Olive oil",
-      "Kraeuter (Petersilie)",
+      "Herbs (parsley)",
       "Salt",
       "Pepper",
       "Carrots",
-      "Erbsen"
+      "Peas"
     ],
     "instructions": [
       "Cook the quinoa for 15 minutes.",
@@ -17757,7 +17764,7 @@
     "id": "rec_935",
     "title": "Trout en papillote with zucchini, carrots and parsley potatoes",
     "ingredients": [
-      "Forelle",
+      "Trout",
       "Potatoes",
       "Zucchini",
       "Carrots",
@@ -17779,13 +17786,13 @@
     "ingredients": [
       "Chicken breast",
       "Potatoes",
-      "Spargel",
+      "Asparagus",
       "Olive oil",
       "Lemon juice",
       "Lemon zest",
       "Salt",
       "Pepper",
-      "Erbsen",
+      "Peas",
       "Cherry tomatoes",
       "Parsley"
     ],
@@ -17801,11 +17808,11 @@
     "ingredients": [
       "Wholemeal pasta",
       "Broccoli",
-      "Erbsen",
+      "Peas",
       "Ricotta",
       "Lemon juice",
       "Olive oil",
-      "Hefeflocken",
+      "Nutritional yeast flakes",
       "Salt",
       "Pepper"
     ],
@@ -17820,12 +17827,12 @@
     "title": "Vegetable barley risotto with peas and asparagus",
     "ingredients": [
       "Pearl barley",
-      "Erbsen",
-      "Spargel",
+      "Peas",
+      "Asparagus",
       "Onion",
       "Vegetable stock",
       "Olive oil",
-      "Hefeflocken",
+      "Nutritional yeast flakes",
       "Plain yoghurt",
       "Salt",
       "Pepper"
@@ -17840,12 +17847,12 @@
     "id": "rec_939",
     "title": "Pollock vegetable curry with light coconut and rice",
     "ingredients": [
-      "Seelachs",
+      "Pollock",
       "Brown rice",
       "Zucchini",
       "Red pepper",
       "Spinach",
-      "Kokosmilch light",
+      "Light coconut milk",
       "Spice blend, unsalted",
       "Olive oil",
       "Ginger",
@@ -17884,9 +17891,9 @@
     "title": "Chicken breast with peach salsa and wild rice",
     "ingredients": [
       "Chicken breast",
-      "Wildreis",
+      "Wild rice",
       "Peach",
-      "Rote Zwiebel",
+      "Red onion",
       "Lime juice",
       "Coriander",
       "Olive oil",
@@ -17903,7 +17910,7 @@
     "id": "rec_942",
     "title": "Salmon spinach salad with oranges and walnuts",
     "ingredients": [
-      "Lachsfilet",
+      "Salmon fillet",
       "Spinach",
       "Orange",
       "Cucumber",
@@ -17927,8 +17934,8 @@
       "Broccoli",
       "Red pepper",
       "Olive oil",
-      "Sojasauce natriumarm",
-      "Sesam",
+      "Low-sodium soy sauce",
+      "Sesame seeds",
       "Pepper"
     ],
     "instructions": [
@@ -17967,7 +17974,7 @@
       "Strawberries",
       "Almonds",
       "Olive oil",
-      "Balsamico",
+      "Balsamic vinegar",
       "Salt",
       "Pepper"
     ],
@@ -17982,7 +17989,7 @@
     "title": "Hake with tomato pepper vegetables and wholemeal couscous",
     "ingredients": [
       "Hake",
-      "Vollkorn-Couscous",
+      "Wholemeal couscous",
       "Tomato",
       "Red pepper",
       "Olive oil",
@@ -18026,7 +18033,7 @@
       "Egg",
       "Plain yoghurt",
       "Olive oil",
-      "Muskat",
+      "Nutmeg",
       "Salt",
       "Pepper"
     ],
@@ -18041,7 +18048,7 @@
     "title": "Chicken couscous salad with cucumber, mint and orange",
     "ingredients": [
       "Chicken breast",
-      "Vollkorn-Couscous",
+      "Wholemeal couscous",
       "Cucumber",
       "Orange",
       "Mint",
@@ -18060,9 +18067,9 @@
     "id": "rec_950",
     "title": "Pan-fried pike-perch with beetroot vegetables and potatoes",
     "ingredients": [
-      "Zander",
+      "Pike-perch",
       "Potatoes",
-      "Rote Bete",
+      "Beetroot",
       "Olive oil",
       "Horseradish",
       "Plain yoghurt",
@@ -18102,12 +18109,12 @@
     "title": "Beetroot lentil salad with oranges and lamb's lettuce",
     "ingredients": [
       "Lentils",
-      "Rote Bete",
+      "Beetroot",
       "Orange",
-      "Feldsalat",
+      "Lamb's lettuce",
       "Walnuts",
       "Olive oil",
-      "Apfelessig",
+      "Apple cider vinegar",
       "Salt",
       "Pepper"
     ],
@@ -18123,11 +18130,11 @@
     "ingredients": [
       "Chicken breast",
       "Brown rice",
-      "Ananas",
+      "Pineapple",
       "Red pepper",
       "Spring onion",
-      "Sojasauce natriumarm",
-      "Rapsooel",
+      "Low-sodium soy sauce",
+      "Rapeseed oil",
       "Pepper"
     ],
     "instructions": [
@@ -18140,8 +18147,8 @@
     "id": "rec_954",
     "title": "Black bean corn salad with avocado and lime",
     "ingredients": [
-      "Schwarze Bohnen (abgetropft)",
-      "Mais (abgetropft)",
+      "Black beans (drained)",
+      "Sweetcorn (drained)",
       "Avocado",
       "Tomato",
       "Lime juice",
@@ -18164,10 +18171,10 @@
     "ingredients": [
       "Turkey",
       "Potatoes",
-      "Rotkohl",
+      "Red cabbage",
       "Apple",
       "Olive oil",
-      "Apfelessig",
+      "Apple cider vinegar",
       "Plain yoghurt",
       "Salt",
       "Pepper"
@@ -18182,13 +18189,13 @@
     "id": "rec_956",
     "title": "Asparagus potato salad with egg and herb yoghurt",
     "ingredients": [
-      "Spargel",
+      "Asparagus",
       "Potatoes",
       "Egg",
       "Plain yoghurt",
       "Chives",
       "Olive oil",
-      "Senf",
+      "Mustard",
       "Salt",
       "Pepper"
     ],
@@ -18209,7 +18216,7 @@
       "Lime juice",
       "Olive oil",
       "Coriander",
-      "Sonnenblumenkerne",
+      "Sunflower seeds",
       "Salt",
       "Pepper"
     ],
@@ -18223,10 +18230,10 @@
     "id": "rec_958",
     "title": "Skinless chicken thighs with roasted root vegetables and herb yoghurt",
     "ingredients": [
-      "Haehnchenschenkel ohne Haut",
+      "Skinless chicken thighs",
       "Carrots",
-      "Pastinake",
-      "Kartoffel",
+      "Parsnip",
+      "Potato",
       "Olive oil",
       "Plain yoghurt",
       "Herbs (parsley, dill)",
@@ -18245,8 +18252,8 @@
     "ingredients": [
       "Almonds",
       "Walnuts",
-      "Getrocknete Aprikosen",
-      "Kürbiskerne",
+      "Dried apricots",
+      "Pumpkin seeds",
       "Apple",
       "Carrots"
     ],
@@ -18260,10 +18267,10 @@
     "id": "rec_960",
     "title": "Frozen grapes with yoghurt dip",
     "ingredients": [
-      "Trauben",
+      "Grapes",
       "Plain yoghurt",
       "Lemon zest",
-      "Honig",
+      "Honey",
       "Walnuts"
     ],
     "instructions": [
@@ -18328,7 +18335,7 @@
     "title": "Edamame pea salad with mint",
     "ingredients": [
       "Edamame",
-      "Erbsen",
+      "Peas",
       "Mint",
       "Olive oil",
       "Lemon juice",
@@ -18349,7 +18356,7 @@
       "Plain yoghurt",
       "Spice blend, unsalted",
       "Almonds",
-      "Honig"
+      "Honey"
     ],
     "instructions": [
       "Poach the peach in hot water for 5 minutes.",
@@ -18370,7 +18377,7 @@
     "instructions": [
       "Dry-toast the almonds.",
       "Dice the apple and mix with cinnamon.",
-      "Spoon over yoghurt and drizzle with honey."
+      "Spoon over yoghurt and top with blueberries and almonds."
     ]
   },
   {
@@ -18380,7 +18387,7 @@
       "Sweet potato",
       "Egg",
       "Avocado",
-      "Kokosoel",
+      "Coconut oil",
       "Chives",
       "Seasoning"
     ],
@@ -18396,9 +18403,9 @@
     "ingredients": [
       "Banana",
       "Egg",
-      "Mandelmus",
+      "Almond butter",
       "Mixed berries",
-      "Kokosoel",
+      "Coconut oil",
       "Cinnamon"
     ],
     "instructions": [
@@ -18411,11 +18418,11 @@
     "id": "rec_969",
     "title": "Coconut yoghurt with mango, kiwi and almonds",
     "ingredients": [
-      "Kokosjoghurt",
+      "Coconut yoghurt",
       "Mango",
       "Kiwi",
       "Almonds",
-      "Kokosflocken"
+      "Coconut flakes"
     ],
     "instructions": [
       "Spoon the coconut yoghurt into a bowl.",
@@ -18431,7 +18438,7 @@
       "Red pepper",
       "Zucchini",
       "Olive oil",
-      "Kraeuter (Petersilie, Oregano)",
+      "Herbs (parsley, oregano)",
       "Seasoning",
       "Cherry tomatoes",
       "Mushrooms"
@@ -18446,10 +18453,10 @@
     "id": "rec_971",
     "title": "Apple cinnamon pancakes made with almond flour",
     "ingredients": [
-      "Mandelmehl",
+      "Almond flour",
       "Egg",
       "Apple",
-      "Kokosoel",
+      "Coconut oil",
       "Cinnamon",
       "Mixed berries"
     ],
@@ -18464,11 +18471,11 @@
     "title": "Banana almond muffins with blueberries",
     "ingredients": [
       "Banana",
-      "Mandelmehl",
+      "Almond flour",
       "Egg",
       "Blueberries",
-      "Kokosoel",
-      "Triebmittel",
+      "Coconut oil",
+      "Raising agent",
       "Cinnamon"
     ],
     "instructions": [
@@ -18485,7 +18492,7 @@
       "Chicken breast",
       "Spinach",
       "Avocado",
-      "Kokosoel",
+      "Coconut oil",
       "Seasoning"
     ],
     "instructions": [
@@ -18501,9 +18508,9 @@
       "Mixed berries",
       "Almonds",
       "Walnuts",
-      "Kokosflocken",
+      "Coconut flakes",
       "Mint",
-      "Kokosjoghurt"
+      "Coconut yoghurt"
     ],
     "instructions": [
       "Wash and arrange the berries.",
@@ -18515,12 +18522,12 @@
     "id": "rec_975",
     "title": "Beef stew with root vegetables and rosemary",
     "ingredients": [
-      "Rindfleisch",
+      "Beef",
       "Carrots",
-      "Pastinake",
+      "Parsnip",
       "Celery",
       "Onion",
-      "Wasser",
+      "Water",
       "Olive oil",
       "Rosemary",
       "Seasoning"
@@ -18535,9 +18542,9 @@
     "id": "rec_976",
     "title": "Lemon rosemary chicken with roasted pumpkin and Brussels sprouts",
     "ingredients": [
-      "Haehnchenschenkel ohne Haut",
+      "Skinless chicken thighs",
       "Pumpkin",
-      "Rosenkohl",
+      "Brussels sprouts",
       "Olive oil",
       "Lemon juice",
       "Rosemary",
@@ -18553,8 +18560,8 @@
     "id": "rec_977",
     "title": "Salmon with mango avocado salsa and roasted asparagus",
     "ingredients": [
-      "Lachsfilet",
-      "Spargel",
+      "Salmon fillet",
+      "Asparagus",
       "Mango",
       "Avocado",
       "Lime juice",
@@ -18572,12 +18579,12 @@
     "id": "rec_978",
     "title": "Lamb curry with coconut milk, spinach and sweet potato",
     "ingredients": [
-      "Lammfleisch",
+      "Lamb",
       "Sweet potato",
       "Spinach",
-      "Kokosmilch light",
+      "Light coconut milk",
       "Spice blend, unsalted",
-      "Kokosoel",
+      "Coconut oil",
       "Ginger",
       "Onion",
       "Seasoning"
@@ -18594,11 +18601,11 @@
     "ingredients": [
       "Chicken breast",
       "Pumpkin",
-      "Kokosmilch light",
+      "Light coconut milk",
       "Ginger",
       "Onion",
-      "Wasser",
-      "Kokosoel",
+      "Water",
+      "Coconut oil",
       "Seasoning"
     ],
     "instructions": [
@@ -18629,12 +18636,12 @@
     "id": "rec_981",
     "title": "Pot-au-feu with beef, leek, carrots and celery",
     "ingredients": [
-      "Rindfleisch",
+      "Beef",
       "Carrots",
-      "Lauch",
+      "Leek",
       "Celery",
       "Kohlrabi",
-      "Wasser",
+      "Water",
       "Parsley",
       "Seasoning"
     ],
@@ -18650,11 +18657,11 @@
     "ingredients": [
       "Prawns",
       "Zucchini",
-      "Kokosmilch light",
-      "Kokosoel",
+      "Light coconut milk",
+      "Coconut oil",
       "Ginger",
-      "Zitronengras",
-      "Thai-Basilikum",
+      "Lemongrass",
+      "Thai basil",
       "Lime juice",
       "Seasoning"
     ],
@@ -18686,7 +18693,7 @@
     "id": "rec_984",
     "title": "Mackerel with fennel apple salad and dill",
     "ingredients": [
-      "Makrele",
+      "Mackerel",
       "Fennel",
       "Apple",
       "Olive oil",
@@ -18704,7 +18711,7 @@
     "id": "rec_985",
     "title": "Leg of lamb with aubergine tomatoes and mint",
     "ingredients": [
-      "Lammkeule",
+      "Leg of lamb",
       "Aubergine",
       "Tomato",
       "Olive oil",
@@ -18723,10 +18730,10 @@
     "title": "Chicken pineapple skewers with coconut lime sauce",
     "ingredients": [
       "Chicken breast",
-      "Ananas",
-      "Kokosmilch light",
+      "Pineapple",
+      "Light coconut milk",
       "Lime juice",
-      "Kokosoel",
+      "Coconut oil",
       "Red pepper",
       "Seasoning"
     ],
@@ -18759,12 +18766,12 @@
     "id": "rec_988",
     "title": "Beef vegetable wok with coconut aminos and cashews",
     "ingredients": [
-      "Rindfleisch",
+      "Beef",
       "Broccoli",
       "Red pepper",
       "Zucchini",
-      "Cashews",
-      "Kokos-Aminos",
+      "Cashew nuts",
+      "Coconut aminos",
       "Sesame oil",
       "Ginger",
       "Seasoning"
@@ -18782,7 +18789,7 @@
       "Prawns",
       "Avocado",
       "Grapefruit",
-      "Feldsalat",
+      "Lamb's lettuce",
       "Olive oil",
       "Lime juice",
       "Seasoning"
@@ -18797,7 +18804,7 @@
     "id": "rec_990",
     "title": "Grilled chicken thighs with peach salad",
     "ingredients": [
-      "Haehnchenschenkel ohne Haut",
+      "Skinless chicken thighs",
       "Peach",
       "Cucumber",
       "Rocket",
@@ -18815,13 +18822,13 @@
     "id": "rec_991",
     "title": "Beef goulash with peppers and parsnip mash",
     "ingredients": [
-      "Rindergulaschfleisch",
+      "Beef goulash meat",
       "Red pepper",
-      "Pastinake",
+      "Parsnip",
       "Onion",
       "Spice blend, unsalted",
       "Olive oil",
-      "Wasser",
+      "Water",
       "Seasoning"
     ],
     "instructions": [
@@ -18834,12 +18841,12 @@
     "id": "rec_992",
     "title": "Steamed salmon with ginger, pak choi and broccoli",
     "ingredients": [
-      "Lachsfilet",
-      "Pak Choi",
+      "Salmon fillet",
+      "Pak choi",
       "Broccoli",
       "Ginger",
       "Sesame oil",
-      "Kokos-Aminos",
+      "Coconut aminos",
       "Seasoning"
     ],
     "instructions": [
@@ -18852,11 +18859,11 @@
     "id": "rec_993",
     "title": "Venison ragout with chestnuts and Brussels sprouts",
     "ingredients": [
-      "Rehfleisch",
-      "Maronen",
-      "Rosenkohl",
+      "Venison",
+      "Chestnuts",
+      "Brussels sprouts",
       "Onion",
-      "Wasser",
+      "Water",
       "Olive oil",
       "Thyme",
       "Seasoning"
@@ -18871,7 +18878,7 @@
     "id": "rec_994",
     "title": "Scallops with cauliflower mash and spinach",
     "ingredients": [
-      "Jakobsmuscheln",
+      "Scallops",
       "Cauliflower",
       "Spinach",
       "Olive oil",
@@ -18889,10 +18896,10 @@
     "id": "rec_995",
     "title": "Arctic char with herb salad and roasted parsnips",
     "ingredients": [
-      "Saibling",
-      "Pastinake",
-      "Feldsalat",
-      "Kraeuter (Petersilie, Dill, Schnittlauch)",
+      "Char",
+      "Parsnip",
+      "Lamb's lettuce",
+      "Herbs (parsley, dill, chives)",
       "Olive oil",
       "Lemon juice",
       "Seasoning"
@@ -18926,8 +18933,8 @@
     "id": "rec_997",
     "title": "Stuffed portobello mushrooms with beef mince and spinach",
     "ingredients": [
-      "Portobello-Pilze",
-      "Rinderhack",
+      "Portobello mushrooms",
+      "Minced beef",
       "Spinach",
       "Onion",
       "Olive oil",
@@ -18945,14 +18952,14 @@
     "id": "rec_998",
     "title": "Moroccan-style pumpkin beef stew with cinnamon",
     "ingredients": [
-      "Rindfleisch",
+      "Beef",
       "Pumpkin",
       "Onion",
       "Tomato",
       "Olive oil",
       "Cinnamon",
       "Cumin",
-      "Wasser",
+      "Water",
       "Seasoning"
     ],
     "instructions": [
@@ -18965,7 +18972,7 @@
     "id": "rec_999",
     "title": "Lamb rump with pumpkin mash and kale",
     "ingredients": [
-      "Lammfilet",
+      "Lamb fillet",
       "Pumpkin",
       "Kale",
       "Olive oil",
@@ -18982,11 +18989,11 @@
     "id": "rec_1000",
     "title": "Halibut with asparagus and lemon herb oil",
     "ingredients": [
-      "Heilbutt",
-      "Spargel",
+      "Halibut",
+      "Asparagus",
       "Olive oil",
       "Lemon juice",
-      "Kraeuter (Dill, Petersilie)",
+      "Herbs (dill, parsley)",
       "Seasoning"
     ],
     "instructions": [
@@ -18999,10 +19006,10 @@
     "id": "rec_1001",
     "title": "Coconut almond bars with dates",
     "ingredients": [
-      "Datteln",
+      "Dates",
       "Almonds",
-      "Kokosflocken",
-      "Mandelmus",
+      "Coconut flakes",
+      "Almond butter",
       "Mixed berries"
     ],
     "instructions": [
@@ -19016,8 +19023,8 @@
     "id": "rec_1002",
     "title": "Roasted pumpkin and sunflower seeds with paprika and apple slices",
     "ingredients": [
-      "Kürbiskerne",
-      "Sonnenblumenkerne",
+      "Pumpkin seeds",
+      "Sunflower seeds",
       "Spice blend, unsalted",
       "Apple"
     ],
@@ -19031,7 +19038,7 @@
     "id": "rec_1003",
     "title": "Almond flaxseed crackers with avocado cream",
     "ingredients": [
-      "Mandelmehl",
+      "Almond flour",
       "Flaxseed",
       "Egg white",
       "Avocado",
@@ -19049,12 +19056,12 @@
     "title": "Grain-free zucchini nut muffins",
     "ingredients": [
       "Zucchini",
-      "Mandelmehl",
+      "Almond flour",
       "Egg",
       "Walnuts",
-      "Kokosoel",
+      "Coconut oil",
       "Cinnamon",
-      "Triebmittel"
+      "Raising agent"
     ],
     "instructions": [
       "Oven 180 °C. Grate the zucchini.",
@@ -19067,7 +19074,7 @@
     "title": "Berries with coconut whipped cream",
     "ingredients": [
       "Mixed berries",
-      "Kokosmilch (vollfett, gekuehlt)",
+      "Coconut milk (full-fat, chilled)",
       "Spice blend, unsalted"
     ],
     "instructions": [
@@ -19081,9 +19088,9 @@
     "title": "Peach coconut sorbet with lime",
     "ingredients": [
       "Peach",
-      "Kokosmilch light",
+      "Light coconut milk",
       "Lime juice",
-      "Kokosflocken"
+      "Coconut flakes"
     ],
     "instructions": [
       "Freeze the peach, then blend with coconut milk.",
@@ -19095,13 +19102,13 @@
     "id": "rec_1007",
     "title": "Shiozake breakfast with rice, miso soup and cucumber",
     "ingredients": [
-      "Lachsfilet",
+      "Salmon fillet",
       "Brown rice",
       "Miso",
       "Cucumber",
       "Nori",
-      "Sesam",
-      "Wasser",
+      "Sesame seeds",
+      "Water",
       "Seasoning"
     ],
     "instructions": [
@@ -19114,7 +19121,7 @@
     "id": "rec_1008",
     "title": "Sardines on wholemeal toast with tomato and parsley",
     "ingredients": [
-      "Sardinen (abgetropft)",
+      "Sardines (drained)",
       "Wholemeal toast",
       "Tomato",
       "Parsley",
@@ -19132,7 +19139,7 @@
     "id": "rec_1009",
     "title": "Crab toast with egg and chives",
     "ingredients": [
-      "Krabben",
+      "Shrimps",
       "Wholemeal bread",
       "Egg",
       "Chives",
@@ -19151,10 +19158,10 @@
     "title": "Potato roesti with smoked trout and horseradish yoghurt",
     "ingredients": [
       "Potatoes",
-      "Raeucherforelle",
+      "Smoked trout",
       "Plain yoghurt",
       "Horseradish",
-      "Rapsooel",
+      "Rapeseed oil",
       "Dill",
       "Seasoning"
     ],
@@ -19168,14 +19175,14 @@
     "id": "rec_1011",
     "title": "Spelt crêpes with smoked salmon and cucumber",
     "ingredients": [
-      "Dinkelmehl",
+      "Spelt flour",
       "Egg",
-      "Wasser",
-      "Raeucherlachs",
+      "Water",
+      "Smoked salmon",
       "Cucumber",
       "Plain yoghurt",
       "Dill",
-      "Rapsooel",
+      "Rapeseed oil",
       "Seasoning"
     ],
     "instructions": [
@@ -19191,9 +19198,9 @@
       "Egg",
       "Prawns",
       "Spring onion",
-      "Bohnensprossen",
+      "Bean sprouts",
       "Sesame oil",
-      "Sojasauce",
+      "Soy sauce",
       "Seasoning"
     ],
     "instructions": [
@@ -19206,14 +19213,14 @@
     "id": "rec_1013",
     "title": "Salade niçoise with tuna, egg, beans and potatoes",
     "ingredients": [
-      "Thunfisch (abgetropft)",
+      "Tuna (drained)",
       "Egg",
       "Potatoes",
-      "Grüne Bohnen",
+      "Green beans",
       "Tomato",
       "Black olives",
       "Olive oil",
-      "Essig",
+      "Vinegar",
       "Seasoning"
     ],
     "instructions": [
@@ -19228,10 +19235,10 @@
     "ingredients": [
       "Cod",
       "Tomato",
-      "Kokosmilch light",
-      "Tamarinde",
+      "Light coconut milk",
+      "Tamarind",
       "Brown rice",
-      "Kokosoel",
+      "Coconut oil",
       "Spice blend, unsalted",
       "Onion",
       "Seasoning"
@@ -19246,14 +19253,14 @@
     "id": "rec_1015",
     "title": "Sake no nanbanzuke – marinated salmon with vegetables and rice",
     "ingredients": [
-      "Lachsfilet",
+      "Salmon fillet",
       "Brown rice",
       "Red pepper",
       "Onion",
       "Carrots",
-      "Reisessig",
-      "Sojasauce",
-      "Rapsooel",
+      "Rice vinegar",
+      "Soy sauce",
+      "Rapeseed oil",
       "Seasoning"
     ],
     "instructions": [
@@ -19267,7 +19274,7 @@
     "title": "Shrimp and grits light – prawns on cornmeal with peppers",
     "ingredients": [
       "Prawns",
-      "Maisgriess",
+      "Maize meal",
       "Red pepper",
       "Plain yoghurt",
       "Olive oil",
@@ -19285,10 +19292,10 @@
     "id": "rec_1017",
     "title": "Fish pie – British fish bake with potato topping",
     "ingredients": [
-      "Seelachs",
-      "Lachsfilet",
+      "Pollock",
+      "Salmon fillet",
       "Potatoes",
-      "Erbsen",
+      "Peas",
       "Plain yoghurt",
       "Olive oil",
       "Dill",
@@ -19305,14 +19312,14 @@
     "title": "Pad Thai with prawns",
     "ingredients": [
       "Prawns",
-      "Reisnudeln",
+      "Rice noodles",
       "Egg",
-      "Bohnensprossen",
+      "Bean sprouts",
       "Spring onion",
       "Peanuts",
-      "Tamarinde",
-      "Sojasauce",
-      "Rapsooel",
+      "Tamarind",
+      "Soy sauce",
+      "Rapeseed oil",
       "Seasoning"
     ],
     "instructions": [
@@ -19326,8 +19333,8 @@
     "title": "Wholemeal tagliatelle with smoked salmon, peas and lemon yoghurt",
     "ingredients": [
       "Wholemeal pasta",
-      "Raeucherlachs",
-      "Erbsen",
+      "Smoked salmon",
+      "Peas",
       "Plain yoghurt",
       "Lemon juice",
       "Dill",
@@ -19343,8 +19350,8 @@
     "id": "rec_1020",
     "title": "Salmon spinach lasagne with wholemeal sheets",
     "ingredients": [
-      "Lachsfilet",
-      "Vollkorn-Lasagneplatten",
+      "Salmon fillet",
+      "Wholemeal lasagne sheets",
       "Spinach",
       "Plain yoghurt",
       "Tomato",
@@ -19364,7 +19371,7 @@
     "ingredients": [
       "Tilapia",
       "Brown rice",
-      "Kokosmilch light",
+      "Light coconut milk",
       "Mango",
       "Lime juice",
       "Olive oil",
@@ -19381,9 +19388,9 @@
     "id": "rec_1022",
     "title": "Thai-style mussels in coconut lemongrass broth",
     "ingredients": [
-      "Miesmuscheln",
-      "Kokosmilch light",
-      "Zitronengras",
+      "Mussels",
+      "Light coconut milk",
+      "Lemongrass",
       "Ginger",
       "Lime juice",
       "Spring onion",
@@ -19400,10 +19407,10 @@
     "id": "rec_1023",
     "title": "Redfish with mustard cucumber vegetables and potatoes",
     "ingredients": [
-      "Rotbarsch",
+      "Redfish",
       "Potatoes",
       "Cucumber",
-      "Senf",
+      "Mustard",
       "Plain yoghurt",
       "Olive oil",
       "Dill",
@@ -19419,7 +19426,7 @@
     "id": "rec_1024",
     "title": "Risotto with prawns and lemon",
     "ingredients": [
-      "Rundkornreis",
+      "Short-grain rice",
       "Prawns",
       "Vegetable stock",
       "Onion",
@@ -19440,11 +19447,11 @@
     "title": "Ochazuke – Japanese rice with salmon and green tea",
     "ingredients": [
       "Brown rice",
-      "Lachsfilet",
-      "Gruener Tee (Aufguss)",
+      "Salmon fillet",
+      "Green tea (brewed)",
       "Nori",
-      "Sesam",
-      "Sojasauce",
+      "Sesame seeds",
+      "Soy sauce",
       "Spring onion",
       "Seasoning"
     ],
@@ -19458,8 +19465,8 @@
     "id": "rec_1026",
     "title": "Halászlé – Hungarian fish goulash with paprika",
     "ingredients": [
-      "Seelachs",
-      "Zander",
+      "Pollock",
+      "Pike-perch",
       "Red pepper",
       "Onion",
       "Tomato",
@@ -19478,13 +19485,13 @@
     "id": "rec_1027",
     "title": "Beet barley risotto with salmon",
     "ingredients": [
-      "Lachsfilet",
+      "Salmon fillet",
       "Pearl barley",
-      "Rote Bete",
+      "Beetroot",
       "Onion",
       "Olive oil",
       "Dill",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Seasoning"
     ],
     "instructions": [
@@ -19497,8 +19504,8 @@
     "id": "rec_1028",
     "title": "Finkenwerder-style plaice with crab and potato salad",
     "ingredients": [
-      "Scholle",
-      "Krabben",
+      "Plaice",
+      "Shrimps",
       "Potatoes",
       "Olive oil",
       "Lemon juice",
@@ -19517,9 +19524,9 @@
     "title": "Tuna tataki with sesame and cucumber salad",
     "ingredients": [
       "Tuna steak",
-      "Sesam",
+      "Sesame seeds",
       "Cucumber",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Sesame oil",
       "Lime juice",
       "Spring onion",
@@ -19536,11 +19543,11 @@
     "title": "Prawn asparagus stir-fry with glass noodles",
     "ingredients": [
       "Prawns",
-      "Spargel",
-      "Glasnudeln",
+      "Asparagus",
+      "Glass noodles",
       "Garlic",
       "Sesame oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Ginger",
       "Seasoning"
     ],
@@ -19554,14 +19561,14 @@
     "id": "rec_1031",
     "title": "Light salmon Wellington in filo with spinach",
     "ingredients": [
-      "Lachsfilet",
-      "Filoteig",
+      "Salmon fillet",
+      "Filo pastry",
       "Spinach",
       "Olive oil",
       "Lemon juice",
       "Dill",
       "Onion",
-      "Senf",
+      "Mustard",
       "Seasoning"
     ],
     "instructions": [
@@ -19574,9 +19581,9 @@
     "id": "rec_1032",
     "title": "Godeungeo jorim – Korean braised mackerel with radish",
     "ingredients": [
-      "Makrele",
-      "Rettich",
-      "Sojasauce natriumarm",
+      "Mackerel",
+      "White radish",
+      "Low-sodium soy sauce",
       "Ginger",
       "Garlic",
       "Spring onion",
@@ -19597,10 +19604,10 @@
       "Cod",
       "Prawns",
       "Tofu",
-      "Chinakohl",
+      "Napa cabbage",
       "Shiitake",
-      "Gemuesebruehe natriumarm",
-      "Sojasauce natriumarm",
+      "Low-sodium vegetable stock",
+      "Low-sodium soy sauce",
       "Spring onion",
       "Seasoning"
     ],
@@ -19619,7 +19626,7 @@
       "Brown rice",
       "Spring onion",
       "Sesame oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Seasoning"
     ],
     "instructions": [
@@ -19633,8 +19640,8 @@
     "title": "Pla Rad Prik – fish with chilli tamarind sauce and rice",
     "ingredients": [
       "Cod",
-      "Tamarinde",
-      "Chili",
+      "Tamarind",
+      "Chilli",
       "Garlic",
       "Brown rice",
       "Olive oil",
@@ -19653,10 +19660,10 @@
     "title": "Canh chua cá – Vietnamese sour fish soup with pineapple and tomato",
     "ingredients": [
       "Tilapia",
-      "Ananas",
+      "Pineapple",
       "Tomato",
-      "Bohnensprossen",
-      "Gemuesebruehe natriumarm",
+      "Bean sprouts",
+      "Low-sodium vegetable stock",
       "Lime juice",
       "Coriander",
       "Spring onion",
@@ -19672,7 +19679,7 @@
     "id": "rec_1037",
     "title": "Ikan bakar – grilled fish with sambal and cucumber",
     "ingredients": [
-      "Makrele",
+      "Mackerel",
       "Sambal",
       "Cucumber",
       "Lime juice",
@@ -19712,7 +19719,7 @@
     "ingredients": [
       "Prawns",
       "Passata",
-      "Chili",
+      "Chilli",
       "Garlic",
       "Brown rice",
       "Olive oil",
@@ -19733,9 +19740,9 @@
       "Red pepper",
       "Carrots",
       "Onion",
-      "Essig",
+      "Vinegar",
       "Olive oil",
-      "Chili",
+      "Chilli",
       "Brown rice",
       "Seasoning"
     ],
@@ -19769,14 +19776,14 @@
     "id": "rec_1042",
     "title": "Lohikeitto – Finnish salmon soup with potatoes and dill",
     "ingredients": [
-      "Lachsfilet",
+      "Salmon fillet",
       "Potatoes",
-      "Lauch",
+      "Leek",
       "Carrots",
       "Plain yoghurt",
       "Dill",
       "Olive oil",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Seasoning"
     ],
     "instructions": [
@@ -19789,9 +19796,9 @@
     "id": "rec_1043",
     "title": "Hamburg pan-fried fish with mustard sauce and fried potatoes",
     "ingredients": [
-      "Seelachs",
+      "Pollock",
       "Potatoes",
-      "Senf",
+      "Mustard",
       "Plain yoghurt",
       "Olive oil",
       "Dill",
@@ -19813,7 +19820,7 @@
       "Olive oil",
       "Garlic",
       "Lemon juice",
-      "Feldsalat",
+      "Lamb's lettuce",
       "Plain yoghurt",
       "Seasoning"
     ],
@@ -19831,7 +19838,7 @@
       "Onion",
       "Olive oil",
       "Spice blend, unsalted",
-      "Essig",
+      "Vinegar",
       "Parsley",
       "Brown rice",
       "Seasoning"
@@ -19868,12 +19875,12 @@
     "title": "Haemul pajeon – Korean seafood pancake",
     "ingredients": [
       "Prawns",
-      "Tintenfisch",
+      "Squid",
       "Wholemeal flour",
       "Egg",
       "Spring onion",
       "Olive oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Seasoning"
     ],
     "instructions": [
@@ -19886,13 +19893,13 @@
     "id": "rec_1048",
     "title": "Tuna bake – tuna pasta bake with peas",
     "ingredients": [
-      "Thunfisch (Dose, abgetropft)",
+      "Tuna (tinned, drained)",
       "Wholemeal pasta",
-      "Erbsen",
+      "Peas",
       "Plain yoghurt",
       "Passata",
       "Olive oil",
-      "Kaese light",
+      "Light cheese",
       "Seasoning"
     ],
     "instructions": [
@@ -19906,10 +19913,10 @@
     "title": "Prawn udon soup with pak choi",
     "ingredients": [
       "Prawns",
-      "Udon",
-      "Pak Choi",
-      "Gemuesebruehe natriumarm",
-      "Sojasauce natriumarm",
+      "Udon noodles",
+      "Pak choi",
+      "Low-sodium vegetable stock",
+      "Low-sodium soy sauce",
       "Ginger",
       "Spring onion",
       "Sesame oil",
@@ -19925,11 +19932,11 @@
     "id": "rec_1050",
     "title": "Gratinated pollock with broccoli and mashed potato",
     "ingredients": [
-      "Seelachs",
+      "Pollock",
       "Broccoli",
       "Potatoes",
       "Plain yoghurt",
-      "Kaese light",
+      "Light cheese",
       "Olive oil",
       "Lemon juice",
       "Seasoning"
@@ -19944,7 +19951,7 @@
     "id": "rec_1051",
     "title": "Sardine kefta in tomato sauce with wholemeal bread",
     "ingredients": [
-      "Sardinen (Dose, abgetropft)",
+      "Sardines (tinned, drained)",
       "Wholemeal flour",
       "Passata",
       "Onion",
@@ -19966,7 +19973,7 @@
     "ingredients": [
       "Prawns",
       "Mango",
-      "Reisnudeln",
+      "Rice noodles",
       "Mint",
       "Lime juice",
       "Sesame oil",
@@ -19990,7 +19997,7 @@
       "Cucumber",
       "Lemon juice",
       "Dill",
-      "Salat",
+      "Salad leaves",
       "Seasoning"
     ],
     "instructions": [
@@ -20003,11 +20010,11 @@
     "id": "rec_1054",
     "title": "Sardine cream on wholemeal crackers",
     "ingredients": [
-      "Sardinen (Dose, abgetropft)",
+      "Sardines (tinned, drained)",
       "Plain yoghurt",
       "Lemon juice",
       "Dill",
-      "Knaeckebrot",
+      "Crispbread",
       "Cucumber",
       "Seasoning"
     ],
@@ -20021,7 +20028,7 @@
     "id": "rec_1055",
     "title": "Smoked trout horseradish dip with vegetables",
     "ingredients": [
-      "Raeucherforelle",
+      "Smoked trout",
       "Plain yoghurt",
       "Horseradish",
       "Cucumber",
@@ -20039,13 +20046,13 @@
     "id": "rec_1056",
     "title": "Wakame salad with sesame and prawns",
     "ingredients": [
-      "Wakame (getrocknet)",
+      "Wakame (dried)",
       "Prawns",
-      "Sesam",
+      "Sesame seeds",
       "Sesame oil",
-      "Reisessig",
+      "Rice vinegar",
       "Cucumber",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Seasoning"
     ],
     "instructions": [
@@ -20058,11 +20065,11 @@
     "id": "rec_1057",
     "title": "Lactose-free porridge with blueberries, walnuts and maple syrup",
     "ingredients": [
-      "Haferflocken glutenfrei",
-      "Laktosefreie Milch",
+      "Gluten-free oats",
+      "Lactose-free milk",
       "Blueberries",
       "Walnuts",
-      "Ahornsirup",
+      "Maple syrup",
       "Seasoning"
     ],
     "instructions": [
@@ -20076,7 +20083,7 @@
     "title": "Scrambled eggs with chives on spelt sourdough with tomato",
     "ingredients": [
       "Egg",
-      "Dinkel-Sauerteigbrot",
+      "Spelt sourdough bread",
       "Tomato",
       "Chives",
       "Olive oil",
@@ -20092,10 +20099,10 @@
     "id": "rec_1059",
     "title": "Lactose-free yoghurt with kiwi, strawberries and pumpkin seeds",
     "ingredients": [
-      "Laktosefreier Joghurt",
+      "Lactose-free yoghurt",
       "Kiwi",
       "Strawberries",
-      "Kürbiskerne",
+      "Pumpkin seeds",
       "Seasoning"
     ],
     "instructions": [
@@ -20110,8 +20117,8 @@
     "ingredients": [
       "Quinoa",
       "Banana",
-      "Erdnussbutter",
-      "Laktosefreie Milch",
+      "Peanut butter",
+      "Lactose-free milk",
       "Cinnamon",
       "Seasoning"
     ],
@@ -20129,7 +20136,7 @@
       "Egg",
       "Spinach",
       "Olive oil",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Seasoning"
     ],
     "instructions": [
@@ -20142,11 +20149,11 @@
     "id": "rec_1062",
     "title": "Buckwheat pancakes with maple syrup and strawberries",
     "ingredients": [
-      "Buchweizenmehl",
+      "Buckwheat flour",
       "Egg",
-      "Laktosefreie Milch",
+      "Lactose-free milk",
       "Strawberries",
-      "Ahornsirup",
+      "Maple syrup",
       "Olive oil",
       "Seasoning"
     ],
@@ -20160,7 +20167,7 @@
     "id": "rec_1063",
     "title": "Lactose-free quark with orange and almonds",
     "ingredients": [
-      "Laktosefreier Quark",
+      "Lactose-free quark",
       "Orange",
       "Almonds",
       "Seasoning"
@@ -20175,10 +20182,10 @@
     "id": "rec_1064",
     "title": "Pineapple kiwi smoothie with lactose-free yoghurt",
     "ingredients": [
-      "Ananas",
+      "Pineapple",
       "Kiwi",
-      "Laktosefreier Joghurt",
-      "Wasser",
+      "Lactose-free yoghurt",
+      "Water",
       "Seasoning"
     ],
     "instructions": [
@@ -20195,10 +20202,10 @@
       "Brown rice",
       "Carrots",
       "Zucchini",
-      "Fruehlingszwiebelgruen",
+      "Spring onion greens",
       "Olive oil",
       "Ginger",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Seasoning"
     ],
     "instructions": [
@@ -20211,13 +20218,13 @@
     "id": "rec_1066",
     "title": "Oven salmon with herb polenta and carrots",
     "ingredients": [
-      "Lachsfilet",
+      "Salmon fillet",
       "Polenta",
       "Carrots",
       "Olive oil",
       "Dill",
       "Lemon juice",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Seasoning"
     ],
     "instructions": [
@@ -20230,8 +20237,8 @@
     "id": "rec_1067",
     "title": "Gluten-free spaghetti with beef meatballs in tomato sauce",
     "ingredients": [
-      "Rinderhack",
-      "Glutenfreie Nudeln",
+      "Minced beef",
+      "Gluten-free pasta",
       "Passata",
       "Carrots",
       "Olive oil",
@@ -20252,7 +20259,7 @@
       "Chicken breast",
       "Pumpkin",
       "Spinach",
-      "Kokosmilch light",
+      "Light coconut milk",
       "Brown rice",
       "Olive oil",
       "Ginger",
@@ -20269,14 +20276,14 @@
     "id": "rec_1069",
     "title": "Beef wok with pak choi, carrots and rice noodles",
     "ingredients": [
-      "Rindersteak",
-      "Pak Choi",
+      "Beef steak",
+      "Pak choi",
       "Carrots",
-      "Reisnudeln",
+      "Rice noodles",
       "Sesame oil",
       "Ginger",
-      "Sojasauce natriumarm",
-      "Fruehlingszwiebelgruen",
+      "Low-sodium soy sauce",
+      "Spring onion greens",
       "Seasoning"
     ],
     "instructions": [
@@ -20290,12 +20297,12 @@
     "title": "Potato spring onion green soup with smoked salmon",
     "ingredients": [
       "Potatoes",
-      "Fruehlingszwiebelgruen",
-      "Raeucherlachs",
-      "Gemuesebruehe natriumarm",
+      "Spring onion greens",
+      "Smoked salmon",
+      "Low-sodium vegetable stock",
       "Olive oil",
       "Dill",
-      "Laktosefreier Joghurt",
+      "Lactose-free yoghurt",
       "Seasoning"
     ],
     "instructions": [
@@ -20309,12 +20316,12 @@
     "title": "Crispy tofu with peanut lime sauce, pak choi and rice",
     "ingredients": [
       "Tofu",
-      "Erdnussbutter",
+      "Peanut butter",
       "Lime juice",
-      "Pak Choi",
+      "Pak choi",
       "Brown rice",
       "Sesame oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Ginger",
       "Seasoning"
     ],
@@ -20351,7 +20358,7 @@
     "ingredients": [
       "Prawns",
       "Brown rice",
-      "Ananas",
+      "Pineapple",
       "Coriander",
       "Lime juice",
       "Olive oil",
@@ -20369,8 +20376,8 @@
     "title": "Steamed cod with basmati rice, pak choi and carrots",
     "ingredients": [
       "Cod",
-      "Basmatireis",
-      "Pak Choi",
+      "Basmati rice",
+      "Pak choi",
       "Carrots",
       "Olive oil",
       "Lemon juice",
@@ -20393,8 +20400,8 @@
       "Cucumber",
       "Sesame oil",
       "Ginger",
-      "Sojasauce natriumarm",
-      "Sesam",
+      "Low-sodium soy sauce",
+      "Sesame seeds",
       "Seasoning"
     ],
     "instructions": [
@@ -20407,12 +20414,12 @@
     "id": "rec_1076",
     "title": "Beef fillet with lactose-free potato gratin and spinach",
     "ingredients": [
-      "Rindersteak",
+      "Beef steak",
       "Potatoes",
-      "Laktosefreie Milch",
+      "Lactose-free milk",
       "Spinach",
       "Olive oil",
-      "Muskat",
+      "Nutmeg",
       "Seasoning"
     ],
     "instructions": [
@@ -20431,7 +20438,7 @@
       "Spinach",
       "Olive oil",
       "Basil",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Seasoning"
     ],
     "instructions": [
@@ -20445,10 +20452,10 @@
     "title": "Corn tortillas with chicken, lettuce, tomato and lime yoghurt",
     "ingredients": [
       "Chicken breast",
-      "Maistortillas",
-      "Salat",
+      "Corn tortillas",
+      "Salad leaves",
       "Tomato",
-      "Laktosefreier Joghurt",
+      "Lactose-free yoghurt",
       "Lime juice",
       "Olive oil",
       "Seasoning"
@@ -20469,7 +20476,7 @@
       "Mozzarella",
       "Olive oil",
       "Basil",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Seasoning"
     ],
     "instructions": [
@@ -20482,7 +20489,7 @@
     "id": "rec_1080",
     "title": "Trout fillet on quinoa with zucchini and lemon",
     "ingredients": [
-      "Forelle",
+      "Trout",
       "Quinoa",
       "Zucchini",
       "Olive oil",
@@ -20502,8 +20509,8 @@
     "title": "Chicken with maple mustard glaze, roasted carrots and potatoes",
     "ingredients": [
       "Chicken breast",
-      "Ahornsirup",
-      "Senf",
+      "Maple syrup",
+      "Mustard",
       "Carrots",
       "Potatoes",
       "Olive oil",
@@ -20520,12 +20527,12 @@
     "title": "Chicken spinach lasagne with gluten-free sheets",
     "ingredients": [
       "Chicken breast",
-      "Glutenfreie Lasagneplatten",
+      "Gluten-free lasagne sheets",
       "Spinach",
       "Passata",
-      "Laktosefreier Joghurt",
+      "Lactose-free yoghurt",
       "Olive oil",
-      "Kaese light",
+      "Light cheese",
       "Seasoning"
     ],
     "instructions": [
@@ -20538,9 +20545,9 @@
     "id": "rec_1083",
     "title": "Tuna rice salad with corn and cucumber",
     "ingredients": [
-      "Thunfisch (Dose, abgetropft)",
+      "Tuna (tinned, drained)",
       "Brown rice",
-      "Mais",
+      "Sweetcorn",
       "Cucumber",
       "Olive oil",
       "Lemon juice",
@@ -20559,8 +20566,8 @@
     "ingredients": [
       "Potatoes",
       "Tofu",
-      "Grüne Bohnen",
-      "Kokosmilch light",
+      "Green beans",
+      "Light coconut milk",
       "Olive oil",
       "Ginger",
       "Spice blend, unsalted",
@@ -20577,13 +20584,13 @@
     "id": "rec_1085",
     "title": "Pollock with sesame crust, rice and cucumber salad",
     "ingredients": [
-      "Seelachs",
-      "Sesam",
+      "Pollock",
+      "Sesame seeds",
       "Brown rice",
       "Cucumber",
       "Olive oil",
-      "Reisessig",
-      "Sojasauce natriumarm",
+      "Rice vinegar",
+      "Low-sodium soy sauce",
       "Seasoning"
     ],
     "instructions": [
@@ -20599,9 +20606,9 @@
       "Potatoes",
       "Egg",
       "Cucumber",
-      "Laktosefreier Joghurt",
+      "Lactose-free yoghurt",
       "Chives",
-      "Senf",
+      "Mustard",
       "Olive oil",
       "Seasoning"
     ],
@@ -20617,10 +20624,10 @@
     "ingredients": [
       "Millet",
       "Chicken breast",
-      "Pak Choi",
+      "Pak choi",
       "Peanuts",
       "Sesame oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Ginger",
       "Seasoning"
     ],
@@ -20637,10 +20644,10 @@
       "Chicken breast",
       "Egg",
       "Brown rice",
-      "Sojasauce natriumarm",
-      "Fruehlingszwiebelgruen",
+      "Low-sodium soy sauce",
+      "Spring onion greens",
       "Ginger",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Seasoning"
     ],
     "instructions": [
@@ -20653,9 +20660,9 @@
     "id": "rec_1089",
     "title": "Beef sirloin steak with rosemary potatoes and lamb's lettuce",
     "ingredients": [
-      "Rindersteak",
+      "Beef steak",
       "Potatoes",
-      "Feldsalat",
+      "Lamb's lettuce",
       "Olive oil",
       "Rosemary",
       "Lemon juice",
@@ -20672,8 +20679,8 @@
     "title": "Lemon thyme chicken with basmati rice and green beans",
     "ingredients": [
       "Chicken breast",
-      "Basmatireis",
-      "Grüne Bohnen",
+      "Basmati rice",
+      "Green beans",
       "Olive oil",
       "Lemon juice",
       "Thyme",
@@ -20689,8 +20696,8 @@
     "id": "rec_1091",
     "title": "Rice cakes with peanut butter and banana",
     "ingredients": [
-      "Reiswaffeln",
-      "Erdnussbutter",
+      "Rice cakes",
+      "Peanut butter",
       "Banana",
       "Seasoning"
     ],
@@ -20704,9 +20711,9 @@
     "id": "rec_1092",
     "title": "Gluten-free peanut butter oat cookies",
     "ingredients": [
-      "Haferflocken glutenfrei",
-      "Erdnussbutter",
-      "Ahornsirup",
+      "Gluten-free oats",
+      "Peanut butter",
+      "Maple syrup",
       "Egg",
       "Seasoning"
     ],
@@ -20723,9 +20730,9 @@
       "Carrots",
       "Cucumber",
       "Red pepper",
-      "Erdnussbutter",
+      "Peanut butter",
       "Lime juice",
-      "Wasser",
+      "Water",
       "Seasoning"
     ],
     "instructions": [
@@ -20738,8 +20745,8 @@
     "id": "rec_1094",
     "title": "Cheese grape skewers with cucumber",
     "ingredients": [
-      "Kaese light",
-      "Trauben",
+      "Light cheese",
+      "Grapes",
       "Cucumber",
       "Seasoning"
     ],
@@ -20755,7 +20762,7 @@
     "ingredients": [
       "Polenta",
       "Egg",
-      "Ahornsirup",
+      "Maple syrup",
       "Blueberries",
       "Olive oil",
       "Lemon juice",
@@ -20773,7 +20780,7 @@
     "title": "Strawberries in dark chocolate with walnuts",
     "ingredients": [
       "Strawberries",
-      "Dunkle Schokolade 85 %",
+      "Dark chocolate 85 %",
       "Walnuts",
       "Seasoning"
     ],
@@ -20787,9 +20794,9 @@
     "id": "rec_1097",
     "title": "Buckwheat yoghurt bowl with cherries and almonds",
     "ingredients": [
-      "Buchweizen",
+      "Buckwheat",
       "Plain yoghurt",
-      "Kirschen",
+      "Cherries",
       "Almonds",
       "Flaxseed",
       "Seasoning"
@@ -20821,7 +20828,7 @@
     "id": "rec_1099",
     "title": "Oat bran blueberry muffins without sugar",
     "ingredients": [
-      "Haferkleie",
+      "Oat bran",
       "Egg",
       "Blueberries",
       "Plain yoghurt",
@@ -20840,13 +20847,13 @@
     "id": "rec_1100",
     "title": "Barley porridge with apple, cinnamon and walnuts",
     "ingredients": [
-      "Gerstengruetze",
+      "Barley groats",
       "Apple",
       "Walnuts",
       "Cinnamon",
       "Plain yoghurt",
-      "Wasser",
-      "Haferkleie",
+      "Water",
+      "Oat bran",
       "Seasoning"
     ],
     "instructions": [
@@ -20859,9 +20866,9 @@
     "id": "rec_1101",
     "title": "Soy yoghurt bowl with pear and hazelnuts",
     "ingredients": [
-      "Sojajoghurt",
-      "Birne",
-      "Haselnuesse",
+      "Soy yoghurt",
+      "Pear",
+      "Hazelnuts",
       "Seasoning"
     ],
     "instructions": [
@@ -20877,7 +20884,7 @@
       "Quark",
       "Apple",
       "Flaxseed",
-      "Haferkleie",
+      "Oat bran",
       "Cinnamon",
       "Seasoning"
     ],
@@ -20896,7 +20903,7 @@
       "Egg",
       "Tomato",
       "Olive oil",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Seasoning"
     ],
     "instructions": [
@@ -20910,10 +20917,10 @@
     "title": "Yoghurt with plums, walnuts and cinnamon",
     "ingredients": [
       "Plain yoghurt",
-      "Zwetschgen",
+      "Plums",
       "Walnuts",
       "Cinnamon",
-      "Haferkleie",
+      "Oat bran",
       "Seasoning"
     ],
     "instructions": [
@@ -20927,7 +20934,7 @@
     "title": "Strawberry soy oat shake with flaxseed",
     "ingredients": [
       "Strawberries",
-      "Sojamilch",
+      "Soy milk",
       "Oats",
       "Flaxseed",
       "Seasoning"
@@ -20944,7 +20951,7 @@
     "ingredients": [
       "Chickpea flour",
       "Egg",
-      "Wasser",
+      "Water",
       "Tomato",
       "Cucumber",
       "Olive oil",
@@ -20962,9 +20969,9 @@
     "id": "rec_1107",
     "title": "Kidney bean quinoa patties on leaf salad with yoghurt dip",
     "ingredients": [
-      "Kidneybohnen (abgetropft)",
+      "Kidney beans (drained)",
       "Quinoa",
-      "Blattsalat",
+      "Lettuce",
       "Plain yoghurt",
       "Olive oil",
       "Cumin",
@@ -20988,7 +20995,7 @@
       "Walnuts",
       "Olive oil",
       "Lemon juice",
-      "Feldsalat",
+      "Lamb's lettuce",
       "Seasoning"
     ],
     "instructions": [
@@ -21026,7 +21033,7 @@
       "Cumin",
       "Olive oil",
       "Lemon juice",
-      "Salat",
+      "Salad leaves",
       "Seasoning"
     ],
     "instructions": [
@@ -21059,7 +21066,7 @@
     "title": "Wholemeal fusilli with tuna, chickpeas and rocket",
     "ingredients": [
       "Wholemeal pasta",
-      "Thunfisch (Dose, abgetropft)",
+      "Tuna (tinned, drained)",
       "Chickpeas",
       "Rocket",
       "Olive oil",
@@ -21097,11 +21104,11 @@
     "title": "Edamame buckwheat salad with sesame and cucumber",
     "ingredients": [
       "Edamame",
-      "Buchweizen",
+      "Buckwheat",
       "Cucumber",
-      "Sesam",
+      "Sesame seeds",
       "Sesame oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Lime juice",
       "Seasoning"
     ],
@@ -21122,7 +21129,7 @@
       "Olive oil",
       "Lemon juice",
       "Parsley",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Seasoning"
     ],
     "instructions": [
@@ -21135,7 +21142,7 @@
     "id": "rec_1116",
     "title": "Wheat berry salad with feta, cucumber and herbs",
     "ingredients": [
-      "Weizenkörner",
+      "Wheat berries",
       "Feta",
       "Cucumber",
       "Tomato",
@@ -21162,7 +21169,7 @@
       "Passata",
       "Olive oil",
       "Thyme",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Seasoning"
     ],
     "instructions": [
@@ -21175,7 +21182,7 @@
     "id": "rec_1118",
     "title": "Lamb lentil stew with mint and yoghurt",
     "ingredients": [
-      "Lammfleisch",
+      "Lamb",
       "Lentils",
       "Onion",
       "Passata",
@@ -21196,7 +21203,7 @@
     "title": "Roasted cauliflower with beluga lentils and tahini yoghurt",
     "ingredients": [
       "Cauliflower",
-      "Belugalinsen",
+      "Beluga lentils",
       "Tahini",
       "Plain yoghurt",
       "Olive oil",
@@ -21233,7 +21240,7 @@
     "id": "rec_1121",
     "title": "Pollock with white beans in tomato sauce",
     "ingredients": [
-      "Seelachs",
+      "Pollock",
       "White beans",
       "Passata",
       "Olive oil",
@@ -21255,16 +21262,16 @@
       "Wholemeal pasta",
       "Spinach",
       "Walnuts",
-      "Erbsen",
+      "Peas",
       "Olive oil",
       "Lemon juice",
-      "Hefeflocken",
+      "Nutritional yeast flakes",
       "Seasoning"
     ],
     "instructions": [
       "Cook pasta and peas.",
       "Blend spinach, walnuts, oil and lemon into pesto.",
-      "Toss with pasta and Parmesan."
+      "Toss with pasta and nutritional yeast."
     ]
   },
   {
@@ -21274,10 +21281,10 @@
       "Chicken breast",
       "Chickpeas",
       "Carrots",
-      "Kartoffel",
-      "Grüne Bohnen",
+      "Potato",
+      "Green beans",
       "Olive oil",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Parsley",
       "Seasoning"
     ],
@@ -21291,7 +21298,7 @@
     "id": "rec_1124",
     "title": "Vegetarian feijoada with black beans, pumpkin and kale",
     "ingredients": [
-      "Schwarze Bohnen (abgetropft)",
+      "Black beans (drained)",
       "Pumpkin",
       "Kale",
       "Onion",
@@ -21302,9 +21309,9 @@
       "Seasoning"
     ],
     "instructions": [
-      "Cook rice; sauté onion and pumpkin in oil.",
+      "Cook quinoa; sauté onion and pumpkin in oil.",
       "Simmer with beans, tomato and paprika for 12 minutes.",
-      "Fold in kale; serve with rice."
+      "Fold in kale; serve with quinoa."
     ]
   },
   {
@@ -21316,21 +21323,21 @@
       "Olive oil",
       "Lemon juice",
       "Garlic",
-      "Chili",
-      "Hefeflocken",
+      "Chilli",
+      "Nutritional yeast flakes",
       "Seasoning"
     ],
     "instructions": [
       "Roast broccoli with oil and garlic at 200 °C for 20 minutes.",
       "Warm the beans briefly.",
-      "Serve with lemon, chilli and Parmesan."
+      "Serve with lemon, chilli and nutritional yeast."
     ]
   },
   {
     "id": "rec_1126",
     "title": "Buckwheat patties with herb quark and cucumber salad",
     "ingredients": [
-      "Buchweizen",
+      "Buckwheat",
       "Egg",
       "Quark",
       "Cucumber",
@@ -21366,15 +21373,15 @@
   },
   {
     "id": "rec_1128",
-    "title": "Bean and savoy cabbage stew with pearl barley",
+    "title": "Bean and savoy cabbage stew with quinoa",
     "ingredients": [
       "White beans",
-      "Wirsing",
+      "Savoy cabbage",
       "Quinoa",
       "Carrots",
       "Onion",
       "Olive oil",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Thyme",
       "Celery",
       "Tomato",
@@ -21382,7 +21389,7 @@
     ],
     "instructions": [
       "Sauté onion and carrots in the oil.",
-      "Add cabbage, beans, barley and stock; simmer 25 minutes.",
+      "Add cabbage, beans, quinoa and stock; simmer 25 minutes.",
       "Season with thyme and serve."
     ]
   },
@@ -21390,10 +21397,10 @@
     "id": "rec_1129",
     "title": "Pan-fried trout on bean and apple salad",
     "ingredients": [
-      "Forelle",
+      "Trout",
       "White beans",
       "Apple",
-      "Feldsalat",
+      "Lamb's lettuce",
       "Olive oil",
       "Lemon juice",
       "Dill",
@@ -21409,7 +21416,7 @@
     "id": "rec_1130",
     "title": "Wheat berry lentil salad with orange and spinach",
     "ingredients": [
-      "Weizenkörner",
+      "Wheat berries",
       "Lentils",
       "Orange",
       "Spinach",
@@ -21429,12 +21436,12 @@
     "title": "Braised chicken thighs with lentils and rosemary",
     "ingredients": [
       "Skinless chicken thighs",
-      "Belugalinsen",
+      "Beluga lentils",
       "Zucchini",
       "Onion",
       "Olive oil",
       "Rosemary",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Passata",
       "Kale",
       "Seasoning"
@@ -21473,8 +21480,8 @@
       "Red pepper",
       "Olive oil",
       "Spring onion",
-      "Sesam",
-      "Sojasauce natriumarm",
+      "Sesame seeds",
+      "Low-sodium soy sauce",
       "Seasoning"
     ],
     "instructions": [
@@ -21515,7 +21522,7 @@
       "Olive oil",
       "Coriander",
       "Lime juice",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Onion",
       "Seasoning"
     ],
@@ -21536,7 +21543,7 @@
       "Plain yoghurt",
       "Olive oil",
       "Parsley",
-      "Haferkleie",
+      "Oat bran",
       "Seasoning"
     ],
     "instructions": [
@@ -21554,7 +21561,7 @@
       "Light mozzarella",
       "Olive oil",
       "Basil",
-      "Balsamico",
+      "Balsamic vinegar",
       "Seasoning"
     ],
     "instructions": [
@@ -21567,13 +21574,13 @@
     "id": "rec_1138",
     "title": "Buckwheat salmon salad with cucumber and dill",
     "ingredients": [
-      "Buchweizen",
-      "Lachsfilet",
+      "Buckwheat",
+      "Salmon fillet",
       "Radishes",
       "Olive oil",
       "Dill",
       "Lemon juice",
-      "Feldsalat",
+      "Lamb's lettuce",
       "Apple",
       "Yoghurt",
       "Seasoning"
@@ -21588,7 +21595,7 @@
     "id": "rec_1139",
     "title": "Lupin herb spread with vegetable sticks",
     "ingredients": [
-      "Lupinen (abgetropft)",
+      "Lupin beans (drained)",
       "Plain yoghurt",
       "Parsley",
       "Lemon juice",
@@ -21597,7 +21604,7 @@
       "Kohlrabi",
       "Red pepper",
       "Radishes",
-      "Hanfsamen",
+      "Hemp seeds",
       "Seasoning"
     ],
     "instructions": [
@@ -21611,10 +21618,10 @@
     "title": "Sour cherry quark with cacao nibs",
     "ingredients": [
       "Quark",
-      "Sauerkirschen",
-      "Kakaonibs",
+      "Sour cherries",
+      "Cocoa nibs",
       "Flaxseed",
-      "Haferkleie"
+      "Oat bran"
     ],
     "instructions": [
       "Stir the quark until smooth.",
@@ -21626,11 +21633,11 @@
     "id": "rec_1141",
     "title": "Pear with fresh goat cheese and walnuts",
     "ingredients": [
-      "Birne",
+      "Pear",
       "Fresh goat's cheese",
       "Walnuts",
       "Lemon juice",
-      "Feldsalat"
+      "Lamb's lettuce"
     ],
     "instructions": [
       "Slice the pear; drizzle with lemon.",
@@ -21661,7 +21668,7 @@
     "id": "rec_1143",
     "title": "Kidney bean dip with pepper sticks",
     "ingredients": [
-      "Kidneybohnen (abgetropft)",
+      "Kidney beans (drained)",
       "Plain yoghurt",
       "Olive oil",
       "Lemon juice",
@@ -21704,7 +21711,7 @@
       "Flaxseed",
       "Cinnamon",
       "Olive oil",
-      "Haferkleie"
+      "Oat bran"
     ],
     "instructions": [
       "Grate apple; mix with oats, bran, almonds, flax and cinnamon.",
@@ -21718,7 +21725,7 @@
     "ingredients": [
       "Plain yoghurt",
       "Peach",
-      "Haferkleie",
+      "Oat bran",
       "Almonds",
       "Blueberries",
       "Spice blend, unsalted"
@@ -21733,9 +21740,9 @@
     "id": "rec_1147",
     "title": "Vegan protein pancakes with pea protein and berries",
     "ingredients": [
-      "Erbsenprotein",
+      "Pea protein",
       "Oats",
-      "Sojamilch",
+      "Soy milk",
       "Blueberries",
       "Banana",
       "Baking powder",
@@ -21751,11 +21758,11 @@
     "id": "rec_1148",
     "title": "Soy skyr bowl with hemp seeds, berries and peanut butter",
     "ingredients": [
-      "Soja-Skyr",
-      "Hanfsamen",
+      "Soy skyr",
+      "Hemp seeds",
       "Strawberries",
-      "Erdnussbutter",
-      "Erbsenprotein",
+      "Peanut butter",
+      "Pea protein",
       "Oats"
     ],
     "instructions": [
@@ -21771,7 +21778,7 @@
       "Smoked tofu",
       "Avocado",
       "Wholemeal toast",
-      "Hanfsamen",
+      "Hemp seeds",
       "Lemon juice",
       "Rocket",
       "Seasoning"
@@ -21790,7 +21797,7 @@
       "Mushrooms",
       "Olive oil",
       "Spring onion",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Spice blend, unsalted",
       "Tomato",
       "Seasoning"
@@ -21809,15 +21816,15 @@
       "Chickpea flour",
       "Chard",
       "Olive oil",
-      "Hefeflocken",
-      "Sojamilch",
+      "Nutritional yeast flakes",
+      "Soy milk",
       "Zucchini",
       "Red pepper",
       "Seasoning"
     ],
     "instructions": [
       "Mash tofu; mix with chickpea flour, soy milk and nutritional yeast.",
-      "Fold in spinach and tomatoes; pour into an oiled tin.",
+      "Fold in chard, courgette and pepper; pour into an oiled tin.",
       "Bake at 190 °C for 25 minutes."
     ]
   },
@@ -21829,7 +21836,7 @@
       "Mushrooms",
       "Spinach",
       "Olive oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Garlic",
       "Cherry tomatoes",
       "Seasoning"
@@ -21844,11 +21851,11 @@
     "id": "rec_1153",
     "title": "Pea protein smoothie with mango and oats",
     "ingredients": [
-      "Erbsenprotein",
+      "Pea protein",
       "Mango",
       "Oats",
-      "Sojamilch",
-      "Hanfsamen",
+      "Soy milk",
+      "Hemp seeds",
       "Lime juice"
     ],
     "instructions": [
@@ -21862,8 +21869,8 @@
     "title": "Vegan breakfast tacos with tofu and black beans",
     "ingredients": [
       "Tofu",
-      "Schwarze Bohnen (abgetropft)",
-      "Maistortillas",
+      "Black beans (drained)",
+      "Corn tortillas",
       "Tomato",
       "Avocado",
       "Olive oil",
@@ -21882,11 +21889,11 @@
     "title": "Seitan steaks with pepper oat cream and green beans",
     "ingredients": [
       "Seitan",
-      "Hafer Cuisine",
-      "Grüne Bohnen",
+      "Oat cream for cooking",
+      "Green beans",
       "Olive oil",
       "Pepper",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Garlic",
       "Seasoning"
     ],
@@ -21903,9 +21910,9 @@
       "Tofu",
       "Chickpeas",
       "Broccoli",
-      "Kokosmilch light",
+      "Light coconut milk",
       "Brown rice",
-      "Currypaste",
+      "Curry paste",
       "Olive oil",
       "Spinach",
       "Seasoning"
@@ -21923,9 +21930,9 @@
       "Tempeh",
       "Broccoli",
       "Edamame",
-      "Sobanudeln",
+      "Soba noodles",
       "Sesame oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Ginger",
       "Garlic",
       "Seasoning"
@@ -21945,7 +21952,7 @@
       "Tofu",
       "Basil",
       "Olive oil",
-      "Hefeflocken",
+      "Nutritional yeast flakes",
       "Cherry tomatoes",
       "Garlic",
       "Seasoning"
@@ -21960,13 +21967,13 @@
     "id": "rec_1159",
     "title": "Vegan lasagne with soy mince and tofu bechamel",
     "ingredients": [
-      "Vollkorn-Lasagneplatten",
-      "Sojagranulat",
+      "Wholemeal lasagne sheets",
+      "Textured soy protein",
       "Tofu",
       "Passata",
-      "Hafer Cuisine",
+      "Oat cream for cooking",
       "Olive oil",
-      "Hefeflocken",
+      "Nutritional yeast flakes",
       "Onion",
       "Garlic",
       "Seasoning"
@@ -22005,10 +22012,10 @@
       "Tofu",
       "Edamame",
       "Brown rice",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Sesame oil",
       "Ginger",
-      "Sesam",
+      "Sesame seeds",
       "Spring onion",
       "Seasoning"
     ],
@@ -22024,11 +22031,11 @@
     "ingredients": [
       "Tempeh",
       "Wholemeal roll",
-      "Rotkohl",
-      "Apfelessig",
+      "Red cabbage",
+      "Apple cider vinegar",
       "Olive oil",
-      "Sojasauce natriumarm",
-      "Senf",
+      "Low-sodium soy sauce",
+      "Mustard",
       "Tomato",
       "Seasoning"
     ],
@@ -22044,11 +22051,11 @@
     "ingredients": [
       "Tofu",
       "Millet",
-      "Rotkohl",
-      "Erdnussbutter",
+      "Red cabbage",
+      "Peanut butter",
       "Lime juice",
       "Sesame oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Cucumber",
       "Seasoning"
     ],
@@ -22066,10 +22073,10 @@
       "Mushrooms",
       "Potatoes",
       "Olive oil",
-      "Hafer Cuisine",
+      "Oat cream for cooking",
       "Onion",
       "Thyme",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Seasoning"
     ],
     "instructions": [
@@ -22082,7 +22089,7 @@
     "id": "rec_1165",
     "title": "Soya chunks masala – Indian soy curry with rice",
     "ingredients": [
-      "Sojagranulat",
+      "Textured soy protein",
       "Brown rice",
       "Passata",
       "Olive oil",
@@ -22091,7 +22098,7 @@
       "Ginger",
       "Spice blend, unsalted",
       "Spinach",
-      "Sojajoghurt",
+      "Soy yoghurt",
       "Seasoning"
     ],
     "instructions": [
@@ -22107,11 +22114,11 @@
       "Tofu",
       "Brown rice",
       "Kimchi",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Sesame oil",
-      "Birne",
+      "Pear",
       "Garlic",
-      "Sesam",
+      "Sesame seeds",
       "Spring onion",
       "Spinach",
       "Carrots",
@@ -22128,14 +22135,14 @@
     "id": "rec_1167",
     "title": "Soy meatballs in tomato sauce with wholemeal spaghetti",
     "ingredients": [
-      "Sojagranulat",
+      "Textured soy protein",
       "Wholemeal pasta",
       "Passata",
       "Oats",
       "Olive oil",
       "Garlic",
       "Basil",
-      "Hefeflocken",
+      "Nutritional yeast flakes",
       "Seasoning"
     ],
     "instructions": [
@@ -22148,14 +22155,14 @@
     "id": "rec_1168",
     "title": "Lupin schnitzel with potato salad",
     "ingredients": [
-      "Lupinen (abgetropft)",
+      "Lupin beans (drained)",
       "Potatoes",
       "Oats",
       "Olive oil",
-      "Senf",
-      "Apfelessig",
+      "Mustard",
+      "Apple cider vinegar",
       "Spring onion",
-      "Hefeflocken",
+      "Nutritional yeast flakes",
       "Seasoning"
     ],
     "instructions": [
@@ -22170,10 +22177,10 @@
     "ingredients": [
       "Tofu",
       "Edamame",
-      "Sobanudeln",
+      "Soba noodles",
       "Miso",
-      "Gemuesebruehe natriumarm",
-      "Pak Choi",
+      "Low-sodium vegetable stock",
+      "Pak choi",
       "Sesame oil",
       "Spring onion",
       "Nori",
@@ -22191,9 +22198,9 @@
     "ingredients": [
       "Seitan",
       "Red pepper",
-      "Schwarze Bohnen (abgetropft)",
+      "Black beans (drained)",
       "Sesame oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Garlic",
       "Ginger",
       "Spring onion",
@@ -22231,7 +22238,7 @@
     "id": "rec_1172",
     "title": "Beluga lentil tofu salad with edamame",
     "ingredients": [
-      "Belugalinsen",
+      "Beluga lentils",
       "Tofu",
       "Edamame",
       "Olive oil",
@@ -22256,9 +22263,9 @@
       "Mushrooms",
       "Spinach",
       "Olive oil",
-      "Hefeflocken",
-      "Sojamilch",
-      "Lauch",
+      "Nutritional yeast flakes",
+      "Soy milk",
+      "Leek",
       "Seasoning"
     ],
     "instructions": [
@@ -22271,12 +22278,12 @@
     "id": "rec_1174",
     "title": "Soy medallions with mushroom sauce and broccoli",
     "ingredients": [
-      "Sojagranulat",
+      "Textured soy protein",
       "Mushrooms",
       "Broccoli",
-      "Hafer Cuisine",
+      "Oat cream for cooking",
       "Olive oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Thyme",
       "Oats",
       "Seasoning"
@@ -22297,7 +22304,7 @@
       "Olive oil",
       "Lemon juice",
       "Garlic",
-      "Chili",
+      "Chilli",
       "Red pepper",
       "Seasoning"
     ],
@@ -22311,11 +22318,11 @@
     "id": "rec_1176",
     "title": "Silken tofu miso soup with edamame and soba",
     "ingredients": [
-      "Seidentofu",
-      "Pak Choi",
-      "Reisnudeln",
+      "Silken tofu",
+      "Pak choi",
+      "Rice noodles",
       "Miso",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Spring onion",
       "Sesame oil",
       "Tofu",
@@ -22335,10 +22342,10 @@
       "Tempeh",
       "Wholemeal bread",
       "Sauerkraut",
-      "Senf",
+      "Mustard",
       "Olive oil",
-      "Sojasauce natriumarm",
-      "Hefeflocken",
+      "Low-sodium soy sauce",
+      "Nutritional yeast flakes",
       "Seasoning"
     ],
     "instructions": [
@@ -22352,13 +22359,13 @@
     "title": "Protein penne with pea pesto and tofu",
     "ingredients": [
       "Wholemeal pasta",
-      "Erbsen",
+      "Peas",
       "Tofu",
-      "Erbsenprotein",
+      "Pea protein",
       "Olive oil",
       "Basil",
       "Lemon juice",
-      "Hefeflocken",
+      "Nutritional yeast flakes",
       "Seasoning"
     ],
     "instructions": [
@@ -22373,8 +22380,8 @@
     "ingredients": [
       "Tempeh",
       "Sweet potato",
-      "Kokosmilch light",
-      "Currypaste",
+      "Light coconut milk",
+      "Curry paste",
       "Olive oil",
       "Spinach",
       "Lime juice",
@@ -22391,9 +22398,9 @@
     "id": "rec_1180",
     "title": "Vegan soy kofte with bulgur and yoghurt dip",
     "ingredients": [
-      "Sojagranulat",
+      "Textured soy protein",
       "Bulgur",
-      "Sojajoghurt",
+      "Soy yoghurt",
       "Olive oil",
       "Parsley",
       "Onion",
@@ -22413,11 +22420,11 @@
     "title": "Smoked tofu lentil stew with carrots and leek",
     "ingredients": [
       "Smoked tofu",
-      "Belugalinsen",
+      "Beluga lentils",
       "Carrots",
       "Celery",
       "Olive oil",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Thyme",
       "Kale",
       "Tomato",
@@ -22440,7 +22447,7 @@
       "Olive oil",
       "Lemon juice",
       "Oregano",
-      "Hefeflocken",
+      "Nutritional yeast flakes",
       "Seasoning"
     ],
     "instructions": [
@@ -22453,11 +22460,11 @@
     "id": "rec_1183",
     "title": "Protein bars with pea protein, peanuts and oats",
     "ingredients": [
-      "Erbsenprotein",
+      "Pea protein",
       "Oats",
       "Peanuts",
-      "Erdnussbutter",
-      "Sojamilch"
+      "Peanut butter",
+      "Soy milk"
     ],
     "instructions": [
       "Knead everything into a dough.",
@@ -22474,7 +22481,7 @@
       "Tahini",
       "Lemon juice",
       "Garlic",
-      "Sesam",
+      "Sesame seeds",
       "Seasoning"
     ],
     "instructions": [
@@ -22487,11 +22494,11 @@
     "id": "rec_1185",
     "title": "Soy protein shake with cocoa and banana",
     "ingredients": [
-      "Erbsenprotein",
-      "Sojamilch",
+      "Pea protein",
+      "Soy milk",
       "Banana",
       "Unsweetened cocoa",
-      "Hanfsamen"
+      "Hemp seeds"
     ],
     "instructions": [
       "Add all ingredients to a blender.",
@@ -22504,7 +22511,7 @@
     "title": "Roasted soybeans and pumpkin seeds with paprika",
     "ingredients": [
       "Roasted soybeans",
-      "Kürbiskerne",
+      "Pumpkin seeds",
       "Spice blend, unsalted",
       "Olive oil",
       "Cucumber",
@@ -22526,7 +22533,7 @@
       "Tomato",
       "Olive oil",
       "Cucumber",
-      "Balsamico",
+      "Balsamic vinegar",
       "Basil",
       "Seasoning"
     ],
@@ -22541,10 +22548,10 @@
     "title": "Watermelon skyr bowl with mint",
     "ingredients": [
       "Skyr",
-      "Wassermelone",
+      "Watermelon",
       "Mint",
       "Lime juice",
-      "Hanfsamen"
+      "Hemp seeds"
     ],
     "instructions": [
       "Dice the watermelon.",
@@ -22560,7 +22567,7 @@
       "Tofu",
       "Spinach",
       "Egg",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Spring onion",
       "Wakame",
       "Seasoning"
@@ -22577,10 +22584,10 @@
     "ingredients": [
       "Quark",
       "Strawberries",
-      "Rhabarber",
+      "Rhubarb",
       "Lemon juice",
       "Cinnamon",
-      "Hanfsamen"
+      "Hemp seeds"
     ],
     "instructions": [
       "Stew rhubarb and strawberries with lemon for 8 minutes.",
@@ -22595,7 +22602,7 @@
       "Egg white",
       "Zucchini",
       "Tomato",
-      "Knaeckebrot",
+      "Crispbread",
       "Olive oil",
       "Chives",
       "Seasoning"
@@ -22614,7 +22621,7 @@
       "Papaya",
       "Kiwi",
       "Lime juice",
-      "Hanfsamen"
+      "Hemp seeds"
     ],
     "instructions": [
       "Dice papaya and kiwi.",
@@ -22630,7 +22637,7 @@
       "White cabbage",
       "Tomato",
       "Carrots",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Olive oil",
       "Parsley",
       "Onion",
@@ -22646,7 +22653,7 @@
     "id": "rec_1194",
     "title": "Spaghetti squash with tomato chicken sauce",
     "ingredients": [
-      "Spaghettikürbis",
+      "Spaghetti squash",
       "Chicken breast",
       "Passata",
       "Olive oil",
@@ -22667,11 +22674,11 @@
     "ingredients": [
       "Turkey",
       "Egg",
-      "Eisbergsalat",
+      "Iceberg lettuce",
       "Tomato",
       "Cucumber",
       "Plain yoghurt",
-      "Senf",
+      "Mustard",
       "Lemon juice",
       "Seasoning"
     ],
@@ -22690,7 +22697,7 @@
       "Tomato",
       "Zucchini",
       "Olive oil",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Dill",
       "Black olives",
       "Celery",
@@ -22728,7 +22735,7 @@
       "Prawns",
       "Zucchini",
       "Tomato",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Olive oil",
       "Basil",
       "Garlic",
@@ -22747,7 +22754,7 @@
       "Broccoli",
       "Spinach",
       "Cottage cheese",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Olive oil",
       "Onion",
       "Lemon juice",
@@ -22785,12 +22792,12 @@
     "title": "Shirataki vegetable wok with prawns",
     "ingredients": [
       "Prawns",
-      "Shirataki",
-      "Pak Choi",
+      "Shirataki noodles",
+      "Pak choi",
       "Red pepper",
       "Zucchini",
       "Sesame oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Ginger",
       "Seasoning"
     ],
@@ -22804,7 +22811,7 @@
     "id": "rec_1202",
     "title": "Pollock tomato zucchini skillet with basil",
     "ingredients": [
-      "Seelachs",
+      "Pollock",
       "Aubergine",
       "Tomato",
       "Olive oil",
@@ -22829,7 +22836,7 @@
       "Passata",
       "Red pepper",
       "White beans",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Olive oil",
       "Basil",
       "Seasoning"
@@ -22846,11 +22853,11 @@
     "ingredients": [
       "Tofu",
       "Cucumber",
-      "Rettich",
+      "White radish",
       "Sesame oil",
-      "Sojasauce natriumarm",
-      "Sesam",
-      "Reisessig",
+      "Low-sodium soy sauce",
+      "Sesame seeds",
+      "Rice vinegar",
       "Spring onion",
       "Seasoning"
     ],
@@ -22865,9 +22872,9 @@
     "title": "Pointed cabbage turkey stew with caraway",
     "ingredients": [
       "Turkey",
-      "Spitzkohl",
+      "Pointed cabbage",
       "Carrots",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Olive oil",
       "Spice blend, unsalted",
       "Plain yoghurt",
@@ -22885,12 +22892,12 @@
     "ingredients": [
       "Tofu",
       "Mushrooms",
-      "Bambussprossen",
-      "Gemuesebruehe natriumarm",
-      "Reisessig",
-      "Sojasauce natriumarm",
+      "Bamboo shoots",
+      "Low-sodium vegetable stock",
+      "Rice vinegar",
+      "Low-sodium soy sauce",
       "Egg white",
-      "Chili",
+      "Chilli",
       "Sesame oil",
       "Spring onion",
       "Seasoning"
@@ -22925,11 +22932,11 @@
     "title": "Autumn salad with chicken, pear, red cabbage and walnuts",
     "ingredients": [
       "Chicken breast",
-      "Rotkohl",
-      "Birne",
-      "Feldsalat",
+      "Red cabbage",
+      "Pear",
+      "Lamb's lettuce",
       "Walnuts",
-      "Apfelessig",
+      "Apple cider vinegar",
       "Olive oil",
       "Seasoning"
     ],
@@ -22944,9 +22951,9 @@
     "title": "Savoy cabbage carrot stew with chicken",
     "ingredients": [
       "Chicken breast",
-      "Wirsing",
+      "Savoy cabbage",
       "Carrots",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Olive oil",
       "Thyme",
       "Seasoning"
@@ -22964,7 +22971,7 @@
       "Chicken breast",
       "Passata",
       "Zucchini",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Olive oil",
       "Oats",
       "Basil",
@@ -22980,12 +22987,12 @@
     "id": "rec_1211",
     "title": "Beef vegetable skillet with pepper and sugar snaps",
     "ingredients": [
-      "Rindersteak",
+      "Beef steak",
       "Red pepper",
       "Sugar snap peas",
       "Zucchini",
       "Olive oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Ginger",
       "Seasoning"
     ],
@@ -23000,11 +23007,11 @@
     "title": "Chinese cabbage salad with prawns and mandarins",
     "ingredients": [
       "Prawns",
-      "Chinakohl",
-      "Mandarine",
+      "Napa cabbage",
+      "Mandarin",
       "Sesame oil",
-      "Reisessig",
-      "Sesam",
+      "Rice vinegar",
+      "Sesame seeds",
       "Spring onion",
       "Seasoning"
     ],
@@ -23022,7 +23029,7 @@
       "Red pepper",
       "Tomato",
       "Chickpeas",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Olive oil",
       "Basil",
       "Fennel",
@@ -23039,14 +23046,14 @@
     "id": "rec_1214",
     "title": "Boiled beef soup with vegetables",
     "ingredients": [
-      "Rindfleisch",
+      "Beef",
       "Carrots",
       "Kohlrabi",
-      "Lauch",
-      "Wirsing",
-      "Gemuesebruehe natriumarm",
+      "Leek",
+      "Savoy cabbage",
+      "Low-sodium vegetable stock",
       "Parsley",
-      "Pastinake",
+      "Parsnip",
       "Horseradish",
       "Seasoning"
     ],
@@ -23060,13 +23067,13 @@
     "id": "rec_1215",
     "title": "Chłodnik – cold beetroot soup with egg",
     "ingredients": [
-      "Rote Bete",
+      "Beetroot",
       "Cucumber",
       "Plain yoghurt",
       "Egg",
       "Dill",
       "Radishes",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Lemon juice",
       "Seasoning"
     ],
@@ -23100,7 +23107,7 @@
     "title": "Green bean tomato skillet with chicken and feta",
     "ingredients": [
       "Chicken breast",
-      "Grüne Bohnen",
+      "Green beans",
       "Tomato",
       "Feta",
       "Olive oil",
@@ -23122,7 +23129,7 @@
       "Tomato",
       "Aubergine",
       "Red pepper",
-      "Gemuesebruehe natriumarm",
+      "Low-sodium vegetable stock",
       "Olive oil",
       "Basil",
       "Garlic",
@@ -23141,7 +23148,7 @@
     "ingredients": [
       "Prawns",
       "Cucumber",
-      "Wassermelone",
+      "Watermelon",
       "Mint",
       "Lime juice",
       "Olive oil",
@@ -23163,9 +23170,9 @@
       "Zucchini",
       "Carrots",
       "Sesame oil",
-      "Sojasauce natriumarm",
+      "Low-sodium soy sauce",
       "Ginger",
-      "Sesam",
+      "Sesame seeds",
       "Seasoning"
     ],
     "instructions": [
@@ -23200,7 +23207,7 @@
       "Light mozzarella",
       "Rocket",
       "Olive oil",
-      "Balsamico",
+      "Balsamic vinegar",
       "Basil",
       "Cucumber",
       "Cottage cheese",
@@ -23236,11 +23243,11 @@
     "id": "rec_1224",
     "title": "Red cabbage apple salad with yoghurt and pumpkin seeds",
     "ingredients": [
-      "Rotkohl",
+      "Red cabbage",
       "Apple",
       "Plain yoghurt",
-      "Kürbiskerne",
-      "Apfelessig",
+      "Pumpkin seeds",
+      "Apple cider vinegar",
       "Seasoning"
     ],
     "instructions": [
@@ -23257,7 +23264,7 @@
       "Melon",
       "Cottage cheese",
       "Mint",
-      "Hanfsamen",
+      "Hemp seeds",
       "Lime juice",
       "Cucumber"
     ],
@@ -23269,7 +23276,7 @@
   },
   {
     "id": "rec_1226",
-    "title": "Strawberry skyr cold bowl",
+    "title": "Strawberry quark cold bowl",
     "ingredients": [
       "Quark",
       "Strawberries",
@@ -23279,9 +23286,9 @@
       "Flaxseed"
     ],
     "instructions": [
-      "Blend half the strawberries; stir into skyr.",
-      "Top with remaining strawberries.",
-      "Finish with mint, lime and hemp seeds."
+      "Blend half the strawberries; stir into quark.",
+      "Top with remaining strawberries and raspberries.",
+      "Finish with mint, lime and linseeds."
     ]
   },
   {
@@ -25549,7 +25556,7 @@
       "Potatoes",
       "Mountain cheese",
       "Broccoli",
-      "Cornichons",
+      "Gherkins",
       "Pickled pearl onions",
       "Parsley",
       "Salt, pepper"
@@ -27817,7 +27824,7 @@
     "ingredients": [
       "Chicken breast",
       "Parboiled rice",
-      "Cashews",
+      "Cashew nuts",
       "Light coconut milk",
       "Leaf spinach",
       "Pepper",
@@ -29156,7 +29163,7 @@
     "ingredients": [
       "Chicken breast",
       "Pak choi",
-      "Cashews",
+      "Cashew nuts",
       "Pepper",
       "Carrot",
       "Soy sauce",
@@ -31610,7 +31617,7 @@
     "ingredients": [
       "Tofu",
       "Celery",
-      "Cashews",
+      "Cashew nuts",
       "Brown rice (uncooked)",
       "Soy sauce",
       "Chilli",
@@ -36700,7 +36707,7 @@
     "id": "rec_1935",
     "title": "Natto bowl with brown rice, avocado, spring onion and nori",
     "ingredients": [
-      "Natto",
+      "Natto (fermented soybeans)",
       "Brown rice (uncooked)",
       "Avocado",
       "Spring onions",
@@ -40069,7 +40076,7 @@
     "id": "rec_2104",
     "title": "Rollmops plate with potato salad, apple and cucumber",
     "ingredients": [
-      "Rollmops",
+      "Rollmops (pickled herring)",
       "Potatoes",
       "Apple",
       "Cucumber",
@@ -46679,7 +46686,7 @@
       "Cook Polenta (uncooked) for 8 minutes (boil, mash or roast alongside).",
       "Cook Chicken breast with Herb oil, Water and Pepper for 6 minutes in a pan or in the oven.",
       "Cook Courgette and Tomatoes in Herb oil for 4 minutes.",
-      "Season with Parsley, thyme, Lemon juice, Water and Pepper and serve."
+      "Season with Parsley, thyme, Lemon juice and Pepper and serve."
     ]
   },
   {
@@ -46717,7 +46724,7 @@
     "instructions": [
       "Cook Gluten-free oats and Maple syrup in a pan for 8 minutes, stirring.",
       "Add Blueberries and Hemp seeds and leave to stand for 2 minutes.",
-      "Season with Water and serve."
+      "Season to taste and serve."
     ]
   },
   {
@@ -47154,7 +47161,7 @@
     "instructions": [
       "Cook Round-grain rice (uncooked) and Sugar in a pan for 12 minutes, stirring.",
       "Stir in Pine nuts and Pomegranate seeds and leave to stand for 20 minutes.",
-      "Season with Water, Rose water and Saffron and serve cold or lukewarm."
+      "Season with Rose water and Saffron and serve cold or lukewarm."
     ]
   },
   {
@@ -48348,7 +48355,7 @@
       "Roll out or prepare Wheat flour and brush with Olive oil.",
       "Fry or mix Leaf spinach, Tomatoes, White cheese (feta) and Parsley, mint as a filling or topping for 8 minutes.",
       "Top and bake in the oven at 200 degrees for 20 minutes.",
-      "Season with Water and serve."
+      "Season to taste and serve."
     ]
   },
   {
@@ -48370,7 +48377,7 @@
       "Roll out or prepare Wheat flour and brush with Olive oil.",
       "Fry or mix Lean minced beef, Eggs, Onion, Tomatoes, Sesame seeds, Natural yoghurt (0.2% fat) and Parsley as a filling or topping for 8 minutes.",
       "Top and bake in the oven at 200 degrees for 20 minutes.",
-      "Season with Water and serve."
+      "Season to taste and serve."
     ]
   },
   {
@@ -51173,7 +51180,7 @@
     "instructions": [
       "Wash, trim and roughly cut Baby spinach, Cucumber, Apple, Ginger, Natural yoghurt (0.2% fat) and Lemon juice.",
       "Put everything in the blender and blend smooth for 1 minute.",
-      "Season with Water, pour into a glass and drink at once."
+      "Thin with water to the desired consistency, pour into a glass and drink at once."
     ]
   },
   {
@@ -51190,7 +51197,7 @@
     "instructions": [
       "Wash, trim and roughly cut Mango, Banana, Light coconut milk and Lime juice.",
       "Put everything in the blender and blend smooth for 1 minute.",
-      "Season with Turmeric and Water, pour into a glass and drink at once."
+      "Season with turmeric, thin with water to the desired consistency, pour into a glass and drink at once."
     ]
   },
   {
@@ -51238,7 +51245,7 @@
     "instructions": [
       "Wash, trim and roughly cut Cherries, Skyr, Rolled oats and Unsweetened cocoa powder.",
       "Put everything in the blender and blend smooth for 1 minute.",
-      "Season with Water, pour into a glass and drink at once."
+      "Thin with water to the desired consistency, pour into a glass and drink at once."
     ]
   },
   {
@@ -51271,7 +51278,7 @@
     "instructions": [
       "Wash, trim and roughly cut Carrots, Orange, Ginger, Natural yoghurt (0.2% fat) and Rolled oats.",
       "Put everything in the blender and blend smooth for 1 minute.",
-      "Season with Water, pour into a glass and drink at once."
+      "Thin with water to the desired consistency, pour into a glass and drink at once."
     ]
   },
   {
@@ -51303,7 +51310,7 @@
     "instructions": [
       "Wash, trim and roughly cut Pineapple, Baby spinach, Light coconut milk, Coconut flakes and Lime juice.",
       "Put everything in the blender and blend smooth for 1 minute.",
-      "Season with Water, pour into a glass and drink at once."
+      "Thin with water to the desired consistency, pour into a glass and drink at once."
     ]
   },
   {
@@ -51338,7 +51345,7 @@
     "instructions": [
       "Wash, trim and roughly cut Fresh figs, Natural yoghurt (0.2% fat), Rolled oats, Walnuts, Ginger and Lemon juice.",
       "Put everything in the blender and blend smooth for 1 minute.",
-      "Season with Water, pour into a glass and drink at once."
+      "Thin with water to the desired consistency, pour into a glass and drink at once."
     ]
   },
   {
@@ -51356,7 +51363,7 @@
     "instructions": [
       "Wash, trim and roughly cut Blueberries, Baby spinach, Natural yoghurt (0.2% fat), Ground flaxseed, Rolled oats and Lemon juice.",
       "Put everything in the blender and blend smooth for 1 minute.",
-      "Season with Water, pour into a glass and drink at once."
+      "Thin with water to the desired consistency, pour into a glass and drink at once."
     ]
   },
   {
@@ -51422,7 +51429,7 @@
     "instructions": [
       "Wash, trim and roughly cut Peach, Natural yoghurt (0.2% fat), Rolled oats and Chia seeds.",
       "Put everything in the blender and blend smooth for 1 minute.",
-      "Season with Vanilla, turmeric and Water, pour into a glass and drink at once."
+      "Season with vanilla and turmeric, thin with water to the desired consistency, pour into a glass and drink at once."
     ]
   },
   {
@@ -52880,7 +52887,7 @@
     "instructions": [
       "Wash, trim and roughly cut Papaya, Natural yoghurt (0.2% fat), Lime juice, Coconut flakes, Mint and Rolled oats.",
       "Put everything in the blender and blend smooth for 1 minute.",
-      "Season with Water, pour into a glass and drink at once."
+      "Thin with water to the desired consistency, pour into a glass and drink at once."
     ]
   },
   {
@@ -52964,7 +52971,7 @@
       "Prepare, wash, cut or measure Rice flour, Light coconut milk, Prawns (raw, peeled), Bean sprouts, Salad leaves, Mint, coriander, Rapeseed oil and Lime juice.",
       "Stir the batter ingredients into a smooth batter and rest for 5 minutes. Set out the filling.",
       "Cook in the pan for 4 minutes per side until golden and serve with the dip.",
-      "Season with Water and Turmeric and serve at once."
+      "Season with Turmeric and serve at once."
     ]
   },
   {
@@ -53179,7 +53186,7 @@
       "Prepare, wash, cut or measure Wheat flour, Firm plain tofu, Mushrooms, Cucumber, Soy sauce, Sesame oil, Rice vinegar, Spring onion and Sugar.",
       "Cook the filling for 8 minutes or blanch the proteins briefly, and set out the wrappers or leaves.",
       "Fill and roll 4 pieces and serve with the dip.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -53199,7 +53206,7 @@
       "Prepare, wash, cut or measure Chicken breast, Round-grain rice (uncooked), Shiitake, Ginger, Spring onion, Soy sauce and Rapeseed oil.",
       "Cook the rice for 15 minutes or warm leftover rice. Fry or steam the protein and vegetables for 10 minutes.",
       "Serve everything in a bowl or on a plate.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -53241,7 +53248,7 @@
       "Prepare, wash, cut or measure Wheat flour, Octopus, Egg, Mayonnaise, Bonito flakes, Spring onion, Rapeseed oil and Soy sauce.",
       "Stir the batter ingredients into a smooth batter and rest for 5 minutes. Set out the filling.",
       "Cook in the pan for 4 minutes per side until golden and serve with the dip.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -53325,7 +53332,7 @@
     "instructions": [
       "Prepare, wash, cut or measure Beef, Carrots, Baguette, Beef stock, Onion, Tomato, Lemongrass, Fish sauce and Rapeseed oil.",
       "Brown the protein and vegetables for 8 minutes, then braise with the liquid for 20 minutes.",
-      "Cook the rice if there is any for 15 minutes and serve the stew hot with it.",
+      "Briefly warm the baguette in the oven and serve the stew hot with it.",
       "Season with Star anise, cinnamon and serve at once."
     ]
   },
@@ -53516,8 +53523,8 @@
     "instructions": [
       "Prepare, wash, cut or measure Chicken breast, Potato, Carrots, Glass noodles (uncooked), Soy sauce, Onion, Garlic, Sesame seeds and Maple syrup.",
       "Brown the protein and vegetables for 8 minutes, then braise with the liquid for 20 minutes.",
-      "Cook the rice if there is any for 15 minutes and serve the stew hot with it.",
-      "Season with Water and serve at once."
+      "Soak the glass noodles in hot water for 5 minutes, drain, fold into the stew and serve hot.",
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -53645,7 +53652,7 @@
       "Prepare, wash, cut or measure Beef, Potato, Carrots, Round-grain rice (uncooked), Onion, Soy sauce, Maple syrup and Sesame oil.",
       "Brown the protein and vegetables for 8 minutes, then braise with the liquid for 20 minutes.",
       "Cook the rice if there is any for 15 minutes and serve the stew hot with it.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -53663,8 +53670,8 @@
     "instructions": [
       "Prepare, wash, cut or measure Egg, Shiitake, Prawns (raw, peeled), Soy sauce, Spring onion and Maple syrup.",
       "Beat the eggs with the liquid, add the fillings and steam for 12 minutes.",
-      "Cook the rice if there is any for 15 minutes and serve the custard hot beside it.",
-      "Season with Water and serve at once."
+      "Serve the custard hot in its bowl.",
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -53685,7 +53692,7 @@
       "Prepare, wash, cut or measure Firm plain tofu, White radish, Shiitake, Spring onion, Soy sauce, Rice flour, Rapeseed oil and Ginger.",
       "Coat the protein or tofu in starch or flour and fry in the pan for 6 minutes until golden.",
       "Finish the sauce or side for 5 minutes and plate everything together.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -53849,7 +53856,7 @@
       "Prepare, wash, cut or measure Chicken breast, Carrots, Round-grain rice (uncooked), Potato, Onion, Curry paste (vegan), Rapeseed oil and Apple.",
       "Cook the rice for 15 minutes or warm leftover rice. Fry or steam the protein and vegetables for 10 minutes.",
       "Serve everything in a bowl or on a plate.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -54016,7 +54023,7 @@
       "Prepare, wash, cut or measure Egg, Prawns (raw, peeled), Chives, Round-grain rice (uncooked), Soy sauce, Sesame oil and Sesame seeds.",
       "Cook the rice for 15 minutes or warm leftover rice. Fry or steam the protein and vegetables for 10 minutes.",
       "Serve everything in a bowl or on a plate.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -54037,7 +54044,7 @@
       "Prepare, wash, cut or measure Squid, Leek, Wheat flour, Egg, Soy sauce, Rice vinegar, Rapeseed oil and Spring onion.",
       "Stir the batter ingredients into a smooth batter and rest for 5 minutes. Set out the filling.",
       "Cook in the pan for 4 minutes per side until golden and serve with the dip.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -54274,7 +54281,7 @@
     "instructions": [
       "Prepare, wash, cut or measure Firm plain tofu, Baguette, Light coconut milk, Carrot, Sweet potato, Curry paste (vegan), Broccoli, Rapeseed oil and Lemongrass.",
       "Fry the paste in the fat for 3 minutes, add coconut milk or liquid and simmer the protein for 12 minutes.",
-      "Cook the rice for 15 minutes and serve the curry hot beside it.",
+      "Briefly warm the baguette in the oven and serve the curry hot beside it.",
       "Season to taste and serve at once."
     ]
   },
@@ -54339,7 +54346,7 @@
       "Prepare, wash, cut or measure Cod, Aubergine, Round-grain rice (uncooked), Sugar, Fish sauce, Ginger, Rapeseed oil and Spring onion.",
       "Brown the protein and vegetables for 8 minutes, then braise with the liquid for 20 minutes.",
       "Cook the rice if there is any for 15 minutes and serve the stew hot with it.",
-      "Season with Chilli and Water and serve at once."
+      "Season with Chilli and serve at once."
     ]
   },
   {
@@ -54360,7 +54367,7 @@
       "Prepare, wash, cut or measure Firm plain tofu, Round-grain rice (uncooked), Pak choi, Carrot, Sugar, Soy sauce, Ginger and Sesame oil.",
       "Brown the protein and vegetables for 8 minutes, then braise with the liquid for 20 minutes.",
       "Cook the rice if there is any for 15 minutes and serve the stew hot with it.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -54814,7 +54821,7 @@
       "Prepare, wash, cut or measure Mackerel fillet, Sushi rice (uncooked), Spinach, Cucumber, Miso, Firm plain tofu, Wakame and Spring onion.",
       "Simmer the broth or water with the protein and vegetables for 12 minutes.",
       "Cook the rice or noodles if there are any for 15 minutes, then serve the soup with them.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -55177,7 +55184,7 @@
       "Prepare, wash, cut or measure Wholemeal flour, Onion, Mushrooms, Mountain cheese, Light soured cream and Rapeseed oil.",
       "Prepare the dough or filling for 8 minutes, then bake in the oven for 20 minutes.",
       "Serve with salad, compote or sauce and serve warm.",
-      "Season with Water and Thyme and serve at once."
+      "Season with Thyme and serve at once."
     ]
   },
   {
@@ -57213,7 +57220,7 @@
       "Prepare, wash, cut or measure Cornmeal, Black beans (cooked), Light cheese, White cabbage, Carrots, Tomato and Vinegar.",
       "Prepare the dough, filling or spread for 8 minutes, then cook, bake or plate for 12 minutes.",
       "Serve with salad, salsa or a dip and eat at once.",
-      "Season with Water and Oregano and serve at once."
+      "Season with Oregano and serve at once."
     ]
   },
   {
@@ -57395,7 +57402,7 @@
       "Prepare, wash, cut or measure Chickpeas (cooked), Wholemeal flour, Tamarind, Cucumber, Chilli and Rapeseed oil.",
       "Prepare the dough, filling or spread for 8 minutes, then cook, bake or plate for 12 minutes.",
       "Serve with salad, salsa or a dip and eat at once.",
-      "Season with Cumin, turmeric and Water and serve at once."
+      "Season with Cumin, turmeric and serve at once."
     ]
   },
   {
@@ -57661,7 +57668,7 @@
       "Prepare, wash, cut or measure Cornmeal, Egg, Tomato, Light cheese, Butter and Coriander.",
       "Cook, bake or stir the base for 10 minutes, finish the egg or spread for 5 minutes.",
       "Serve with vegetables, bread or yogurt and eat at once.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -58058,7 +58065,7 @@
       "Prepare, wash, cut or measure Egg, Tomato, Onion, Spring onion, Arepa maize flour and Rapeseed oil.",
       "Cook, bake or stir the base for 10 minutes, finish the egg or spread for 5 minutes.",
       "Serve with vegetables, bread or yogurt and eat at once.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -58235,7 +58242,7 @@
       "Prepare, wash, cut or measure Cornmeal, Pinto beans (cooked), Tomatillos, Coriander, Pumpkin seeds and Rapeseed oil.",
       "Prepare the dough or filling for 8 minutes, then bake or steam in the oven for 25 minutes.",
       "Serve with salad, salsa or sauce and serve warm.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -58274,7 +58281,7 @@
       "Prepare, wash, cut or measure Cornmeal, Chicken breast, Black beans (cooked), White cabbage, Tomato, Coriander and Rapeseed oil.",
       "Prepare the dough, filling or spread for 8 minutes, then cook, bake or plate for 12 minutes.",
       "Serve with salad, salsa or a dip and eat at once.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -58437,7 +58444,7 @@
       "Prepare, wash, cut or measure Chickpea flour, Chickpeas (cooked), Potatoes, Tamarind, Peas (frozen), Onion and Rapeseed oil.",
       "Prepare the dough or filling for 8 minutes, then bake or steam in the oven for 25 minutes.",
       "Serve with salad, salsa or sauce and serve warm.",
-      "Season with Cumin, turmeric and Water and serve at once."
+      "Season with Cumin, turmeric and serve at once."
     ]
   },
   {
@@ -58934,7 +58941,7 @@
       "Prepare, wash, cut or measure Wholemeal flour, Kidney beans (cooked), Coriander, Passata, Onion and Rapeseed oil.",
       "Prepare the dough, filling or spread for 8 minutes, then cook, bake or plate for 12 minutes.",
       "Serve with salad, salsa or a dip and eat at once.",
-      "Season with Water and Curry powder, chilli and serve at once."
+      "Season with Curry powder, chilli and serve at once."
     ]
   },
   {
@@ -59815,7 +59822,7 @@
       "Prepare, wash, cut or measure Firm plain tofu, Miso, Wakame (soaked), Pak choi, Basmati rice (uncooked), Celery, Spring onion and Ginger.",
       "Simmer the broth with the vegetables, pulses or protein for 15 minutes, cooking the celery with it.",
       "Cook the additions for 8 minutes, then serve the soup in a bowl.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -60192,7 +60199,7 @@
       "Prepare, wash, cut or measure Firm plain tofu, Red lentils (uncooked), Cauliflower, Passata, Tomato paste, Coriander, Garlic, Celery, Onion, Rapeseed oil and Lemon juice.",
       "Simmer the broth with the vegetables, pulses or protein for 15 minutes, cooking the celery with it.",
       "Cook the additions for 8 minutes, then serve the soup in a bowl.",
-      "Season with Water and Ginger, cumin, turmeric and serve at once."
+      "Season with Ginger, cumin, turmeric and serve at once."
     ]
   },
   {
@@ -61018,7 +61025,7 @@
       "Prepare, wash, cut or measure Firm plain tofu, Lentils (dry), Miso, Leek greens, Brown rice (uncooked), Spinach, Ginger, Spring onion and Celery.",
       "Simmer the broth with the vegetables, pulses or protein for 15 minutes, cooking the celery with it.",
       "Cook the additions for 8 minutes, then serve the soup in a bowl.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -61355,7 +61362,7 @@
       "Water",
       "Thyme",
       "Yoghurt (0.2% fat)",
-      "Agar-Agar",
+      "Agar agar",
       "Ginger",
       "Almonds"
     ],
@@ -61364,7 +61371,7 @@
       "Blend or stir the base smooth for 1 minute.",
       "Churn in an ice-cream machine for 20 minutes. Without a machine, freeze for 3 hours, stirring every 30 minutes.",
       "Leave to firm for 2 more hours, then serve with the remaining toppings.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -61586,7 +61593,7 @@
       "Blend or stir the base smooth for 1 minute.",
       "Churn in an ice-cream machine for 20 minutes. Without a machine, freeze for 3 hours, stirring every 30 minutes.",
       "Leave to firm for 2 more hours, then serve with the remaining toppings.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -61978,7 +61985,7 @@
     "ingredients": [
       "Light coconut milk",
       "Coconut yoghurt",
-      "Agar-Agar",
+      "Agar agar",
       "Passion fruit (pulp and seeds)",
       "Lime juice",
       "Honey",
@@ -61998,7 +62005,7 @@
     "ingredients": [
       "Buttermilk",
       "Semi-skimmed milk (1.5% fat)",
-      "Agar-Agar",
+      "Agar agar",
       "Honey",
       "Strawberries",
       "Vanilla",
@@ -62039,7 +62046,7 @@
       "Honey",
       "Blueberries",
       "Egg white",
-      "Agar-Agar"
+      "Agar agar"
     ],
     "instructions": [
       "Prepare, measure, wash or cut Low-fat quark, Lemon juice, Lemon zest, Honey, Blueberries, Egg white and Agar-Agar.",
@@ -62562,7 +62569,7 @@
       "Lemon juice",
       "Lemon zest",
       "Raspberries",
-      "Agar-Agar",
+      "Agar agar",
       "Light cream cheese"
     ],
     "instructions": [
@@ -62698,7 +62705,7 @@
       "Blend or stir the base smooth for 1 minute.",
       "Churn in an ice-cream machine for 20 minutes. Without a machine, freeze for 3 hours, stirring every 30 minutes.",
       "Leave to firm for 2 more hours, then serve with the remaining toppings.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -62717,7 +62724,7 @@
       "Blend or stir the base smooth for 1 minute.",
       "Churn in an ice-cream machine for 20 minutes. Without a machine, freeze for 3 hours, stirring every 30 minutes.",
       "Leave to firm for 2 more hours, then serve with the remaining toppings.",
-      "Season with Water and serve at once."
+      "Season to taste and serve at once."
     ]
   },
   {
@@ -62737,7 +62744,7 @@
       "Blend or stir the base smooth for 1 minute.",
       "Churn in an ice-cream machine for 20 minutes. Without a machine, freeze for 3 hours, stirring every 30 minutes.",
       "Leave to firm for 2 more hours, then serve with the remaining toppings.",
-      "Season with Vanilla and Water and serve at once."
+      "Season with Vanilla and serve at once."
     ]
   },
   {
@@ -62976,7 +62983,7 @@
       "Knead or mix the dough for 5 minutes and shape it.",
       "Bake golden at 180 °C for 18 minutes.",
       "Cool for 5 minutes and serve with the remaining ingredients.",
-      "Season with Cinnamon and Water and serve at once."
+      "Season with Cinnamon and serve at once."
     ]
   },
   {
@@ -67156,7 +67163,7 @@
       "Cucumber",
       "Unsweetened cranberries",
       "Butter",
-      "Agar-Agar",
+      "Agar agar",
       "Thyme",
       "Salt, pepper"
     ],
@@ -68225,7 +68232,7 @@
       "Prepare, wash, cut or measure Broccoli, Lentils (uncooked), Courgette, Lemon juice, Parsley and Rapeseed oil.",
       "Brown the onion and the solid base for 8 minutes, then braise with the vegetables and liquid for 25 minutes.",
       "Cook the side for 15 minutes and serve the pot hot.",
-      "Season with Water and Pepper and serve at once."
+      "Season with Pepper and serve at once."
     ]
   },
   {
@@ -68294,7 +68301,7 @@
       "Prepare, wash, cut or measure Turkey breast, White cabbage, Courgette, Pepper, Rapeseed oil, Fennel and Tomatoes.",
       "Brown the onion and the solid base for 8 minutes, then braise with the vegetables and liquid for 25 minutes.",
       "Cook the side for 15 minutes and serve the pot hot.",
-      "Season with Caraway, Water and Pepper and serve at once."
+      "Season with Caraway and Pepper and serve at once."
     ]
   },
   {
@@ -68355,7 +68362,7 @@
       "Prepare, wash, cut or measure Chicken breast, Napa cabbage, Carrots, Courgette, Ginger, Rapeseed oil, Mushrooms, Tomatoes and Fennel.",
       "Brown the onion and the solid base for 8 minutes, then braise with the vegetables and liquid for 25 minutes.",
       "Cook the side for 15 minutes and serve the pot hot.",
-      "Season with Water and Pepper and serve at once."
+      "Season with Pepper and serve at once."
     ]
   },
   {
@@ -68437,7 +68444,7 @@
       "Prepare, wash, cut or measure Savoy cabbage, Potatoes, Carrots, White beans (drained), Parsley and Rapeseed oil.",
       "Brown the onion and the solid base for 8 minutes, then braise with the vegetables and liquid for 25 minutes.",
       "Cook the side for 15 minutes and serve the pot hot.",
-      "Season with Water and Pepper and serve at once."
+      "Season with Pepper and serve at once."
     ]
   },
   {
@@ -104901,6 +104908,7 @@
       "Red pepper",
       "Onion",
       "Rapeseed oil",
+      "Water",
       "Tamari (gluten-free)",
       "Smoked paprika",
       "Parsley",
@@ -107838,7 +107846,8 @@
       "Firm plain tofu",
       "Miso (light)",
       "Sesame seeds",
-      "Lime juice, chilli flakes"
+      "Lime juice, chilli flakes",
+      "Water"
     ],
     "instructions": [
       "Cut the tofu into small cubes and fry in a dry non-stick pan for 6 minutes until golden.",
@@ -108784,6 +108793,7 @@
       "Firm plain tofu",
       "Nutritional yeast flakes",
       "Olive oil",
+      "Water",
       "Cucumber",
       "Basil, lemon juice, garlic powder",
       "Salt, pepper"
