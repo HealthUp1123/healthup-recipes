@@ -27345,11 +27345,11 @@
     "dietTags": [
       "vegetarisch",
       "vegan",
-      "glutenfrei",
       "laktosefrei",
       "ballaststoffreich"
     ],
     "allergens": [
+      "gluten",
       "erdnuss",
       "soja"
     ]
@@ -43997,11 +43997,11 @@
     "dietTags": [
       "vegetarisch",
       "vegan",
-      "glutenfrei",
       "laktosefrei",
       "ballaststoffreich"
     ],
     "allergens": [
+      "gluten",
       "soja"
     ]
   },
