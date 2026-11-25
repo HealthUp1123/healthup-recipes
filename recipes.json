@@ -419989,5 +419989,3526 @@
       "gluten",
       "milch"
     ]
+  },
+  {
+    "id": "rec_5977",
+    "title": "Hähnchen-Shawarma-Box mit Bulgur, Gurke und Joghurtsauce",
+    "calories": 525,
+    "protein": 52,
+    "carbs": 50,
+    "fiber": 10,
+    "fat": 12,
+    "servingSizeGrams": 630,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5977_d32_haehnchen_shawarma_box_bulgur_gurke_joghurtsauce.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "150g"
+      },
+      {
+        "name": "Bulgur (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Gurke",
+        "amount": "1/3 Stück"
+      },
+      {
+        "name": "Tomaten",
+        "amount": "1 große"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "80g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Kreuzkümmel, Paprikapulver, Zimt",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrustfilet in dünne Streifen schneiden und mit der Hälfte des Olivenöls, Kreuzkümmel, Paprikapulver, Zimt und etwas Salz mischen. In einer heißen Pfanne 6 Minuten braten, bis es durchgegart ist.",
+      "Bulgur mit 120 ml heißem Wasser übergießen, zugedeckt 10 Minuten quellen lassen und mit dem restlichen Öl auflockern.",
+      "Knoblauch fein reiben und mit dem Joghurt, dem Zitronensaft und einer Prise Salz verrühren. Gurke und Tomaten würfeln.",
+      "Bulgur, Hähnchen, Gurke und Tomaten nebeneinander in eine Meal-Prep-Box füllen, die Joghurtsauce in eine Ecke setzen. Verschlossen bis zu 3 Tage im Kühlschrank aufbewahren und kalt oder kurz erwärmt essen."
+    ],
+    "dietTags": [
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_5978",
+    "title": "Mojo-Putenbrust-Box mit Süßkartoffel, schwarzen Bohnen und Mais",
+    "calories": 520,
+    "protein": 46,
+    "carbs": 60,
+    "fiber": 13,
+    "fat": 11,
+    "servingSizeGrams": 505,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5978_d32_mojo_putenbrust_box_suesskartoffel_schwarze_bohnen_mais.jpg",
+    "ingredients": [
+      {
+        "name": "Putenbrustfilet",
+        "amount": "150g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Schwarze Bohnen (gekocht)",
+        "amount": "80g"
+      },
+      {
+        "name": "Maiskörner (Dose, abgetropft)",
+        "amount": "50g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Kreuzkümmel, Oregano, Orangenabrieb",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200 °C vorheizen. Süßkartoffel in 2 cm große Würfel schneiden, mit der Hälfte des Rapsöls und etwas Salz mischen und 25 Minuten rösten.",
+      "Für die Mojo-Marinade Knoblauch fein hacken und mit Limettensaft, Kreuzkümmel, Oregano, Orangenabrieb, dem restlichen Öl und etwas Salz verrühren. Putenbrustfilet in Streifen schneiden und 10 Minuten darin ziehen lassen.",
+      "Putenstreifen samt Marinade in einer heißen Pfanne 6 Minuten braten, bis sie durchgegart sind. Schwarze Bohnen und Mais in der Pfanne 2 Minuten mit erwärmen.",
+      "Alles abkühlen lassen, nebeneinander in eine Box füllen und bis zu 3 Tage im Kühlschrank lagern. Im Büro 2 Minuten in der Mikrowelle erwärmen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_5979",
+    "title": "Chilli-Paneer-Box mit Paprika, Frühlingszwiebeln und Vollkornreis",
+    "calories": 605,
+    "protein": 25,
+    "carbs": 60,
+    "fiber": 7,
+    "fat": 28,
+    "servingSizeGrams": 505,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5979_d32_chilli_paneer_box_paprika_fruehlingszwiebeln_vollkornreis.jpg",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "amount": "90g"
+      },
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "150 ml"
+      },
+      {
+        "name": "Paprika (rot und grün)",
+        "amount": "1 große"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": "4 Stück"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Ingwer (frisch)",
+        "amount": "1 cm"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Reisessig",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Chiliflocken",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Vollkornreis abspülen, mit 150 ml Wasser aufkochen und zugedeckt bei kleiner Hitze 25 Minuten garen.",
+      "Paneer in 2 cm große Würfel schneiden und in der Hälfte des Rapsöls in einer heißen Pfanne 5 Minuten rundum goldbraun braten. Herausnehmen.",
+      "Paprika in grobe Stücke schneiden, Frühlingszwiebeln in weiße Stücke und grüne Ringe teilen, Knoblauch und Ingwer fein hacken. Paprika, das Weiße der Frühlingszwiebeln, Knoblauch und Ingwer im restlichen Öl bei starker Hitze 4 Minuten knackig braten. Sojasauce, Reisessig, Tomatenmark und Chiliflocken verrühren, zugeben und 1 Minute einkochen lassen. Paneer und die grünen Ringe unterschwenken.",
+      "Reis und Chilli Paneer nebeneinander in eine Box füllen, abkühlen lassen und bis zu 3 Tage im Kühlschrank aufbewahren. Zum Essen abgedeckt 2 bis 3 Minuten in der Mikrowelle erhitzen."
+    ],
+    "dietTags": [
+      "vegetarisch"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "soja",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_5980",
+    "title": "Seelachs-Box mit Senf-Dill-Kartoffeln und Gurkensalat",
+    "calories": 340,
+    "protein": 36,
+    "carbs": 34,
+    "fiber": 5,
+    "fat": 6,
+    "servingSizeGrams": 555,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5980_d32_seelachs_box_senf_dill_kartoffeln_gurkensalat.jpg",
+    "ingredients": [
+      {
+        "name": "Seelachsfilet",
+        "amount": "150g"
+      },
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "180g"
+      },
+      {
+        "name": "Gurke",
+        "amount": "1/2 Stück"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "50g"
+      },
+      {
+        "name": "Senf (mittelscharf)",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Dill",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln mit Schale in Salzwasser 20 Minuten garen, abgießen, pellen und in Scheiben schneiden.",
+      "Seelachsfilet salzen und im Rapsöl je Seite 3 Minuten braten, mit der Hälfte des Zitronensafts beträufeln.",
+      "Senf mit 2 EL Joghurt und der Hälfte des Dills verrühren und mit den Kartoffeln mischen. Gurke in dünne Scheiben hobeln und mit dem restlichen Joghurt, restlichem Zitronensaft, Dill, Salz und Pfeffer anmachen.",
+      "Fisch, Kartoffeln und Gurkensalat getrennt in eine Box mit Fächern füllen und bis zu 2 Tage im Kühlschrank aufbewahren. Kalt essen oder nur Fisch und Kartoffeln kurz erwärmen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm",
+      "pescetarisch",
+      "volumenreich"
+    ],
+    "allergens": [
+      "milch",
+      "fisch",
+      "senf",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_5981",
+    "title": "Rinderhack-Kofta-Box mit Hirse, Paprika und Minzjoghurt",
+    "calories": 490,
+    "protein": 42,
+    "carbs": 48,
+    "fiber": 7,
+    "fat": 14,
+    "servingSizeGrams": 535,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5981_d32_rinderhack_kofta_box_hirse_paprika_minzjoghurt.jpg",
+    "ingredients": [
+      {
+        "name": "Rinderhack (mager)",
+        "amount": "130g"
+      },
+      {
+        "name": "Hirse (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1/2"
+      },
+      {
+        "name": "Griechischer Joghurt (0,2 % Fett)",
+        "amount": "60g"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kreuzkümmel, Koriander, Minze, Petersilie",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Hirse heiß abspülen und mit 120 ml Wasser und einer Prise Salz aufkochen, zugedeckt bei kleiner Hitze 10 Minuten garen und 5 Minuten quellen lassen.",
+      "Zwiebel fein reiben und mit Rinderhack, Kreuzkümmel, Koriander, der Hälfte der Petersilie, Salz und Pfeffer verkneten. 6 längliche Kofta formen.",
+      "Paprika in Streifen schneiden. Kofta und Paprika im Olivenöl 8 Minuten rundum braten, bis die Kofta durchgegart sind.",
+      "Joghurt mit Minze, der restlichen Petersilie und Salz verrühren. Hirse, Kofta, Paprika und Minzjoghurt in eine Box füllen, bis zu 3 Tage im Kühlschrank lagern und kalt oder erwärmt essen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_5982",
+    "title": "Halloumi-Kichererbsen-Box mit Ofengemüse und Petersilien-Couscous",
+    "calories": 605,
+    "protein": 29,
+    "carbs": 58,
+    "fiber": 15,
+    "fat": 28,
+    "servingSizeGrams": 570,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5982_d32_halloumi_kichererbsen_box_ofengemuese_petersilien_couscous.jpg",
+    "ingredients": [
+      {
+        "name": "Halloumi (mit mikrobiellem Lab)",
+        "amount": "60g"
+      },
+      {
+        "name": "Kichererbsen (gegart, abgetropft)",
+        "amount": "120g"
+      },
+      {
+        "name": "Paprika (gelb)",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "1/2 Stück"
+      },
+      {
+        "name": "Vollkorncouscous (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "80 ml"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Petersilie, Paprikapulver (geräuchert)",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 220 °C vorheizen. Paprika und Zucchini in Stücke schneiden, mit Kichererbsen, der Hälfte des Olivenöls, Paprikapulver und Salz mischen und auf einem Blech 20 Minuten rösten.",
+      "Halloumi in Scheiben schneiden und für die letzten 8 Minuten mit aufs Blech legen.",
+      "Vollkorncouscous mit 80 ml heißem Wasser übergießen, 5 Minuten quellen lassen und mit gehackter Petersilie, Zitronensaft, dem restlichen Öl und Pfeffer mischen.",
+      "Couscous, Ofengemüse mit Kichererbsen und Halloumi in eine Box füllen, abkühlen lassen und bis zu 3 Tage im Kühlschrank aufbewahren. Kalt oder warm essen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_5983",
+    "title": "Hähnchen-Krapao-Box mit grünen Bohnen und Vollkornreis",
+    "calories": 490,
+    "protein": 43,
+    "carbs": 51,
+    "fiber": 5,
+    "fat": 12,
+    "servingSizeGrams": 455,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5983_d32_haehnchen_krapao_box_gruene_bohnen_vollkornreis.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "150g"
+      },
+      {
+        "name": "Grüne Bohnen",
+        "amount": "100g"
+      },
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "150 ml"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Chili (rot)",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Tamari (glutenfrei)",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Thai-Basilikum",
+        "amount": "1 Handvoll"
+      }
+    ],
+    "instructions": [
+      "Vollkornreis abspülen und mit 150 ml Wasser aufkochen, zugedeckt bei kleiner Hitze 25 Minuten garen, bis das Wasser aufgesogen ist.",
+      "Hähnchenbrustfilet mit einem Messer fein hacken. Grüne Bohnen in 2 cm lange Stücke schneiden, Knoblauch und Chili fein hacken.",
+      "Rapsöl im Wok stark erhitzen, Knoblauch und Chili 30 Sekunden anbraten, Hähnchen zugeben und 4 Minuten krümelig braten. Bohnen zugeben, 3 Minuten mitbraten, mit Tamari ablöschen und das Thai-Basilikum unterheben.",
+      "Reis und Krapao nebeneinander in eine Box füllen, abkühlen lassen und bis zu 3 Tage im Kühlschrank lagern. Abgedeckt 2 Minuten in der Mikrowelle erhitzen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5984",
+    "title": "Tofu-Edamame-Sushi-Box mit Gurke, Karotte und Nori",
+    "calories": 560,
+    "protein": 37,
+    "carbs": 62,
+    "fiber": 10,
+    "fat": 18,
+    "servingSizeGrams": 565,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5984_d32_tofu_edamame_sushi_box_gurke_karotte_nori.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "150g"
+      },
+      {
+        "name": "Edamame (geschält, TK)",
+        "amount": "80g"
+      },
+      {
+        "name": "Sushireis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "90 ml"
+      },
+      {
+        "name": "Reisessig",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Gurke",
+        "amount": "1/4 Stück"
+      },
+      {
+        "name": "Karotte",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Nori-Blatt",
+        "amount": "1/2 Blatt"
+      },
+      {
+        "name": "Tamari (glutenfrei)",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Sesam",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Sushireis gründlich abspülen, mit 90 ml Wasser aufkochen und zugedeckt bei kleiner Hitze 12 Minuten garen. Reisessig unterheben und abkühlen lassen.",
+      "Tofu trocken tupfen, in Würfel schneiden und in einer beschichteten Pfanne ohne Öl 6 Minuten rundum goldbraun braten. Mit Tamari ablöschen und mit Sesam bestreuen.",
+      "Edamame 3 Minuten in kochendem Wasser blanchieren und abtropfen lassen. Gurke und Karotte in feine Stifte schneiden, Nori-Blatt in schmale Streifen schneiden.",
+      "Reis in eine Box füllen, Tofu, Edamame, Gurke und Karotte daneben anordnen und mit Nori bestreuen. Bis zu 2 Tage im Kühlschrank aufbewahren und kalt essen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "soja",
+      "sesam",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_5985",
+    "title": "Garnelen-Blumenkohlreis-Box mit Zuckerschoten und Limetten-Ingwer",
+    "calories": 340,
+    "protein": 37,
+    "carbs": 20,
+    "fiber": 11,
+    "fat": 11,
+    "servingSizeGrams": 615,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5985_d32_garnelen_blumenkohlreis_box_zuckerschoten_limette_ingwer.jpg",
+    "ingredients": [
+      {
+        "name": "Garnelen (geschält, roh)",
+        "amount": "150g"
+      },
+      {
+        "name": "Blumenkohl",
+        "amount": "1/3 Kopf"
+      },
+      {
+        "name": "Zuckerschoten",
+        "amount": "100g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "1/2 Stück"
+      },
+      {
+        "name": "Ingwer (frisch)",
+        "amount": "1 cm"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Tamari (glutenfrei)",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Koriander",
+        "amount": "1 EL"
+      }
+    ],
+    "instructions": [
+      "Blumenkohl in Röschen teilen und im Blitzhacker zu reiskorngroßen Stücken zerkleinern. In der Hälfte des Rapsöls 5 Minuten braten und leicht salzen.",
+      "Ingwer und Knoblauch fein hacken, Paprika in Streifen schneiden. Im restlichen Öl Garnelen 2 Minuten braten, Zuckerschoten, Paprika, Ingwer und Knoblauch zugeben und weitere 3 Minuten braten, bis die Garnelen rosa und durchgegart sind.",
+      "Mit Tamari und Limettensaft ablöschen und mit gehacktem Koriander bestreuen.",
+      "Blumenkohlreis und Garnelengemüse in eine Box füllen, rasch abkühlen lassen und bis zu 2 Tage im Kühlschrank aufbewahren. Kalt essen oder 2 Minuten in der Mikrowelle erhitzen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "ballaststoffreich",
+      "low-carb",
+      "pescetarisch",
+      "low-gi",
+      "volumenreich"
+    ],
+    "allergens": [
+      "krebstiere",
+      "soja",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_5986",
+    "title": "Hüttenkäse-Quinoa-Box mit Ofenkürbis, Babyspinat und Kürbiskernen",
+    "calories": 455,
+    "protein": 32,
+    "carbs": 44,
+    "fiber": 9,
+    "fat": 15,
+    "servingSizeGrams": 555,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "lunch"
+    ],
+    "timeOfDay": [
+      "noon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5986_d32_huettenkaese_quinoa_box_ofenkuerbis_babyspinat_kuerbiskerne.jpg",
+    "ingredients": [
+      {
+        "name": "Quinoa (ungekocht)",
+        "amount": "50g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "100 ml"
+      },
+      {
+        "name": "Hokkaido-Kürbis",
+        "amount": "200g"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "150g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Paprikapulver, Thymian",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200 °C vorheizen. Kürbis entkernen, in 2 cm große Würfel schneiden, mit Olivenöl, Paprikapulver, Thymian und Salz mischen und 25 Minuten rösten.",
+      "Quinoa heiß abspülen, mit 100 ml Wasser aufkochen und zugedeckt bei kleiner Hitze 15 Minuten garen.",
+      "Kürbiskerne in einer trockenen Pfanne 2 Minuten rösten.",
+      "Babyspinat in die Box legen, Quinoa und Ofenkürbis darauf verteilen, Hüttenkäse daneben geben und mit Kürbiskernen und Pfeffer bestreuen. Bis zu 3 Tage im Kühlschrank aufbewahren und kalt essen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "mediterran"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_5987",
+    "title": "Airfryer-Tofu-Popcorn mit Sesam und Limetten-Sojajoghurt-Dip",
+    "calories": 335,
+    "protein": 27,
+    "carbs": 13,
+    "fiber": 3,
+    "fat": 20,
+    "servingSizeGrams": 270,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5987_d32_airfryer_tofu_popcorn_sesam_limetten_sojajoghurt_dip.jpg",
+    "ingredients": [
+      {
+        "name": "Tofu (natur, fest)",
+        "amount": "180g"
+      },
+      {
+        "name": "Speisestärke",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Sesam",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Tamari (glutenfrei)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "60g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Knoblauchpulver, Paprikapulver",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Tofu gut ausdrücken, trocken tupfen und in 1,5 cm große Würfel zupfen. Mit Tamari, Rapsöl, Knoblauchpulver und Paprikapulver mischen.",
+      "Speisestärke und Sesam darüberstreuen und schwenken, bis alle Stücke dünn überzogen sind.",
+      "Im Airfryer bei 200 °C 14 Minuten knusprig backen, nach der Hälfte der Zeit schütteln.",
+      "Sojajoghurt mit Limettensaft und einer Prise Salz verrühren und als Dip zum Tofu-Popcorn servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb"
+    ],
+    "allergens": [
+      "soja",
+      "sesam"
+    ]
+  },
+  {
+    "id": "rec_5988",
+    "title": "Seitan-Jerky mit Rauchpaprika und Ahorn-Soja-Marinade",
+    "calories": 200,
+    "protein": 30,
+    "carbs": 9,
+    "fiber": 1,
+    "fat": 5,
+    "servingSizeGrams": 145,
+    "prepTimeMinutes": 80,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5988_d32_seitan_jerky_rauchpaprika_ahorn_soja_marinade.jpg",
+    "ingredients": [
+      {
+        "name": "Seitan (natur)",
+        "amount": "120g"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Geräuchertes Paprikapulver, Knoblauchpulver, Pfeffer",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Seitan trocken tupfen und mit einem scharfen Messer in 3 mm dünne Streifen schneiden.",
+      "Sojasauce, Ahornsirup, Rapsöl, geräuchertes Paprikapulver, Knoblauchpulver und Pfeffer verrühren, die Streifen darin wenden und 15 Minuten marinieren.",
+      "Backofen auf 120 °C Umluft vorheizen. Die Streifen nebeneinander auf ein mit Backpapier belegtes Blech legen und 50 Minuten trocknen lassen, nach 25 Minuten wenden, bis sie dunkel, trocken und noch biegsam sind.",
+      "Vollständig abkühlen lassen. In einer verschlossenen Dose hält sich das Jerky bis zu 5 Tage im Kühlschrank."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "kalorienarm",
+      "low-carb"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_5989",
+    "title": "Zitronen-Käsekuchen-Proteinriegel mit Cashews",
+    "calories": 325,
+    "protein": 31,
+    "carbs": 20,
+    "fiber": 3,
+    "fat": 14,
+    "servingSizeGrams": 100,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5989_d32_zitronen_kaesekuchen_proteinriegel_cashews.jpg",
+    "ingredients": [
+      {
+        "name": "Cashewkerne",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Haferflocken (zart)",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Molkenprotein (Vanille)",
+        "amount": "25g"
+      },
+      {
+        "name": "Magerquark",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Mandelmus",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Zitronenabrieb, Vanille",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Cashewkerne und Haferflocken im Blitzhacker fein mahlen.",
+      "Molkenprotein, Magerquark, Mandelmus, Zitronenabrieb und Vanille zugeben und zu einem festen, leicht klebrigen Teig mixen.",
+      "Den Teig auf Backpapier zu einem 2 cm dicken Rechteck drücken und in 2 Riegel schneiden.",
+      "Mindestens 1 Stunde im Kühlschrank fest werden lassen und gekühlt essen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein",
+      "kalorienarm",
+      "low-carb"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_5990",
+    "title": "Frozen-Joghurt-Bark mit Kiwi, Granatapfel und Kokos",
+    "calories": 190,
+    "protein": 18,
+    "carbs": 21,
+    "fiber": 4,
+    "fat": 4,
+    "servingSizeGrams": 250,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5990_d32_frozen_joghurt_bark_kiwi_granatapfel_kokos.jpg",
+    "ingredients": [
+      {
+        "name": "Skyr (natur)",
+        "amount": "150g"
+      },
+      {
+        "name": "Kiwi",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Granatapfelkerne",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Kokosraspeln",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Honig",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Vanille",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Skyr mit Honig und Vanille glatt rühren.",
+      "Ein kleines Brett oder eine flache Form mit Backpapier auslegen und den Skyr 1 cm dick darauf verstreichen. Kiwi schälen, in dünne Scheiben schneiden und mit den Granatapfelkernen darauf verteilen.",
+      "Mit Kokosraspeln bestreuen und mindestens 3 Stunden einfrieren.",
+      "In unregelmäßige Stücke brechen und 2 Minuten antauen lassen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_5991",
+    "title": "Erdbeer-Käsekuchen-Proteinshake",
+    "calories": 305,
+    "protein": 33,
+    "carbs": 29,
+    "fiber": 4,
+    "fat": 5,
+    "servingSizeGrams": 475,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5991_d32_erdbeer_kaesekuchen_proteinshake.jpg",
+    "ingredients": [
+      {
+        "name": "Magerquark",
+        "amount": "100g"
+      },
+      {
+        "name": "Erdbeeren (TK)",
+        "amount": "150g"
+      },
+      {
+        "name": "Milch (1,5 %)",
+        "amount": "200 ml"
+      },
+      {
+        "name": "Whey-Proteinpulver (Vanille)",
+        "amount": "1/2 Messlöffel"
+      },
+      {
+        "name": "Haferflocken (zart)",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Zitronenabrieb",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Erdbeeren 5 Minuten antauen lassen.",
+      "Magerquark, Erdbeeren, Milch, Whey-Proteinpulver, Haferflocken und Zitronenabrieb im Standmixer 45 Sekunden cremig mixen.",
+      "In ein großes Glas füllen und sofort trinken."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_5992",
+    "title": "Stracciatella-Proteinshake mit Vanille-Whey und Zartbitterraspeln",
+    "calories": 345,
+    "protein": 34,
+    "carbs": 28,
+    "fiber": 2,
+    "fat": 10,
+    "servingSizeGrams": 350,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5992_d32_stracciatella_proteinshake_vanille_whey_zartbitterraspeln.jpg",
+    "ingredients": [
+      {
+        "name": "Milch (1,5 %)",
+        "amount": "250 ml"
+      },
+      {
+        "name": "Whey-Proteinpulver (Vanille)",
+        "amount": "1 Messlöffel"
+      },
+      {
+        "name": "Banane",
+        "amount": "1/2 Stück"
+      },
+      {
+        "name": "Zartbitterschokolade (85 %)",
+        "amount": "1 Stück"
+      }
+    ],
+    "instructions": [
+      "Zartbitterschokolade fein raspeln und eine Prise davon für die Oberfläche beiseitelegen.",
+      "Milch, Whey-Proteinpulver und Banane im Standmixer 40 Sekunden glatt und schaumig mixen.",
+      "Die geraspelte Schokolade zugeben und nur 2 bis 3 Sekunden auf niedriger Stufe untermixen, damit feine Sprenkel entstehen.",
+      "In ein großes Glas füllen, mit der restlichen Schokolade bestreuen und sofort trinken."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_5993",
+    "title": "Seidentofu-Schokocreme mit Erdnussmus und Himbeeren",
+    "calories": 290,
+    "protein": 23,
+    "carbs": 16,
+    "fiber": 8,
+    "fat": 13,
+    "servingSizeGrams": 300,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5993_d32_seidentofu_schokocreme_erdnussmus_himbeeren.jpg",
+    "ingredients": [
+      {
+        "name": "Seidentofu",
+        "amount": "200g"
+      },
+      {
+        "name": "Backkakao (ungesüßt)",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Erdnussmus",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "10g"
+      },
+      {
+        "name": "Himbeeren",
+        "amount": "60g"
+      }
+    ],
+    "instructions": [
+      "Seidentofu abtropfen lassen und mit Backkakao, Ahornsirup und Sojaprotein im Mixer 1 Minute vollkommen glatt pürieren.",
+      "Die Creme in ein Dessertglas füllen und mindestens 30 Minuten kalt stellen.",
+      "Erdnussmus leicht erwärmen, in Streifen über die Creme ziehen und mit Himbeeren belegen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "kalorienarm",
+      "low-carb"
+    ],
+    "allergens": [
+      "soja",
+      "erdnuss"
+    ]
+  },
+  {
+    "id": "rec_5994",
+    "title": "Hähnchen-Hüttenkäse-Snackbox mit Paprika, Trauben und Knäckebrot",
+    "calories": 265,
+    "protein": 34,
+    "carbs": 24,
+    "fiber": 4,
+    "fat": 3,
+    "servingSizeGrams": 325,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5994_d32_haehnchen_huettenkaese_snackbox_paprika_trauben_knaeckebrot.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "80g"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "100g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "1/2 Stück"
+      },
+      {
+        "name": "Weintrauben (kernlos, grün)",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Vollkorn-Knäckebrot",
+        "amount": "1 Scheibe"
+      },
+      {
+        "name": "Paprikapulver (edelsüß), Schnittlauch",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrustfilet mit Paprikapulver, Salz und Pfeffer würzen und in einer beschichteten Pfanne ohne Fett von jeder Seite 5 Minuten braten, bis es durchgegart ist. Abkühlen lassen und in dünne Scheiben schneiden.",
+      "Paprika in Streifen schneiden, Weintrauben waschen und trocken tupfen.",
+      "Hüttenkäse mit Schnittlauch und Pfeffer verrühren und in ein kleines Fach der Snackbox füllen.",
+      "Hähnchenscheiben, Paprikastreifen, Weintrauben und das in Stücke gebrochene Knäckebrot in die übrigen Fächer legen. Bis zu 2 Tage im Kühlschrank aufbewahren, das Knäckebrot erst kurz vor dem Essen zugeben."
+    ],
+    "dietTags": [
+      "high-protein",
+      "kalorienarm"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_5995",
+    "title": "Mini-Protein-Pancakes als Pancake-Cereal mit Heidelbeeren und Skyr",
+    "calories": 340,
+    "protein": 33,
+    "carbs": 27,
+    "fiber": 6,
+    "fat": 11,
+    "servingSizeGrams": 275,
+    "prepTimeMinutes": 20,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5995_d32_mini_protein_pancake_cereal_heidelbeeren_skyr.jpg",
+    "ingredients": [
+      {
+        "name": "Haferflocken (zart)",
+        "amount": "2 1/2 EL"
+      },
+      {
+        "name": "Whey-Proteinpulver (Vanille)",
+        "amount": "1/2 Messlöffel"
+      },
+      {
+        "name": "Eier",
+        "amount": "1 Stück (Größe M)"
+      },
+      {
+        "name": "Milch (1,5 %)",
+        "amount": "40 ml"
+      },
+      {
+        "name": "Skyr (natur)",
+        "amount": "80g"
+      },
+      {
+        "name": "Heidelbeeren",
+        "amount": "60g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Backpulver, Zimt",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Haferflocken fein mahlen und mit Whey-Proteinpulver, Backpulver, Zimt, Ei und Milch zu einem glatten Teig verrühren.",
+      "Den Teig in einen Gefrierbeutel füllen und eine kleine Ecke abschneiden.",
+      "Eine beschichtete Pfanne mit dem Rapsöl auspinseln und kleine Teigtupfen von 2 cm Durchmesser hineinspritzen. Je Seite 1 Minute backen, bis sie goldbraun sind.",
+      "Skyr in eine Schale geben, die Mini-Pancakes darauf häufen und mit Heidelbeeren bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein",
+      "kalorienarm",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_5996",
+    "title": "Himbeer-Kakao-Protein-Fluff mit Kakaonibs",
+    "calories": 205,
+    "protein": 21,
+    "carbs": 12,
+    "fiber": 13,
+    "fat": 6,
+    "servingSizeGrams": 230,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "snack"
+    ],
+    "timeOfDay": [
+      "afternoon"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5996_d32_himbeer_kakao_protein_fluff_kakaonibs.jpg",
+    "ingredients": [
+      {
+        "name": "Himbeeren (TK)",
+        "amount": "150g"
+      },
+      {
+        "name": "Whey-Proteinpulver (Vanille)",
+        "amount": "20g"
+      },
+      {
+        "name": "Backkakao (ungesüßt)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Milch (1,5 %)",
+        "amount": "50 ml"
+      },
+      {
+        "name": "Kakaonibs",
+        "amount": "1 TL"
+      }
+    ],
+    "instructions": [
+      "Gefrorene Himbeeren, Whey-Proteinpulver, Backkakao und Milch in eine hohe Rührschüssel geben.",
+      "Mit den Rührbesen des Handmixers zuerst langsam, dann auf höchster Stufe 5 Minuten aufschlagen, bis eine luftige, cremige Masse mit großem Volumen entsteht.",
+      "In eine Dessertschale häufen, mit Kakaonibs bestreuen und sofort löffeln."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "kalorienarm",
+      "ballaststoffreich",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_5997",
+    "title": "Lachs in Zitronen-Kapern-Butter mit Zucchini und Blattspinat",
+    "calories": 565,
+    "protein": 36,
+    "carbs": 7,
+    "fiber": 5,
+    "fat": 43,
+    "servingSizeGrams": 500,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5997_d32_lachs_zitronen_kapern_butter_zucchini_blattspinat.jpg",
+    "ingredients": [
+      {
+        "name": "Lachsfilet (mit Haut)",
+        "amount": "150g"
+      },
+      {
+        "name": "Butter",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Kapern",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Blattspinat (frisch)",
+        "amount": "100g"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zucchini in halbe Scheiben schneiden und in der Hälfte des Olivenöls 5 Minuten braten. Knoblauch hacken, mit dem Blattspinat zugeben und 2 Minuten zusammenfallen lassen, salzen und herausnehmen.",
+      "Lachsfilet salzen und im restlichen Öl auf der Hautseite 5 Minuten knusprig braten, wenden und 2 Minuten fertig garen.",
+      "Lachs herausnehmen. Butter in der Pfanne aufschäumen lassen, Kapern und Zitronensaft zugeben und 1 Minute schwenken.",
+      "Gemüse auf einen Teller geben, Lachs darauflegen und mit der Zitronen-Kapern-Butter beträufeln. Mit Pfeffer bestreuen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "pescetarisch"
+    ],
+    "allergens": [
+      "milch",
+      "fisch",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_5998",
+    "title": "Hähnchenschenkel in Gorgonzola-Sauce mit Brokkoli",
+    "calories": 685,
+    "protein": 39,
+    "carbs": 9,
+    "fiber": 6,
+    "fat": 53,
+    "servingSizeGrams": 440,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5998_d32_haehnchenschenkel_gorgonzola_sauce_brokkoli.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenschenkel (ohne Knochen, mit Haut)",
+        "amount": "170g"
+      },
+      {
+        "name": "Gorgonzola",
+        "amount": "25g"
+      },
+      {
+        "name": "Sahne (30 %)",
+        "amount": "40 ml"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "1/2 Kopf"
+      },
+      {
+        "name": "Butter",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Thymian",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Hähnchenschenkel salzen und pfeffern und mit der Hautseite nach unten in einer Pfanne ohne Fett 10 Minuten knusprig braten. Wenden und 8 Minuten weiterbraten, bis sie durchgegart sind.",
+      "Brokkoli in Röschen teilen und in Salzwasser 4 Minuten bissfest garen, abgießen und in der Butter schwenken.",
+      "Hähnchen herausnehmen. Sahne und Thymian in die Pfanne geben, Gorgonzola hineinbröckeln und unter Rühren 2 Minuten zu einer cremigen Sauce schmelzen.",
+      "Hähnchenschenkel mit der Gorgonzola-Sauce und dem Brokkoli anrichten."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_5999",
+    "title": "Griechische Rinderhack-Pfanne mit Feta, Oliven und Zucchini",
+    "calories": 610,
+    "protein": 37,
+    "carbs": 9,
+    "fiber": 4,
+    "fat": 46,
+    "servingSizeGrams": 465,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_5999_d32_griechische_rinderhack_pfanne_feta_oliven_zucchini.jpg",
+    "ingredients": [
+      {
+        "name": "Rinderhack",
+        "amount": "150g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Feta",
+        "amount": "40g"
+      },
+      {
+        "name": "Kalamata-Oliven (entsteint)",
+        "amount": "8 Stück"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1/4"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Oregano",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch fein hacken, Zucchini würfeln.",
+      "Rinderhack im Olivenöl 5 Minuten krümelig braten. Zwiebel, Knoblauch und Zucchini zugeben und 6 Minuten weiterbraten. Mit Oregano, Salz und Pfeffer würzen.",
+      "Oliven halbieren und unterheben, Feta darüberbröckeln und zugedeckt 2 Minuten anschmelzen lassen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_6000",
+    "title": "Halloumi-Spinat-Curry mit Kokosmilch",
+    "calories": 600,
+    "protein": 30,
+    "carbs": 9,
+    "fiber": 5,
+    "fat": 49,
+    "servingSizeGrams": 400,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6000_d32_halloumi_spinat_curry_kokosmilch.jpg",
+    "ingredients": [
+      {
+        "name": "Halloumi (mit mikrobiellem Lab)",
+        "amount": "100g"
+      },
+      {
+        "name": "Blattspinat (frisch)",
+        "amount": "180g"
+      },
+      {
+        "name": "Kokosmilch (vollfett)",
+        "amount": "100 ml"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Ingwer (frisch)",
+        "amount": "1 cm"
+      },
+      {
+        "name": "Kokosöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Garam masala, Kurkuma, Kreuzkümmel",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Halloumi in Würfel schneiden und im Kokosöl 4 Minuten goldbraun braten, herausnehmen.",
+      "Knoblauch und Ingwer fein hacken und im Bratfett 2 Minuten andünsten. Garam masala, Kurkuma, Kreuzkümmel und Tomatenmark 1 Minute mitrösten.",
+      "Kokosmilch angießen, den Blattspinat portionsweise zugeben und 4 Minuten sämig köcheln. Mit Salz abschmecken.",
+      "Halloumi unterheben, 1 Minute erwärmen und servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "high-protein",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_6001",
+    "title": "Gebratene Makrele auf Senf-Rahm-Spitzkohl",
+    "calories": 555,
+    "protein": 33,
+    "carbs": 9,
+    "fiber": 5,
+    "fat": 42,
+    "servingSizeGrams": 410,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6001_d32_gebratene_makrele_senf_rahm_spitzkohl.jpg",
+    "ingredients": [
+      {
+        "name": "Makrelenfilets (frisch, mit Haut)",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Spitzkohl",
+        "amount": "1/4 Kopf"
+      },
+      {
+        "name": "Sahne (30 %)",
+        "amount": "40 ml"
+      },
+      {
+        "name": "Senf (mittelscharf)",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Butter",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Dill, Kümmel",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Spitzkohl in feine Streifen schneiden und in der Hälfte der Butter mit Kümmel 6 Minuten dünsten.",
+      "Sahne und Senf einrühren, 3 Minuten sämig einkochen und mit Salz und Pfeffer würzen.",
+      "Makrelenfilets salzen und in der restlichen Butter auf der Hautseite 3 Minuten braten, wenden und 1 Minute fertig garen.",
+      "Senf-Rahm-Spitzkohl auf einen Teller geben, Makrele mit der Haut nach oben darauflegen und mit Dill bestreuen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "pescetarisch"
+    ],
+    "allergens": [
+      "milch",
+      "fisch",
+      "senf",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_6002",
+    "title": "Lammhack-Moussaka ohne Kartoffeln mit Frischkäse-Haube",
+    "calories": 690,
+    "protein": 44,
+    "carbs": 10,
+    "fiber": 6,
+    "fat": 51,
+    "servingSizeGrams": 470,
+    "prepTimeMinutes": 55,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6002_d32_lammhack_moussaka_ohne_kartoffeln_frischkaese_haube.jpg",
+    "ingredients": [
+      {
+        "name": "Lammhack",
+        "amount": "140g"
+      },
+      {
+        "name": "Aubergine",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Frischkäse (Doppelrahmstufe)",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Eier",
+        "amount": "1 Stück (Größe M)"
+      },
+      {
+        "name": "Bergkäse (gerieben)",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "4 TL"
+      },
+      {
+        "name": "Zimt, Oregano, Piment",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200 °C vorheizen. Aubergine in 1 cm dicke Scheiben schneiden, mit 10 g Olivenöl bepinseln, salzen und auf einem Blech 15 Minuten vorbacken.",
+      "Knoblauch hacken. Lammhack im restlichen Öl 5 Minuten krümelig braten, Knoblauch, Tomatenmark, Zimt, Oregano und Piment zugeben und 8 Minuten unter Rühren dicklich schmoren. Salzen und pfeffern.",
+      "Auberginenscheiben und Hackfleisch abwechselnd in eine kleine Auflaufform schichten. Frischkäse mit dem Ei glatt rühren, darauf verstreichen und mit Bergkäse bestreuen.",
+      "Im Ofen 20 Minuten goldbraun überbacken und 5 Minuten ruhen lassen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_6003",
+    "title": "Lachsforelle mit Blumenkohl-Mandel-Püree und brauner Butter",
+    "calories": 595,
+    "protein": 39,
+    "carbs": 7,
+    "fiber": 8,
+    "fat": 44,
+    "servingSizeGrams": 475,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6003_d32_lachsforelle_blumenkohl_mandel_pueree_braune_butter.jpg",
+    "ingredients": [
+      {
+        "name": "Lachsforellenfilet (mit Haut)",
+        "amount": "150g"
+      },
+      {
+        "name": "Blumenkohl",
+        "amount": "1/3 Kopf"
+      },
+      {
+        "name": "Mandeln (gemahlen)",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Butter",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Feldsalat",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Muskat, Salbei",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Blumenkohl in Röschen teilen und in Salzwasser 12 Minuten weich kochen, abgießen und gut ausdampfen lassen.",
+      "Butter in einem kleinen Topf bei mittlerer Hitze 3 Minuten schmelzen, bis sie nussig braun ist, mit Salbei aromatisieren. Blumenkohl mit gemahlenen Mandeln, der Hälfte der braunen Butter, Muskat und Salz fein pürieren.",
+      "Lachsforellenfilet salzen und im Olivenöl auf der Hautseite 4 Minuten kross braten, wenden und 1 Minute fertig garen.",
+      "Püree auf einen Teller streichen, Fisch darauflegen, mit der restlichen braunen Butter beträufeln und mit Feldsalat servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "pescetarisch"
+    ],
+    "allergens": [
+      "milch",
+      "fisch",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_6004",
+    "title": "Gefüllte Champignons mit Spinat, Feta und Pinienkernen",
+    "calories": 610,
+    "protein": 28,
+    "carbs": 8,
+    "fiber": 9,
+    "fat": 50,
+    "servingSizeGrams": 515,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6004_d32_gefuellte_champignons_spinat_feta_pinienkerne.jpg",
+    "ingredients": [
+      {
+        "name": "Champignons (groß, braun)",
+        "amount": "6 Stück"
+      },
+      {
+        "name": "Blattspinat (frisch)",
+        "amount": "100g"
+      },
+      {
+        "name": "Feta (mit mikrobiellem Lab)",
+        "amount": "80g"
+      },
+      {
+        "name": "Frischkäse (Doppelrahmstufe)",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Pinienkerne",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Rucola",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200 °C vorheizen. Champignonstiele herausdrehen und fein hacken, Köpfe mit 5 g Olivenöl bepinseln.",
+      "Knoblauch hacken und mit den Stielen in 5 g Olivenöl 3 Minuten braten. Blattspinat zugeben, zusammenfallen lassen, gut ausdrücken und mit zerbröckeltem Feta, Frischkäse, Salz und Pfeffer mischen.",
+      "Die 6 Champignonköpfe mit der Masse füllen, mit Pinienkernen bestreuen und 18 Minuten backen.",
+      "Rucola mit dem restlichen Olivenöl und einer Prise Salz anmachen und zu den Champignons servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "keto",
+      "low-carb"
+    ],
+    "allergens": [
+      "milch",
+      "schalenfruechte"
+    ]
+  },
+  {
+    "id": "rec_6005",
+    "title": "Schwarzer-Pfeffer-Rind mit Paprika, Zwiebeln und Basmati",
+    "calories": 755,
+    "protein": 55,
+    "carbs": 88,
+    "fiber": 5,
+    "fat": 19,
+    "servingSizeGrams": 690,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6005_d32_schwarzer_pfeffer_rind_paprika_zwiebeln_basmati.jpg",
+    "ingredients": [
+      {
+        "name": "Rinderhüfte (in Streifen)",
+        "amount": "200g"
+      },
+      {
+        "name": "Basmatireis (ungekocht)",
+        "amount": "90g"
+      },
+      {
+        "name": "Paprika (grün)",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1 mittlere"
+      },
+      {
+        "name": "Sojasauce",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Pfeffer (grob geschrotet)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Speisestärke",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Ingwer (frisch)",
+        "amount": "1 cm"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "2 TL"
+      }
+    ],
+    "instructions": [
+      "Basmatireis in reichlich Salzwasser 10 Minuten garen und abgießen.",
+      "Rinderstreifen mit Speisestärke, der Hälfte der Sojasauce und dem geschroteten Pfeffer mischen und 10 Minuten ziehen lassen. Paprika und Zwiebel in breite Streifen schneiden, Ingwer und Knoblauch fein hacken.",
+      "Die Hälfte des Rapsöls im Wok stark erhitzen und das Rindfleisch 2 Minuten scharf anbraten, herausnehmen. Im restlichen Öl Paprika, Zwiebel, Ingwer und Knoblauch 3 Minuten pfannenrühren.",
+      "Rindfleisch und restliche Sojasauce zugeben, 1 Minute schwenken, bis alles glänzt, und mit dem Basmatireis servieren."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_6006",
+    "title": "Lachs mit Tamari-Ingwer-Glasur, Jasminreis und Pak Choi",
+    "calories": 755,
+    "protein": 47,
+    "carbs": 72,
+    "fiber": 4,
+    "fat": 30,
+    "servingSizeGrams": 660,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6006_d32_lachs_tamari_ingwer_glasur_jasminreis_pak_choi.jpg",
+    "ingredients": [
+      {
+        "name": "Lachsfilet (ohne Haut)",
+        "amount": "180g"
+      },
+      {
+        "name": "Jasminreis (ungekocht)",
+        "amount": "80g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "120 ml"
+      },
+      {
+        "name": "Pak Choi",
+        "amount": "2 kleine"
+      },
+      {
+        "name": "Tamari (glutenfrei)",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Honig",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Ingwer (frisch)",
+        "amount": "2 cm"
+      },
+      {
+        "name": "Sesam",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Sesamöl (geröstet)",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Jasminreis abspülen, mit 120 ml Wasser aufkochen und zugedeckt bei kleiner Hitze 12 Minuten garen.",
+      "Ingwer fein reiben und mit Tamari und Honig verrühren. Lachsfilet in einer beschichteten Pfanne je Seite 3 Minuten braten, die Glasur zugießen und 1 Minute einkochen lassen, dabei den Lachs damit überziehen.",
+      "Pak Choi längs halbieren und im Sesamöl 3 Minuten braten.",
+      "Reis, glasierten Lachs und Pak Choi anrichten und mit Sesam bestreuen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "pescetarisch"
+    ],
+    "allergens": [
+      "fisch",
+      "sesam",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_6007",
+    "title": "Putenhack-Ćevapčići mit Djuvec-Reis und Ajvar",
+    "calories": 755,
+    "protein": 56,
+    "carbs": 82,
+    "fiber": 9,
+    "fat": 20,
+    "servingSizeGrams": 730,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6007_d32_putenhack_cevapcici_djuvec_reis_ajvar.jpg",
+    "ingredients": [
+      {
+        "name": "Putenhack",
+        "amount": "200g"
+      },
+      {
+        "name": "Parboiled-Reis (ungekocht)",
+        "amount": "80g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "200 ml"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "50g"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Ajvar",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Paprikapulver (edelsüß), Kreuzkümmel",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel fein würfeln, die Hälfte davon mit Putenhack, gehacktem Knoblauch, Kreuzkümmel, Salz und Pfeffer verkneten und 8 fingerlange Röllchen formen.",
+      "Für den Djuvec-Reis die restliche Zwiebel und gewürfelte Paprika in 5 g Olivenöl 3 Minuten anbraten. Reis, Tomatenmark und Paprikapulver unterrühren, 200 ml Wasser zugießen und zugedeckt 15 Minuten garen. Erbsen in den letzten 3 Minuten zugeben.",
+      "Ćevapčići im restlichen Öl 8 Minuten rundum braten, bis sie durchgegart sind.",
+      "Ćevapčići mit dem Djuvec-Reis und dem Ajvar servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "low-gi"
+    ],
+    "allergens": [
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_6008",
+    "title": "Hähnchenschenkel-Ofenreis mit Kichererbsen, Zitrone und Spinat",
+    "calories": 730,
+    "protein": 55,
+    "carbs": 71,
+    "fiber": 10,
+    "fat": 25,
+    "servingSizeGrams": 700,
+    "prepTimeMinutes": 55,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6008_d32_haehnchenschenkel_ofenreis_kichererbsen_zitrone_spinat.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenschenkel (ohne Haut, ohne Knochen)",
+        "amount": "200g"
+      },
+      {
+        "name": "Vollkornreis (ungekocht)",
+        "amount": "60g"
+      },
+      {
+        "name": "Kichererbsen (gegart, abgetropft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": "250 ml"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Zitrone",
+        "amount": "1/2 Stück"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Paprikapulver, Oregano, Kurkuma",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 200 °C vorheizen. Hähnchenschenkel mit 5 g Olivenöl, Paprikapulver, Oregano, Salz und Pfeffer einreiben.",
+      "Zwiebel und Knoblauch hacken und im restlichen Öl in einer ofenfesten Pfanne 3 Minuten andünsten. Vollkornreis, Kurkuma und Kichererbsen unterrühren, Gemüsebrühe angießen und aufkochen.",
+      "Hähnchenschenkel und Zitronenscheiben darauflegen und abgedeckt 30 Minuten, dann offen 10 Minuten im Ofen garen, bis der Reis weich und das Hähnchen durchgegart ist.",
+      "Babyspinat unter den heißen Reis heben und kurz zusammenfallen lassen."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_6009",
+    "title": "Seitan-Pfeffersteak mit Kartoffelpüree und grünen Bohnen",
+    "calories": 685,
+    "protein": 62,
+    "carbs": 64,
+    "fiber": 13,
+    "fat": 21,
+    "servingSizeGrams": 760,
+    "prepTimeMinutes": 35,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6009_d32_seitan_pfeffersteak_kartoffelpueree_gruene_bohnen.jpg",
+    "ingredients": [
+      {
+        "name": "Seitan (natur)",
+        "amount": "200g"
+      },
+      {
+        "name": "Kartoffeln (mehligkochend)",
+        "amount": "300g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "80 ml"
+      },
+      {
+        "name": "Grüne Bohnen",
+        "amount": "150g"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Tamari (glutenfrei)",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Pfeffer (grob geschrotet)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Muskat",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln schälen, würfeln und in Salzwasser 18 Minuten weich kochen. Abgießen, mit dem warmen Sojadrink, 5 g Rapsöl, Muskat und Salz zu Püree stampfen.",
+      "Grüne Bohnen in Salzwasser 6 Minuten garen und abgießen.",
+      "Seitan in 2 dicke Scheiben schneiden, mit Tamari bestreichen und von beiden Seiten in den geschroteten Pfeffer drücken. Im restlichen Öl je Seite 3 Minuten kräftig braun braten.",
+      "Seitan-Steaks mit Kartoffelpüree und grünen Bohnen anrichten."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_6010",
+    "title": "Kabeljau auf Senf-Linsen mit Petersilienkartoffeln",
+    "calories": 685,
+    "protein": 56,
+    "carbs": 68,
+    "fiber": 13,
+    "fat": 18,
+    "servingSizeGrams": 685,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6010_d32_kabeljau_senf_linsen_petersilienkartoffeln.jpg",
+    "ingredients": [
+      {
+        "name": "Kabeljaufilet",
+        "amount": "200g"
+      },
+      {
+        "name": "Berglinsen (trocken)",
+        "amount": "60g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "250 ml"
+      },
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "200g"
+      },
+      {
+        "name": "Karotte",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1/2"
+      },
+      {
+        "name": "Senf (mittelscharf)",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Petersilie, Lorbeer",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Karotte fein würfeln und in 5 g Olivenöl 3 Minuten andünsten. Berglinsen und Lorbeer zugeben, 250 ml Wasser angießen und offen 25 Minuten köcheln, bis die Linsen weich sind.",
+      "Kartoffeln schälen, in Salzwasser 20 Minuten garen, abgießen und mit gehackter Petersilie und 5 g Olivenöl schwenken.",
+      "Kabeljaufilet salzen und im restlichen Öl je Seite 3 Minuten glasig braten.",
+      "Lorbeer entfernen, Senf unter die Linsen rühren und mit Salz und Pfeffer abschmecken. Linsen auf einen Teller geben, Kabeljau darauflegen und die Kartoffeln dazu servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "pescetarisch"
+    ],
+    "allergens": [
+      "fisch",
+      "senf",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_6011",
+    "title": "Rinderhackbällchen in Tomatensauce mit Vollkornspaghetti und Basilikum",
+    "calories": 820,
+    "protein": 66,
+    "carbs": 74,
+    "fiber": 12,
+    "fat": 28,
+    "servingSizeGrams": 745,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6011_d32_rinderhackbaellchen_tomatensauce_vollkornspaghetti_basilikum.jpg",
+    "ingredients": [
+      {
+        "name": "Rinderhack (mager)",
+        "amount": "180g"
+      },
+      {
+        "name": "Vollkornspaghetti (ungekocht)",
+        "amount": "90g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "250 ml"
+      },
+      {
+        "name": "Eier",
+        "amount": "1 Stück (Größe M)"
+      },
+      {
+        "name": "Hartkäse (gerieben)",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1/2"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Basilikum, Oregano",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel fein reiben und mit Rinderhack, Ei, Oregano, Salz und Pfeffer verkneten. 10 kleine Bällchen formen.",
+      "Hackbällchen im Olivenöl 5 Minuten rundum anbraten. Knoblauch hacken, zugeben, mit den passierten Tomaten ablöschen und zugedeckt 12 Minuten köcheln lassen.",
+      "Vollkornspaghetti in Salzwasser 10 Minuten bissfest kochen und abgießen.",
+      "Spaghetti mit Hackbällchen und Sauce anrichten, mit Hartkäse und Basilikum bestreuen."
+    ],
+    "dietTags": [
+      "high-protein",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_6012",
+    "title": "Cremige Hüttenkäse-Tomaten-Pasta mit weißen Bohnen und Spinat",
+    "calories": 745,
+    "protein": 54,
+    "carbs": 93,
+    "fiber": 18,
+    "fat": 16,
+    "servingSizeGrams": 755,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6012_d32_cremige_huettenkaese_tomaten_pasta_weisse_bohnen_spinat.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkorn-Penne (ungekocht)",
+        "amount": "100g"
+      },
+      {
+        "name": "Hüttenkäse",
+        "amount": "200g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "150 ml"
+      },
+      {
+        "name": "Weiße Bohnen (gekocht)",
+        "amount": "100g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Hartkäse (vegetarisch, gerieben)",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Chiliflocken, Basilikum",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Vollkorn-Penne in Salzwasser 11 Minuten bissfest kochen und abgießen.",
+      "Hüttenkäse mit passierten Tomaten, Knoblauch, der Hälfte des Hartkäses und Chiliflocken im Mixer vollkommen glatt pürieren.",
+      "Weiße Bohnen im Olivenöl 2 Minuten anbraten, die Sauce zugießen und unter Rühren 3 Minuten erhitzen, ohne sie kochen zu lassen. Babyspinat und Penne unterheben, bis der Spinat zusammenfällt.",
+      "Mit Salz und Pfeffer abschmecken, mit dem restlichen Hartkäse und Basilikum bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "high-protein",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_6013",
+    "title": "Himbeer-Haferkleie-Bowl mit Soja-Skyr und Leinsamen",
+    "calories": 380,
+    "protein": 24,
+    "carbs": 22,
+    "fiber": 16,
+    "fat": 18,
+    "servingSizeGrams": 345,
+    "prepTimeMinutes": 5,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6013_d32_himbeer_haferkleie_bowl_soja_skyr_leinsamen.jpg",
+    "ingredients": [
+      {
+        "name": "Soja-Skyr (natur)",
+        "amount": "200g"
+      },
+      {
+        "name": "Haferkleie",
+        "amount": "2 1/2 EL"
+      },
+      {
+        "name": "Himbeeren",
+        "amount": "100g"
+      },
+      {
+        "name": "Mandelmus",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Leinsamen (geschrotet)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Vanille",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Soja-Skyr mit Vanille glatt rühren und in eine Schale geben.",
+      "Haferkleie und geschrotete Leinsamen darüberstreuen und 2 Minuten quellen lassen.",
+      "Himbeeren leicht andrücken, auf der Bowl verteilen und das Mandelmus in Streifen darüberziehen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_6014",
+    "title": "Zwetschgen-Overnight-Oats mit Chia und Sojajoghurt",
+    "calories": 405,
+    "protein": 19,
+    "carbs": 46,
+    "fiber": 13,
+    "fat": 13,
+    "servingSizeGrams": 430,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6014_d32_zwetschgen_overnight_oats_chia_sojajoghurt.jpg",
+    "ingredients": [
+      {
+        "name": "Haferflocken (kernig)",
+        "amount": "5 EL"
+      },
+      {
+        "name": "Chiasamen",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "150g"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "100 ml"
+      },
+      {
+        "name": "Zwetschgen",
+        "amount": "4 Stück"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Haferflocken, Chiasamen, Zimt, Sojajoghurt und Sojadrink in einem Glas verrühren.",
+      "Das Glas verschließen und über Nacht, mindestens 6 Stunden, in den Kühlschrank stellen.",
+      "Zwetschgen entsteinen, in Spalten schneiden und morgens auf den Oats verteilen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "dash",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_6015",
+    "title": "Weiße-Bohnen-Toast mit Tomate, Rucola und Avocado",
+    "calories": 420,
+    "protein": 18,
+    "carbs": 58,
+    "fiber": 18,
+    "fat": 11,
+    "servingSizeGrams": 385,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6015_d32_weisse_bohnen_toast_tomate_rucola_avocado.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornbrot",
+        "amount": "2 Scheiben"
+      },
+      {
+        "name": "Weiße Bohnen (gekocht)",
+        "amount": "120g"
+      },
+      {
+        "name": "Tomaten",
+        "amount": "1 große"
+      },
+      {
+        "name": "Avocado",
+        "amount": "1/4 Stück"
+      },
+      {
+        "name": "Rucola",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Chiliflocken",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Vollkornbrot toasten. Weiße Bohnen mit Zitronensaft, Olivenöl, Salz und Pfeffer grob zerdrücken.",
+      "Bohnenmus auf die beiden Brotscheiben streichen. Tomate in Scheiben und Avocado in dünne Spalten schneiden und darauflegen.",
+      "Mit Rucola und Chiliflocken belegen und sofort essen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_6016",
+    "title": "Herzhafter Spinat-Erbsen-Porridge mit Feta und Kürbiskernen",
+    "calories": 390,
+    "protein": 20,
+    "carbs": 38,
+    "fiber": 11,
+    "fat": 15,
+    "servingSizeGrams": 420,
+    "prepTimeMinutes": 15,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6016_d32_herzhafter_spinat_erbsen_porridge_feta_kuerbiskerne.jpg",
+    "ingredients": [
+      {
+        "name": "Haferflocken (zart)",
+        "amount": "5 EL"
+      },
+      {
+        "name": "Wasser",
+        "amount": "200 ml"
+      },
+      {
+        "name": "Erbsen (TK)",
+        "amount": "80g"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Feta (mit mikrobiellem Lab)",
+        "amount": "30g"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Muskat, Chiliflocken",
+        "amount": "1 Prise"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Haferflocken mit 200 ml Wasser und einer Prise Salz aufkochen und unter Rühren 3 Minuten köcheln.",
+      "Erbsen zugeben und 2 Minuten mitgaren. Babyspinat unterrühren, bis er zusammenfällt, und mit Muskat und Pfeffer abschmecken.",
+      "Porridge in eine Schale füllen, Feta darüberbröckeln und mit Kürbiskernen und Chiliflocken bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "ballaststoffreich",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_6017",
+    "title": "Apfel-Karotten-Bircher mit Haferkleie und Walnüssen",
+    "calories": 385,
+    "protein": 15,
+    "carbs": 47,
+    "fiber": 12,
+    "fat": 13,
+    "servingSizeGrams": 390,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6017_d32_apfel_karotten_bircher_haferkleie_walnuesse.jpg",
+    "ingredients": [
+      {
+        "name": "Haferflocken (zart)",
+        "amount": "3 EL"
+      },
+      {
+        "name": "Haferkleie",
+        "amount": "1 1/2 EL"
+      },
+      {
+        "name": "Sojajoghurt (natur, ungesüßt)",
+        "amount": "150g"
+      },
+      {
+        "name": "Apfel",
+        "amount": "1 kleiner"
+      },
+      {
+        "name": "Karotte",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Walnüsse",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Zimt",
+        "amount": "1/2 TL"
+      }
+    ],
+    "instructions": [
+      "Apfel und Karotte grob raspeln und sofort mit dem Zitronensaft mischen.",
+      "Haferflocken, Haferkleie, Zimt und Sojajoghurt unterrühren und 5 Minuten quellen lassen.",
+      "Walnüsse grob hacken und über das Bircher streuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "dash",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "schalenfruechte",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_6018",
+    "title": "Schwarze-Bohnen-Frühstücks-Quesadilla mit Paprika und Tomatensalsa",
+    "calories": 350,
+    "protein": 21,
+    "carbs": 49,
+    "fiber": 14,
+    "fat": 6,
+    "servingSizeGrams": 320,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6018_d32_schwarze_bohnen_fruehstuecks_quesadilla_paprika_tomatensalsa.jpg",
+    "ingredients": [
+      {
+        "name": "Vollkornwrap",
+        "amount": "1 großer"
+      },
+      {
+        "name": "Schwarze Bohnen (gekocht)",
+        "amount": "100g"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "1/2 kleine"
+      },
+      {
+        "name": "Käse (light, gerieben)",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Tomaten",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kreuzkümmel, Koriander",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Schwarze Bohnen mit Kreuzkümmel und einer Prise Salz grob zerdrücken. Paprika fein würfeln.",
+      "Bohnenmus auf eine Hälfte des Vollkornwraps streichen, mit Paprika und Käse bestreuen und zuklappen. In einer trockenen Pfanne je Seite 2 Minuten goldbraun braten, bis der Käse schmilzt.",
+      "Tomate fein würfeln und mit Limettensaft, Koriander und Salz zu einer Salsa mischen. Quesadilla halbieren und mit der Salsa servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "kalorienarm",
+      "ballaststoffreich",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "gluten",
+      "milch"
+    ]
+  },
+  {
+    "id": "rec_6019",
+    "title": "Kakao-Chia-Pudding mit Birne und Hanfsamen",
+    "calories": 380,
+    "protein": 24,
+    "carbs": 23,
+    "fiber": 15,
+    "fat": 18,
+    "servingSizeGrams": 370,
+    "prepTimeMinutes": 10,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6019_d32_kakao_chia_pudding_birne_hanfsamen.jpg",
+    "ingredients": [
+      {
+        "name": "Chiasamen",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Sojadrink (ungesüßt)",
+        "amount": "200 ml"
+      },
+      {
+        "name": "Backkakao (ungesüßt)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Sojaprotein (ungesüßt)",
+        "amount": "10g"
+      },
+      {
+        "name": "Birne",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Hanfsamen (geschält)",
+        "amount": "1 EL"
+      }
+    ],
+    "instructions": [
+      "Sojadrink mit Backkakao und Sojaprotein klümpchenfrei verquirlen und die Chiasamen einrühren.",
+      "Nach 5 Minuten noch einmal umrühren und abgedeckt über Nacht, mindestens 4 Stunden, im Kühlschrank quellen lassen.",
+      "Birne in kleine Würfel schneiden und mit den Hanfsamen auf dem Pudding verteilen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "glutenfrei",
+      "laktosefrei",
+      "ballaststoffreich",
+      "dash",
+      "low-gi",
+      "quick-win"
+    ],
+    "allergens": [
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_6020",
+    "title": "Frühstücks-Linsen mit Tomaten, Spinat und pochiertem Ei",
+    "calories": 450,
+    "protein": 26,
+    "carbs": 53,
+    "fiber": 13,
+    "fat": 12,
+    "servingSizeGrams": 480,
+    "prepTimeMinutes": 30,
+    "suitableMealTypes": [
+      "breakfast"
+    ],
+    "timeOfDay": [
+      "morning"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6020_d32_fruehstuecks_linsen_tomaten_spinat_pochiertes_ei.jpg",
+    "ingredients": [
+      {
+        "name": "Berglinsen (trocken)",
+        "amount": "50g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "200 ml"
+      },
+      {
+        "name": "Tomaten",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Eier",
+        "amount": "1 Stück (Größe M)"
+      },
+      {
+        "name": "Vollkornbrot",
+        "amount": "1 Scheibe"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1/4"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Kreuzkümmel, Paprikapulver (geräuchert)",
+        "amount": "1/2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel fein würfeln und im Olivenöl 3 Minuten andünsten. Berglinsen, Kreuzkümmel und Paprikapulver zugeben, 200 ml Wasser angießen und offen 20 Minuten köcheln.",
+      "Tomaten würfeln, zugeben und 5 Minuten mitköcheln, bis die Linsen weich sind. Babyspinat unterrühren und mit Salz und Pfeffer abschmecken.",
+      "Das Ei in siedendem Wasser 4 Minuten pochieren und mit einem Schaumlöffel herausheben.",
+      "Linsen in eine Schale geben, das pochierte Ei daraufsetzen und mit getoastetem Vollkornbrot servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran"
+    ],
+    "allergens": [
+      "gluten",
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_6021",
+    "title": "Rinder-Madras-Curry mit Kartoffeln und Spinat",
+    "calories": 540,
+    "protein": 44,
+    "carbs": 52,
+    "fiber": 10,
+    "fat": 16,
+    "servingSizeGrams": 705,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6021_d32_rinder_madras_curry_kartoffeln_spinat.jpg",
+    "ingredients": [
+      {
+        "name": "Rindfleisch (Hüfte, mager)",
+        "amount": "160g"
+      },
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "3 kleine"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Ingwer (frisch)",
+        "amount": "1 cm"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": "150 ml"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "2 Handvoll"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Madras-Currypulver, Chilipulver, Kreuzkümmel",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln schälen, in 2 cm große Würfel schneiden und in Salzwasser 10 Minuten vorgaren, dann abgießen.",
+      "Rindfleisch quer zur Faser in dünne Streifen schneiden. Zwiebel würfeln, Knoblauch und Ingwer fein reiben. Rindfleisch im Rapsöl in einer heißen Pfanne 2 Minuten scharf anbraten und herausnehmen.",
+      "Zwiebel im Bratfett 4 Minuten anbraten. Knoblauch, Ingwer, Madras-Currypulver, Chilipulver, Kreuzkümmel und Tomatenmark 1 Minute mitrösten. Passierte Tomaten und Kartoffeln zugeben und offen 12 Minuten köcheln lassen, bis die Kartoffeln weich sind.",
+      "Rindfleisch und Babyspinat unterrühren und 2 Minuten ziehen lassen, bis der Spinat zusammenfällt und das Fleisch durchgegart ist. Mit Salz und Pfeffer abschmecken und heiß servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "laktosefrei",
+      "high-protein",
+      "ballaststoffreich"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "rec_6022",
+    "title": "Huevos rotos mit Ofenkartoffeln, Paprika und Spinat",
+    "calories": 485,
+    "protein": 22,
+    "carbs": 45,
+    "fiber": 8,
+    "fat": 23,
+    "servingSizeGrams": 535,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6022_d32_huevos_rotos_ofenkartoffeln_paprika_spinat.jpg",
+    "ingredients": [
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "250g"
+      },
+      {
+        "name": "Eier",
+        "amount": "2 Stück (Größe M)"
+      },
+      {
+        "name": "Paprika (rot)",
+        "amount": "1 kleine"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": "1 Handvoll"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Paprikapulver (geräuchert)",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Backofen auf 220 °C vorheizen. Kartoffeln in dünne Spalten schneiden, mit 8 g Olivenöl, Paprikapulver und Salz mischen und 25 Minuten goldbraun backen.",
+      "Paprika in Streifen schneiden, Knoblauch hacken und beides im restlichen Öl 4 Minuten braten. Babyspinat zugeben und zusammenfallen lassen.",
+      "Gemüse herausnehmen und die Eier in derselben Pfanne 3 Minuten als Spiegeleier braten, sodass das Eigelb flüssig bleibt.",
+      "Kartoffeln und Gemüse auf einen Teller geben, die Spiegeleier darauflegen und mit einer Gabel aufbrechen, sodass das Eigelb über die Kartoffeln läuft. Pfeffern."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "glutenfrei",
+      "laktosefrei",
+      "mediterran"
+    ],
+    "allergens": [
+      "ei"
+    ]
+  },
+  {
+    "id": "rec_6023",
+    "title": "Pad See Ew mit Hähnchen, Pak Choi und Ei",
+    "calories": 565,
+    "protein": 42,
+    "carbs": 61,
+    "fiber": 3,
+    "fat": 16,
+    "servingSizeGrams": 525,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6023_d32_pad_see_ew_haehnchen_pak_choi_ei.jpg",
+    "ingredients": [
+      {
+        "name": "Breite Reisnudeln (ungekocht)",
+        "amount": "70g"
+      },
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "120g"
+      },
+      {
+        "name": "Eier",
+        "amount": "1 Stück (Größe M)"
+      },
+      {
+        "name": "Pak Choi",
+        "amount": "1 großer"
+      },
+      {
+        "name": "Sojasauce (hell und dunkel)",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Rapsöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Pfeffer (weiß)",
+        "amount": "1 Prise"
+      }
+    ],
+    "instructions": [
+      "Breite Reisnudeln nach Packungsangabe 8 Minuten in heißem Wasser einweichen und abtropfen lassen.",
+      "Hähnchenbrustfilet in dünne Scheiben schneiden. Pak Choi in Stiele und Blätter teilen und in Stücke schneiden. Knoblauch hacken.",
+      "Rapsöl im Wok stark erhitzen, Knoblauch und Hähnchen 3 Minuten braten, Pak-Choi-Stiele zugeben und 1 Minute mitbraten. Alles an den Rand schieben, das Ei in die Mitte schlagen und 30 Sekunden stocken lassen, dann zerteilen.",
+      "Nudeln, Pak-Choi-Blätter und Sojasauce zugeben und 2 Minuten bei starker Hitze schwenken, bis die Nudeln leicht karamellisieren. Mit weißem Pfeffer würzen."
+    ],
+    "dietTags": [
+      "laktosefrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "gluten",
+      "ei",
+      "soja"
+    ]
+  },
+  {
+    "id": "rec_6024",
+    "title": "Warmer Gnocchi-Salat mit Grünkohl, weißen Bohnen und Hartkäse",
+    "calories": 595,
+    "protein": 25,
+    "carbs": 83,
+    "fiber": 14,
+    "fat": 17,
+    "servingSizeGrams": 520,
+    "prepTimeMinutes": 25,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6024_d32_warmer_gnocchi_salat_gruenkohl_weisse_bohnen_hartkaese.jpg",
+    "ingredients": [
+      {
+        "name": "Gnocchi (Kühlregal)",
+        "amount": "200g"
+      },
+      {
+        "name": "Grünkohl (gezupft)",
+        "amount": "100g"
+      },
+      {
+        "name": "Weiße Bohnen (gekocht)",
+        "amount": "100g"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": "6 Stück"
+      },
+      {
+        "name": "Hartkäse (vegetarisch, gehobelt)",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "1 Zehe"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Gnocchi in 5 g Olivenöl 6 Minuten rundum goldbraun braten und herausnehmen.",
+      "Grünkohl klein zupfen, Knoblauch hacken und beides im restlichen Öl 3 Minuten braten, bis der Grünkohl zusammenfällt. Weiße Bohnen und halbierte Kirschtomaten zugeben und 2 Minuten erwärmen.",
+      "Gnocchi unterheben, mit Zitronensaft, Salz und Pfeffer abschmecken und mit gehobeltem Hartkäse bestreut lauwarm servieren."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "ballaststoffreich"
+    ],
+    "allergens": [
+      "gluten",
+      "milch",
+      "sulfite"
+    ]
+  },
+  {
+    "id": "rec_6025",
+    "title": "Zeytinyağlı Karnabahar – Blumenkohl in Olivenöl mit Karotten, Kichererbsen und Bulgur",
+    "calories": 475,
+    "protein": 17,
+    "carbs": 57,
+    "fiber": 19,
+    "fat": 19,
+    "servingSizeGrams": 675,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "timeOfDay": [
+      "noon",
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6025_d32_zeytinyagli_karnabahar_blumenkohl_karotten_kichererbsen_bulgur.jpg",
+    "ingredients": [
+      {
+        "name": "Blumenkohl",
+        "amount": "1/4 Kopf"
+      },
+      {
+        "name": "Karotte",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Kichererbsen (gegart, abgetropft)",
+        "amount": "80g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1/2"
+      },
+      {
+        "name": "Bulgur (ungekocht)",
+        "amount": "40g"
+      },
+      {
+        "name": "Wasser",
+        "amount": "180 ml"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Dill",
+        "amount": "1 EL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Zwiebel würfeln und in 10 g Olivenöl 3 Minuten glasig dünsten. Karotte in Scheiben schneiden, Blumenkohl in Röschen teilen und beides mit den Kichererbsen zugeben.",
+      "100 ml Wasser und etwas Salz zugeben und zugedeckt bei kleiner Hitze 20 Minuten schmoren, bis der Blumenkohl weich ist. Mit Zitronensaft abschmecken.",
+      "Bulgur mit 80 ml heißem Wasser und dem restlichen Öl übergießen und zugedeckt 10 Minuten quellen lassen.",
+      "Gemüse lauwarm mit dem Bulgur anrichten und mit Dill bestreuen."
+    ],
+    "dietTags": [
+      "vegetarisch",
+      "vegan",
+      "laktosefrei",
+      "ballaststoffreich",
+      "mediterran",
+      "low-gi"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "rec_6026",
+    "title": "Chkmeruli – Georgisches Knoblauch-Hähnchen in Milchsauce mit Kartoffeln",
+    "calories": 580,
+    "protein": 49,
+    "carbs": 39,
+    "fiber": 4,
+    "fat": 25,
+    "servingSizeGrams": 545,
+    "prepTimeMinutes": 40,
+    "suitableMealTypes": [
+      "dinner"
+    ],
+    "timeOfDay": [
+      "evening"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/HealthUp1123/healthup-recipes/main/images/rec_6026_d32_chkmeruli_georgisches_knoblauch_haehnchen_milchsauce_kartoffeln.jpg",
+    "ingredients": [
+      {
+        "name": "Hähnchenschenkel (ohne Haut, ohne Knochen)",
+        "amount": "200g"
+      },
+      {
+        "name": "Milch (1,5 %)",
+        "amount": "100 ml"
+      },
+      {
+        "name": "Sahne (30 %)",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": "3 Zehen"
+      },
+      {
+        "name": "Kartoffeln (festkochend)",
+        "amount": "200g"
+      },
+      {
+        "name": "Butter",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Koriander, Bockshornklee",
+        "amount": "1 TL"
+      },
+      {
+        "name": "Salz, Pfeffer",
+        "amount": "nach Geschmack"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln schälen, in Salzwasser 20 Minuten garen und abgießen.",
+      "Hähnchenschenkel salzen und in der Butter in einer kleinen ofenfesten Pfanne je Seite 5 Minuten goldbraun braten.",
+      "Knoblauch fein reiben und mit Milch, Sahne, Bockshornklee und Pfeffer verrühren. Über das Hähnchen gießen und offen 10 Minuten sanft köcheln, bis die Sauce leicht eindickt und das Hähnchen durchgegart ist.",
+      "Mit gehacktem Koriander bestreuen und mit den Kartoffeln servieren."
+    ],
+    "dietTags": [
+      "glutenfrei",
+      "high-protein"
+    ],
+    "allergens": [
+      "milch"
+    ]
   }
 ]
